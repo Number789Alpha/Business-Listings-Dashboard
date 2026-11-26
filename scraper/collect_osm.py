@@ -3,143 +3,238 @@ import requests
 import pandas as pd
 import time
 from pathlib import Path
+from datetime import datetime, timezone
 
-# Indian cities and their approximate coordinates
-CITIES = {
-    "Gwalior": (26.2183, 78.1828),
-    "Delhi": (28.6139, 77.2090),
-    "Jaipur": (26.9124, 75.7873),
-    "Agra": (27.1767, 78.0081),
-    "Bhopal": (23.2599, 77.4126),
-    "Indore": (22.7196, 75.8577)
-}
+# -----------------------------------------
+# 1. CONFIGURATION
+# -----------------------------------------
 
 OVERPASS_URL = "https://overpass-api.de/api/interpreter"
 
 HEADERS = {
-    "User-Agent": "BusinessListingsDashboard/1.0 (educational project)"
+    "User-Agent": "BusinessListingsDashboard/2.0 (educational project)"
 }
 
-def collect_city_data(city, latitude, longitude):
+STATE_NAME = "Madhya Pradesh"
+STATE_AREA_ID = 3601950071
 
-    print(f"\nCollecting businesses from {city}...")
+OUTPUT_FOLDER = Path("data/india_raw")
+OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
 
-    business_tags = ["amenity", "shop", "office", "tourism", "craft", "leisure"]
+# Start with a small business category for testing
+BUSINESS_TAG = "amenity"
+BUSINESS_VALUES = [
+    "restaurant",
+    "cafe",
+    "fast_food"
+]
 
-    query_parts = [
-        f'nwr(around:20000,{latitude},{longitude})["name"]["{tag}"];'
-        for tag in business_tags
-    ]
+
+# -----------------------------------------
+# 2. BUILD OVERPASS QUERY
+# -----------------------------------------
+
+def build_query():
+
+    values = "|".join(BUSINESS_VALUES)
 
     query = f"""
-    [out:json][timeout:90];
+    [out:json][timeout:120];
+
+    area({STATE_AREA_ID})->.state;
+
     (
-        {"".join(query_parts)}
+        nwr["name"]["{BUSINESS_TAG}"~"^({values})$"](area.state);
     );
+
     out center tags;
     """
 
-    response = requests.post(
-        OVERPASS_URL,
-        data={"data": query},
-        headers=HEADERS,
-        timeout=180
-    )
-
-    response.raise_for_status()
-    elements = response.json().get("elements", [])
-
-    city_records = []
-
-    for element in elements:
-
-        tags = element.get("tags", {})
-
-        business_name = tags.get("name")
-
-        if not business_name:
-            continue
-
-        category = next(
-            (tags[tag] for tag in business_tags if tags.get(tag)),
-            "Other"
-        )
-
-        address_parts = [
-            tags.get("addr:housenumber"),
-            tags.get("addr:street"),
-            tags.get("addr:suburb"),
-            tags.get("addr:postcode")
-        ]
-
-        address = ", ".join(
-            str(part) for part in address_parts if part
-        )
-
-        phone = tags.get("phone") or tags.get("contact:phone")
-
-        city_records.append({
-            "business_name": business_name,
-            "category": category,
-            "city": city,
-            "address": address,
-            "phone": phone,
-            "source": "OpenStreetMap"
-        })
-
-    print(f"Collected {len(city_records)} records from {city}")
-
-    return city_records
+    return query
 
 
-def main():
+# -----------------------------------------
+# 3. COLLECT BUSINESS DATA
+# -----------------------------------------
 
-    all_records = []
+def collect_businesses():
 
-    for city, coordinates in CITIES.items():
+    print(f"\nCollecting businesses from {STATE_NAME}...")
+
+    query = build_query()
+
+    for attempt in range(1, 4):
 
         try:
-            records = collect_city_data(city, *coordinates)
-            all_records.extend(records)
 
-            # Avoid sending requests too frequently
-            time.sleep(5)
+            print(f"Request attempt: {attempt}")
+
+            response = requests.post(
+                OVERPASS_URL,
+                data={"data": query},
+                headers=HEADERS,
+                timeout=180
+            )
+
+            response.raise_for_status()
+
+            elements = response.json().get("elements", [])
+
+            print(f"OSM elements received: {len(elements)}")
+
+            records = []
+
+            for element in elements:
+
+                tags = element.get("tags", {})
+
+                business_name = tags.get("name")
+
+                if not business_name:
+                    continue
+
+                # Extract coordinates
+                latitude = element.get("lat")
+                longitude = element.get("lon")
+
+                if latitude is None or longitude is None:
+                    center = element.get("center", {})
+                    latitude = center.get("lat")
+                    longitude = center.get("lon")
+
+                # Extract available address information
+                address_parts = [
+                    tags.get("addr:housenumber"),
+                    tags.get("addr:street"),
+                    tags.get("addr:suburb"),
+                    tags.get("addr:postcode")
+                ]
+
+                address = ", ".join(
+                    str(part)
+                    for part in address_parts
+                    if part
+                )
+
+                # Extract available geographical details
+                city = (
+                    tags.get("addr:city")
+                    or tags.get("addr:town")
+                    or tags.get("addr:village")
+                    or tags.get("addr:municipality")
+                )
+
+                district = (
+                    tags.get("addr:district")
+                    or tags.get("addr:county")
+                )
+
+                records.append({
+
+                    "business_name": business_name,
+
+                    "category": tags.get(BUSINESS_TAG, "Uncategorized"),
+
+                    "state": STATE_NAME,
+
+                    "district": district,
+
+                    "city": city,
+
+                    "address": address,
+
+                    "phone": (
+                        tags.get("phone")
+                        or tags.get("contact:phone")
+                    ),
+
+                    "latitude": latitude,
+
+                    "longitude": longitude,
+
+                    "source": "OpenStreetMap",
+
+                    "osm_type": element.get("type"),
+
+                    "osm_id": element.get("id")
+
+                })
+
+            return records
 
         except requests.RequestException as error:
-            print(f"Could not collect data from {city}: {error}")
 
-        except Exception as error:
-            print(f"Unexpected error for {city}: {error}")
+            print(f"Request failed: {error}")
 
-    # Remove duplicate business records
-    df = pd.DataFrame(all_records)
+            if attempt < 3:
+                wait_time = 15 * attempt
+                print(f"Waiting {wait_time} seconds before retry...")
+                time.sleep(wait_time)
 
-    if df.empty:
-        print("\nNo records collected. Please try again later.")
+        except ValueError as error:
+
+            print(f"Could not read API response: {error}")
+            break
+
+    return []
+
+
+# -----------------------------------------
+# 4. SAVE RAW DATA
+# -----------------------------------------
+
+def save_data(records):
+
+    if not records:
+
+        print("\nNo business records collected.")
         return
 
+    df = pd.DataFrame(records)
+
+    # Remove repeated OSM objects
     df.drop_duplicates(
-        subset=["business_name", "city", "address"],
+        subset=["osm_type", "osm_id"],
         inplace=True
     )
 
-    output_folder = Path("data/raw")
-    output_folder.mkdir(parents=True, exist_ok=True)
-
-    output_file = output_folder / "osm_business_listings_raw.csv"
+    # Keep a separate file for this state and category
+    output_file = (
+        OUTPUT_FOLDER
+        / "madhya_pradesh_restaurants_raw.csv"
+    )
 
     df.to_csv(output_file, index=False)
 
     print("\n========== COLLECTION SUMMARY ==========")
-    print(f"Total unique records: {len(df)}")
-    print(f"Cities covered: {df['city'].nunique()}")
-    print(f"Saved file: {output_file.resolve()}")
+
+    print("State:", STATE_NAME)
+
+    print("Total records:", len(df))
+
+    print("Categories:", df["category"].nunique())
+
+    print("Cities with tagged addresses:", df["city"].nunique())
+
+    print("Districts with tagged addresses:", df["district"].nunique())
+
+    print("Collection time (UTC):", datetime.now(timezone.utc).isoformat())
+
+    print("Saved file:", output_file.resolve())
+
     print("=========================================")
 
-    if len(df) >= 500:
-        print("SUCCESS: Target of 500+ records achieved!")
-    else:
-        print("Target not reached yet. We may need additional collection.")
+
+# -----------------------------------------
+# 5. MAIN FUNCTION
+# -----------------------------------------
+
+def main():
+
+    records = collect_businesses()
+
+    save_data(records)
+
 
 if __name__ == "__main__":
     main()

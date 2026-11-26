@@ -1,0 +1,71 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+NERIST Students' Canteen,restaurant,Arunachal Pradesh,,,,,27.1298457,93.7437731,OpenStreetMap,node,1690041486,2026-11-26T07:17:45.314891+00:00
+Sangrilla Restaurant,restaurant,Arunachal Pradesh,,,,,28.0609812,95.331943,OpenStreetMap,node,4662601780,2026-11-26T07:17:45.314912+00:00
+My Kitchen,restaurant,Arunachal Pradesh,,,,,28.0580462,95.3326779,OpenStreetMap,node,4662630680,2026-11-26T07:17:45.314918+00:00
+Hopak restaurant,fast_food,Arunachal Pradesh,,,,,27.6668923,95.859798,OpenStreetMap,node,5187591933,2026-11-26T07:17:45.314926+00:00
+Atta Restaurant,fast_food,Arunachal Pradesh,,,,,28.7972321,95.9026437,OpenStreetMap,node,5187607439,2026-11-26T07:17:45.314930+00:00
+Maa Durga Restaurant,restaurant,Arunachal Pradesh,,,,,27.5930695,91.8728536,OpenStreetMap,node,5304778321,2026-11-26T07:17:45.314934+00:00
+Yangchen restaurant,restaurant,Arunachal Pradesh,,,,,28.0588742,95.3319108,OpenStreetMap,node,5333131336,2026-11-26T07:17:45.314938+00:00
+Simon Line Hotel,restaurant,Arunachal Pradesh,,,,,27.7319891,93.9838593,OpenStreetMap,node,6872627386,2026-11-26T07:17:45.314943+00:00
+Lhasa restaurant,restaurant,Arunachal Pradesh,,,,,28.1693905,94.7976584,OpenStreetMap,node,6897138786,2026-11-26T07:17:45.314947+00:00
+Babylon restaurant,restaurant,Arunachal Pradesh,,,,,28.1751512,94.8016682,OpenStreetMap,node,6897141585,2026-11-26T07:17:45.314950+00:00
+Indian Chapati Restaurant,restaurant,Arunachal Pradesh,,,,,28.1706081,94.7977389,OpenStreetMap,node,6897144086,2026-11-26T07:17:45.314954+00:00
+Ms. RD restaurant,restaurant,Arunachal Pradesh,,,,,28.1692061,94.7984765,OpenStreetMap,node,6897190785,2026-11-26T07:17:45.314957+00:00
+Lakpa restaurant,restaurant,Arunachal Pradesh,,,,,28.6007293,94.1337404,OpenStreetMap,node,6912376887,2026-11-26T07:17:45.314961+00:00
+Sonams restaurant,restaurant,Arunachal Pradesh,,,,,28.6004757,94.1336738,OpenStreetMap,node,6912376888,2026-11-26T07:17:45.314965+00:00
+Lhasa restaurant,restaurant,Arunachal Pradesh,,,,,28.598891,94.1361076,OpenStreetMap,node,6912376889,2026-11-26T07:17:45.314969+00:00
+Snow Land restaurant,restaurant,Arunachal Pradesh,,,,,28.6012828,94.1338982,OpenStreetMap,node,6912471589,2026-11-26T07:17:45.314972+00:00
+Karma Choden Sharjo restaurant,restaurant,Arunachal Pradesh,,,,,28.6000677,94.1340753,OpenStreetMap,node,6912471591,2026-11-26T07:17:45.314975+00:00
+1MB restaurant,restaurant,Arunachal Pradesh,,,,,28.6001274,94.133787,OpenStreetMap,node,6912471592,2026-11-26T07:17:45.314979+00:00
+Yeshi restaurant,restaurant,Arunachal Pradesh,,,,,28.6018345,94.1335009,OpenStreetMap,node,6912471597,2026-11-26T07:17:45.314983+00:00
+Tenjen restaurant,restaurant,Arunachal Pradesh,,,,,28.6018717,94.1332655,OpenStreetMap,node,6912471598,2026-11-26T07:17:45.314986+00:00
+Agam Restaurant,restaurant,Arunachal Pradesh,,,,,28.4161169,94.6776071,OpenStreetMap,node,6912526685,2026-11-26T07:17:45.314990+00:00
+Naksang Restaurant,restaurant,Arunachal Pradesh,,,,,28.4159281,94.67767,OpenStreetMap,node,6912526785,2026-11-26T07:17:45.314994+00:00
+Pene restaurant,restaurant,Arunachal Pradesh,,,,,28.5240276,94.5530011,OpenStreetMap,node,6912527085,2026-11-26T07:17:45.314997+00:00
+Ragyor restaurant,restaurant,Arunachal Pradesh,,,,,28.5989346,94.1328433,OpenStreetMap,node,6912530985,2026-11-26T07:17:45.315001+00:00
+Local roti restaurant,restaurant,Arunachal Pradesh,,,,,27.9810728,94.6892948,OpenStreetMap,node,6917445185,2026-11-26T07:17:45.315005+00:00
+Tashi restaurant,restaurant,Arunachal Pradesh,,,,,27.9821852,94.6890173,OpenStreetMap,node,6917454285,2026-11-26T07:17:45.315009+00:00
+D-Corner,restaurant,Arunachal Pradesh,,,,,27.98179,94.6892549,OpenStreetMap,node,6917471987,2026-11-26T07:17:45.315013+00:00
+JB restaurant & sweets,restaurant,Arunachal Pradesh,,,,,27.9812963,94.6892465,OpenStreetMap,node,6917489885,2026-11-26T07:17:45.315016+00:00
+Annapurna restaurant,restaurant,Arunachal Pradesh,,,,,27.0876676,93.6115672,OpenStreetMap,node,6924401585,2026-11-26T07:17:45.315020+00:00
+Bhutanese family restaurant,restaurant,Arunachal Pradesh,,,,,27.0872604,93.609675,OpenStreetMap,node,6924446485,2026-11-26T07:17:45.315024+00:00
+Hotel Manza,restaurant,Arunachal Pradesh,,,,,27.0878552,93.6127054,OpenStreetMap,node,6926038091,2026-11-26T07:17:45.315028+00:00
+Neetu Hotel,restaurant,Arunachal Pradesh,,,,,27.3331373,93.8222535,OpenStreetMap,node,6926286286,2026-11-26T07:17:45.315031+00:00
+Laxmi hotel & restaurant,restaurant,Arunachal Pradesh,,,,,27.3328799,93.8222138,OpenStreetMap,node,6926286885,2026-11-26T07:17:45.315034+00:00
+Krisna hotel & restaurant,restaurant,Arunachal Pradesh,,,,,27.3334611,93.8223719,OpenStreetMap,node,6926286886,2026-11-26T07:17:45.315038+00:00
+Nass restaurant,restaurant,Arunachal Pradesh,,,,,27.332874,93.8225584,OpenStreetMap,node,6926310085,2026-11-26T07:17:45.315041+00:00
+New Potin restaurant,restaurant,Arunachal Pradesh,,,,,27.333524,93.8223962,OpenStreetMap,node,6926314985,2026-11-26T07:17:45.315044+00:00
+Local paratha restaurant,restaurant,Arunachal Pradesh,,,,,27.5530999,93.8256903,OpenStreetMap,node,6934711185,2026-11-26T07:17:45.315048+00:00
+Puri & fast food,restaurant,Arunachal Pradesh,,,,,27.0867806,93.6101806,OpenStreetMap,node,6938553085,2026-11-26T07:17:45.315051+00:00
+Local Food Rest Stop By Sumo,restaurant,Arunachal Pradesh,,,,,27.0356503,92.1279637,OpenStreetMap,node,6938896885,2026-11-26T07:17:45.315054+00:00
+The Wok House,restaurant,Arunachal Pradesh,,,,,27.263004,92.4231533,OpenStreetMap,node,6942540085,2026-11-26T07:17:45.315058+00:00
+London Bridge restaurant,restaurant,Arunachal Pradesh,,,,,27.4102017,92.2927975,OpenStreetMap,node,6947640785,2026-11-26T07:17:45.315061+00:00
+Joy Guru Restaurant,restaurant,Arunachal Pradesh,,,,,27.3589843,92.241269,OpenStreetMap,node,6947785388,2026-11-26T07:17:45.315065+00:00
+Puri and Milk Tea,restaurant,Arunachal Pradesh,,,,,27.5944168,91.872157,OpenStreetMap,node,6956591087,2026-11-26T07:17:45.315069+00:00
+New Dolma House,restaurant,Arunachal Pradesh,,,,,27.5947497,91.8705544,OpenStreetMap,node,6956622486,2026-11-26T07:17:45.315073+00:00
+Sonam Restaurant,restaurant,Arunachal Pradesh,,,,,27.5944665,91.8717663,OpenStreetMap,node,6959778885,2026-11-26T07:17:45.315078+00:00
+Joyguru,restaurant,Arunachal Pradesh,,,,,27.5943066,91.8694794,OpenStreetMap,node,6959873285,2026-11-26T07:17:45.315081+00:00
+Baba Loknath,restaurant,Arunachal Pradesh,,,,,27.5929689,91.8730324,OpenStreetMap,node,6961250010,2026-11-26T07:17:45.315085+00:00
+Dragon Restaurant,restaurant,Arunachal Pradesh,,,,,27.5948315,91.8702674,OpenStreetMap,node,6961507587,2026-11-26T07:17:45.315089+00:00
+Dharma Coffee House,cafe,Arunachal Pradesh,,,,,27.5942235,91.861083,OpenStreetMap,node,6965461986,2026-11-26T07:17:45.315093+00:00
+Mon Valley,restaurant,Arunachal Pradesh,,,,,27.5934521,91.8725759,OpenStreetMap,node,6970820785,2026-11-26T07:17:45.315096+00:00
+Shangri-La,restaurant,Arunachal Pradesh,,,,,27.3550764,96.0135253,OpenStreetMap,node,10649783017,2026-11-26T07:17:45.315099+00:00
+KFC,fast_food,Arunachal Pradesh,,,,,27.101798,93.6294852,OpenStreetMap,node,10967689166,2026-11-26T07:17:45.315104+00:00
+Sun Rise,cafe,Arunachal Pradesh,,,,,27.1026505,92.5267288,OpenStreetMap,node,11279351369,2026-11-26T07:17:45.315107+00:00
+Pizza Hut,restaurant,Arunachal Pradesh,,,,,27.101316,93.6286586,OpenStreetMap,node,11285725569,2026-11-26T07:17:45.315114+00:00
+Chicago Pizza,restaurant,Arunachal Pradesh,,,,,27.1013743,93.6291679,OpenStreetMap,node,11285725669,2026-11-26T07:17:45.315117+00:00
+YUKI,cafe,Arunachal Pradesh,,,,,27.1004723,93.6228288,OpenStreetMap,node,11286040569,2026-11-26T07:17:45.315120+00:00
+The Decembers,cafe,Arunachal Pradesh,,,,,27.1012207,93.6218367,OpenStreetMap,node,11286043869,2026-11-26T07:17:45.315123+00:00
+Marsang,restaurant,Arunachal Pradesh,,,,,27.1012457,93.6218119,OpenStreetMap,node,11287578569,2026-11-26T07:17:45.315126+00:00
+Happy Hoolock’s,restaurant,Arunachal Pradesh,,,,,27.101312,93.6216793,OpenStreetMap,node,11287578669,2026-11-26T07:17:45.315130+00:00
+Marsang,restaurant,Arunachal Pradesh,,,,,27.1011864,93.6217399,OpenStreetMap,node,11288541969,2026-11-26T07:17:45.315134+00:00
+Happy Hoolock’s,restaurant,Arunachal Pradesh,,,,,27.1013005,93.6215869,OpenStreetMap,node,11288542069,2026-11-26T07:17:45.315137+00:00
+The Teico,restaurant,Arunachal Pradesh,,,,,27.1085809,93.6563213,OpenStreetMap,node,11292722079,2026-11-26T07:17:45.315141+00:00
+Woisali Dhaba,restaurant,Arunachal Pradesh,,,,,27.7721851,95.9791305,OpenStreetMap,node,13176605609,2026-11-26T07:17:45.315145+00:00
+Kaku Hotel,restaurant,Arunachal Pradesh,,,,,28.1293367,95.8361149,OpenStreetMap,node,13444498729,2026-11-26T07:17:45.315150+00:00
+Ansh Restaurant,restaurant,Arunachal Pradesh,,,,,28.7968386,95.904784,OpenStreetMap,node,13447756879,2026-11-26T07:17:45.315154+00:00
+A&N Restaurant,restaurant,Arunachal Pradesh,,,,,28.7966214,95.9046436,OpenStreetMap,node,13447760445,2026-11-26T07:17:45.315159+00:00
+Canteen,restaurant,Arunachal Pradesh,,,,,27.1481723,93.7683948,OpenStreetMap,way,1238190591,2026-11-26T07:17:45.315163+00:00
+Apatani Kitchen,restaurant,Arunachal Pradesh,,,,,27.5818107,93.8281185,OpenStreetMap,way,1365748464,2026-11-26T07:17:45.315167+00:00
+Tawang Restaurant,restaurant,Arunachal Pradesh,,,,,27.263193,92.4232859,OpenStreetMap,way,1506931583,2026-11-26T07:17:45.315170+00:00
+Cafe Lungta,cafe,Arunachal Pradesh,,,,,27.2631688,92.4235737,OpenStreetMap,way,1506931594,2026-11-26T07:17:45.315174+00:00

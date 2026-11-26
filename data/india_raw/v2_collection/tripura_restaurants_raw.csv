@@ -1,0 +1,8 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+Café Coffee Day,cafe,Tripura,,,,,23.8285824,91.2790198,OpenStreetMap,node,2718797624,2026-11-26T07:30:50.848250+00:00
+QZeen,restaurant,Tripura,,,,,23.8302834,91.2806547,OpenStreetMap,node,2720575071,2026-11-26T07:30:50.848283+00:00
+Bawarchi,restaurant,Tripura,,,,,23.8290919,91.2796755,OpenStreetMap,node,2720575734,2026-11-26T07:30:50.848298+00:00
+Bawarchi,fast_food,Tripura,,,,,23.8292809,91.2796126,OpenStreetMap,node,2720575857,2026-11-26T07:30:50.848309+00:00
+Excellence Fast Food,fast_food,Tripura,,,,,23.8314313,91.2694454,OpenStreetMap,node,5311774086,2026-11-26T07:30:50.848320+00:00
+School's Canteen,restaurant,Tripura,,,,,23.7805467,91.2807423,OpenStreetMap,node,5395421015,2026-11-26T07:30:50.848331+00:00
+Homely Treat,restaurant,Tripura,,Agartala,"2B, Hospital Lane, RMS Chowmuhani, 799001",,23.8313283,91.2772205,OpenStreetMap,node,10600889086,2026-11-26T07:30:50.848345+00:00

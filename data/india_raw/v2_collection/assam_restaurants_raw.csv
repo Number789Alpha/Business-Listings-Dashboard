@@ -1,0 +1,790 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+Uttam Bhandar,fast_food,Assam,,,Daily Bazaar Road,,27.3581168,95.3141645,OpenStreetMap,node,1012399548,2026-11-26T07:18:39.332669+00:00
+Brown Bean Cafe,cafe,Assam,,,,,26.191458,91.7543159,OpenStreetMap,node,1577816067,2026-11-26T07:18:39.332693+00:00
+Cafe Coffee Day,cafe,Assam,,,,,26.1870263,91.7521859,OpenStreetMap,node,1577816069,2026-11-26T07:18:39.332701+00:00
+Four Season's,restaurant,Assam,,,,,26.1914446,91.7535775,OpenStreetMap,node,1577816073,2026-11-26T07:18:39.332707+00:00
+The Biliophilia Cafe,cafe,Assam,,,,,26.186916,91.7428165,OpenStreetMap,node,1578252898,2026-11-26T07:18:39.332715+00:00
+i-way,cafe,Assam,,,,,26.1898288,91.7526254,OpenStreetMap,node,1578252901,2026-11-26T07:18:39.332721+00:00
+Eat Here,restaurant,Assam,,,,,26.6452148,94.3326633,OpenStreetMap,node,2682990704,2026-11-26T07:18:39.332725+00:00
+Appayan Restaurant,restaurant,Assam,,,,,26.1302366,91.7953793,OpenStreetMap,node,2932321363,2026-11-26T07:18:39.332730+00:00
+Mocha,cafe,Assam,,Guwahati,"G.S. Road, 781005",,26.1613281,91.7739445,OpenStreetMap,node,3052452455,2026-11-26T07:18:39.332737+00:00
+Terra Maya,restaurant,Assam,,Guwahati,"G.S. Road, 781005",,26.1612414,91.7739767,OpenStreetMap,node,3052452456,2026-11-26T07:18:39.332744+00:00
+Patisserie Operaa,cafe,Assam,,Guwahati,"G.S. Road, 781004",,26.1750869,91.7576662,OpenStreetMap,node,3052500129,2026-11-26T07:18:39.332751+00:00
+Di Cafeteria,restaurant,Assam,,,,,26.6993007,92.8327671,OpenStreetMap,node,3547379055,2026-11-26T07:18:39.332756+00:00
+KF-Donaz Hut,restaurant,Assam,,,,,26.7028092,92.8269637,OpenStreetMap,node,3547454065,2026-11-26T07:18:39.332760+00:00
+Aahar,restaurant,Assam,,,,,26.758914,94.2037234,OpenStreetMap,node,3637659868,2026-11-26T07:18:39.332764+00:00
+Bee Gee Inn,restaurant,Assam,,,,,26.7579728,94.2144155,OpenStreetMap,node,3637659870,2026-11-26T07:18:39.332771+00:00
+Crazy Hut,fast_food,Assam,,,,,26.7547404,94.2155097,OpenStreetMap,node,3637659873,2026-11-26T07:18:39.332776+00:00
+Domino's,fast_food,Assam,,,,,26.7539162,94.2126637,OpenStreetMap,node,3637659875,2026-11-26T07:18:39.332780+00:00
+Ever Bake,cafe,Assam,,,,,26.7574176,94.2022361,OpenStreetMap,node,3637659878,2026-11-26T07:18:39.332786+00:00
+Hotel Heritage,restaurant,Assam,,,,,26.761142,94.2058867,OpenStreetMap,node,3637659879,2026-11-26T07:18:39.332790+00:00
+Meridian,restaurant,Assam,,,,,26.7580813,94.2117186,OpenStreetMap,node,3637659888,2026-11-26T07:18:39.332795+00:00
+Baskin Robbins,fast_food,Assam,,,,,26.192402,91.6993253,OpenStreetMap,node,3678154110,2026-11-26T07:18:39.332801+00:00
+Subway,fast_food,Assam,,,,,26.19258,91.6992923,OpenStreetMap,node,3678183618,2026-11-26T07:18:39.332805+00:00
+Baishali Restaurant,restaurant,Assam,,,,,26.746182,94.2127918,OpenStreetMap,node,3776347225,2026-11-26T07:18:39.332810+00:00
+MB's,restaurant,Assam,,Tinsukia,786125,,27.4922508,95.3606063,OpenStreetMap,node,3777970748,2026-11-26T07:18:39.332815+00:00
+Hasty Tasty,restaurant,Assam,,,,,24.8307019,92.8003689,OpenStreetMap,node,3914776959,2026-11-26T07:18:39.332820+00:00
+Mirch Masaala,restaurant,Assam,,,,,24.8284359,92.8034985,OpenStreetMap,node,3914776967,2026-11-26T07:18:39.332825+00:00
+Dhaba,restaurant,Assam,,,,,26.4344986,90.9683006,OpenStreetMap,node,4575910333,2026-11-26T07:18:39.332830+00:00
+Kai and chai,cafe,Assam,,,,,26.7556839,94.2163512,OpenStreetMap,node,4681537489,2026-11-26T07:18:39.332834+00:00
+Deka,fast_food,Assam,,,,,26.1853485,91.7010565,OpenStreetMap,node,4715488477,2026-11-26T07:18:39.332840+00:00
+Manikanta Restraunt,restaurant,Assam,,,,,26.1923003,91.6992861,OpenStreetMap,node,4715488478,2026-11-26T07:18:39.332844+00:00
+Foodie's World,restaurant,Assam,,,,,26.1925652,91.6993755,OpenStreetMap,node,4715488479,2026-11-26T07:18:39.332851+00:00
+Cafe Coffee Day,cafe,Assam,,,,,26.1895236,91.6926804,OpenStreetMap,node,4715488480,2026-11-26T07:18:39.332856+00:00
+Lecture hall canteen,fast_food,Assam,,,,,26.1890279,91.691529,OpenStreetMap,node,4715488481,2026-11-26T07:18:39.332861+00:00
+Foodzone,fast_food,Assam,,,main road,,26.6255532,92.7966871,OpenStreetMap,node,4741597135,2026-11-26T07:18:39.332866+00:00
+11 avenue,cafe,Assam,,,,,26.1860594,91.7520694,OpenStreetMap,node,4744868421,2026-11-26T07:18:39.332871+00:00
+Paradise,restaurant,Assam,,,,,26.1844157,91.7668132,OpenStreetMap,node,5205847123,2026-11-26T07:18:39.332875+00:00
+Cafe Coffee Day,cafe,Assam,,,,,26.1790168,91.7758731,OpenStreetMap,node,5237482421,2026-11-26T07:18:39.332880+00:00
+Gam’s Deliciacy,restaurant,Assam,,,,,26.1489561,91.7865964,OpenStreetMap,node,5245535921,2026-11-26T07:18:39.332885+00:00
+Hotel Monalisha,restaurant,Assam,,,,,26.9463944,94.166128,OpenStreetMap,node,5265474921,2026-11-26T07:18:39.332890+00:00
+Anjalee Sweet House,cafe,Assam,,Mushalpur,"SH6, 781372",,26.6652506,91.3399458,OpenStreetMap,node,5323615700,2026-11-26T07:18:39.332895+00:00
+Pulu restaurant,restaurant,Assam,,,,,26.94627,94.16849,OpenStreetMap,node,5459478931,2026-11-26T07:18:39.332901+00:00
+Hotel Janata,restaurant,Assam,,,,,26.946943,94.1658187,OpenStreetMap,node,5550115021,2026-11-26T07:18:39.332906+00:00
+Hotel Niroda,restaurant,Assam,,,,,26.9418863,94.2226783,OpenStreetMap,node,5554283722,2026-11-26T07:18:39.332910+00:00
+delicacy restaurant,restaurant,Assam,,,,,26.1141264,91.7257312,OpenStreetMap,node,5875387789,2026-11-26T07:18:39.332914+00:00
+Repose Bakery,cafe,Assam,,,,,26.1699125,91.7634158,OpenStreetMap,node,5957320355,2026-11-26T07:18:39.332918+00:00
+Saatvik,restaurant,Assam,,,,,26.1813301,91.7365886,OpenStreetMap,node,5968122397,2026-11-26T07:18:39.332923+00:00
+Maa Kali Hotel,restaurant,Assam,,,,,26.5086674,92.1123309,OpenStreetMap,node,6093113267,2026-11-26T07:18:39.332927+00:00
+Domino's,fast_food,Assam,,,,,26.6551777,92.7728815,OpenStreetMap,node,6093121388,2026-11-26T07:18:39.332931+00:00
+Hotel Susuma,restaurant,Assam,,,,,26.6554547,92.7717612,OpenStreetMap,node,6093126730,2026-11-26T07:18:39.332936+00:00
+Nath Hotel,restaurant,Assam,,,,,26.6892046,92.6223845,OpenStreetMap,node,6098801920,2026-11-26T07:18:39.332941+00:00
+Hotel Brahmaputra,restaurant,Assam,,,,,26.6894544,92.6167492,OpenStreetMap,node,6098801921,2026-11-26T07:18:39.332948+00:00
+Park Hotel,restaurant,Assam,,,,,26.5400172,92.169515,OpenStreetMap,node,6098807833,2026-11-26T07:18:39.332952+00:00
+"Bojanalaya, 4th floor",restaurant,Assam,,,,,26.6246209,92.7985174,OpenStreetMap,node,6241239785,2026-11-26T07:18:39.332957+00:00
+Spring Valley,restaurant,Assam,,,,,26.6246063,92.798581,OpenStreetMap,node,6241669585,2026-11-26T07:18:39.332961+00:00
+Tiffin Restaurant,restaurant,Assam,,,,,26.6226868,92.796507,OpenStreetMap,node,6241960185,2026-11-26T07:18:39.332968+00:00
+Isha Restaurant cum Dhaba,restaurant,Assam,,,,,26.1872366,91.6528,OpenStreetMap,node,6265884908,2026-11-26T07:18:39.332972+00:00
+Beatrix,restaurant,Assam,,,,,26.1860731,91.7578961,OpenStreetMap,node,6286295685,2026-11-26T07:18:39.332976+00:00
+Queen's restaurant,restaurant,Assam,,,,,26.1851194,91.7577417,OpenStreetMap,node,6297514398,2026-11-26T07:18:39.332981+00:00
+Street food,fast_food,Assam,,,,,26.1879924,91.7476985,OpenStreetMap,node,6297514489,2026-11-26T07:18:39.332985+00:00
+Street food,fast_food,Assam,,,,,26.1881799,91.7460372,OpenStreetMap,node,6297532885,2026-11-26T07:18:39.332989+00:00
+Sunflower restaurant,restaurant,Assam,,,,,26.187029,91.7444797,OpenStreetMap,node,6297536486,2026-11-26T07:18:39.332995+00:00
+Naga bowl,restaurant,Assam,,,,,26.1856947,91.7523656,OpenStreetMap,node,6297544985,2026-11-26T07:18:39.333000+00:00
+the little south,restaurant,Assam,,,,,26.75437,94.2135798,OpenStreetMap,node,6387272987,2026-11-26T07:18:39.333004+00:00
+Majuli Cycle Cafe,cafe,Assam,,,,,26.9840333,94.1559464,OpenStreetMap,node,6480157587,2026-11-26T07:18:39.333009+00:00
+Roshe Chou Chou & Tourist Info,fast_food,Assam,,,,,26.9861995,94.6383439,OpenStreetMap,node,6531676685,2026-11-26T07:18:39.333013+00:00
+Maa Suswani Food Plaza(cheap and safe food),restaurant,Assam,,,,,26.184774,91.7619905,OpenStreetMap,node,6588142085,2026-11-26T07:18:39.333019+00:00
+NI4 Restaurant,restaurant,Assam,,,,,26.114443,92.1836777,OpenStreetMap,node,6601804188,2026-11-26T07:18:39.333023+00:00
+Lunch Place btw Sjongkhar,restaurant,Assam,,,,,26.5025161,90.5550159,OpenStreetMap,node,6609058287,2026-11-26T07:18:39.333027+00:00
+Swastika restaurant,restaurant,Assam,,,,,26.1832849,91.7818076,OpenStreetMap,node,6878704686,2026-11-26T07:18:39.333032+00:00
+Cafe Riverrun,cafe,Assam,,,,,26.1938031,91.7539722,OpenStreetMap,node,6880267585,2026-11-26T07:18:39.333036+00:00
+Barista Coffee,cafe,Assam,,,,,26.1551706,91.7822224,OpenStreetMap,node,6880550585,2026-11-26T07:18:39.333042+00:00
+Keventers Milkshake,cafe,Assam,,,,,26.1915958,91.7524704,OpenStreetMap,node,6881086303,2026-11-26T07:18:39.333046+00:00
+Cafe Bellevue,cafe,Assam,,,,,26.1938802,91.7541157,OpenStreetMap,node,6883189793,2026-11-26T07:18:39.333050+00:00
+Sugarcane stalls,cafe,Assam,,,,,26.18546,91.7491084,OpenStreetMap,node,6884700486,2026-11-26T07:18:39.333054+00:00
+Sugarcane and lemon stalls,cafe,Assam,,,,,26.1817206,91.7404609,OpenStreetMap,node,6884859785,2026-11-26T07:18:39.333059+00:00
+The Corner Cafe,restaurant,Assam,,,,,26.1863315,91.7544604,OpenStreetMap,node,6885469786,2026-11-26T07:18:39.333063+00:00
+Cloud Kitchen,restaurant,Assam,,,,,26.1831843,91.7844285,OpenStreetMap,node,6888526185,2026-11-26T07:18:39.333067+00:00
+Tourist Lodge Restaurant,restaurant,Assam,,,,,26.0201374,89.9954351,OpenStreetMap,node,6964082602,2026-11-26T07:18:39.333072+00:00
+Paradox (first floor),restaurant,Assam,,,,,26.3290518,91.0057262,OpenStreetMap,node,6972035185,2026-11-26T07:18:39.333077+00:00
+Puri & tea street stalls,restaurant,Assam,,,,,26.5833384,93.4031173,OpenStreetMap,node,6975742185,2026-11-26T07:18:39.333081+00:00
+Ural restaurant,restaurant,Assam,,,,,26.9814091,94.1571571,OpenStreetMap,node,6979405485,2026-11-26T07:18:39.333087+00:00
+KFC Majuli,fast_food,Assam,,,,,26.9836992,94.1561382,OpenStreetMap,node,6979409486,2026-11-26T07:18:39.333091+00:00
+Do:Ko Okoum restaurant,restaurant,Assam,,,,,26.9847639,94.1537439,OpenStreetMap,node,6979409488,2026-11-26T07:18:39.333095+00:00
+Roti plate & tea stall,restaurant,Assam,,,,,26.9807553,94.1571075,OpenStreetMap,node,6984093983,2026-11-26T07:18:39.333100+00:00
+Dutta restaurant,restaurant,Assam,,,,,26.9800927,94.1575779,OpenStreetMap,node,6984396293,2026-11-26T07:18:39.333104+00:00
+Hotel Ranjan restaurant,restaurant,Assam,,,,,26.9853939,94.1546479,OpenStreetMap,node,6984444197,2026-11-26T07:18:39.333110+00:00
+Cafe 99,cafe,Assam,,,,,27.083759,94.2935991,OpenStreetMap,node,6989363585,2026-11-26T07:18:39.333114+00:00
+Paratha & tea local restaurant,restaurant,Assam,,,,,26.9859543,94.1537513,OpenStreetMap,node,6991380185,2026-11-26T07:18:39.333118+00:00
+Cafe Beans coffee shop,cafe,Assam,,,,,26.7546862,94.1923462,OpenStreetMap,node,6991551586,2026-11-26T07:18:39.333122+00:00
+Local restaurant,restaurant,Assam,,,,,26.7600665,94.2108274,OpenStreetMap,node,6992169985,2026-11-26T07:18:39.333126+00:00
+Domino's,fast_food,Assam,,,,,27.4797219,94.9051674,OpenStreetMap,node,7013405187,2026-11-26T07:18:39.333151+00:00
+Indian food corner,restaurant,Assam,,,,,24.8288419,92.7994691,OpenStreetMap,node,7213745985,2026-11-26T07:18:39.333157+00:00
+50Rs Thali - delicious!!!!,fast_food,Assam,,,,,26.980136,94.15711,OpenStreetMap,node,7232787290,2026-11-26T07:18:39.333161+00:00
+vooter ghor,cafe,Assam,,"Akhaur, Brahmanbaria",,,24.813088,93.1940757,OpenStreetMap,node,7466222816,2026-11-26T07:18:39.333167+00:00
+Ti sy town cafe,cafe,Assam,Kamrup Metropolitan,,781024,,26.1718747,91.7778763,OpenStreetMap,node,7537681022,2026-11-26T07:18:39.333172+00:00
+Ranjeeta,restaurant,Assam,,,,+91 70029 24664,26.0868154,91.5650886,OpenStreetMap,node,8308355217,2026-11-26T07:18:39.333177+00:00
+Kamakhya Grand,restaurant,Assam,,,,9127056700,26.1009869,91.5971825,OpenStreetMap,node,8419596407,2026-11-26T07:18:39.333182+00:00
+Canteen,restaurant,Assam,,,,,26.0811276,91.5617847,OpenStreetMap,node,8640177998,2026-11-26T07:18:39.333186+00:00
+Food Track,restaurant,Assam,,,,,27.4779187,94.9004281,OpenStreetMap,node,9142043131,2026-11-26T07:18:39.333191+00:00
+Chanaka Riverine Camp,restaurant,Assam,,,,,26.2701942,91.9863197,OpenStreetMap,node,9171972265,2026-11-26T07:18:39.333195+00:00
+Sardarji da dhaba,restaurant,Assam,,,,8099148744,26.1110057,91.6132753,OpenStreetMap,node,9176356738,2026-11-26T07:18:39.333201+00:00
+Food-E,restaurant,Assam,,,,882293335,26.0856136,91.5683425,OpenStreetMap,node,9186847496,2026-11-26T07:18:39.333205+00:00
+MBN Kitchen,restaurant,Assam,,,781125,"7002888158, 7002181390",26.088964,91.5626802,OpenStreetMap,node,9213829775,2026-11-26T07:18:39.333210+00:00
+Sweet Tooth,restaurant,Assam,,Jorhat,"TR Phookan Rd, Malow Ali, Jorhat, Assam, 785001",8133966506,26.8347744,94.2864272,OpenStreetMap,node,9342367645,2026-11-26T07:18:39.333214+00:00
+Sweet Tooth,restaurant,Assam,,Jorhat,"Tarun Ram Phukon Road, 785001",8133966506,26.7619374,94.208626,OpenStreetMap,node,9342367646,2026-11-26T07:18:39.333220+00:00
+Lazeez Restaurant,restaurant,Assam,,,,,25.8459417,93.4436521,OpenStreetMap,node,9376043291,2026-11-26T07:18:39.333225+00:00
+Pei Kitchen,restaurant,Assam,,,,,25.8444501,93.4420691,OpenStreetMap,node,9376049711,2026-11-26T07:18:39.333230+00:00
+Meat & Eat,restaurant,Assam,,,,,25.8451239,93.442971,OpenStreetMap,node,9376053137,2026-11-26T07:18:39.333234+00:00
+Poor Man's Kitchen,restaurant,Assam,,,,,25.8444409,93.4421661,OpenStreetMap,node,9376060809,2026-11-26T07:18:39.333238+00:00
+Little Dragon Restaurant,restaurant,Assam,,,,,25.8409433,93.4383875,OpenStreetMap,node,9376122287,2026-11-26T07:18:39.333243+00:00
+Cafe Plipli,cafe,Assam,,,,,25.840946,93.4382965,OpenStreetMap,node,9376142750,2026-11-26T07:18:39.333248+00:00
+Friends Cafe,cafe,Assam,,,,,25.8396641,93.4273243,OpenStreetMap,node,9376333075,2026-11-26T07:18:39.333252+00:00
+Tea Cafe,cafe,Assam,,,,,26.1422966,91.6685432,OpenStreetMap,node,9534823858,2026-11-26T07:18:39.333256+00:00
+smoky bae,fast_food,Assam,,nagaon,"chakarigaon, Nagaon Bypass, 782003",+918638296414,26.3424303,92.7271085,OpenStreetMap,node,9659096653,2026-11-26T07:18:39.333262+00:00
+Your Little Food Corner,cafe,Assam,,,,,25.8462152,93.4259745,OpenStreetMap,node,9739196369,2026-11-26T07:18:39.333266+00:00
+The VIEW Restaurant And Lounge,restaurant,Assam,,Guwahati,"6th Floor, Block A, 191 Exotica Greens, RG Baruah Rd, 781005",+916900631456,26.1651483,91.7795834,OpenStreetMap,node,9760182213,2026-11-26T07:18:39.333270+00:00
+Aroma Delicacy Restaurant,restaurant,Assam,,Guwahati,"Dharapur Chariali, 781017",09085087140,26.1375806,91.6285128,OpenStreetMap,node,9812549786,2026-11-26T07:18:39.333275+00:00
+Momo Mafia,restaurant,Assam,,,,,25.8481884,93.4330994,OpenStreetMap,node,9941837660,2026-11-26T07:18:39.333279+00:00
+Hotel 407,fast_food,Assam,,,,,25.171179,93.0154604,OpenStreetMap,node,10223133317,2026-11-26T07:18:39.333283+00:00
+Black Rabbit,fast_food,Assam,,,,,25.1603416,93.0147809,OpenStreetMap,node,10223309721,2026-11-26T07:18:39.333289+00:00
+The Deck Restaurant,fast_food,Assam,,,,,25.1633824,93.017226,OpenStreetMap,node,10223335617,2026-11-26T07:18:39.333295+00:00
+Jatinga Tourist Rest House,fast_food,Assam,,,,,25.1256811,93.0256122,OpenStreetMap,node,10226866317,2026-11-26T07:18:39.333299+00:00
+NH 52 Dhaba,restaurant,Assam,,,,,26.411955,91.9566809,OpenStreetMap,node,10720872706,2026-11-26T07:18:39.333303+00:00
+Anjali Fast Food,restaurant,Assam,,,,,25.9695052,93.4465527,OpenStreetMap,node,10767558720,2026-11-26T07:18:39.333307+00:00
+KFC,fast_food,Assam,,,,,26.1443293,91.7417302,OpenStreetMap,node,10864657861,2026-11-26T07:18:39.333314+00:00
+Pizza Hut,restaurant,Assam,,,,,26.1442118,91.7417925,OpenStreetMap,node,10864657862,2026-11-26T07:18:39.333321+00:00
+Soukaa Dhaba,restaurant,Assam,,Guwahati,"Patgaon, Rani Road, 781015",7002701544,26.0822841,91.6098149,OpenStreetMap,node,10939285223,2026-11-26T07:18:39.333329+00:00
+Tsangpo River Cruise and Restaurant,restaurant,Assam,,,,,26.8627113,94.2360238,OpenStreetMap,node,10947374192,2026-11-26T07:18:39.333335+00:00
+Blue Ocean,cafe,Assam,,,,,27.0117163,92.6442973,OpenStreetMap,node,11263711037,2026-11-26T07:18:39.333339+00:00
+Restaurant1,restaurant,Assam,,,,,26.1292163,91.8062336,OpenStreetMap,node,11279915541,2026-11-26T07:18:39.333345+00:00
+Changmai,restaurant,Assam,,,,,26.1915278,91.7542825,OpenStreetMap,node,11279966235,2026-11-26T07:18:39.333351+00:00
+Niri's,restaurant,Assam,,,,,26.1881483,91.746826,OpenStreetMap,node,11279969149,2026-11-26T07:18:39.333355+00:00
+Abo restaurant,restaurant,Assam,,,,,26.6514834,90.9983997,OpenStreetMap,node,11286204400,2026-11-26T07:18:39.333360+00:00
+Himalayan restaurant,restaurant,Assam,,,,,26.6610926,91.0265736,OpenStreetMap,node,11288125127,2026-11-26T07:18:39.333364+00:00
+Nova AKhol,restaurant,Assam,,,,,26.757762,94.2030397,OpenStreetMap,node,11351332650,2026-11-26T07:18:39.333368+00:00
+SANJU FAST FOOD,fast_food,Assam,,,,,26.6899351,94.4002195,OpenStreetMap,node,11356610330,2026-11-26T07:18:39.333372+00:00
+Spring Valley,restaurant,Assam,,,,,26.6530767,92.7949163,OpenStreetMap,node,11356647336,2026-11-26T07:18:39.333376+00:00
+Nagina hotel,restaurant,Assam,,,,,26.2024115,93.1290229,OpenStreetMap,node,11357212763,2026-11-26T07:18:39.333380+00:00
+NOVOTEL HOTEL,restaurant,Assam,,,,,26.1390517,91.7982042,OpenStreetMap,node,11357559357,2026-11-26T07:18:39.333384+00:00
+Nilakantha Dhaba,restaurant,Assam,,,,,26.8543244,94.4927876,OpenStreetMap,node,11357588414,2026-11-26T07:18:39.333388+00:00
+Trinayan Dhaba,restaurant,Assam,,,,,26.8488506,94.4938223,OpenStreetMap,node,11357588446,2026-11-26T07:18:39.333394+00:00
+Hotel BOB,restaurant,Assam,,,,,26.8088,94.5235905,OpenStreetMap,node,11357588465,2026-11-26T07:18:39.333398+00:00
+Souka,restaurant,Assam,,,,,26.1232135,91.7991681,OpenStreetMap,node,11357595551,2026-11-26T07:18:39.333402+00:00
+HYDERABAD KITCHENS,restaurant,Assam,,,,,26.0989199,91.6052223,OpenStreetMap,node,11357607167,2026-11-26T07:18:39.333406+00:00
+AHAR RESTAURANT,restaurant,Assam,,,,,26.1003934,91.6117957,OpenStreetMap,node,11357607168,2026-11-26T07:18:39.333411+00:00
+SIGNATURE SUPERMARKET,restaurant,Assam,,,,,26.1000227,91.611842,OpenStreetMap,node,11357607169,2026-11-26T07:18:39.333414+00:00
+KFC,fast_food,Assam,,,,,26.1016438,91.5960988,OpenStreetMap,node,11357607188,2026-11-26T07:18:39.333419+00:00
+KALPANA FAMILY RESTAURANT,restaurant,Assam,,,,,26.1499972,91.6714111,OpenStreetMap,node,11357634768,2026-11-26T07:18:39.333423+00:00
+THE URAKI KITCHEN,restaurant,Assam,,,,,26.1496769,91.6701661,OpenStreetMap,node,11357638182,2026-11-26T07:18:39.333427+00:00
+CLAY OVEN,restaurant,Assam,,,,,26.1498707,91.6695036,OpenStreetMap,node,11357638183,2026-11-26T07:18:39.333431+00:00
+BURGS & FRIES,cafe,Assam,,,,,26.1498442,91.670981,OpenStreetMap,node,11357638187,2026-11-26T07:18:39.333437+00:00
+BORGOS RESTAURANT,restaurant,Assam,,,,,26.6881602,94.4009952,OpenStreetMap,node,11358393185,2026-11-26T07:18:39.333441+00:00
+SMOKED HOUSE CAFE,restaurant,Assam,,,,,26.6881197,94.4010263,OpenStreetMap,node,11358393186,2026-11-26T07:18:39.333448+00:00
+BORAH FAST FOOD,restaurant,Assam,,,,,26.6882607,94.4009438,OpenStreetMap,node,11358393187,2026-11-26T07:18:39.333452+00:00
+NAWAZ HOTEL,restaurant,Assam,,,,,26.6922953,94.4078688,OpenStreetMap,node,11358393190,2026-11-26T07:18:39.333457+00:00
+Khorikaa,restaurant,Assam,,,,,26.1701339,91.7626309,OpenStreetMap,node,11428951290,2026-11-26T07:18:39.333461+00:00
+Tapri,restaurant,Assam,,,,,26.1893427,91.694894,OpenStreetMap,node,11475714404,2026-11-26T07:18:39.333464+00:00
+Kori's,restaurant,Assam,,,,,26.1670278,91.7792119,OpenStreetMap,node,11687789472,2026-11-26T07:18:39.333468+00:00
+D Little Kitchen,restaurant,Assam,,,,,26.1664146,91.7794097,OpenStreetMap,node,11687796553,2026-11-26T07:18:39.333472+00:00
+Kitchen 4 Seasons,restaurant,Assam,,,,,26.167371,91.7782684,OpenStreetMap,node,11687800723,2026-11-26T07:18:39.333477+00:00
+Skyscape Guwahati,restaurant,Assam,,,,,26.1652848,91.7794293,OpenStreetMap,node,11687801536,2026-11-26T07:18:39.333482+00:00
+Hard Rock Cafe,cafe,Assam,,,,,26.1657724,91.7796245,OpenStreetMap,node,11687807730,2026-11-26T07:18:39.333487+00:00
+Chai Piyo,restaurant,Assam,,,,,26.1568139,91.7831272,OpenStreetMap,node,11687922048,2026-11-26T07:18:39.333491+00:00
+The Stayfitr Kitchen Nayanpur,restaurant,Assam,,,,,26.151163,91.7864186,OpenStreetMap,node,11687941353,2026-11-26T07:18:39.333494+00:00
+Town Hall Guwahati,restaurant,Assam,,,,,26.1535209,91.7841006,OpenStreetMap,node,11687942308,2026-11-26T07:18:39.333498+00:00
+Naga Dish,restaurant,Assam,,,,,26.1573183,91.7828659,OpenStreetMap,node,11687946396,2026-11-26T07:18:39.333502+00:00
+Heavenly Cakes,restaurant,Assam,,,,,26.1539694,91.7852991,OpenStreetMap,node,11687946678,2026-11-26T07:18:39.333506+00:00
+Rice N' More,restaurant,Assam,,,,,26.1497968,91.7863061,OpenStreetMap,node,11687963661,2026-11-26T07:18:39.333511+00:00
+Jaluk,restaurant,Assam,,,,,26.1509216,91.7861326,OpenStreetMap,node,11687965297,2026-11-26T07:18:39.333515+00:00
+Red Hot Chilli Pepper,restaurant,Assam,,,,,26.1521466,91.784145,OpenStreetMap,node,11687968099,2026-11-26T07:18:39.333520+00:00
+Domino's Pizza,restaurant,Assam,,,,,26.1494039,91.7859456,OpenStreetMap,node,11687968763,2026-11-26T07:18:39.333526+00:00
+GTAC Tea Lounge,cafe,Assam,,,,,26.1459975,91.7894406,OpenStreetMap,node,11690277285,2026-11-26T07:18:39.333530+00:00
+Leaf Deck Cafe,cafe,Assam,,,,,26.1458892,91.7903395,OpenStreetMap,node,11690280213,2026-11-26T07:18:39.333534+00:00
+Byanjon,fast_food,Assam,,,,,26.1388549,91.7982352,OpenStreetMap,node,11690281561,2026-11-26T07:18:39.333538+00:00
+OH! Northeast from our hills,restaurant,Assam,,,,,26.1475965,91.7891054,OpenStreetMap,node,11690281577,2026-11-26T07:18:39.333542+00:00
+RSR Kitchen,restaurant,Assam,,,,,26.1388971,91.8135912,OpenStreetMap,node,11690379454,2026-11-26T07:18:39.333546+00:00
+Green Hills Hotels And Resorts,restaurant,Assam,Darrang,Kharupetia,"Mandalpara, 784115",9863976118 / 6009764763,26.2629036,91.6697973,OpenStreetMap,node,11738060914,2026-11-26T07:18:39.333550+00:00
+Green Hills Hotels And Resorts,restaurant,Assam,Darrang,Kharupetia,"Mandalpara, 784115",9863976118,26.5391254,92.1694059,OpenStreetMap,node,11738085200,2026-11-26T07:18:39.333555+00:00
+Café Bellevue,restaurant,Assam,,,"HN 47, M.G. Road",9535350637,26.1937545,91.7539101,OpenStreetMap,node,11763100397,2026-11-26T07:18:39.333560+00:00
+Swad Sweets & Snacks,restaurant,Assam,,,"Kejriwal Bhawan, paltan bazar",7099027466,26.1788022,91.7514656,OpenStreetMap,node,11763764537,2026-11-26T07:18:39.333566+00:00
+Hotel Ashirwad,restaurant,Assam,Karimganj,Patharkandi,788724,,24.5947726,92.3315458,OpenStreetMap,node,11764022326,2026-11-26T07:18:39.333572+00:00
+Michinga,restaurant,Assam,,,"8b, Bhuban Road",,26.1916366,91.7536249,OpenStreetMap,node,11768370517,2026-11-26T07:18:39.333577+00:00
+Rajasthan Bhojanalaya,restaurant,Assam,,,,,26.1009705,91.8800856,OpenStreetMap,node,11821388982,2026-11-26T07:18:39.333581+00:00
+Misti Mukh,restaurant,Assam,,,,,26.1746767,91.7581436,OpenStreetMap,node,11849282092,2026-11-26T07:18:39.333585+00:00
+Garam Chai,cafe,Assam,,,,,26.1747937,91.7583374,OpenStreetMap,node,11849336727,2026-11-26T07:18:39.333591+00:00
+David's Kitchen,restaurant,Assam,,,,,26.1747883,91.7584003,OpenStreetMap,node,11849336729,2026-11-26T07:18:39.333595+00:00
+Burger King,fast_food,Assam,,,,,26.1725511,91.7594567,OpenStreetMap,node,11868980087,2026-11-26T07:18:39.333599+00:00
+Aminia,restaurant,Assam,,,,,26.1724115,91.7606674,OpenStreetMap,node,11868980088,2026-11-26T07:18:39.333603+00:00
+tumbledry,restaurant,Assam,,,,,26.1739803,91.7575567,OpenStreetMap,node,11871195836,2026-11-26T07:18:39.333607+00:00
+Tumbledry,restaurant,Assam,,,,,26.1741847,91.7575034,OpenStreetMap,node,11871195837,2026-11-26T07:18:39.333611+00:00
+Pahi's,restaurant,Assam,,,,,26.183721,91.7719607,OpenStreetMap,node,11876655587,2026-11-26T07:18:39.333617+00:00
+Wings,fast_food,Assam,,,,,26.1835899,91.7728455,OpenStreetMap,node,11876655591,2026-11-26T07:18:39.333621+00:00
+Street King,fast_food,Assam,,,,,26.1835782,91.772942,OpenStreetMap,node,11876655592,2026-11-26T07:18:39.333625+00:00
+Yadav Mishtana Bhandar,restaurant,Assam,,,,,26.1838263,91.7732707,OpenStreetMap,node,11876655594,2026-11-26T07:18:39.333629+00:00
+The Crown Shake & Fresh Juice,fast_food,Assam,,,,,26.1849149,91.7749356,OpenStreetMap,node,11880877917,2026-11-26T07:18:39.333633+00:00
+Aadish Kitchen,restaurant,Assam,,,,,26.1847869,91.7749777,OpenStreetMap,node,11880877918,2026-11-26T07:18:39.333638+00:00
+Zarwo The Bodo Kitchen,restaurant,Assam,,,,,26.1846765,91.7749909,OpenStreetMap,node,11880877919,2026-11-26T07:18:39.333641+00:00
+Street-za,fast_food,Assam,,,,,26.1845051,91.7749923,OpenStreetMap,node,11880877922,2026-11-26T07:18:39.333645+00:00
+Khao Bola,fast_food,Assam,,,,,26.1844361,91.7749346,OpenStreetMap,node,11896883244,2026-11-26T07:18:39.333650+00:00
+Ohh! Guwahati,fast_food,Assam,,,,,26.1845212,91.7749367,OpenStreetMap,node,11896883247,2026-11-26T07:18:39.333653+00:00
+Urban Pizza,restaurant,Assam,,,,,26.1846014,91.7749351,OpenStreetMap,node,11896883249,2026-11-26T07:18:39.333659+00:00
+Simply South,restaurant,Assam,,,,,26.1846239,91.7749341,OpenStreetMap,node,11896883250,2026-11-26T07:18:39.333664+00:00
+Kesaria Chai Wala,cafe,Assam,,,,,26.1846405,91.7749311,OpenStreetMap,node,11896883251,2026-11-26T07:18:39.333668+00:00
+Laheke Chai,cafe,Assam,,,,,26.1840491,91.7694234,OpenStreetMap,node,11909981455,2026-11-26T07:18:39.333672+00:00
+Gayatri Mishtana Bhandar,restaurant,Assam,,,,,26.1840528,91.7694501,OpenStreetMap,node,11909981457,2026-11-26T07:18:39.333678+00:00
+Bhuruka,fast_food,Assam,,,,,26.1833412,91.7756292,OpenStreetMap,node,11922994976,2026-11-26T07:18:39.333682+00:00
+K3 Foods,restaurant,Assam,,,,,26.1581954,91.6599814,OpenStreetMap,node,11930178798,2026-11-26T07:18:39.333686+00:00
+Madina Hotel $ Restaurant,restaurant,Assam,,,,,26.1584599,91.6611008,OpenStreetMap,node,11930639747,2026-11-26T07:18:39.333691+00:00
+Atithi Food Corner,restaurant,Assam,,,,,26.152124,91.6547835,OpenStreetMap,node,11930687282,2026-11-26T07:18:39.333694+00:00
+Bismillah Hotel,restaurant,Assam,,,,,26.1584667,91.6611144,OpenStreetMap,node,11930732078,2026-11-26T07:18:39.333698+00:00
+Zannat Aahar Hotel,restaurant,Assam,,,,,26.1594009,91.6634068,OpenStreetMap,node,11931174377,2026-11-26T07:18:39.333704+00:00
+Mughlai Adda,restaurant,Assam,,,,,26.1591371,91.6624486,OpenStreetMap,node,11931187980,2026-11-26T07:18:39.333708+00:00
+Dhaba Krishnachura,restaurant,Assam,,,,,26.1601172,91.6656306,OpenStreetMap,node,11931234378,2026-11-26T07:18:39.333711+00:00
+Lombu Taj Hotel,restaurant,Assam,,,,,26.160304,91.6662166,OpenStreetMap,node,11931238504,2026-11-26T07:18:39.333715+00:00
+J.B. Resturant,restaurant,Assam,,,,,26.1579817,91.674415,OpenStreetMap,node,11931270155,2026-11-26T07:18:39.333719+00:00
+Hare Krishna Sweets & Snacks,fast_food,Assam,,,,,26.1579326,91.6746318,OpenStreetMap,node,11931292423,2026-11-26T07:18:39.333724+00:00
+Farhana Hotel,restaurant,Assam,,,,,26.1604335,91.6671672,OpenStreetMap,node,11932359264,2026-11-26T07:18:39.333728+00:00
+New Maa Kamakhya Hotel,restaurant,Assam,,,,,26.1808145,91.749469,OpenStreetMap,node,11932373660,2026-11-26T07:18:39.333732+00:00
+Swadisht Dhaba,restaurant,Assam,,,,,26.1807169,91.7510352,OpenStreetMap,node,11932385455,2026-11-26T07:18:39.333737+00:00
+Queen Bar,restaurant,Assam,,,,,26.1805714,91.7512057,OpenStreetMap,node,11932413462,2026-11-26T07:18:39.333741+00:00
+Pudina Pure Veg,restaurant,Assam,,,,,26.1809672,91.7506043,OpenStreetMap,node,11932414426,2026-11-26T07:18:39.333748+00:00
+Hotel Ahaar,restaurant,Assam,,,,,26.180819,91.7494989,OpenStreetMap,node,11932418728,2026-11-26T07:18:39.333752+00:00
+A.S.T.C Canteen,restaurant,Assam,,,,,26.180854,91.7499526,OpenStreetMap,node,11932428079,2026-11-26T07:18:39.333756+00:00
+Raja Restaurant,restaurant,Assam,,,,,26.1807667,91.7510906,OpenStreetMap,node,11932432031,2026-11-26T07:18:39.333760+00:00
+RD Bar Cum Restaurant,restaurant,Assam,,,,,26.1806191,91.7510559,OpenStreetMap,node,11932464679,2026-11-26T07:18:39.333764+00:00
+Hotel Samrat,restaurant,Assam,,,,,26.1806559,91.7510461,OpenStreetMap,node,11932467637,2026-11-26T07:18:39.333769+00:00
+KFC,fast_food,Assam,,,,,26.1798967,91.7513767,OpenStreetMap,node,11932474254,2026-11-26T07:18:39.333773+00:00
+Amrapali Dhaba,restaurant,Assam,,,,,26.1806782,91.7510567,OpenStreetMap,node,11932474427,2026-11-26T07:18:39.333777+00:00
+Dilkhush Punjabi Dhaba,restaurant,Assam,,,,,26.180635,91.7510559,OpenStreetMap,node,11932483869,2026-11-26T07:18:39.333782+00:00
+Desi Curry,restaurant,Assam,,,,,26.1805114,91.7510764,OpenStreetMap,node,11932487531,2026-11-26T07:18:39.333786+00:00
+Fresh Kut Kitchen,restaurant,Assam,,,,,26.1585868,91.6840151,OpenStreetMap,node,11932495352,2026-11-26T07:18:39.333792+00:00
+Maa Tara Hotel,restaurant,Assam,,,,,26.1798085,91.7514392,OpenStreetMap,node,11932500352,2026-11-26T07:18:39.333796+00:00
+Domino's,fast_food,Assam,,,,,26.1588891,91.6864451,OpenStreetMap,node,11932535623,2026-11-26T07:18:39.333800+00:00
+Basoi Fast Food,fast_food,Assam,,,,,26.1791173,91.7515945,OpenStreetMap,node,11932538132,2026-11-26T07:18:39.333806+00:00
+JG's Family Restaurant,restaurant,Assam,,,,,26.1787217,91.7511816,OpenStreetMap,node,11932572572,2026-11-26T07:18:39.333811+00:00
+Chakreswar Food,restaurant,Assam,,,,,26.1653182,91.7169224,OpenStreetMap,node,11933217723,2026-11-26T07:18:39.333815+00:00
+Laxmi Manipuri Rice Hotel,restaurant,Assam,,,,,26.1764391,91.7556455,OpenStreetMap,node,11933486333,2026-11-26T07:18:39.333820+00:00
+Yaiphaba Manipuri Rice Hotel,restaurant,Assam,,,,,26.1775038,91.7539953,OpenStreetMap,node,11933598957,2026-11-26T07:18:39.333824+00:00
+Royal Naga,restaurant,Assam,,,,,26.1776132,91.7539242,OpenStreetMap,node,11933598958,2026-11-26T07:18:39.333828+00:00
+Chetry Dhaba,restaurant,Assam,,,,,26.1776826,91.7536377,OpenStreetMap,node,11933605779,2026-11-26T07:18:39.333832+00:00
+Delhi Faizan Muradabadi Biriyani,restaurant,Assam,,,,,26.1776705,91.7536283,OpenStreetMap,node,11933610082,2026-11-26T07:18:39.333838+00:00
+Rest Stop Restaurant,restaurant,Assam,,,,,26.1806392,91.7474765,OpenStreetMap,node,11934210461,2026-11-26T07:18:39.333842+00:00
+Raj Hotel,restaurant,Assam,,,,,26.1786431,91.7428253,OpenStreetMap,node,11934280077,2026-11-26T07:18:39.333846+00:00
+Diamond Restaurant,restaurant,Assam,,,,,26.1805556,91.7471174,OpenStreetMap,node,11934287279,2026-11-26T07:18:39.333851+00:00
+Delhi Da Khana Khazana,restaurant,Assam,,,,,26.1806201,91.7474221,OpenStreetMap,node,11934302405,2026-11-26T07:18:39.333855+00:00
+Hotel Annapurna,restaurant,Assam,,,,,26.1780885,91.7530484,OpenStreetMap,node,11934407164,2026-11-26T07:18:39.333859+00:00
+Unnati Sweets,cafe,Assam,,,,,26.1779817,91.7531657,OpenStreetMap,node,11934430722,2026-11-26T07:18:39.333863+00:00
+Food Rani,restaurant,Assam,,,,,26.178865,91.7520146,OpenStreetMap,node,11934454382,2026-11-26T07:18:39.333867+00:00
+Juice Corner,fast_food,Assam,,,,,26.1788463,91.751999,OpenStreetMap,node,11934454886,2026-11-26T07:18:39.333871+00:00
+Yuvraj Hotel,restaurant,Assam,,,,,26.1803576,91.7452881,OpenStreetMap,node,11934648356,2026-11-26T07:18:39.333875+00:00
+Hotel Vandana,restaurant,Assam,,,,,26.1807871,91.7505082,OpenStreetMap,node,11937537299,2026-11-26T07:18:39.333880+00:00
+Tourist Restaurant,restaurant,Assam,,,,,26.1807511,91.7505089,OpenStreetMap,node,11937560526,2026-11-26T07:18:39.333884+00:00
+Amrapali Dhaba,restaurant,Assam,,,,,26.1808232,91.7509872,OpenStreetMap,node,11937959209,2026-11-26T07:18:39.333891+00:00
+Swadisht Dhaba,restaurant,Assam,,,,,26.1808449,91.7509884,OpenStreetMap,node,11937973844,2026-11-26T07:18:39.333895+00:00
+Hotel KK;Greenview Restaurant,restaurant,Assam,,,,,26.1807213,91.7507761,OpenStreetMap,node,11937989688,2026-11-26T07:18:39.333901+00:00
+Hotel Azulla,restaurant,Assam,,,,,26.1805815,91.7508288,OpenStreetMap,node,11938001204,2026-11-26T07:18:39.333905+00:00
+Hotel Avenue,restaurant,Assam,,,,,26.1805184,91.7508415,OpenStreetMap,node,11938005629,2026-11-26T07:18:39.333909+00:00
+Mother's Kitchen,restaurant,Assam,,,,,26.1803491,91.7508823,OpenStreetMap,node,11939568359,2026-11-26T07:18:39.333913+00:00
+Hotel Suncity,restaurant,Assam,,,,,26.1803527,91.7508803,OpenStreetMap,node,11939570791,2026-11-26T07:18:39.333917+00:00
+Suruchi Hotel,restaurant,Assam,,,,,26.1803585,91.7508838,OpenStreetMap,node,11939571952,2026-11-26T07:18:39.333921+00:00
+Hotel Maa Bogol,restaurant,Assam,,,,,26.1802345,91.750918,OpenStreetMap,node,11939572884,2026-11-26T07:18:39.333926+00:00
+Kerala Bhavan,restaurant,Assam,,,,,26.1803156,91.7508951,OpenStreetMap,node,11939577414,2026-11-26T07:18:39.333930+00:00
+Naga Aunty Restaurant,restaurant,Assam,,,,,26.1797832,91.7510526,OpenStreetMap,node,11939595513,2026-11-26T07:18:39.333934+00:00
+Hotel Maa Tara,restaurant,Assam,,,,,26.1798032,91.7510383,OpenStreetMap,node,11939605665,2026-11-26T07:18:39.333938+00:00
+Domino's,restaurant,Assam,,,,,26.1379555,91.6340133,OpenStreetMap,node,11942126032,2026-11-26T07:18:39.333942+00:00
+Mocha Bean,cafe,Assam,,,,,26.1438618,91.6439233,OpenStreetMap,node,11942153791,2026-11-26T07:18:39.333946+00:00
+Bhogjora,restaurant,Assam,,,,,26.1783357,91.7521177,OpenStreetMap,node,11942543750,2026-11-26T07:18:39.333950+00:00
+Grapes & Cloves,restaurant,Assam,,,,,26.1777897,91.7527296,OpenStreetMap,node,11942569417,2026-11-26T07:18:39.333954+00:00
+Upasana Restaurant,restaurant,Assam,,,,,26.1784875,91.7519839,OpenStreetMap,node,11942595683,2026-11-26T07:18:39.333958+00:00
+Mojo Cafe,cafe,Assam,,,,,26.1780822,91.7526376,OpenStreetMap,node,11942614382,2026-11-26T07:18:39.333962+00:00
+D Berry's,fast_food,Assam,,,,,26.1777358,91.7531929,OpenStreetMap,node,11942625984,2026-11-26T07:18:39.333969+00:00
+Rice Hotel,restaurant,Assam,,,,,26.1777811,91.7527088,OpenStreetMap,node,11942626256,2026-11-26T07:18:39.333973+00:00
+The Garden of Eat'n,restaurant,Assam,,,,,26.1768144,91.7545365,OpenStreetMap,node,11942676853,2026-11-26T07:18:39.333977+00:00
+Kanglei Kitchen,restaurant,Assam,,,,,26.1775046,91.7535477,OpenStreetMap,node,11942682837,2026-11-26T07:18:39.333981+00:00
+Kabita Restaurant,restaurant,Assam,,,,,26.1689638,91.7217904,OpenStreetMap,node,11946693056,2026-11-26T07:18:39.333985+00:00
+Star Kitchen,restaurant,Assam,,,,,26.1672728,91.7197523,OpenStreetMap,node,11946837593,2026-11-26T07:18:39.333989+00:00
+Maa Kamakhya Hotel,restaurant,Assam,,,,,26.1765279,91.7548614,OpenStreetMap,node,11947630048,2026-11-26T07:18:39.333993+00:00
+Netru's Kitchen,restaurant,Assam,,,,,26.1765126,91.7550531,OpenStreetMap,node,11947689535,2026-11-26T07:18:39.333996+00:00
+Krishna Sweets,cafe,Assam,,,,,26.1764979,91.7550778,OpenStreetMap,node,11947726022,2026-11-26T07:18:39.334000+00:00
+Occasion Restaurant,restaurant,Assam,,,,,26.1763498,91.7552341,OpenStreetMap,node,11947734864,2026-11-26T07:18:39.334004+00:00
+Cafe MA'A,cafe,Assam,,,,,26.1598386,91.7739833,OpenStreetMap,node,11948106313,2026-11-26T07:18:39.334010+00:00
+KFC,fast_food,Assam,,,,,27.4836623,95.3882973,OpenStreetMap,node,11951417020,2026-11-26T07:18:39.334014+00:00
+Bhogdoi,restaurant,Assam,,,,,26.1694025,91.763423,OpenStreetMap,node,11951829862,2026-11-26T07:18:39.334018+00:00
+North Pole Restaurant,restaurant,Assam,,,,,26.7449024,92.093758,OpenStreetMap,node,11951985537,2026-11-26T07:18:39.334022+00:00
+Bajwi Hotel,restaurant,Assam,,,,,26.7440344,92.0944971,OpenStreetMap,node,11952007963,2026-11-26T07:18:39.334026+00:00
+Midland Restaurant,restaurant,Assam,,,,,26.7439915,92.0943264,OpenStreetMap,node,11952014024,2026-11-26T07:18:39.334030+00:00
+Pizza Hut,restaurant,Assam,,,,,26.161211,91.7724424,OpenStreetMap,node,11955120303,2026-11-26T07:18:39.334034+00:00
+J14,fast_food,Assam,,,,,26.1603619,91.7735249,OpenStreetMap,node,11955604994,2026-11-26T07:18:39.334038+00:00
+Food Exx,restaurant,Assam,,,,,26.1599945,91.7739273,OpenStreetMap,node,11955646552,2026-11-26T07:18:39.334042+00:00
+Kadak Chai,restaurant,Assam,,,,,26.1601306,91.773792,OpenStreetMap,node,11955657074,2026-11-26T07:18:39.334046+00:00
+Rabha Kitchen,restaurant,Assam,,,,,26.1371018,91.8007012,OpenStreetMap,node,11964089172,2026-11-26T07:18:39.334051+00:00
+Mint leaf restaurant,restaurant,Assam,,,,,26.3523891,92.6885213,OpenStreetMap,node,11972192169,2026-11-26T07:18:39.334057+00:00
+Brahmaputra Fast Food & Hotel,fast_food,Assam,,,,,26.1586264,91.6615671,OpenStreetMap,node,12327002583,2026-11-26T07:18:39.334061+00:00
+Burger King,fast_food,Assam,,,,,26.1583127,91.6802591,OpenStreetMap,node,12327002586,2026-11-26T07:18:39.334066+00:00
+Tandoor's,restaurant,Assam,,,,,26.1590221,91.6891469,OpenStreetMap,node,12327044497,2026-11-26T07:18:39.334070+00:00
+MOMOMIA CAFE,cafe,Assam,,,,,27.0241031,95.009985,OpenStreetMap,node,12350546515,2026-11-26T07:18:39.334074+00:00
+AMAR SAH HOTEL,restaurant,Assam,,,,,27.0259457,95.0148157,OpenStreetMap,node,12350546614,2026-11-26T07:18:39.334078+00:00
+FOOD BASKET,cafe,Assam,,,,,27.0263201,95.0169442,OpenStreetMap,node,12350546615,2026-11-26T07:18:39.334082+00:00
+Darjeeling Momo,fast_food,Assam,,,,,26.1195385,91.7983532,OpenStreetMap,node,12350937111,2026-11-26T07:18:39.334086+00:00
+al zaika,restaurant,Assam,,,,,26.1419841,91.7864615,OpenStreetMap,node,12350937127,2026-11-26T07:18:39.334090+00:00
+kolkata biryani house,restaurant,Assam,,,,,26.142216,91.7865747,OpenStreetMap,node,12350937128,2026-11-26T07:18:39.334096+00:00
+fastfood,fast_food,Assam,,,,,26.1369342,91.7851472,OpenStreetMap,node,12350937139,2026-11-26T07:18:39.334100+00:00
+7th heaven,cafe,Assam,,,,,26.1402441,91.7860905,OpenStreetMap,node,12350937142,2026-11-26T07:18:39.334104+00:00
+Cafe1,cafe,Assam,,,,,26.1292317,91.80841,OpenStreetMap,node,12353339788,2026-11-26T07:18:39.334108+00:00
+Sawkuchi1,cafe,Assam,,,,,26.1236911,91.7488137,OpenStreetMap,node,12353339798,2026-11-26T07:18:39.334112+00:00
+CHIT CHAAT CAFFE,cafe,Assam,Nalbari,Nalbari,"Feenix Mall, Khatabari Bhakatpara Road, 781335",9864000133,26.4482273,91.446547,OpenStreetMap,node,12421171128,2026-11-26T07:18:39.334119+00:00
+Dikrut Sarpo Aboha Restaurant,restaurant,Assam,,,,,26.2108215,93.0423422,OpenStreetMap,node,12769639308,2026-11-26T07:18:39.334124+00:00
+Ganesh Hotel,restaurant,Assam,,,,,25.9698434,93.4366673,OpenStreetMap,node,12771272701,2026-11-26T07:18:39.334128+00:00
+Khai Sang খাই চাং,restaurant,Assam,,,,,26.6277256,92.7921149,OpenStreetMap,node,12814909364,2026-11-26T07:18:39.334131+00:00
+Abhijit Hotel,restaurant,Assam,,,,,26.1221682,91.8113531,OpenStreetMap,node,12963815577,2026-11-26T07:18:39.334136+00:00
+Thacker,restaurant,Assam,,,,,26.1804228,91.7390873,OpenStreetMap,node,12969139197,2026-11-26T07:18:39.334143+00:00
+Chai Time,cafe,Assam,,,,,26.1717217,91.7778876,OpenStreetMap,node,12969290363,2026-11-26T07:18:39.334147+00:00
+FAST FOOD,fast_food,Assam,,,,,26.157822,91.7886725,OpenStreetMap,node,12969295200,2026-11-26T07:18:39.334151+00:00
+BUDDHA'S KITCHEN,restaurant,Assam,,,,,26.1605025,91.7863041,OpenStreetMap,node,12969366942,2026-11-26T07:18:39.334155+00:00
+Aronai ishing,restaurant,Assam,,,,,26.1548241,91.7910221,OpenStreetMap,node,12969377978,2026-11-26T07:18:39.334159+00:00
+feel hungry restaurant,restaurant,Assam,,,,,26.1548016,91.7910283,OpenStreetMap,node,12969377979,2026-11-26T07:18:39.334162+00:00
+Khubchand & Sons,fast_food,Assam,,,,,26.183182,91.7408211,OpenStreetMap,node,12969385105,2026-11-26T07:18:39.334167+00:00
+N.U. Eat At Turns,restaurant,Assam,,,,,26.1821147,91.7423414,OpenStreetMap,node,12969404770,2026-11-26T07:18:39.334171+00:00
+MAA RESTAURANT,restaurant,Assam,,,,,26.1687053,91.7698812,OpenStreetMap,node,12969418443,2026-11-26T07:18:39.334175+00:00
+jonak kitchen,restaurant,Assam,,,,,26.1552814,91.7901743,OpenStreetMap,node,12970716165,2026-11-26T07:18:39.334178+00:00
+ma lakhsmi hotel & resaurant,restaurant,Assam,,,,,26.1520578,91.787476,OpenStreetMap,node,12970724101,2026-11-26T07:18:39.334184+00:00
+pankhi fast food,fast_food,Assam,,,,,26.150287,91.7857605,OpenStreetMap,node,12970724114,2026-11-26T07:18:39.334188+00:00
+RELISH,fast_food,Assam,,,,,26.1614331,91.7843293,OpenStreetMap,node,12971260216,2026-11-26T07:18:39.334192+00:00
+KHAI SAO AHOK11,fast_food,Assam,,,,,26.1618722,91.7831009,OpenStreetMap,node,12971384653,2026-11-26T07:18:39.334196+00:00
+CHILLY TOAST,restaurant,Assam,,,,,26.1715016,91.7710958,OpenStreetMap,node,12971549358,2026-11-26T07:18:39.334200+00:00
+MIDWAY POINT,restaurant,Assam,,,,,26.1722899,91.7714685,OpenStreetMap,node,12971549373,2026-11-26T07:18:39.334204+00:00
+WANG FOOD CORNER,fast_food,Assam,,,,,26.1720759,91.7579684,OpenStreetMap,node,12972763101,2026-11-26T07:18:39.334208+00:00
+Rohit Spicy Fast food,restaurant,Assam,,,,,26.1738435,91.7399884,OpenStreetMap,node,12972944549,2026-11-26T07:18:39.334212+00:00
+RAJU MOMO,fast_food,Assam,,,,,26.1551156,91.7898007,OpenStreetMap,node,12972986078,2026-11-26T07:18:39.334216+00:00
+patisserie operaa,restaurant,Assam,,,,,26.1729271,91.7601288,OpenStreetMap,node,12972989356,2026-11-26T07:18:39.334222+00:00
+Maa Manasha Hotel,restaurant,Assam,,,,,26.1688103,91.7455888,OpenStreetMap,node,12973044851,2026-11-26T07:18:39.334227+00:00
+the home kitchen,restaurant,Assam,,,,,26.1724671,91.7649362,OpenStreetMap,node,12973082010,2026-11-26T07:18:39.334231+00:00
+wow biryani,restaurant,Assam,,,,,26.1724756,91.7649161,OpenStreetMap,node,12973082011,2026-11-26T07:18:39.334235+00:00
+food central,restaurant,Assam,,,,,26.1719774,91.7669297,OpenStreetMap,node,12973082015,2026-11-26T07:18:39.334239+00:00
+AURUM,restaurant,Assam,,,,,26.1688631,91.7459527,OpenStreetMap,node,12974493251,2026-11-26T07:18:39.334243+00:00
+DARJEELING MOMO,restaurant,Assam,,,,,26.1685883,91.748887,OpenStreetMap,node,12974507086,2026-11-26T07:18:39.334247+00:00
+CHOCOLAT,restaurant,Assam,,,,,26.1685919,91.748843,OpenStreetMap,node,12974507087,2026-11-26T07:18:39.334251+00:00
+BEWAFA FOOD,restaurant,Assam,,,,,26.1685919,91.7487918,OpenStreetMap,node,12974507088,2026-11-26T07:18:39.334255+00:00
+49 PLATERS,restaurant,Assam,,,,,26.1686085,91.7487568,OpenStreetMap,node,12974507089,2026-11-26T07:18:39.334259+00:00
+DESI CHULHA,restaurant,Assam,,,,,26.1685944,91.7485533,OpenStreetMap,node,12974522309,2026-11-26T07:18:39.334263+00:00
+CHAKHLE INDIA,restaurant,Assam,,,,,26.1685973,91.7484436,OpenStreetMap,node,12974522310,2026-11-26T07:18:39.334268+00:00
+HUNGRY BUDDHA,restaurant,Assam,,,,,26.1685853,91.7484244,OpenStreetMap,node,12974522311,2026-11-26T07:18:39.334272+00:00
+SANJHA SWAD,restaurant,Assam,,,,,26.1686577,91.7482536,OpenStreetMap,node,12974522314,2026-11-26T07:18:39.334277+00:00
+KITCHEN CONCEPT,restaurant,Assam,,,,,26.1684105,91.7503444,OpenStreetMap,node,12974622185,2026-11-26T07:18:39.334281+00:00
+PAREEKJI,restaurant,Assam,,,,,26.1684683,91.7501454,OpenStreetMap,node,12974622186,2026-11-26T07:18:39.334285+00:00
+CAKE.com,restaurant,Assam,,,,,26.1684541,91.7500911,OpenStreetMap,node,12974622187,2026-11-26T07:18:39.334289+00:00
+GURSEERAT PUNJABI HOTEL,fast_food,Assam,,,,,26.1684132,91.7489918,OpenStreetMap,node,12974665391,2026-11-26T07:18:39.334293+00:00
+RK KITCHEN,restaurant,Assam,,,,,26.1686287,91.7542094,OpenStreetMap,node,12974687075,2026-11-26T07:18:39.334297+00:00
+Bhutans,fast_food,Assam,,,,,26.1790833,91.7396521,OpenStreetMap,node,12976155226,2026-11-26T07:18:39.334301+00:00
+ROHNY'S KITCHEN,fast_food,Assam,,,,,26.1512827,91.7865072,OpenStreetMap,node,12976225165,2026-11-26T07:18:39.334304+00:00
+BHARALI RESTURANT,restaurant,Assam,,,,,26.1511206,91.7863695,OpenStreetMap,node,12976225169,2026-11-26T07:18:39.334312+00:00
+HALOI HOTEL AND RESTAURANT,restaurant,Assam,,,,,26.1536871,91.7885296,OpenStreetMap,node,12976250835,2026-11-26T07:18:39.334319+00:00
+fast food,fast_food,Assam,,,,,26.1529438,91.788003,OpenStreetMap,node,12976250842,2026-11-26T07:18:39.334326+00:00
+Lassi Spot,fast_food,Assam,,,,,26.1802945,91.7393453,OpenStreetMap,node,12976320599,2026-11-26T07:18:39.334331+00:00
+Jay Shree Hotel,restaurant,Assam,,,,,26.1803867,91.7393636,OpenStreetMap,node,12976320602,2026-11-26T07:18:39.334335+00:00
+Jay Shree Ki Rasoi,restaurant,Assam,,,,,26.1803987,91.7393687,OpenStreetMap,node,12976320603,2026-11-26T07:18:39.334339+00:00
+San ju's food,restaurant,Assam,,,,,26.1773829,91.773795,OpenStreetMap,node,12976321285,2026-11-26T07:18:39.334344+00:00
+Food'zye,restaurant,Assam,,,,,26.1767306,91.7735658,OpenStreetMap,node,12976321293,2026-11-26T07:18:39.334348+00:00
+ARNAV TENT HOUSE,cafe,Assam,,,,,26.1766224,91.7734587,OpenStreetMap,node,12976321296,2026-11-26T07:18:39.334352+00:00
+DAVIDS KITCHEN,restaurant,Assam,,,,,26.1748356,91.7585213,OpenStreetMap,node,12976349952,2026-11-26T07:18:39.334357+00:00
+JUICE LASSI & SHAKE CORNER,fast_food,Assam,,,,,26.1748791,91.7587409,OpenStreetMap,node,12976349959,2026-11-26T07:18:39.334363+00:00
+FOODIES,restaurant,Assam,,,,,26.1750696,91.7729508,OpenStreetMap,node,12976374609,2026-11-26T07:18:39.334367+00:00
+VANILLA GRAIN BAKERY &CAFE,cafe,Assam,,,,,26.1749067,91.7728823,OpenStreetMap,node,12976374611,2026-11-26T07:18:39.334371+00:00
+BARK BARK COFFEE,cafe,Assam,,,,,26.1736799,91.7723257,OpenStreetMap,node,12976374617,2026-11-26T07:18:39.334376+00:00
+HOTEL MINTU & MINAKHI,restaurant,Assam,,,,,26.1721758,91.7716028,OpenStreetMap,node,12976374630,2026-11-26T07:18:39.334380+00:00
+Nashraj Restaurant,restaurant,Assam,,,,,26.1819705,91.7406988,OpenStreetMap,node,12976471300,2026-11-26T07:18:39.334385+00:00
+Monu fast food,fast_food,Assam,,,,,26.1443956,91.7786496,OpenStreetMap,node,12976738003,2026-11-26T07:18:39.334389+00:00
+deli-c-us,restaurant,Assam,,,,,26.1647016,91.7799293,OpenStreetMap,node,12976794044,2026-11-26T07:18:39.334393+00:00
+SHRI GANESH FAST FOOD,fast_food,Assam,,,,,26.1507132,91.7846793,OpenStreetMap,node,12976804538,2026-11-26T07:18:39.334397+00:00
+MISISIPI RESTAURANT,restaurant,Assam,,,,,26.1507578,91.784744,OpenStreetMap,node,12976804544,2026-11-26T07:18:39.334401+00:00
+YES BIRYANI,restaurant,Assam,,,,,26.1747771,91.7726034,OpenStreetMap,node,12976819500,2026-11-26T07:18:39.334407+00:00
+THE ALCHEMY GRILL AND LOUNGE,restaurant,Assam,,,,,26.1670128,91.7792392,OpenStreetMap,node,12976833836,2026-11-26T07:18:39.334410+00:00
+CHINA TOWN,restaurant,Assam,,,,,26.1752787,91.7727897,OpenStreetMap,node,12976864903,2026-11-26T07:18:39.334414+00:00
+PAYAL CHADHA,restaurant,Assam,,,,,26.1758419,91.7729821,OpenStreetMap,node,12976864908,2026-11-26T07:18:39.334418+00:00
+TREAT CORNER,restaurant,Assam,,,,,26.1760398,91.7730688,OpenStreetMap,node,12976864909,2026-11-26T07:18:39.334422+00:00
+the JOOS,fast_food,Assam,,,,,26.176068,91.7730799,OpenStreetMap,node,12976864910,2026-11-26T07:18:39.334426+00:00
+MITTI EATTI,cafe,Assam,,,,,26.1761022,91.7730908,OpenStreetMap,node,12976864911,2026-11-26T07:18:39.334430+00:00
+RICON,restaurant,Assam,,,,,26.176252,91.7731709,OpenStreetMap,node,12976864913,2026-11-26T07:18:39.334434+00:00
+The London Shakes,restaurant,Assam,,,,,26.1813905,91.7403397,OpenStreetMap,node,12976879916,2026-11-26T07:18:39.334438+00:00
+Feed Zone,restaurant,Assam,,,,,26.1813623,91.7403293,OpenStreetMap,node,12976879917,2026-11-26T07:18:39.334442+00:00
+CLASSIC RESTAURANT,restaurant,Assam,,,,,26.154199,91.7835261,OpenStreetMap,node,12976907985,2026-11-26T07:18:39.334448+00:00
+MAA KAMAKHYA MANBI KITCHEN,restaurant,Assam,,,,,26.1746536,91.7646507,OpenStreetMap,node,12976937644,2026-11-26T07:18:39.334452+00:00
+AKASHIGANGA RESTAURANT,restaurant,Assam,,,,,26.1751851,91.7575398,OpenStreetMap,node,12976951799,2026-11-26T07:18:39.334456+00:00
+KOLKATA BIRYANI,restaurant,Assam,,,,,26.1743313,91.765952,OpenStreetMap,node,12976991998,2026-11-26T07:18:39.334460+00:00
+ASSAM FAST FOOD,fast_food,Assam,,,,,26.1505279,91.7857712,OpenStreetMap,node,12977020203,2026-11-26T07:18:39.334464+00:00
+LUITPORIYA KITCHEN,restaurant,Assam,,,,,26.1690316,91.7701817,OpenStreetMap,node,12977021852,2026-11-26T07:18:39.334468+00:00
+CHERRY'S,restaurant,Assam,,,,,26.1689205,91.7701112,OpenStreetMap,node,12977021854,2026-11-26T07:18:39.334472+00:00
+BAINI'S CORNER,restaurant,Assam,,,,,26.1685991,91.769982,OpenStreetMap,node,12977021861,2026-11-26T07:18:39.334476+00:00
+NAMSAI KITCHEN,fast_food,Assam,,,,,26.1443236,91.7818803,OpenStreetMap,node,12977236607,2026-11-26T07:18:39.334479+00:00
+BINDASS FAST FOOD,fast_food,Assam,,,,,26.1442858,91.7828762,OpenStreetMap,node,12977236613,2026-11-26T07:18:39.334483+00:00
+village kitchen,restaurant,Assam,,,,,26.1151808,91.7984501,OpenStreetMap,node,12977874492,2026-11-26T07:18:39.334489+00:00
+hotel bidisha,restaurant,Assam,,,,,26.1150783,91.7984188,OpenStreetMap,node,12977874493,2026-11-26T07:18:39.334493+00:00
+rohini,restaurant,Assam,,,,,26.1147851,91.7983638,OpenStreetMap,node,12977874499,2026-11-26T07:18:39.334497+00:00
+richa fast food & khorika,fast_food,Assam,,,,,26.1127225,91.7986545,OpenStreetMap,node,12978095778,2026-11-26T07:18:39.334501+00:00
+THE GARDEN CAFE,cafe,Assam,,,,,26.1558092,91.7835231,OpenStreetMap,node,12978157795,2026-11-26T07:18:39.334504+00:00
+gupta store,restaurant,Assam,,,,,26.1129489,91.7993546,OpenStreetMap,node,12978184756,2026-11-26T07:18:39.334508+00:00
+maruti hotel,restaurant,Assam,,,,,26.1130332,91.7996094,OpenStreetMap,node,12978184757,2026-11-26T07:18:39.334512+00:00
+HOTEL ATITHI,fast_food,Assam,,,,,26.1580768,91.7858103,OpenStreetMap,node,12978201702,2026-11-26T07:18:39.334516+00:00
+NIGHT LIFE,cafe,Assam,,,,,26.16882,91.7789711,OpenStreetMap,node,12978320430,2026-11-26T07:18:39.334520+00:00
+THE RHAPSODY BISTRO,cafe,Assam,,,,,26.1679402,91.7792432,OpenStreetMap,node,12978320437,2026-11-26T07:18:39.334524+00:00
+FARHRENHEIT,restaurant,Assam,,,,,26.1704495,91.7779506,OpenStreetMap,node,12978443747,2026-11-26T07:18:39.334537+00:00
+MATRIKKA,restaurant,Assam,,,,,26.1707911,91.7778723,OpenStreetMap,node,12978443753,2026-11-26T07:18:39.334543+00:00
+GRADUATE CHAIWALA,cafe,Assam,,,,,26.171416,91.7776575,OpenStreetMap,node,12978443762,2026-11-26T07:18:39.334548+00:00
+AAHAAR,restaurant,Assam,,,,,26.1720336,91.777473,OpenStreetMap,node,12978443765,2026-11-26T07:18:39.334552+00:00
+HIMACHAL MAGGI HOTSPOT,cafe,Assam,,,,,26.1742111,91.7787102,OpenStreetMap,node,12978524323,2026-11-26T07:18:39.334556+00:00
+HOTEL & RESTAURANT,restaurant,Assam,,,,,26.1742542,91.7785906,OpenStreetMap,node,12978524327,2026-11-26T07:18:39.334560+00:00
+suresh dhaba,restaurant,Assam,,,,,26.1134234,91.8017498,OpenStreetMap,node,12978974967,2026-11-26T07:18:39.334564+00:00
+kalpaat,restaurant,Assam,,,,,26.1145429,91.8054749,OpenStreetMap,node,12978974972,2026-11-26T07:18:39.334568+00:00
+Shree Shyam Fruits & Juice,fast_food,Assam,,,,,26.1660369,91.7685817,OpenStreetMap,node,13006084118,2026-11-26T07:18:39.334573+00:00
+Kasturi Dhaba,fast_food,Assam,,,,,26.1647435,91.8323443,OpenStreetMap,node,13008478305,2026-11-26T07:18:39.334577+00:00
+Tripti,fast_food,Assam,,,,,26.1643332,91.8326091,OpenStreetMap,node,13008478309,2026-11-26T07:18:39.334581+00:00
+DM's Delights,cafe,Assam,,,,,26.1800298,91.7747464,OpenStreetMap,node,13016620971,2026-11-26T07:18:39.334585+00:00
+Kadak Chaa,cafe,Assam,,,,,26.1800082,91.775093,OpenStreetMap,node,13016620976,2026-11-26T07:18:39.334589+00:00
+Cafe De Lite,cafe,Assam,,,,,26.1800021,91.7751717,OpenStreetMap,node,13016620977,2026-11-26T07:18:39.334593+00:00
+D Corner,cafe,Assam,,,,,26.1800203,91.7752992,OpenStreetMap,node,13016620980,2026-11-26T07:18:39.334597+00:00
+Lemongrass,cafe,Assam,,,,,26.1872277,91.7411402,OpenStreetMap,node,13016631267,2026-11-26T07:18:39.334601+00:00
+Mon Jai,restaurant,Assam,,,,,26.1800837,91.7744588,OpenStreetMap,node,13016658209,2026-11-26T07:18:39.334605+00:00
+Hunger End,cafe,Assam,,,,,26.1801138,91.7745897,OpenStreetMap,node,13016658211,2026-11-26T07:18:39.334609+00:00
+Axom Fast Food,fast_food,Assam,,,,,26.1588122,91.8381987,OpenStreetMap,node,13016688138,2026-11-26T07:18:39.334613+00:00
+Chilled Treats,fast_food,Assam,,,,,26.1593649,91.8375641,OpenStreetMap,node,13016688144,2026-11-26T07:18:39.334617+00:00
+Juhal Restaurant,restaurant,Assam,,,,,26.1676819,91.8300697,OpenStreetMap,node,13016711404,2026-11-26T07:18:39.334621+00:00
+Akshay plaza,restaurant,Assam,,,,,26.1802178,91.7358101,OpenStreetMap,node,13016714240,2026-11-26T07:18:39.334625+00:00
+harshita food,restaurant,Assam,,,,,26.1805926,91.7361427,OpenStreetMap,node,13016714241,2026-11-26T07:18:39.334629+00:00
+JB'S,restaurant,Assam,,,,,26.1813815,91.736649,OpenStreetMap,node,13016714252,2026-11-26T07:18:39.334633+00:00
+Nirshita,restaurant,Assam,,,,,26.1838608,91.7383009,OpenStreetMap,node,13016714265,2026-11-26T07:18:39.334637+00:00
+FOOD HUNT,fast_food,Assam,,,,,26.1789067,91.8173564,OpenStreetMap,node,13016716585,2026-11-26T07:18:39.334640+00:00
+J 14,cafe,Assam,,,,,26.1852539,91.7550921,OpenStreetMap,node,13016729787,2026-11-26T07:18:39.334644+00:00
+Steaming Mug,cafe,Assam,,,,,26.1855476,91.7527777,OpenStreetMap,node,13016729800,2026-11-26T07:18:39.334648+00:00
+Zaika,restaurant,Assam,,,,,26.1262858,91.7791491,OpenStreetMap,node,13016737127,2026-11-26T07:18:39.334652+00:00
+Sufi Kitchen,restaurant,Assam,,,,,26.1284755,91.7793187,OpenStreetMap,node,13016737146,2026-11-26T07:18:39.334655+00:00
+alberts kitchen,restaurant,Assam,,,,,26.1650874,91.8320646,OpenStreetMap,node,13016748211,2026-11-26T07:18:39.334660+00:00
+AWAKEN AROMAS,fast_food,Assam,,,,,26.1791804,91.8061759,OpenStreetMap,node,13016755585,2026-11-26T07:18:39.334664+00:00
+Tasty Tiffin,restaurant,Assam,,,,,26.1856301,91.752455,OpenStreetMap,node,13016757406,2026-11-26T07:18:39.334668+00:00
+Fat Belly,cafe,Assam,,,,,26.1857035,91.7522618,OpenStreetMap,node,13016757410,2026-11-26T07:18:39.334672+00:00
+City View Cafe,cafe,Assam,,,,,26.1857077,91.7522786,OpenStreetMap,node,13016757411,2026-11-26T07:18:39.334676+00:00
+Scotty's,cafe,Assam,,,,,26.1856893,91.7522683,OpenStreetMap,node,13016757412,2026-11-26T07:18:39.334680+00:00
+Rustic Roots,cafe,Assam,,,,,26.1859891,91.7547119,OpenStreetMap,node,13016757413,2026-11-26T07:18:39.334684+00:00
+Drools,cafe,Assam,,,,,26.1859084,91.7547029,OpenStreetMap,node,13016757417,2026-11-26T07:18:39.334687+00:00
+Fresh Fast Tasty,cafe,Assam,,,,,26.185751,91.7546599,OpenStreetMap,node,13016757418,2026-11-26T07:18:39.334691+00:00
+Balcony Cafe,cafe,Assam,,,,,26.1858267,91.752246,OpenStreetMap,node,13016757419,2026-11-26T07:18:39.334695+00:00
+Pizza Hut,restaurant,Assam,,,,,26.1416261,91.7863496,OpenStreetMap,node,13016771339,2026-11-26T07:18:39.334700+00:00
+Naisha'S Silver Spoon,restaurant,Assam,,,,,26.1418184,91.7864136,OpenStreetMap,node,13016771341,2026-11-26T07:18:39.334704+00:00
+Popular Chat House,fast_food,Assam,,,,,26.1429423,91.7866225,OpenStreetMap,node,13016771357,2026-11-26T07:18:39.334708+00:00
+Shree Sweets And Spice,restaurant,Assam,,,,,26.1786844,91.8044884,OpenStreetMap,node,13016771427,2026-11-26T07:18:39.334711+00:00
+Thali Ghar,restaurant,Assam,,,,,26.1360682,91.785849,OpenStreetMap,node,13016772299,2026-11-26T07:18:39.334715+00:00
+DEEP FAST FOOD,fast_food,Assam,,,,,26.1780767,91.8042473,OpenStreetMap,node,13016784503,2026-11-26T07:18:39.334719+00:00
+Choudhury Tea Stall,cafe,Assam,,,,,26.1616785,91.7348474,OpenStreetMap,node,13016784548,2026-11-26T07:18:39.334723+00:00
+MS Shiv Restaurant,restaurant,Assam,,,,,26.1607223,91.734113,OpenStreetMap,node,13016784561,2026-11-26T07:18:39.334726+00:00
+Darjelling Momos,restaurant,Assam,,,,,26.1572147,91.7326373,OpenStreetMap,node,13016784588,2026-11-26T07:18:39.334730+00:00
+BHAI BHAI,restaurant,Assam,,,,,26.1728179,91.7866136,OpenStreetMap,node,13016790554,2026-11-26T07:18:39.334734+00:00
+EAGLE ARDEN,restaurant,Assam,,,,,26.1726179,91.7836075,OpenStreetMap,node,13016790567,2026-11-26T07:18:39.334738+00:00
+MASAANJA,restaurant,Assam,,,,,26.172378,91.7812182,OpenStreetMap,node,13016790571,2026-11-26T07:18:39.334742+00:00
+KRISHAV SWEETS,cafe,Assam,,,,,26.1723866,91.7811525,OpenStreetMap,node,13016790572,2026-11-26T07:18:39.334746+00:00
+Barista,cafe,Assam,,,,,26.1731418,91.7802765,OpenStreetMap,node,13016790577,2026-11-26T07:18:39.334750+00:00
+BOBA BUZZ,cafe,Assam,,,,,26.17305,91.7803768,OpenStreetMap,node,13016790579,2026-11-26T07:18:39.334755+00:00
+Intoxica,restaurant,Assam,,,,,26.1437212,91.7865455,OpenStreetMap,node,13016791510,2026-11-26T07:18:39.334759+00:00
+KFC,fast_food,Assam,,,,,26.14388,91.7865409,OpenStreetMap,node,13016791513,2026-11-26T07:18:39.334763+00:00
+DJ 3 Restaurant,restaurant,Assam,,,,,26.144558,91.7864582,OpenStreetMap,node,13016791521,2026-11-26T07:18:39.334768+00:00
+Hotel EL Paradiso,restaurant,Assam,,,,,26.1620863,91.8342006,OpenStreetMap,node,13016792494,2026-11-26T07:18:39.334772+00:00
+P.B.R. RESTAURANT,restaurant,Assam,,,,,26.1350507,91.7243195,OpenStreetMap,node,13016798804,2026-11-26T07:18:39.334776+00:00
+Manpasand Momo,fast_food,Assam,,,,,26.1788206,91.815244,OpenStreetMap,node,13016798827,2026-11-26T07:18:39.334781+00:00
+GUNJAN FASTFOOD,fast_food,Assam,,,,,26.136549,91.7248326,OpenStreetMap,node,13016799654,2026-11-26T07:18:39.334785+00:00
+Hungry Monk,fast_food,Assam,,,,,26.1656451,91.8313238,OpenStreetMap,node,13016801118,2026-11-26T07:18:39.334788+00:00
+Tip top,restaurant,Assam,,,,,26.1590046,91.6965189,OpenStreetMap,node,13016801381,2026-11-26T07:18:39.334792+00:00
+Sneha fast food,fast_food,Assam,,,,,26.1589714,91.6967657,OpenStreetMap,node,13016803703,2026-11-26T07:18:39.334797+00:00
+Fast food and resturent,restaurant,Assam,,,,,26.1589739,91.6967666,OpenStreetMap,node,13016803704,2026-11-26T07:18:39.334800+00:00
+Aquamarine,fast_food,Assam,,,,,26.1590584,91.6975151,OpenStreetMap,node,13016803710,2026-11-26T07:18:39.334804+00:00
+Ajahar A1 Fast Food Centre,restaurant,Assam,,,,,26.150853,91.7298192,OpenStreetMap,node,13016844586,2026-11-26T07:18:39.334808+00:00
+Kamakhya Sweets,restaurant,Assam,,,,,26.150532,91.7296625,OpenStreetMap,node,13016844592,2026-11-26T07:18:39.334812+00:00
+Maa Kali Hotel,restaurant,Assam,,,,,26.1494721,91.7290095,OpenStreetMap,node,13016846302,2026-11-26T07:18:39.334816+00:00
+Alohi,restaurant,Assam,,,,,26.1218823,91.7871383,OpenStreetMap,node,13020524855,2026-11-26T07:18:39.334820+00:00
+Magic Food,restaurant,Assam,,,,,26.1815417,91.7616624,OpenStreetMap,node,13022655150,2026-11-26T07:18:39.334824+00:00
+Tasty Trek,cafe,Assam,,,,,26.1812062,91.7621495,OpenStreetMap,node,13022655155,2026-11-26T07:18:39.334828+00:00
+KFC Lokhra,restaurant,Assam,,,,,26.1119016,91.7608955,OpenStreetMap,node,13131291341,2026-11-26T07:18:39.334831+00:00
+পিজ্জা লাইট,restaurant,Assam,,,"Railway Station Rd, 782446",+91 93654 10465,25.9156147,92.9563174,OpenStreetMap,node,13152617501,2026-11-26T07:18:39.334836+00:00
+J14 Good Food,fast_food,Assam,kamrup metropolitian,Sonapur,"khushal nagar road, 782402",+91 9707882138,26.1205212,91.9683569,OpenStreetMap,node,13169434373,2026-11-26T07:18:39.334840+00:00
+J14 Good Food,fast_food,Assam,Kamrup Metropolitan,Guwahati,"2, G.S. Road, 781007",,26.1668414,91.7669102,OpenStreetMap,node,13175436785,2026-11-26T07:18:39.334845+00:00
+J14 Sonapur,fast_food,Assam,,,,,26.1212495,91.9708829,OpenStreetMap,node,13175436786,2026-11-26T07:18:39.334849+00:00
+Anurag Dhaba,restaurant,Assam,,,,,26.3084687,92.703212,OpenStreetMap,node,13196973601,2026-11-26T07:18:39.334853+00:00
+Take Eat Easy,restaurant,Assam,Cachar,Silchar,"Opp Prime Health Care, Meherpur, 788015",+91-7099949729,24.7983381,92.792181,OpenStreetMap,node,13290336008,2026-11-26T07:18:39.334857+00:00
+Rahdhala restaurant and cafe,restaurant,Assam,,,,,26.5925763,93.9858582,OpenStreetMap,node,13307894401,2026-11-26T07:18:39.334863+00:00
+Jyoti Palace,restaurant,Assam,,,,,26.8387089,94.4544147,OpenStreetMap,node,13307971601,2026-11-26T07:18:39.334868+00:00
+Mimosa Restaurant and Cafe,restaurant,Assam,,,,,27.5292506,94.7245232,OpenStreetMap,node,13310534301,2026-11-26T07:18:39.334872+00:00
+Green Ashiyana Dhaba,restaurant,Assam,,,,,26.7551971,93.2566146,OpenStreetMap,node,13321544501,2026-11-26T07:18:39.334876+00:00
+Kazu noodle bar,restaurant,Assam,,,,,26.1884719,91.7520393,OpenStreetMap,node,13361217701,2026-11-26T07:18:39.334880+00:00
+Ripuraj,restaurant,Assam,,,,,26.3542514,92.6963515,OpenStreetMap,node,13372116793,2026-11-26T07:18:39.334884+00:00
+nugget,fast_food,Assam,,,,,26.333325,93.9925019,OpenStreetMap,node,13382957528,2026-11-26T07:18:39.334887+00:00
+Johnny Rolls,fast_food,Assam,,,,,26.3568261,92.6902953,OpenStreetMap,node,13386468301,2026-11-26T07:18:39.334891+00:00
+Choran Ahem Karbi Food Centre,restaurant,Assam,,,,,26.5743138,93.0455418,OpenStreetMap,node,13392430101,2026-11-26T07:18:39.334895+00:00
+Matsyagandha Restaurant,restaurant,Assam,,,,,26.1601274,92.3544694,OpenStreetMap,node,13394268801,2026-11-26T07:18:39.334899+00:00
+Urban Tea Bistro,cafe,Assam,,,,,26.7587641,94.1979962,OpenStreetMap,node,13470587810,2026-11-26T07:18:39.334904+00:00
+The Bongs Kitchen,restaurant,Assam,Kamrup Metro,Guwahati,"Purbanchal Path, 781034",7002517497,26.1398863,91.7542809,OpenStreetMap,node,13483896093,2026-11-26T07:18:39.334909+00:00
+THE BEER  CAFE TANDAV RESTRO BAR,cafe,Assam,,,,,26.1594487,91.7816795,OpenStreetMap,node,13506189518,2026-11-26T07:18:39.334914+00:00
+THE COFFEE ROOM,cafe,Assam,,,,,26.1594726,91.781686,OpenStreetMap,node,13506189519,2026-11-26T07:18:39.334918+00:00
+wokfit cafe,cafe,Assam,,,,,26.1750297,91.7592341,OpenStreetMap,node,13506197123,2026-11-26T07:18:39.334922+00:00
+R,restaurant,Assam,,,,,26.1749888,91.7617927,OpenStreetMap,node,13506197138,2026-11-26T07:18:39.334926+00:00
+Red chilli,restaurant,Assam,,,,,26.1749908,91.7617941,OpenStreetMap,node,13506197139,2026-11-26T07:18:39.334930+00:00
+Rahul Hotel,restaurant,Assam,,,,,26.1753787,91.7623245,OpenStreetMap,node,13506197143,2026-11-26T07:18:39.334934+00:00
+MAHBUB FAST FOOD HUB,fast_food,Assam,,,,,26.1252461,91.7866341,OpenStreetMap,node,13506197147,2026-11-26T07:18:39.334937+00:00
+SIP & BITE,restaurant,Assam,,,,,26.1253684,91.7866295,OpenStreetMap,node,13506197149,2026-11-26T07:18:39.334941+00:00
+Al- Beak Restaurant,restaurant,Assam,,,,,26.1768461,91.7349776,OpenStreetMap,node,13506212448,2026-11-26T07:18:39.334947+00:00
+JESTEA CORNER,cafe,Assam,,,,,26.1713785,91.7695161,OpenStreetMap,node,13506225436,2026-11-26T07:18:39.334951+00:00
+HUNGRY DELIGHTS,cafe,Assam,,,,,26.1714147,91.7693657,OpenStreetMap,node,13506225437,2026-11-26T07:18:39.334955+00:00
+Akash noor biryani,restaurant,Assam,,,,,26.1256259,91.7864165,OpenStreetMap,node,13506229565,2026-11-26T07:18:39.334959+00:00
+BUYANS FOOD,fast_food,Assam,,,,,26.1574257,91.7824063,OpenStreetMap,node,13506243383,2026-11-26T07:18:39.334963+00:00
+IORA KITCHEN,restaurant,Assam,,,,,26.156166,91.782805,OpenStreetMap,node,13506243384,2026-11-26T07:18:39.334967+00:00
+KB's Restaurant & Dine,restaurant,Assam,,,,,26.1809484,91.7561696,OpenStreetMap,node,13506245541,2026-11-26T07:18:39.334971+00:00
+Cafe & cocktails,cafe,Assam,,,,,26.1801233,91.7563813,OpenStreetMap,node,13506245552,2026-11-26T07:18:39.334975+00:00
+Chicken leg piece,restaurant,Assam,,,,,26.1786308,91.7566433,OpenStreetMap,node,13506245565,2026-11-26T07:18:39.334979+00:00
+Fat Belly,restaurant,Assam,,,,,26.1914724,91.7533144,OpenStreetMap,node,13506276155,2026-11-26T07:18:39.334983+00:00
+Hot Pot,restaurant,Assam,,,,,26.1914404,91.753557,OpenStreetMap,node,13506276157,2026-11-26T07:18:39.334989+00:00
+Madam,restaurant,Assam,,,,,26.1914849,91.7536487,OpenStreetMap,node,13506276158,2026-11-26T07:18:39.334993+00:00
+KoKoPoP Pancakes,cafe,Assam,,,,,26.1914851,91.7536712,OpenStreetMap,node,13506276159,2026-11-26T07:18:39.334996+00:00
+Yum Yum Korean Bucket,restaurant,Assam,,,,,26.1915152,91.7537545,OpenStreetMap,node,13506276161,2026-11-26T07:18:39.335000+00:00
+Michinga,restaurant,Assam,,,,,26.1916393,91.7536833,OpenStreetMap,node,13506276162,2026-11-26T07:18:39.335004+00:00
+Wow! Momo,fast_food,Assam,,,,,26.1916863,91.7538092,OpenStreetMap,node,13506276163,2026-11-26T07:18:39.335008+00:00
+Beyond By Robert Junior Cafe,cafe,Assam,,,,,26.1917112,91.7538587,OpenStreetMap,node,13506276164,2026-11-26T07:18:39.335012+00:00
+Patty Oh,cafe,Assam,,,,,26.1916262,91.7543787,OpenStreetMap,node,13506276167,2026-11-26T07:18:39.335016+00:00
+Pakghar,cafe,Assam,,,,,26.1920013,91.7550906,OpenStreetMap,node,13506276173,2026-11-26T07:18:39.335020+00:00
+Maa Bhojanalaya,restaurant,Assam,,,,,26.1912397,91.7553981,OpenStreetMap,node,13506276191,2026-11-26T07:18:39.335024+00:00
+Nilkanth Restaurant,restaurant,Assam,,,,,26.1910703,91.7553964,OpenStreetMap,node,13506276197,2026-11-26T07:18:39.335029+00:00
+Chai Sutta Bar,cafe,Assam,,,,,26.1910617,91.7553782,OpenStreetMap,node,13506276198,2026-11-26T07:18:39.335041+00:00
+Mirch Masala,cafe,Assam,,,,,26.1910112,91.7558785,OpenStreetMap,node,13506276200,2026-11-26T07:18:39.335045+00:00
+Face Food,restaurant,Assam,,,,,26.1907516,91.754784,OpenStreetMap,node,13506303008,2026-11-26T07:18:39.335049+00:00
+Crafter,cafe,Assam,,,,,26.1904583,91.7540468,OpenStreetMap,node,13506303013,2026-11-26T07:18:39.335053+00:00
+biryani by kilo,restaurant,Assam,,,,,26.1723963,91.7596795,OpenStreetMap,node,13506307529,2026-11-26T07:18:39.335057+00:00
+OMAAGO,restaurant,Assam,,,,,26.1723863,91.7596127,OpenStreetMap,node,13506307533,2026-11-26T07:18:39.335061+00:00
+KACHARI'S KITCHEN,restaurant,Assam,,,,,26.1721318,91.7580847,OpenStreetMap,node,13506307541,2026-11-26T07:18:39.335065+00:00
+WANG FOOD CORNER,fast_food,Assam,,,,,26.1721318,91.7580745,OpenStreetMap,node,13506307542,2026-11-26T07:18:39.335068+00:00
+La Pino'z Pizza,fast_food,Assam,,,,,26.1703386,91.7473371,OpenStreetMap,node,13506558270,2026-11-26T07:18:39.335072+00:00
+THE PELICAN,fast_food,Assam,,,,,26.174098,91.7493726,OpenStreetMap,node,13506845489,2026-11-26T07:18:39.335078+00:00
+Domino's,fast_food,Assam,,,,,26.1745949,91.7495095,OpenStreetMap,node,13506845492,2026-11-26T07:18:39.335082+00:00
+DARJEELING MOMO,fast_food,Assam,,,,,26.1748719,91.7496257,OpenStreetMap,node,13506845498,2026-11-26T07:18:39.335086+00:00
+BICKY MOMO HOUSE,fast_food,Assam,,,,,26.1724738,91.7396997,OpenStreetMap,node,13508163773,2026-11-26T07:18:39.335091+00:00
+AURUM BURGERS,fast_food,Assam,,,,,26.171277,91.7373495,OpenStreetMap,node,13508165920,2026-11-26T07:18:39.335095+00:00
+Ok CHICKEN,restaurant,Assam,,,,,26.173661,91.7589295,OpenStreetMap,node,13508245266,2026-11-26T07:18:39.335099+00:00
+KITCHEN HUB,fast_food,Assam,,,,,26.1582218,91.7599088,OpenStreetMap,node,13508430614,2026-11-26T07:18:39.335102+00:00
+J14,restaurant,Assam,,,,,26.1773734,91.7570719,OpenStreetMap,node,13509359744,2026-11-26T07:18:39.335106+00:00
+BLR Express,restaurant,Assam,,,,,26.1905282,91.7531738,OpenStreetMap,node,13511238153,2026-11-26T07:18:39.335110+00:00
+Razi Biryani,restaurant,Assam,,,,,26.1905346,91.7529324,OpenStreetMap,node,13511238156,2026-11-26T07:18:39.335114+00:00
+Cafe Choco Craze,cafe,Assam,,,,,26.190508,91.7528373,OpenStreetMap,node,13511238157,2026-11-26T07:18:39.335120+00:00
+SETEN H HEAVEN,restaurant,Assam,,,,,26.1707354,91.7623499,OpenStreetMap,node,13511248974,2026-11-26T07:18:39.335124+00:00
+J FOURTEEN,restaurant,Assam,,,,,26.1853023,91.7550546,OpenStreetMap,node,13511289082,2026-11-26T07:18:39.335128+00:00
+Bhola Chaat Bhandar,fast_food,Assam,,,,,26.1908879,91.7569033,OpenStreetMap,node,13511289097,2026-11-26T07:18:39.335132+00:00
+Lovely Chanda Restaurant,restaurant,Assam,,,,,26.1904854,91.757011,OpenStreetMap,node,13511289098,2026-11-26T07:18:39.335136+00:00
+POCKET PIZZA,fast_food,Assam,,,,,26.14119,91.786209,OpenStreetMap,node,13511357697,2026-11-26T07:18:39.335139+00:00
+Pizza Hut,restaurant,Assam,,,,,26.1417012,91.7863699,OpenStreetMap,node,13511359574,2026-11-26T07:18:39.335156+00:00
+NEW CITI DHABA,restaurant,Assam,,,,,26.1658747,91.7669147,OpenStreetMap,node,13511363277,2026-11-26T07:18:39.335161+00:00
+CITY FOOD POINT,fast_food,Assam,,,,,26.1661518,91.7670015,OpenStreetMap,node,13511363278,2026-11-26T07:18:39.335165+00:00
+Yewale am,fast_food,Assam,,,,,26.1663435,91.7668877,OpenStreetMap,node,13511363280,2026-11-26T07:18:39.335169+00:00
+GUWAHATI CANTEEN,restaurant,Assam,,,,,26.1166624,91.8128349,OpenStreetMap,node,13511364142,2026-11-26T07:18:39.335174+00:00
+KRISTI MOMO CORNER,fast_food,Assam,,,,,26.112635,91.7981754,OpenStreetMap,node,13511364143,2026-11-26T07:18:39.335178+00:00
+RICHA FAST FOOD,fast_food,Assam,,,,,26.1126998,91.7984861,OpenStreetMap,node,13511364144,2026-11-26T07:18:39.335182+00:00
+FRUIT JUICE,fast_food,Assam,,,,,26.1127966,91.7990566,OpenStreetMap,node,13511364146,2026-11-26T07:18:39.335186+00:00
+FRESH FRUIT JUICE,fast_food,Assam,,,,,26.1128614,91.7996096,OpenStreetMap,node,13511364147,2026-11-26T07:18:39.335190+00:00
+DOSA EXPRESS,restaurant,Assam,,,,,26.173438,91.7768616,OpenStreetMap,node,13511364156,2026-11-26T07:18:39.335193+00:00
+JAPANESE AND FUSION CUISINE,restaurant,Assam,,,,,26.1735599,91.7768665,OpenStreetMap,node,13511364157,2026-11-26T07:18:39.335197+00:00
+ETHNIC MOMO,fast_food,Assam,,,,,26.173833,91.7769276,OpenStreetMap,node,13511364158,2026-11-26T07:18:39.335201+00:00
+WOK & ROLL,fast_food,Assam,,,,,26.1744411,91.7768284,OpenStreetMap,node,13511364160,2026-11-26T07:18:39.335206+00:00
+FRIED CHICKEN,fast_food,Assam,,,,,26.1757163,91.7760045,OpenStreetMap,node,13511364167,2026-11-26T07:18:39.335209+00:00
+HEALTHY HUT,fast_food,Assam,,,,,26.1772711,91.7757873,OpenStreetMap,node,13511364176,2026-11-26T07:18:39.335215+00:00
+BELGIAN WAFFLE,restaurant,Assam,,,,,26.1753479,91.7767196,OpenStreetMap,node,13511364177,2026-11-26T07:18:39.335219+00:00
+GREAT BRITAIN WAFFLE,restaurant,Assam,,,,,26.170587,91.7625593,OpenStreetMap,node,13511365105,2026-11-26T07:18:39.335223+00:00
+Juicy Hut,fast_food,Assam,,,,,26.175527,91.7765464,OpenStreetMap,node,13511376560,2026-11-26T07:18:39.335227+00:00
+Belgian waffle,cafe,Assam,,,,,26.1754541,91.7765787,OpenStreetMap,node,13511376561,2026-11-26T07:18:39.335232+00:00
+RESTRAURANT DELIGHT,restaurant,Assam,,,,,26.1670947,91.769518,OpenStreetMap,node,13511399123,2026-11-26T07:18:39.335237+00:00
+SAN JU'S FOOD,restaurant,Assam,,,,,26.1774989,91.7736714,OpenStreetMap,node,13511399125,2026-11-26T07:18:39.335240+00:00
+FOOD' ZYE,restaurant,Assam,,,,,26.1767973,91.7734637,OpenStreetMap,node,13511399127,2026-11-26T07:18:39.335244+00:00
+RJ KITCHEN,restaurant,Assam,,,,,26.1695941,91.7783343,OpenStreetMap,node,13511399137,2026-11-26T07:18:39.335248+00:00
+MAHAO ETHNIC KITCHEN,restaurant,Assam,,,,,26.1700427,91.7782371,OpenStreetMap,node,13511399139,2026-11-26T07:18:39.335252+00:00
+DOSA EXPRESS,restaurant,Assam,,,,,26.1734313,91.776969,OpenStreetMap,node,13511399141,2026-11-26T07:18:39.335257+00:00
+ETHNIC MOMO,fast_food,Assam,,,,,26.1738434,91.7769021,OpenStreetMap,node,13511399142,2026-11-26T07:18:39.335261+00:00
+Corn Dog,restaurant,Assam,,,,,26.1891528,91.7572644,OpenStreetMap,node,13511408503,2026-11-26T07:18:39.335264+00:00
+Bowlers,restaurant,Assam,,,,,26.1872966,91.7580312,OpenStreetMap,node,13511408506,2026-11-26T07:18:39.335268+00:00
+The Bakehouse,cafe,Assam,,,,,26.1883897,91.7573603,OpenStreetMap,node,13511408507,2026-11-26T07:18:39.335272+00:00
+Caffeine Dream,cafe,Assam,,,,,26.1875797,91.7575753,OpenStreetMap,node,13511408510,2026-11-26T07:18:39.335275+00:00
+Ghoomtea,cafe,Assam,,,,,26.1875034,91.7575876,OpenStreetMap,node,13511408512,2026-11-26T07:18:39.335279+00:00
+Tealogy Cafe,cafe,Assam,,,,,26.1862692,91.7577623,OpenStreetMap,node,13511408516,2026-11-26T07:18:39.335283+00:00
+SOYSTIX,restaurant,Assam,,,,,26.1895464,91.7529253,OpenStreetMap,node,13511432451,2026-11-26T07:18:39.335287+00:00
+ROLL CORNER,fast_food,Assam,,,,,26.1793736,91.7753599,OpenStreetMap,node,13511603721,2026-11-26T07:18:39.335290+00:00
+DISANG,restaurant,Assam,,,,,26.1794942,91.774129,OpenStreetMap,node,13511603724,2026-11-26T07:18:39.335296+00:00
+KFC,fast_food,Assam,,,,,26.1743839,91.7769534,OpenStreetMap,node,13511606541,2026-11-26T07:18:39.335300+00:00
+OK CHICKEN,restaurant,Assam,,,,,26.1735747,91.7589786,OpenStreetMap,node,13511606891,2026-11-26T07:18:39.335303+00:00
+Aahok,restaurant,Assam,,,,,26.1635069,91.7700941,OpenStreetMap,node,13511618590,2026-11-26T07:18:39.335307+00:00
+express food,fast_food,Assam,,,,,26.1640515,91.7695217,OpenStreetMap,node,13511618592,2026-11-26T07:18:39.335314+00:00
+Deka brother's,fast_food,Assam,,,,,26.1644391,91.7690498,OpenStreetMap,node,13511618595,2026-11-26T07:18:39.335320+00:00
+SAUCI,restaurant,Assam,,,,,26.1718886,91.7612439,OpenStreetMap,node,13511648586,2026-11-26T07:18:39.335326+00:00
+LOCAL ONIK,restaurant,Assam,,,,,26.164471,91.7694521,OpenStreetMap,node,13511670280,2026-11-26T07:18:39.335332+00:00
+Meems,restaurant,Assam,,,,,26.1661656,91.7670409,OpenStreetMap,node,13511687415,2026-11-26T07:18:39.335337+00:00
+D&M KITCHEN,restaurant,Assam,,,,,26.1604648,91.7492262,OpenStreetMap,node,13511688512,2026-11-26T07:18:39.335343+00:00
+SHREE SHYAM FRUITS & JUICE,fast_food,Assam,,,,,26.1660756,91.7684731,OpenStreetMap,node,13511688912,2026-11-26T07:18:39.335350+00:00
+FEED ME - 11,restaurant,Assam,,,,,26.1665068,91.7688478,OpenStreetMap,node,13511688917,2026-11-26T07:18:39.335358+00:00
+SONU RESTURANT & FAST FOOD,restaurant,Assam,,,,,26.1815409,91.7827954,OpenStreetMap,node,13511697828,2026-11-26T07:18:39.335364+00:00
+SRI HARIS,restaurant,Assam,,,,,26.1729757,91.7541136,OpenStreetMap,node,13511702313,2026-11-26T07:18:39.335371+00:00
+UNCLE PETER'S PANCAKES,restaurant,Assam,,,,,26.168277,91.7647409,OpenStreetMap,node,13511705041,2026-11-26T07:18:39.335375+00:00
+UPSOUTH,restaurant,Assam,,,,,26.168316,91.7646824,OpenStreetMap,node,13511705042,2026-11-26T07:18:39.335379+00:00
+Danji Foods,restaurant,Assam,,,,,26.1777288,91.7356838,OpenStreetMap,node,13511708017,2026-11-26T07:18:39.335382+00:00
+PAW FOOD COURNER,fast_food,Assam,,,,,26.1748581,91.7778903,OpenStreetMap,node,13512401026,2026-11-26T07:18:39.335386+00:00
+HOOKED,fast_food,Assam,,,,,26.1745451,91.7787127,OpenStreetMap,node,13512401033,2026-11-26T07:18:39.335389+00:00
+THE STEAMING MUG,cafe,Assam,,,,,26.185641,91.7527307,OpenStreetMap,node,13512664212,2026-11-26T07:18:39.335393+00:00
+KASTURI RESTAURANT,restaurant,Assam,,,,,26.1856353,91.752826,OpenStreetMap,node,13512664214,2026-11-26T07:18:39.335399+00:00
+DARJEELING MOMOS,restaurant,Assam,,,,,26.1860618,91.7521523,OpenStreetMap,node,13512686586,2026-11-26T07:18:39.335403+00:00
+RIGHT KITCHEN,restaurant,Assam,,,,,26.1856634,91.7523642,OpenStreetMap,node,13512686589,2026-11-26T07:18:39.335407+00:00
+THE STEAMING MUG,cafe,Assam,,,,,26.1856214,91.7526494,OpenStreetMap,node,13512686591,2026-11-26T07:18:39.335411+00:00
+PURE JUICE SMOOTHIES & MORE,fast_food,Assam,,,,,26.1740118,91.7793897,OpenStreetMap,node,13512691422,2026-11-26T07:18:39.335414+00:00
+HABIT FOOD SPOT,fast_food,Assam,,,,,26.173541,91.7799681,OpenStreetMap,node,13512691428,2026-11-26T07:18:39.335418+00:00
+D-MOMOZ,fast_food,Assam,,,,,26.1728948,91.7835713,OpenStreetMap,node,13512691432,2026-11-26T07:18:39.335423+00:00
+QUICKPICK,restaurant,Assam,,,,,26.1870818,91.7520756,OpenStreetMap,node,13512800102,2026-11-26T07:18:39.335427+00:00
+THE ETHNIC RESTAURANT,restaurant,Assam,,,,,26.1866067,91.7521625,OpenStreetMap,node,13512800105,2026-11-26T07:18:39.335431+00:00
+ANNAPURNAM  SOUTH INDIAN DINING,restaurant,Assam,,,,,26.1582687,91.7760905,OpenStreetMap,node,13513757768,2026-11-26T07:18:39.335435+00:00
+KARAK  CHAA,restaurant,Assam,,,,,26.1581863,91.7761206,OpenStreetMap,node,13513757770,2026-11-26T07:18:39.335442+00:00
+CLUB 8 TEEN,restaurant,Assam,,,,,26.1581765,91.7761327,OpenStreetMap,node,13513757771,2026-11-26T07:18:39.335445+00:00
+Khao Gully,restaurant,Assam,,,,,26.1567888,91.7778479,OpenStreetMap,node,13513757780,2026-11-26T07:18:39.335449+00:00
+HOME TO PLATE,restaurant,Assam,,,,,26.1882691,91.7519374,OpenStreetMap,node,13514437044,2026-11-26T07:18:39.335453+00:00
+CAFE NAUCERA,cafe,Assam,,,,,26.1880179,91.7519797,OpenStreetMap,node,13514437046,2026-11-26T07:18:39.335457+00:00
+MAA RESTURANT,restaurant,Assam,,,,,26.1584519,91.6811562,OpenStreetMap,node,13514443553,2026-11-26T07:18:39.335460+00:00
+BHAITI HOTEL & RESTAURANT,restaurant,Assam,,,,,26.1584606,91.6812934,OpenStreetMap,node,13514443555,2026-11-26T07:18:39.335464+00:00
+HIGHLANDERS SHAWARMA,restaurant,Assam,,,,,26.190509,91.7534315,OpenStreetMap,node,13514494465,2026-11-26T07:18:39.335468+00:00
+RAZI BIRYANI,restaurant,Assam,,,,,26.1904174,91.7528534,OpenStreetMap,node,13514494467,2026-11-26T07:18:39.335471+00:00
+MAA BHOJANALAYA,restaurant,Assam,,,,,26.1911912,91.7554645,OpenStreetMap,node,13514689521,2026-11-26T07:18:39.335475+00:00
+PUNJAB DI MEHAK,restaurant,Assam,,,,,26.1589436,91.6864555,OpenStreetMap,node,13514744021,2026-11-26T07:18:39.335480+00:00
+REZOIS KITCHEN,restaurant,Assam,,,,,26.1730416,91.7930173,OpenStreetMap,node,13516186916,2026-11-26T07:18:39.335484+00:00
+MAA KAMAKHYA BHOJANALAYA,restaurant,Assam,,,,,26.1729866,91.798772,OpenStreetMap,node,13516186920,2026-11-26T07:18:39.335488+00:00
+Mou Jupee,restaurant,Assam,,,,,26.1728594,91.7980027,OpenStreetMap,node,13516186923,2026-11-26T07:18:39.335491+00:00
+fusion bite restaurant,restaurant,Assam,,,,,26.1726581,91.7959398,OpenStreetMap,node,13516186928,2026-11-26T07:18:39.335495+00:00
+Street food,fast_food,Assam,,,,,26.1725968,91.7957791,OpenStreetMap,node,13516186930,2026-11-26T07:18:39.335499+00:00
+QUICK BITES,restaurant,Assam,,,,,26.1719175,91.7608622,OpenStreetMap,node,13516327075,2026-11-26T07:18:39.335502+00:00
+Wow! Momo,fast_food,Assam,,,,,26.1712235,91.7616911,OpenStreetMap,node,13516327079,2026-11-26T07:18:39.335506+00:00
+EGGIVOROUS CAFE,restaurant,Assam,,,,,26.1715862,91.7610872,OpenStreetMap,node,13516356277,2026-11-26T07:18:39.335510+00:00
+FOODIE HEAVEN,fast_food,Assam,,,,,26.1721233,91.7605599,OpenStreetMap,node,13516356279,2026-11-26T07:18:39.335513+00:00
+TEART CORNER,fast_food,Assam,,,,,26.1522056,91.7825086,OpenStreetMap,node,13516360548,2026-11-26T07:18:39.335519+00:00
+TACO BELLS,fast_food,Assam,,,,,26.1533964,91.7812272,OpenStreetMap,node,13516360555,2026-11-26T07:18:39.335522+00:00
+CHAI SUTTA,fast_food,Assam,,,,,26.1542151,91.7803221,OpenStreetMap,node,13516360560,2026-11-26T07:18:39.335526+00:00
+McDonald's,fast_food,Assam,,,,,26.1545389,91.7799652,OpenStreetMap,node,13516360564,2026-11-26T07:18:39.335530+00:00
+MURADABADI CHICKEN BIRYANI,fast_food,Assam,,,,,26.1555591,91.7903357,OpenStreetMap,node,13516514277,2026-11-26T07:18:39.335534+00:00
+Kuldeep Fast Food,fast_food,Assam,,,,,26.1708169,91.7554049,OpenStreetMap,node,13516553692,2026-11-26T07:18:39.335538+00:00
+BHARAYIYA JAIPAN,restaurant,Assam,,,,,26.1542522,91.7805507,OpenStreetMap,node,13516587334,2026-11-26T07:18:39.335541+00:00
+KFC,fast_food,Assam,,,,,26.1542201,91.780592,OpenStreetMap,node,13516587335,2026-11-26T07:18:39.335545+00:00
+Suchitra Bakery,cafe,Assam,,,,,26.1419801,91.7261765,OpenStreetMap,node,13516613201,2026-11-26T07:18:39.335549+00:00
+ROYAL FAST FOOD,fast_food,Assam,,,,,26.1488054,91.7332328,OpenStreetMap,node,13516613231,2026-11-26T07:18:39.335552+00:00
+FOOD SAFARI,fast_food,Assam,,,,,26.1478461,91.7374056,OpenStreetMap,node,13516613244,2026-11-26T07:18:39.335558+00:00
+BLUE HEAVEN,fast_food,Assam,,,,,26.1732384,91.7850156,OpenStreetMap,node,13516613248,2026-11-26T07:18:39.335561+00:00
+NAWAZISH,restaurant,Assam,,,,,26.1287754,91.8061112,OpenStreetMap,node,13516749892,2026-11-26T07:18:39.335565+00:00
+HOTEL TOKYO TOWER RESTAURANT CUM BAR,restaurant,Assam,,,,,26.1232023,91.8031602,OpenStreetMap,node,13516764012,2026-11-26T07:18:39.335569+00:00
+GREEN PEPPER'S,restaurant,Assam,,,,,26.1232992,91.8022882,OpenStreetMap,node,13516764015,2026-11-26T07:18:39.335572+00:00
+QUICK PICK,restaurant,Assam,,,,,26.1870122,91.7521795,OpenStreetMap,node,13516772180,2026-11-26T07:18:39.335576+00:00
+HUMMUS LEBANESE CAFE,cafe,Assam,,,,,26.1872574,91.7523214,OpenStreetMap,node,13516772182,2026-11-26T07:18:39.335580+00:00
+FOLK,restaurant,Assam,,,,,26.1872256,91.752707,OpenStreetMap,node,13516772183,2026-11-26T07:18:39.335583+00:00
+BAGURUMBA,restaurant,Assam,,,,,26.1871901,91.752871,OpenStreetMap,node,13516772184,2026-11-26T07:18:39.335587+00:00
+O.S.K BURGERS,fast_food,Assam,,,,,26.187378,91.7545683,OpenStreetMap,node,13516772189,2026-11-26T07:18:39.335591+00:00
+THE TRANGI HOUSE,cafe,Assam,,,,,26.1873718,91.7545809,OpenStreetMap,node,13516772190,2026-11-26T07:18:39.335596+00:00
+GUWAHATI HEIGHTS,restaurant,Assam,,,,,26.1873639,91.7546117,OpenStreetMap,node,13516772192,2026-11-26T07:18:39.335600+00:00
+Barista,cafe,Assam,,,,,26.1871591,91.7547461,OpenStreetMap,node,13516772193,2026-11-26T07:18:39.335604+00:00
+CAFE D CORNER,cafe,Assam,,,,,26.1870622,91.7547582,OpenStreetMap,node,13516772194,2026-11-26T07:18:39.335607+00:00
+ZAKH CAFE,cafe,Assam,,,,,26.1836348,91.7458698,OpenStreetMap,node,13516794545,2026-11-26T07:18:39.335611+00:00
+KAMAKHYA TEA HOUSE,cafe,Assam,,,,,26.18457,91.7470114,OpenStreetMap,node,13516794557,2026-11-26T07:18:39.335615+00:00
+SOUNDARYA LAHAREE,restaurant,Assam,,,,,26.1852369,91.7479741,OpenStreetMap,node,13516794563,2026-11-26T07:18:39.335618+00:00
+TASTY TIFFIN,restaurant,Assam,,,,,26.1855478,91.7522929,OpenStreetMap,node,13516794564,2026-11-26T07:18:39.335622+00:00
+RIGHT KITCHEN,restaurant,Assam,,,,,26.1855428,91.7523294,OpenStreetMap,node,13516794565,2026-11-26T07:18:39.335626+00:00
+STEAMING MUG A CAFE BISTRO,cafe,Assam,,,,,26.1854315,91.7527868,OpenStreetMap,node,13516794567,2026-11-26T07:18:39.335630+00:00
+HERITAGE EMPORIUM,restaurant,Assam,,,,,26.1851707,91.7543052,OpenStreetMap,node,13516794570,2026-11-26T07:18:39.335636+00:00
+MEZBAN BIRYANI,restaurant,Assam,,,,,26.1868871,91.7578515,OpenStreetMap,node,13516794580,2026-11-26T07:18:39.335640+00:00
+TEN 11 RESTURANT,restaurant,Assam,,,,,26.1231138,91.8011721,OpenStreetMap,node,13516818120,2026-11-26T07:18:39.335644+00:00
+RUPOHI RESTURANT,restaurant,Assam,,,,,26.1232376,91.8001735,OpenStreetMap,node,13516818142,2026-11-26T07:18:39.335647+00:00
+FOODISTHAN,restaurant,Assam,,,,,26.1375379,91.6334911,OpenStreetMap,node,13516832941,2026-11-26T07:18:39.335651+00:00
+MAST BIRYANI,restaurant,Assam,,,,,26.1375357,91.6334847,OpenStreetMap,node,13516832942,2026-11-26T07:18:39.335654+00:00
+YO!PANDA,restaurant,Assam,,,,,26.1375331,91.6334914,OpenStreetMap,node,13516832943,2026-11-26T07:18:39.335658+00:00
+TADKA SINGH,restaurant,Assam,,,,,26.1375831,91.6336007,OpenStreetMap,node,13516832944,2026-11-26T07:18:39.335662+00:00
+DOMINO'S,restaurant,Assam,,,,,26.1377759,91.6339861,OpenStreetMap,node,13516832947,2026-11-26T07:18:39.335666+00:00
+BLACK CHICKEN,restaurant,Assam,,,,,26.1440136,91.6442234,OpenStreetMap,node,13516832955,2026-11-26T07:18:39.335669+00:00
+RESTRO G-ONE,restaurant,Assam,,,,,26.1468432,91.6463319,OpenStreetMap,node,13516832960,2026-11-26T07:18:39.335676+00:00
+SOWAD KITCHEN,restaurant,Assam,,,,,26.1470453,91.6464905,OpenStreetMap,node,13516832961,2026-11-26T07:18:39.335680+00:00
+LANKESHWAR CABIN & RESTAURANT,restaurant,Assam,,,,,26.1470513,91.6464977,OpenStreetMap,node,13516832962,2026-11-26T07:18:39.335683+00:00
+Kishori tea stall,cafe,Assam,,,,,26.1804544,91.7374327,OpenStreetMap,node,13516855305,2026-11-26T07:18:39.335688+00:00
+Belgain Waffle,restaurant,Assam,,,,,26.1722446,91.7356344,OpenStreetMap,node,13516940932,2026-11-26T07:18:39.335692+00:00
+kake di hatti,restaurant,Assam,,,,,26.1714727,91.7364827,OpenStreetMap,node,13516940940,2026-11-26T07:18:39.335696+00:00
+Kiranshree sweets & snacks,restaurant,Assam,,,,,26.1713956,91.7373992,OpenStreetMap,node,13516940945,2026-11-26T07:18:39.335699+00:00
+Domino's,fast_food,Assam,,,,,26.1848738,91.7653803,OpenStreetMap,node,13516996116,2026-11-26T07:18:39.335703+00:00
+EAT AND MERRY RESTURANT,restaurant,Assam,,,,,26.1234732,91.7985121,OpenStreetMap,node,13517102223,2026-11-26T07:18:39.335706+00:00
+EAT AND MERRY RESTURANT,restaurant,Assam,,,,,26.1235701,91.7984365,OpenStreetMap,node,13517102229,2026-11-26T07:18:39.335710+00:00
+LIGHT CAMERA ACTION CAFE,cafe,Assam,,,,,26.1244628,91.7979861,OpenStreetMap,node,13517102248,2026-11-26T07:18:39.335715+00:00
+SHAKERS &  CHO,fast_food,Assam,,,,,26.1245609,91.797977,OpenStreetMap,node,13517102251,2026-11-26T07:18:39.335719+00:00
+Aurum,restaurant,Assam,,,,,26.1687947,91.7459361,OpenStreetMap,node,13517213184,2026-11-26T07:18:39.335723+00:00
+DEEP HOTEL,restaurant,Assam,,,,,26.127411,91.796416,OpenStreetMap,node,13517338016,2026-11-26T07:18:39.335726+00:00
+TUHAA'S,restaurant,Assam,,,,,26.1303608,91.7946489,OpenStreetMap,node,13517338045,2026-11-26T07:18:39.335730+00:00
+BHABANA BEAUTY PARLOUR,fast_food,Assam,,,,,26.1317486,91.7939917,OpenStreetMap,node,13517338064,2026-11-26T07:18:39.335734+00:00
+URBAN PALATE,restaurant,Assam,,,,,26.1330215,91.7931175,OpenStreetMap,node,13517338074,2026-11-26T07:18:39.335737+00:00
+THE MOMO HUT,fast_food,Assam,,,,,26.1349882,91.7921759,OpenStreetMap,node,13517338080,2026-11-26T07:18:39.335741+00:00
+MATKA CHICKEN,fast_food,Assam,,,,,26.135013,91.7921667,OpenStreetMap,node,13517338081,2026-11-26T07:18:39.335744+00:00
+PK DA DHABA,fast_food,Assam,,,,,26.1350621,91.7920674,OpenStreetMap,node,13517680414,2026-11-26T07:18:39.335748+00:00
+KFC,fast_food,Assam,,,,,26.1354099,91.7918555,OpenStreetMap,node,13517680417,2026-11-26T07:18:39.335754+00:00
+P.B. FOOD,fast_food,Assam,,,,,26.1359316,91.7917201,OpenStreetMap,node,13517680429,2026-11-26T07:18:39.335757+00:00
+MAA LAKHSMI HOTEL,restaurant,Assam,,,,,26.1360766,91.7916208,OpenStreetMap,node,13517680430,2026-11-26T07:18:39.335761+00:00
+PATKAI KITCHEN,fast_food,Assam,,,,,26.1361086,91.7916077,OpenStreetMap,node,13517680431,2026-11-26T07:18:39.335764+00:00
+PAKGHAR BIPANAN KHETRA,fast_food,Assam,,,,,26.1361691,91.7915796,OpenStreetMap,node,13517680432,2026-11-26T07:18:39.335768+00:00
+CAFE COFEE DAY,cafe,Assam,,,,,26.1363476,91.7914125,OpenStreetMap,node,13517680436,2026-11-26T07:18:39.335772+00:00
+AIMONI HOTEL,restaurant,Assam,,,,,26.1374605,91.7908714,OpenStreetMap,node,13517680448,2026-11-26T07:18:39.335776+00:00
+GOKUL BHAI HOTEL & RESTURANT,restaurant,Assam,,,,,26.1375686,91.7908135,OpenStreetMap,node,13517680451,2026-11-26T07:18:39.335779+00:00
+NEW SPICY HUT,restaurant,Assam,,,,,26.183767,91.7736289,OpenStreetMap,node,13519560622,2026-11-26T07:18:39.335783+00:00
+Gopal Maharaj,restaurant,Assam,,,,,26.1808822,91.7368901,OpenStreetMap,node,13522423654,2026-11-26T07:18:39.335786+00:00
+GITA HOTEL TEA & PAKORA,cafe,Assam,,,,,26.1811377,91.7364478,OpenStreetMap,node,13522423660,2026-11-26T07:18:39.335792+00:00
+JB's,restaurant,Assam,,,,,26.1814925,91.7365189,OpenStreetMap,node,13522423666,2026-11-26T07:18:39.335796+00:00
+P.W.D Canteen,restaurant,Assam,,,,,26.1840821,91.7382654,OpenStreetMap,node,13522423680,2026-11-26T07:18:39.335800+00:00
+Café Choco Craze (A.B.Enterprises),cafe,Assam,,,,,26.1903121,91.7528325,OpenStreetMap,node,13522626389,2026-11-26T07:18:39.335803+00:00
+Punjab cabin,restaurant,Assam,,,,,26.1834911,91.7810898,OpenStreetMap,node,13522630910,2026-11-26T07:18:39.335807+00:00
+swastika,restaurant,Assam,,,,,26.1834507,91.7815717,OpenStreetMap,node,13522630913,2026-11-26T07:18:39.335811+00:00
+dahibara express,cafe,Assam,,,,,26.1833412,91.7821664,OpenStreetMap,node,13522630919,2026-11-26T07:18:39.335815+00:00
+leaf duck cafe,cafe,Assam,,,,,26.184856,91.7746537,OpenStreetMap,node,13522630948,2026-11-26T07:18:39.335818+00:00
+house of thukaa,restaurant,Assam,,,,,26.184856,91.7746388,OpenStreetMap,node,13522630949,2026-11-26T07:18:39.335822+00:00
+bordolois cafe19,cafe,Assam,,,,,26.1848477,91.7747029,OpenStreetMap,node,13522630950,2026-11-26T07:18:39.335826+00:00
+Cafe D' Corner,cafe,Assam,,,,,26.1870711,91.7546221,OpenStreetMap,node,13523381728,2026-11-26T07:18:39.335831+00:00
+Barista,cafe,Assam,,,,,26.1872117,91.7546222,OpenStreetMap,node,13523381729,2026-11-26T07:18:39.335836+00:00
+Guwahati Heights,cafe,Assam,,,,,26.1873889,91.7546052,OpenStreetMap,node,13523381730,2026-11-26T07:18:39.335840+00:00
+The Atrangi House,restaurant,Assam,,,,,26.187406,91.7545771,OpenStreetMap,node,13523381731,2026-11-26T07:18:39.335844+00:00
+O.S.K Burgers,fast_food,Assam,,,,,26.1873958,91.7545616,OpenStreetMap,node,13523381732,2026-11-26T07:18:39.335848+00:00
+Maa Tea Stall,cafe,Assam,,,,,26.1872102,91.7539295,OpenStreetMap,node,13523381734,2026-11-26T07:18:39.335851+00:00
+Bagurumba,restaurant,Assam,,,,,26.1871973,91.7528489,OpenStreetMap,node,13523381738,2026-11-26T07:18:39.335855+00:00
+Hello Folk,restaurant,Assam,,,,,26.1872101,91.7526822,OpenStreetMap,node,13523381742,2026-11-26T07:18:39.335858+00:00
+Hummus Lebanese Cafe,cafe,Assam,,,,,26.1872614,91.7523062,OpenStreetMap,node,13523381744,2026-11-26T07:18:39.335862+00:00
+Cafe Coffee Day,cafe,Assam,,,,,26.1871632,91.7521948,OpenStreetMap,node,13523381746,2026-11-26T07:18:39.335866+00:00
+Quick Pick,restaurant,Assam,,,,,26.1870159,91.7521917,OpenStreetMap,node,13523381748,2026-11-26T07:18:39.335871+00:00
+rabindra cabin,restaurant,Assam,,,,,26.1694377,91.7468431,OpenStreetMap,node,13523382583,2026-11-26T07:18:39.335875+00:00
+Mama's Kitchen,restaurant,Assam,,,,,26.1842129,91.778248,OpenStreetMap,node,13523384150,2026-11-26T07:18:39.335878+00:00
+Annapurna Bhojnalaya,restaurant,Assam,,,,,26.7292921,94.213686,OpenStreetMap,node,13531508413,2026-11-26T07:18:39.335882+00:00
+Misti Mukh,restaurant,Assam,,,,,27.4856782,95.3507274,OpenStreetMap,node,13566456018,2026-11-26T07:18:39.335886+00:00
+Jupuri,restaurant,Assam,,,,,26.7257238,94.2120221,OpenStreetMap,node,13568990576,2026-11-26T07:18:39.335890+00:00
+T.D Mech Hotel,restaurant,Assam,,,,,26.7244125,94.1936924,OpenStreetMap,node,13594723501,2026-11-26T07:18:39.335894+00:00
+Karakchaa,cafe,Assam,,,,,26.7352794,94.213981,OpenStreetMap,node,13595414969,2026-11-26T07:18:39.335897+00:00
+Krishna Fried Chicken,restaurant,Assam,,,,,26.9876287,94.1566092,OpenStreetMap,node,13666830832,2026-11-26T07:18:39.335901+00:00
+Maina Fast Food,fast_food,Assam,,,,,26.7617468,94.2054938,OpenStreetMap,node,13713862913,2026-11-26T07:18:39.335905+00:00
+Zambala Restaurant,restaurant,Assam,,,,,27.5690826,95.5580385,OpenStreetMap,node,13720330416,2026-11-26T07:18:39.335910+00:00
+Confucius,restaurant,Assam,,,,,26.1569241,91.7770902,OpenStreetMap,node,13744249572,2026-11-26T07:18:39.335914+00:00
+Confucius,restaurant,Assam,,,,,26.1358508,91.8022009,OpenStreetMap,node,13744257465,2026-11-26T07:18:39.335918+00:00
+Kalita Spectrum,restaurant,Assam,,,,,26.1362771,91.8024595,OpenStreetMap,node,13744257466,2026-11-26T07:18:39.335923+00:00
+New AC Fast Food,fast_food,Assam,,,,,26.1806314,91.7490461,OpenStreetMap,node,13744404568,2026-11-26T07:18:39.335927+00:00
+Varsity,fast_food,Assam,,,,,26.7223346,94.194832,OpenStreetMap,node,13882619484,2026-11-26T07:18:39.335930+00:00
+Scholarz Kaffee,cafe,Assam,,,,,26.722155,94.1947486,OpenStreetMap,node,13928600455,2026-11-26T07:18:39.335934+00:00
+"A.D Fast Food, Borguri",fast_food,Assam,,,,,27.5026081,95.3389913,OpenStreetMap,node,13935471973,2026-11-26T07:18:39.335938+00:00
+Gogoi Pork,restaurant,Assam,,,"Sapta Sahid Path, 781006",7005205511,26.140644,91.7979437,OpenStreetMap,node,13949775301,2026-11-26T07:18:39.335942+00:00
+Mising Kitchen,restaurant,Assam,,,,,26.7586646,94.2051399,OpenStreetMap,node,13977291419,2026-11-26T07:18:39.335946+00:00
+Belgian Waffle,restaurant,Assam,,,,,26.7580542,94.2154459,OpenStreetMap,node,13988281233,2026-11-26T07:18:39.335952+00:00
+QASBAH Restaurant,restaurant,Assam,,,"Kalaguru Bishnu Rabha Path / Hockey Stadium Rd, 781038",,26.120803,91.7745228,OpenStreetMap,node,14050217301,2026-11-26T07:18:39.335957+00:00
+Tea and food shop,fast_food,Assam,Golaghat,Golaghat,"kushal, Konwar (K.K.) road, 785621",,26.5112804,93.9775944,OpenStreetMap,node,14051849381,2026-11-26T07:18:39.335961+00:00
+Burnout,cafe,Assam,Kamrup Metropolitan,Guwahati,"1st Floor, BSNL Sohani BajajCompound, Swarnalaya, Bharalamukh, 781001",+919181162539,26.174114,91.7332267,OpenStreetMap,node,14085244228,2026-11-26T07:18:39.335966+00:00
+Nongin Manipuri Kitchen,restaurant,Assam,,,,,26.7189853,94.2129188,OpenStreetMap,node,14085501130,2026-11-26T07:18:39.335970+00:00
+Darbar,restaurant,Assam,,,,,27.4816355,95.3404999,OpenStreetMap,node,14099240719,2026-11-26T07:18:39.335973+00:00
+Kattha Katte,restaurant,Assam,,,,,26.1914851,91.7542935,OpenStreetMap,node,14191628621,2026-11-26T07:18:39.335977+00:00
+the Barbeque Times,fast_food,Assam,Kamrup Metropolitan,Guwahati,"Assam Trunk Road Flyover, 781012",,26.1584747,91.687365,OpenStreetMap,node,14250713496,2026-11-26T07:18:39.335981+00:00
+Miami,restaurant,Assam,,,,,26.1952542,91.7562378,OpenStreetMap,node,14250895725,2026-11-26T07:18:39.335985+00:00
+Subway,fast_food,Assam,,,,,26.1931929,91.7526439,OpenStreetMap,node,14250931867,2026-11-26T07:18:39.335988+00:00
+Street- Za Restaurant Azara,restaurant,Assam,,,,,26.1179766,91.6149301,OpenStreetMap,node,14251070042,2026-11-26T07:18:39.335994+00:00
+Grill Republica Restaurant,restaurant,Assam,,,,,26.1018177,91.6125932,OpenStreetMap,node,14251070049,2026-11-26T07:18:39.335998+00:00
+Khatirdaari Restaurant,restaurant,Assam,,,,,26.1014546,91.6124644,OpenStreetMap,node,14251070050,2026-11-26T07:18:39.336002+00:00
+Maa Kamakhya Hotel,restaurant,Assam,,,,,26.1584587,91.6868774,OpenStreetMap,node,14251125720,2026-11-26T07:18:39.336005+00:00
+Lunch Box,restaurant,Assam,,,,,26.1584047,91.6865521,OpenStreetMap,node,14251125721,2026-11-26T07:18:39.336009+00:00
+Maa Santoshi Sweets,restaurant,Assam,,,,,26.1583916,91.6863117,OpenStreetMap,node,14251464939,2026-11-26T07:18:39.336013+00:00
+Absolute Shawarma,fast_food,Assam,,,,,26.158369,91.6861785,OpenStreetMap,node,14251464940,2026-11-26T07:18:39.336016+00:00
+Purabi,cafe,Assam,,,,,26.1583546,91.6859284,OpenStreetMap,node,14251464942,2026-11-26T07:18:39.336020+00:00
+Bimal Hotel,restaurant,Assam,,,,,26.1579744,91.6809587,OpenStreetMap,node,14251464958,2026-11-26T07:18:39.336024+00:00
+Trimurti Cafe and Restaurant,restaurant,Assam,,,,,26.1751285,91.7729127,OpenStreetMap,node,14263410348,2026-11-26T07:18:39.336029+00:00
+New Rajmahal Bhojanalay,restaurant,Assam,,,,,26.1536154,91.8116572,OpenStreetMap,node,14272886580,2026-11-26T07:18:39.336034+00:00
+Cafe Uzan,cafe,Assam,,,"MG Road, 781001",,26.194055,91.754204,OpenStreetMap,node,14296798001,2026-11-26T07:18:39.336040+00:00
+Food Court,restaurant,Assam,,,,,26.1925082,91.6993351,OpenStreetMap,way,363651727,2026-11-26T07:18:39.336045+00:00
+Tirupati Restaurant,restaurant,Assam,,Tinsukia,"GNB Road, 786125",+917002909689,27.4908496,95.3591225,OpenStreetMap,way,862738461,2026-11-26T07:18:39.336049+00:00
+Hospital Canteen,restaurant,Assam,,,,,27.2601597,94.1062658,OpenStreetMap,way,1092483371,2026-11-26T07:18:39.336053+00:00
+Hornbill Kaziranga,restaurant,Assam,,,,,26.5902461,93.4280655,OpenStreetMap,way,1098675223,2026-11-26T07:18:39.336057+00:00
+Pelikan Dhaba,restaurant,Assam,,,,,26.5901359,93.4036122,OpenStreetMap,way,1109690751,2026-11-26T07:18:39.336061+00:00
+Jajabor Restaurant,restaurant,Assam,,,,,26.5901996,93.4279086,OpenStreetMap,way,1117551034,2026-11-26T07:18:39.336065+00:00
+John's Kitchen,restaurant,Assam,,,,,26.5894812,93.4040769,OpenStreetMap,way,1117551065,2026-11-26T07:18:39.336069+00:00
+Tai Phake Ethnic Hut,restaurant,Assam,,,,,27.2805796,95.3949353,OpenStreetMap,way,1117594976,2026-11-26T07:18:39.336072+00:00
+JEC Canteen,cafe,Assam,,,,,26.7463442,94.2508046,OpenStreetMap,way,1198321050,2026-11-26T07:18:39.336078+00:00
+Cadets' Mess,fast_food,Assam,,,,,26.0888278,90.7393922,OpenStreetMap,way,1198392987,2026-11-26T07:18:39.336082+00:00
+Hotel Celebration,restaurant,Assam,,,,,26.85758,94.4956617,OpenStreetMap,way,1224695326,2026-11-26T07:18:39.336086+00:00
+Disang Kitchen,restaurant,Assam,,,,,26.8569597,94.4941085,OpenStreetMap,way,1224695327,2026-11-26T07:18:39.336089+00:00
+Jhanji Dhaba,restaurant,Assam,,,,,26.855094,94.4937825,OpenStreetMap,way,1224695328,2026-11-26T07:18:39.336093+00:00
+Arini Dhaba,restaurant,Assam,,,,,26.8503113,94.4936564,OpenStreetMap,way,1224695330,2026-11-26T07:18:39.336097+00:00
+Hornbill Dhaba Cum Resturant,restaurant,Assam,,,,,26.8510486,94.4930887,OpenStreetMap,way,1224695337,2026-11-26T07:18:39.336101+00:00
+Nova Akhol,restaurant,Assam,,,,,26.757776,94.2030754,OpenStreetMap,way,1334252276,2026-11-26T07:18:39.336105+00:00
+Crazy hut,restaurant,Assam,,,,,26.7549305,94.2154955,OpenStreetMap,way,1335344967,2026-11-26T07:18:39.336109+00:00
+McDonald's,fast_food,Assam,,,,,26.3184986,93.9103949,OpenStreetMap,way,1339761930,2026-11-26T07:18:39.336113+00:00
+NOVO KITCHEN,restaurant,Assam,,,,,26.1564142,91.7893759,OpenStreetMap,way,1411432670,2026-11-26T07:18:39.336118+00:00
+McDonald's,fast_food,Assam,,,,,26.3187607,93.9108088,OpenStreetMap,way,1423820079,2026-11-26T07:18:39.336122+00:00
+J14 Hub,fast_food,Assam,,,,,26.1668416,91.7669183,OpenStreetMap,way,1433579601,2026-11-26T07:18:39.336126+00:00
+J14 COMMERCE,fast_food,Assam,,,,,26.1802623,91.77531,OpenStreetMap,way,1442594236,2026-11-26T07:18:39.336130+00:00
+McDonald's,fast_food,Assam,,,,,26.3182828,93.9097319,OpenStreetMap,way,1459298202,2026-11-26T07:18:39.336134+00:00
+AAU canteen & Indoor Staduim,restaurant,Assam,,,,,26.7233069,94.1974955,OpenStreetMap,way,1531580307,2026-11-26T07:18:39.336138+00:00
+Vandium,cafe,Assam,,,,,26.7206349,94.1973124,OpenStreetMap,way,1533874736,2026-11-26T07:18:39.336142+00:00
+Varsity,fast_food,Assam,,,,,26.7223094,94.1948097,OpenStreetMap,way,1534819787,2026-11-26T07:18:39.336146+00:00
+Scholarz Kaffee,cafe,Assam,,,,,26.7221249,94.1947339,OpenStreetMap,way,1534820926,2026-11-26T07:18:39.336150+00:00

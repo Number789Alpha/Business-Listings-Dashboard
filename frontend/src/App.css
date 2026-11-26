@@ -368,3 +368,245 @@ footer {
     padding: 15px;
   }
 }
+
+/* INDIA-WIDE ANALYTICS SECTION */
+
+.india-section {
+  margin: 30px 0;
+}
+
+.india-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 22px;
+  gap: 15px;
+}
+
+.india-heading h2 {
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.india-heading p {
+  color: #9297aa;
+  font-size: 12px;
+  margin-top: 7px;
+}
+
+.india-badge {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  background: #eeeeff;
+  color: #6366f1;
+  padding: 9px 13px;
+  border-radius: 20px;
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.india-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+  margin-bottom: 22px;
+}
+
+.india-stat-card {
+  background: white;
+  padding: 20px;
+  border-radius: 13px;
+  box-shadow: 0 3px 15px rgba(25, 35, 70, 0.035);
+  min-width: 0;
+}
+
+.india-stat-card span {
+  color: #9297aa;
+  font-size: 11px;
+}
+
+.india-stat-card h2 {
+  font-size: 21px;
+  margin-top: 10px;
+  overflow-wrap: anywhere;
+}
+
+.india-filters {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  background: white;
+  padding: 22px;
+  border-radius: 13px;
+  margin-bottom: 22px;
+  box-shadow: 0 3px 15px rgba(25, 35, 70, 0.035);
+}
+
+.filter-group {
+  display: grid;
+  gap: 10px;
+}
+
+.filter-group label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  color: #454b60;
+}
+
+.filter-group select {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #e1e4ed;
+  border-radius: 8px;
+  background: #fafbff;
+  color: #252b40;
+  font-size: 13px;
+  outline: none;
+}
+
+.filter-group select:focus {
+  border-color: #6366f1;
+}
+
+.india-charts {
+  margin-bottom: 25px;
+}
+
+@media (max-width: 1050px) {
+  .india-stats {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 650px) {
+  .india-heading {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .india-filters {
+    grid-template-columns: 1fr;
+  }
+
+  .india-stats {
+    grid-template-columns: 1fr;
+  }
+}
+/* Business Listings Table */
+.business-listings-section {
+  margin-top: 25px;
+  padding: 24px;
+  overflow: hidden;
+}
+
+.listings-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 20px 0;
+}
+
+.listings-controls select,
+.listings-search {
+  min-height: 42px;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 0 12px;
+  background: white;
+  color: #334155;
+}
+
+.listings-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: 1;
+  min-width: 220px;
+}
+
+.listings-search input {
+  border: none;
+  outline: none;
+  width: 100%;
+  background: transparent;
+}
+
+.listings-table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.listings-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 950px;
+  font-size: 13px;
+}
+
+.listings-table th,
+.listings-table td {
+  padding: 13px 12px;
+  text-align: left;
+  border-bottom: 1px solid #edf0f5;
+}
+
+.listings-table th {
+  background: #f8fafc;
+  color: #475569;
+  font-weight: 600;
+}
+
+.listings-table tbody tr:hover {
+  background: #f8fafc;
+}
+
+.business-name-cell {
+  font-weight: 600;
+  color: #334155;
+}
+
+.address-cell {
+  max-width: 220px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.listings-empty {
+  text-align: center !important;
+  padding: 30px !important;
+  color: #64748b;
+}
+
+.listings-pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  color: #64748b;
+  font-size: 13px;
+}
+
+.listings-pagination > div {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.refresh-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+@media (max-width: 768px) {
+  .listings-pagination {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}

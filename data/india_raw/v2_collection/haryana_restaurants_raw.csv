@@ -1,0 +1,855 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+Darbar,fast_food,Haryana,,,,,28.4528666,77.0406221,OpenStreetMap,node,266439671,2026-11-26T08:50:46.119438+00:00
+Bikanervala,fast_food,Haryana,,,,,28.4689302,77.0638804,OpenStreetMap,node,266732618,2026-11-26T08:50:46.119461+00:00
+Park Baluchi,restaurant,Haryana,,,,,28.4684904,77.0644002,OpenStreetMap,node,266732634,2026-11-26T08:50:46.119520+00:00
+Domino's,fast_food,Haryana,,,,,28.4113681,77.0432317,OpenStreetMap,node,266734361,2026-11-26T08:50:46.119537+00:00
+Dhaba,restaurant,Haryana,,,,,28.2972557,77.0670586,OpenStreetMap,node,290382755,2026-11-26T08:50:46.119547+00:00
+Nirula's,fast_food,Haryana,,,,,28.4106834,77.0431666,OpenStreetMap,node,296341340,2026-11-26T08:50:46.119552+00:00
+Grey Pelican,restaurant,Haryana,,,,,30.1158119,77.2908314,OpenStreetMap,node,311926391,2026-11-26T08:50:46.119556+00:00
+Om Sweets,fast_food,Haryana,,,,,28.4529218,77.050279,OpenStreetMap,node,412744823,2026-11-26T08:50:46.119560+00:00
+Naveidyam,restaurant,Haryana,,,,,28.4649041,77.0789762,OpenStreetMap,node,416361396,2026-11-26T08:50:46.119563+00:00
+Gulshan Dhaba,restaurant,Haryana,,,,,29.0337787,77.0711437,OpenStreetMap,node,496712283,2026-11-26T08:50:46.119567+00:00
+Pahalwan Dhaba,restaurant,Haryana,,,,,29.0338614,77.0711106,OpenStreetMap,node,496712284,2026-11-26T08:50:46.119570+00:00
+Ahuja Dhaba,restaurant,Haryana,,,,,29.033927,77.0710865,OpenStreetMap,node,496712285,2026-11-26T08:50:46.119573+00:00
+Amrik Sukhdev,restaurant,Haryana,,,,,29.0587033,77.0635163,OpenStreetMap,node,496714908,2026-11-26T08:50:46.119576+00:00
+Cafe Coffee Day,cafe,Haryana,,,,,29.0609179,77.0642702,OpenStreetMap,node,496714910,2026-11-26T08:50:46.119579+00:00
+Pahalwan Dhaba,restaurant,Haryana,,,,,29.0312115,77.0729063,OpenStreetMap,node,496725237,2026-11-26T08:50:46.119584+00:00
+Raj Restaurant,restaurant,Haryana,,,,,28.4446821,77.0596627,OpenStreetMap,node,515774480,2026-11-26T08:50:46.119588+00:00
+Haldiram,restaurant,Haryana,,,,,28.4012573,76.9886452,OpenStreetMap,node,520984742,2026-11-26T08:50:46.119591+00:00
+Pizza Hut,restaurant,Haryana,,,,,28.4218602,77.0909997,OpenStreetMap,node,765413613,2026-11-26T08:50:46.119594+00:00
+McDonald's,fast_food,Haryana,,,,,28.3751984,76.95432,OpenStreetMap,node,1069102428,2026-11-26T08:50:46.119600+00:00
+Kingfisher Tourist,restaurant,Haryana,,,,,30.3714022,76.7985089,OpenStreetMap,node,1447314400,2026-11-26T08:50:46.119603+00:00
+Fast Food,fast_food,Haryana,,,,,28.4534596,77.050987,OpenStreetMap,node,1562507143,2026-11-26T08:50:46.119606+00:00
+Fast food,fast_food,Haryana,,,,,28.4532662,77.0510031,OpenStreetMap,node,1562507609,2026-11-26T08:50:46.119609+00:00
+Lizo Canteen,restaurant,Haryana,,,,,28.367662,77.3173494,OpenStreetMap,node,1574275309,2026-11-26T08:50:46.119612+00:00
+Nescafe,cafe,Haryana,,,,,28.3675268,77.3165803,OpenStreetMap,node,1574275310,2026-11-26T08:50:46.119615+00:00
+Café Coffee Day,cafe,Haryana,,,,,28.4600672,77.0518464,OpenStreetMap,node,1671713469,2026-11-26T08:50:46.119619+00:00
+Pizza Hut,restaurant,Haryana,,,,,28.4684035,77.0624832,OpenStreetMap,node,1835582790,2026-11-26T08:50:46.119623+00:00
+Gung the palace,restaurant,Haryana,,,,,28.4692697,77.0623996,OpenStreetMap,node,1835582815,2026-11-26T08:50:46.119626+00:00
+Spaghetti Kitchen & Bar,restaurant,Haryana,,,,,28.4684555,77.0624238,OpenStreetMap,node,1835582875,2026-11-26T08:50:46.119628+00:00
+Domino's,fast_food,Haryana,,,,,28.4682239,77.0630429,OpenStreetMap,node,1835582899,2026-11-26T08:50:46.119631+00:00
+McDonald's,fast_food,Haryana,,,,,28.4682004,77.0631555,OpenStreetMap,node,1835582921,2026-11-26T08:50:46.119635+00:00
+The Oriental Bloom (Chinese and Thai),restaurant,Haryana,,,,,28.4683891,77.0635176,OpenStreetMap,node,1835582941,2026-11-26T08:50:46.119638+00:00
+Gola Sizzles,restaurant,Haryana,,,,,28.4684189,77.0635414,OpenStreetMap,node,1835582984,2026-11-26T08:50:46.119640+00:00
+Swagath,restaurant,Haryana,,,,,28.4698181,77.0627594,OpenStreetMap,node,1835583219,2026-11-26T08:50:46.119643+00:00
+Barbecue Grill,restaurant,Haryana,,,,,28.4736151,77.0786935,OpenStreetMap,node,2345064572,2026-11-26T08:50:46.119647+00:00
+Sagar Ratna,restaurant,Haryana,,,,,28.8956151,76.6076779,OpenStreetMap,node,2434054383,2026-11-26T08:50:46.119651+00:00
+Gulab Rewri,restaurant,Haryana,,,,,28.8967048,76.6091775,OpenStreetMap,node,2434056396,2026-11-26T08:50:46.119654+00:00
+McDonald's,fast_food,Haryana,,,,,28.8871407,76.6118667,OpenStreetMap,node,2434074095,2026-11-26T08:50:46.119657+00:00
+KFC,fast_food,Haryana,,,,,28.469353,77.0633642,OpenStreetMap,node,2686104583,2026-11-26T08:50:46.119661+00:00
+Domino's,restaurant,Haryana,,Karnal,"SCO 220, Sector 12, 132001",+91 (0)184 2267401,29.6949422,77.0015622,OpenStreetMap,node,2795868179,2026-11-26T08:50:46.119666+00:00
+oasis fast food,fast_food,Haryana,,,,,29.9749461,76.8923879,OpenStreetMap,node,2972373066,2026-11-26T08:50:46.119670+00:00
+Mannat Dhaba,restaurant,Haryana,,,,,29.0332357,77.0712846,OpenStreetMap,node,3507924202,2026-11-26T08:50:46.119673+00:00
+Mukesh Dhaba,restaurant,Haryana,,Gurgaon,Service Road,,28.4937673,77.0859232,OpenStreetMap,node,3642197067,2026-11-26T08:50:46.119676+00:00
+Cafe Coffee Day,cafe,Haryana,,,,,28.1255589,76.6374349,OpenStreetMap,node,3872205362,2026-11-26T08:50:46.119680+00:00
+Haldiram's,restaurant,Haryana,,,,,28.1254212,76.6373554,OpenStreetMap,node,3872205363,2026-11-26T08:50:46.119683+00:00
+Roots,cafe,Haryana,,,,,28.4694883,77.0683104,OpenStreetMap,node,3998179871,2026-11-26T08:50:46.119687+00:00
+Hunger Cure,fast_food,Haryana,,Faridabad,"Manav Rachna International University, Surajkund Road, 121004",,28.4501324,77.2833462,OpenStreetMap,node,4141719065,2026-11-26T08:50:46.119691+00:00
+Dosa Plaza,cafe,Haryana,,,,,29.9704977,76.8365529,OpenStreetMap,node,4198292496,2026-11-26T08:50:46.119694+00:00
+Pizza Hut,restaurant,Haryana,,,,,28.5116464,77.0419883,OpenStreetMap,node,4212577527,2026-11-26T08:50:46.119697+00:00
+Domino's,fast_food,Haryana,,,,,28.5116526,77.0420538,OpenStreetMap,node,4212577528,2026-11-26T08:50:46.119700+00:00
+Cafe Coffee Day,cafe,Haryana,,,,,28.5116773,77.0419219,OpenStreetMap,node,4212577529,2026-11-26T08:50:46.119704+00:00
+Moti Mahal,restaurant,Haryana,,,,,28.5113741,77.0420245,OpenStreetMap,node,4212577530,2026-11-26T08:50:46.119707+00:00
+Pind Baluchi,restaurant,Haryana,,,,,28.5113834,77.0420829,OpenStreetMap,node,4212577531,2026-11-26T08:50:46.119711+00:00
+McDonald's,fast_food,Haryana,,,,,28.5052329,77.0380116,OpenStreetMap,node,4212577547,2026-11-26T08:50:46.119715+00:00
+Om Sweets,restaurant,Haryana,,Gurugram,,,28.5106747,77.0482028,OpenStreetMap,node,4213526115,2026-11-26T08:50:46.119719+00:00
+Mc Bakerz,fast_food,Haryana,,,,,29.7019177,77.0142617,OpenStreetMap,node,4500033062,2026-11-26T08:50:46.119723+00:00
+Mc Bakerz,fast_food,Haryana,,Karnal,"SCO 24, Nehru Palace",+91 8059464000,29.6865291,76.9905429,OpenStreetMap,node,4500033063,2026-11-26T08:50:46.119726+00:00
+McDonald's,fast_food,Haryana,,,,,28.493899,77.0927785,OpenStreetMap,node,4601388390,2026-11-26T08:50:46.119730+00:00
+Pizza Hut,restaurant,Haryana,,,,,28.4734849,77.0093267,OpenStreetMap,node,4685313689,2026-11-26T08:50:46.119732+00:00
+Jindal House,fast_food,Haryana,,,"907, Unknown",9992739316,29.4997668,75.8911753,OpenStreetMap,node,4914982823,2026-11-26T08:50:46.119736+00:00
+Cafeteria,cafe,Haryana,,,,,28.9257035,77.0552434,OpenStreetMap,node,4930410318,2026-11-26T08:50:46.119739+00:00
+Subway,fast_food,Haryana,,,,,28.9257035,77.0552434,OpenStreetMap,node,4930410319,2026-11-26T08:50:46.119742+00:00
+Cafeteria,cafe,Haryana,,,,,28.9254405,77.0552434,OpenStreetMap,node,4930410320,2026-11-26T08:50:46.119745+00:00
+Naivedyam Restaurant,restaurant,Haryana,,Gurugram,"Golf Course Road, 122002",,28.4348945,77.1063942,OpenStreetMap,node,5220810366,2026-11-26T08:50:46.119749+00:00
+Bikanervala,restaurant,Haryana,,Gurugram,"Golf Course Road, 122002",,28.4337294,77.1055547,OpenStreetMap,node,5220810367,2026-11-26T08:50:46.119752+00:00
+Burger Singh,fast_food,Haryana,,Gurugram,"Golf Course Road, 122002",,28.4337509,77.1052624,OpenStreetMap,node,5228001163,2026-11-26T08:50:46.119756+00:00
+Wat-a-Burger,fast_food,Haryana,,Gurugram,"Golf Course Road, 122002",,28.4337192,77.1052415,OpenStreetMap,node,5228001164,2026-11-26T08:50:46.119761+00:00
+Bikaner Misthan Bhandar Faridpur,restaurant,Haryana,,,,,28.3851732,77.3670162,OpenStreetMap,node,5409197468,2026-11-26T08:50:46.119764+00:00
+Khatirdari Restaurant,restaurant,Haryana,,,,,28.3833087,77.369564,OpenStreetMap,node,5409224810,2026-11-26T08:50:46.119767+00:00
+झिलमिल पंजाबी ढाबा,restaurant,Haryana,,,,,29.9142441,76.9091144,OpenStreetMap,node,5413646622,2026-11-26T08:50:46.119770+00:00
+Aasam,restaurant,Haryana,,,,,30.7556637,76.907169,OpenStreetMap,node,5501695621,2026-11-26T08:50:46.119773+00:00
+Blue Tokai Coffee Roasters,cafe,Haryana,Gurugram,Gurugram,"R/1, DLF Galleria, 122022",+91 98211 26015,28.4675055,77.0823515,OpenStreetMap,node,5517695021,2026-11-26T08:50:46.119776+00:00
+Sagar Ratna,restaurant,Haryana,,,110017,,29.0483748,77.0664741,OpenStreetMap,node,5761966872,2026-11-26T08:50:46.119780+00:00
+Subway,fast_food,Haryana,,,,,29.0483069,77.0664973,OpenStreetMap,node,5761966874,2026-11-26T08:50:46.119784+00:00
+Domino's,fast_food,Haryana,,,,,29.0482425,77.0665169,OpenStreetMap,node,5761966875,2026-11-26T08:50:46.119787+00:00
+Café Coffee Day,cafe,Haryana,,,,,29.0482171,77.0665242,OpenStreetMap,node,5761966876,2026-11-26T08:50:46.119791+00:00
+Burger King,fast_food,Haryana,,,,,29.7562206,76.9687442,OpenStreetMap,node,5762396883,2026-11-26T08:50:46.119794+00:00
+Carl's Jr.,fast_food,Haryana,,Gurgaon,"Golf Course Road, DLF-5",+91 74002 74002,28.4509093,77.0973003,OpenStreetMap,node,5952585662,2026-11-26T08:50:46.119798+00:00
+Bikanerwala,restaurant,Haryana,,,,,28.3234329,76.9012419,OpenStreetMap,node,6059110287,2026-11-26T08:50:46.119802+00:00
+Starbucks,cafe,Haryana,,,,,28.480359,77.0927131,OpenStreetMap,node,6071161049,2026-11-26T08:50:46.119805+00:00
+Domino's,fast_food,Haryana,,,,,28.3783663,76.9035584,OpenStreetMap,node,6320767524,2026-11-26T08:50:46.119808+00:00
+Rao Dhaba,restaurant,Haryana,,,,,28.3755596,76.9557753,OpenStreetMap,node,6338453602,2026-11-26T08:50:46.119811+00:00
+Green Mango AC Dhaba,restaurant,Haryana,,,,,29.0797528,76.683316,OpenStreetMap,node,6349095815,2026-11-26T08:50:46.119814+00:00
+Nook,restaurant,Haryana,,Gurugram,122018,,28.4063064,77.0448369,OpenStreetMap,node,6472488318,2026-11-26T08:50:46.119818+00:00
+Starbucks,cafe,Haryana,,Gurugram,"Vatika Business Park, Sohna Road, 122018",,28.4061488,77.0451428,OpenStreetMap,node,6472488319,2026-11-26T08:50:46.119821+00:00
+Neelkanth Vegetarian Dhaba,restaurant,Haryana,,,,,28.993726,77.0829283,OpenStreetMap,node,6502481394,2026-11-26T08:50:46.119826+00:00
+Bikanerwala,restaurant,Haryana,,,,,29.0677978,77.0605521,OpenStreetMap,node,6502560505,2026-11-26T08:50:46.119829+00:00
+Punjab Dhaba,restaurant,Haryana,,,,,30.8394749,76.9355639,OpenStreetMap,node,6539935686,2026-11-26T08:50:46.119833+00:00
+Krishna Cafe,restaurant,Haryana,,,,,30.8389948,76.936469,OpenStreetMap,node,6539938386,2026-11-26T08:50:46.119836+00:00
+Garam Dharam,restaurant,Haryana,,,,,29.0596762,77.0629088,OpenStreetMap,node,6614973197,2026-11-26T08:50:46.119839+00:00
+Sindhi Sweets,restaurant,Haryana,,,,,30.369398,76.7989811,OpenStreetMap,node,6614973199,2026-11-26T08:50:46.119842+00:00
+Sagar Ratna,restaurant,Haryana,,,,,30.3691631,76.7990118,OpenStreetMap,node,6614973200,2026-11-26T08:50:46.119845+00:00
+McDonald's,fast_food,Haryana,,"Gurugram, Haryana","State Highway 8, Sector 1 Main Rd, Sector 1, 122050",,28.3671874,76.9443904,OpenStreetMap,node,6828037345,2026-11-26T08:50:46.119848+00:00
+Zingo Himalaya Restaurant,fast_food,Haryana,,,,,29.3331732,75.6256484,OpenStreetMap,node,6830562345,2026-11-26T08:50:46.119851+00:00
+दिल्ली पूरी वाला,restaurant,Haryana,,Rohtak,"Bara Bazaar, 124001",,28.9004251,76.5764201,OpenStreetMap,node,6926132385,2026-11-26T08:50:46.119855+00:00
+भाटिया पूरी वाला,restaurant,Haryana,,Rohtak,"Bara Bazaar, 124001",,28.9004204,76.5764878,OpenStreetMap,node,6926139985,2026-11-26T08:50:46.119859+00:00
+Bahrisons Galleria Market Book cafe,cafe,Haryana,Gurugram,Gurugram,"R1, Galleria Market, 122022",+911244562264,28.4674734,77.0822644,OpenStreetMap,node,6952025655,2026-11-26T08:50:46.119863+00:00
+Fat Lulu’s,restaurant,Haryana,,,,,28.4682689,77.0834511,OpenStreetMap,node,6952063399,2026-11-26T08:50:46.119866+00:00
+Nowhere Brewpub and cafe,cafe,Haryana,,,,,28.4682859,77.0836684,OpenStreetMap,node,6952063400,2026-11-26T08:50:46.119871+00:00
+Di Ghent,cafe,Haryana,,,,,28.4682936,77.0830397,OpenStreetMap,node,6952063401,2026-11-26T08:50:46.119874+00:00
+Starbucks,cafe,Haryana,Gurugram,Gurugram,"SG-004, DLF Galleria Road, 122009",,28.4675754,77.0822151,OpenStreetMap,node,6952063402,2026-11-26T08:50:46.119877+00:00
+SYS Resteraunt,restaurant,Haryana,,,,,28.8956151,76.6086554,OpenStreetMap,node,6991292912,2026-11-26T08:50:46.119880+00:00
+ADDA,restaurant,Haryana,,,,,28.4690914,77.0621736,OpenStreetMap,node,7008505642,2026-11-26T08:50:46.119883+00:00
+KFC,fast_food,Haryana,,,,,28.4035723,76.9477406,OpenStreetMap,node,7011221854,2026-11-26T08:50:46.119886+00:00
+Pizza Hut,restaurant,Haryana,,,,,28.4036539,76.9477117,OpenStreetMap,node,7011221855,2026-11-26T08:50:46.119889+00:00
+Starbucks,cafe,Haryana,,,,,28.4508713,77.0976243,OpenStreetMap,node,7052398154,2026-11-26T08:50:46.119894+00:00
+Sagar Ratna,restaurant,Haryana,,,,,28.4511943,77.0968546,OpenStreetMap,node,7052398156,2026-11-26T08:50:46.119897+00:00
+McDonald's,fast_food,Haryana,,Panchkula,"Sector 11, 134109",,30.685335,76.8478543,OpenStreetMap,node,7095198327,2026-11-26T08:50:46.119901+00:00
+KFC,fast_food,Haryana,,Panchkula,,,30.6957073,76.8496898,OpenStreetMap,node,7095491917,2026-11-26T08:50:46.119904+00:00
+Subway,fast_food,Haryana,,Panchkula,Sector 5,,30.7141877,76.8499439,OpenStreetMap,node,7095554188,2026-11-26T08:50:46.119908+00:00
+Subway,fast_food,Haryana,,Panchkula,Sector 9,,30.6943008,76.8499501,OpenStreetMap,node,7095594152,2026-11-26T08:50:46.119912+00:00
+La Pinoz Pizza,restaurant,Haryana,,Panchkula,"La Pinoz Pizza, sector 20",,30.6667971,76.8592481,OpenStreetMap,node,7101202561,2026-11-26T08:50:46.119915+00:00
+Madison and Pike,cafe,Haryana,Gurugram,Gurugram,"C38, Nirvana Courtyard, Sector 50, 122018",+911244088230,28.4144192,77.0654842,OpenStreetMap,node,7117806844,2026-11-26T08:50:46.119919+00:00
+DastarKhan,restaurant,Haryana,,,,,30.6941941,76.8604642,OpenStreetMap,node,7130950450,2026-11-26T08:50:46.119922+00:00
+Republic of Chicken,restaurant,Haryana,,"Panchkula, Haryana","Sector 25, 134116",098787 89097,30.6702111,76.8862858,OpenStreetMap,node,7203166157,2026-11-26T08:50:46.119926+00:00
+Bikaner,restaurant,Haryana,,,,,28.9975896,77.0313111,OpenStreetMap,node,7429227591,2026-11-26T08:50:46.119931+00:00
+Zhilmil Dhaba,restaurant,Haryana,,,,,29.0355432,77.0705542,OpenStreetMap,node,7429227597,2026-11-26T08:50:46.119934+00:00
+Anupam Restaurant And Cafe,restaurant,Haryana,,,,,28.4301046,77.3159958,OpenStreetMap,node,7554426457,2026-11-26T08:50:46.119937+00:00
+Pizza Hut,restaurant,Haryana,,,"Bestech Centre Point, Sushant Lok 1",,28.468584,77.0743315,OpenStreetMap,node,7558352957,2026-11-26T08:50:46.119940+00:00
+The Chicken Boat,restaurant,Haryana,,,,,28.4628028,77.080404,OpenStreetMap,node,7883419544,2026-11-26T08:50:46.119943+00:00
+Last Bite,restaurant,Haryana,,Barwala,"CHC Road, 125121",+91 169 324 3078,29.363182,75.9024914,OpenStreetMap,node,8039939657,2026-11-26T08:50:46.119948+00:00
+Havana Taphouse,restaurant,Haryana,,Ambala,1304003,9988273000,30.2527239,76.8542883,OpenStreetMap,node,8044262480,2026-11-26T08:50:46.119951+00:00
+Aman's,restaurant,Haryana,,,,,30.2058854,76.8577391,OpenStreetMap,node,8044322679,2026-11-26T08:50:46.119954+00:00
+Sanjha Chulha,restaurant,Haryana,,,,,30.2080562,76.8573365,OpenStreetMap,node,8044322680,2026-11-26T08:50:46.119957+00:00
+Kohinoor Punjabi Vaishno Dhaba,restaurant,Haryana,,,,,29.9418846,76.9004435,OpenStreetMap,node,8044399795,2026-11-26T08:50:46.119960+00:00
+Subway,fast_food,Haryana,,,,,29.9169826,76.9091057,OpenStreetMap,node,8044399797,2026-11-26T08:50:46.119965+00:00
+Ten Spoon Dhaba,restaurant,Haryana,,,,,29.2169582,77.0192575,OpenStreetMap,node,8044563768,2026-11-26T08:50:46.119968+00:00
+Mannat Dhaba,restaurant,Haryana,,,,,29.1886963,77.0276516,OpenStreetMap,node,8044563771,2026-11-26T08:50:46.119971+00:00
+Mitran Da Dhaba,restaurant,Haryana,,,,,29.1293433,77.0443791,OpenStreetMap,node,8044599401,2026-11-26T08:50:46.119974+00:00
+Mahalaxmi Sangam Dhaba,restaurant,Haryana,,,,,29.0461412,77.0687016,OpenStreetMap,node,8044607595,2026-11-26T08:50:46.119977+00:00
+Mannat Haveli,restaurant,Haryana,,,,,29.0651986,77.0635605,OpenStreetMap,node,8044607596,2026-11-26T08:50:46.119980+00:00
+Maharani Sangam Vaishno Dhaba,restaurant,Haryana,,,,,29.0343492,77.0718543,OpenStreetMap,node,8044716746,2026-11-26T08:50:46.119983+00:00
+La Pino'z Pizza,restaurant,Haryana,,,,+91-8222-98-2101;+91-8222-98-2102;+91-8222-98-2103;+91-8222-98-2104,30.3691985,76.7993781,OpenStreetMap,node,8046146139,2026-11-26T08:50:46.119986+00:00
+The Waffle Co.,fast_food,Haryana,,,,,30.3691582,76.7988209,OpenStreetMap,node,8046146157,2026-11-26T08:50:46.119989+00:00
+Chawla's,fast_food,Haryana,,,,+91 93819 38938;+91 93829 38938,30.368433,76.7997413,OpenStreetMap,node,8046150098,2026-11-26T08:50:46.119992+00:00
+NutrioBox Gurugram,fast_food,Haryana,,Gurgaon,"Mehrauli-Gurgaon Rd, DLF Phase 2, Sector 25, Gurugram, Haryana 122002, 122002",,28.4798283,77.081751,OpenStreetMap,node,8130326878,2026-11-26T08:50:46.119997+00:00
+Kachi Phatak,restaurant,Haryana,,,,,29.3919556,76.9620124,OpenStreetMap,node,8143281472,2026-11-26T08:50:46.120000+00:00
+Vegetarian Restaurant,restaurant,Haryana,,,,,28.3599527,77.2935216,OpenStreetMap,node,8184667990,2026-11-26T08:50:46.120003+00:00
+Shri Shyam Misthaan Bhandar&Ice,restaurant,Haryana,,,,,27.8940284,76.1147526,OpenStreetMap,node,8184668233,2026-11-26T08:50:46.120006+00:00
+Yamiez-Best Family Restaurant Party Hall Vegetarian Food with Affordable Prices & Awesome Interiors,restaurant,Haryana,,,,,30.129917,77.291777,OpenStreetMap,node,8184668646,2026-11-26T08:50:46.120009+00:00
+Family Vegetarian Dhaba,restaurant,Haryana,,,,,29.725822,76.405759,OpenStreetMap,node,8184669042,2026-11-26T08:50:46.120012+00:00
+Desh Premi Dhaba (Pure Vegetarian),restaurant,Haryana,,,,,28.1503321,77.3002097,OpenStreetMap,node,8184669319,2026-11-26T08:50:46.120015+00:00
+Pure Vegetarian Family Restaurant,restaurant,Haryana,,,,,29.25118,75.662461,OpenStreetMap,node,8184670144,2026-11-26T08:50:46.120018+00:00
+Jannat Cafe,restaurant,Haryana,,,,,28.057721,76.1053156,OpenStreetMap,node,8184670796,2026-11-26T08:50:46.120021+00:00
+Balaji Vegetarian Paradise,restaurant,Haryana,,,,,28.460803,77.078831,OpenStreetMap,node,8184671579,2026-11-26T08:50:46.120024+00:00
+Hungry Hub,restaurant,Haryana,,,SCO 72,7497000915,29.9706753,76.8562746,OpenStreetMap,node,8190375680,2026-11-26T08:50:46.120029+00:00
+Domino's,fast_food,Haryana,,,,,29.9704842,76.8377404,OpenStreetMap,node,8239439281,2026-11-26T08:50:46.120032+00:00
+Pizza Hut,restaurant,Haryana,,,,,29.9704574,76.8378263,OpenStreetMap,node,8239439809,2026-11-26T08:50:46.120035+00:00
+Hungry Hub,restaurant,Haryana,,,,,29.9705028,76.8376626,OpenStreetMap,node,8239448530,2026-11-26T08:50:46.120040+00:00
+Madrasi Dosa,restaurant,Haryana,,,,,29.9708036,76.8579254,OpenStreetMap,node,8239450517,2026-11-26T08:50:46.120043+00:00
+Jain Soda Water Factory,restaurant,Haryana,,,,,30.3387676,76.8403193,OpenStreetMap,node,8292756410,2026-11-26T08:50:46.120046+00:00
+Vikrant Dhaba,restaurant,Haryana,,,,,29.0928189,77.0551383,OpenStreetMap,node,8292766263,2026-11-26T08:50:46.120049+00:00
+Pandit Sitaram,restaurant,Haryana,,,,,30.3409101,76.8424526,OpenStreetMap,node,8292771284,2026-11-26T08:50:46.120052+00:00
+Black Mambaa,restaurant,Haryana,,Gurugram,"SCO 6/7, 3 Floor, Sector 29, 122007",,28.4691501,77.0636443,OpenStreetMap,node,8499424058,2026-11-26T08:50:46.120055+00:00
+cafebluearch,cafe,Haryana,,rohtak,"1st & 2nd floor, near jat college,dev colony,delhi road, 124001",8585075850,28.8840779,76.616698,OpenStreetMap,node,8517996235,2026-11-26T08:50:46.120058+00:00
+Django Meals,restaurant,Haryana,,Faridabad,"SCO-2, Special Huda Market, Sector-19, 121002",+917482501866,28.4232884,77.311025,OpenStreetMap,node,8549700903,2026-11-26T08:50:46.120063+00:00
+FUNTIME ICE CREAM PARLOUR,restaurant,Haryana,,Faridabad,"3/A/40, gurdwara road, 121001",8700642734,28.3993281,77.2915253,OpenStreetMap,node,8586608841,2026-11-26T08:50:46.120066+00:00
+Madhushaala-A Family Lounge And Bar,restaurant,Haryana,,Faridabad,"44A First Floor, Omaxe WorldStreet, Sector 79, 121004",+91 129 2974246,28.3873128,77.3523023,OpenStreetMap,node,8621540046,2026-11-26T08:50:46.120071+00:00
+Kalki bhavan mess,restaurant,Haryana,,,,,29.7027097,76.9777847,OpenStreetMap,node,8888033404,2026-11-26T08:50:46.120074+00:00
+CHINESE CORNER,fast_food,Haryana,,,,,28.43391,77.1466471,OpenStreetMap,node,8900437996,2026-11-26T08:50:46.120077+00:00
+"B,M,B misthan bhandaar",cafe,Haryana,,,,,27.9694892,77.4922792,OpenStreetMap,node,8918702625,2026-11-26T08:50:46.120080+00:00
+Dilli Se,fast_food,Haryana,,,SSB-59,+91 82188 54362;+91 85870 88343,29.1441373,75.7290359,OpenStreetMap,node,8930944587,2026-11-26T08:50:46.120083+00:00
+Ram Dairy,fast_food,Haryana,,,,,30.6809393,76.862364,OpenStreetMap,node,8944557986,2026-11-26T08:50:46.120086+00:00
+Haveli Dhaba,restaurant,Haryana,,,,,29.0684366,77.0604777,OpenStreetMap,node,9091688136,2026-11-26T08:50:46.120089+00:00
+Haldiram's,fast_food,Haryana,,,,,28.4204541,77.0502661,OpenStreetMap,node,9184257624,2026-11-26T08:50:46.120092+00:00
+Pan Bangkok,restaurant,Haryana,,,,,28.4806344,77.0804255,OpenStreetMap,node,9213699811,2026-11-26T08:50:46.120096+00:00
+Cafe Coffee Day,cafe,Haryana,,,,,28.4777464,77.0461429,OpenStreetMap,node,9244846230,2026-11-26T08:50:46.120099+00:00
+Gulshan Bhai Ke Cholle Bhature,restaurant,Haryana,,,,,29.9691392,76.8423517,OpenStreetMap,node,9357758164,2026-11-26T08:50:46.120102+00:00
+Dilli Walon Ke Cholle Bhature,restaurant,Haryana,,,,,29.969116,76.8421846,OpenStreetMap,node,9357763863,2026-11-26T08:50:46.120104+00:00
+Shudh Desi Dhaba,fast_food,Haryana,,,,,28.9461633,77.1006233,OpenStreetMap,node,9365319972,2026-11-26T08:50:46.120107+00:00
+Crazy Restaurant,restaurant,Haryana,,,,,29.8041925,76.4017126,OpenStreetMap,node,9446663992,2026-11-26T08:50:46.120110+00:00
+Children's Park Topkhana Bazzar,fast_food,Haryana,,,,,30.3688269,76.8465884,OpenStreetMap,node,9524151939,2026-11-26T08:50:46.120113+00:00
+Janta Sweets,restaurant,Haryana,,,,,30.3470973,76.8373852,OpenStreetMap,node,9524329563,2026-11-26T08:50:46.120116+00:00
+New Sunny Sweets,restaurant,Haryana,,Ambala,"948/11, Manav Chowk, 134003",,30.3662161,76.7650409,OpenStreetMap,node,9711390136,2026-11-26T08:50:46.120119+00:00
+Shiva Dhaba,restaurant,Haryana,,,,,29.0553485,77.0647022,OpenStreetMap,node,9868491904,2026-11-26T08:50:46.120123+00:00
+Cafe Hut-K (KP Food),cafe,Haryana,,,,,28.3398598,76.994122,OpenStreetMap,node,9883679507,2026-11-26T08:50:46.120127+00:00
+The Walkers,cafe,Haryana,,,,,28.3399675,76.9941084,OpenStreetMap,node,9883679508,2026-11-26T08:50:46.120130+00:00
+Rathi Cafe Pandala,cafe,Haryana,,,,,28.3395205,76.9941761,OpenStreetMap,node,9883679509,2026-11-26T08:50:46.120133+00:00
+Desi Thaat,cafe,Haryana,,,,,28.3396097,76.9940994,OpenStreetMap,node,9883679510,2026-11-26T08:50:46.120136+00:00
+Happy Pie Cafe,cafe,Haryana,,,,,28.3399886,76.9941737,OpenStreetMap,node,9883679511,2026-11-26T08:50:46.120139+00:00
+Trip Mechanic Cafe,cafe,Haryana,,,,,28.3424122,76.9958703,OpenStreetMap,node,9883679512,2026-11-26T08:50:46.120142+00:00
+Throttle Shrottle Cafe,cafe,Haryana,,,,,28.3425704,76.9958656,OpenStreetMap,node,9883679513,2026-11-26T08:50:46.120145+00:00
+Sree Annam Cafe,cafe,Haryana,,,,,30.7225076,76.8752538,OpenStreetMap,node,9999107788,2026-11-26T08:50:46.120147+00:00
+Domino's,fast_food,Haryana,,,,,30.68381,76.8463773,OpenStreetMap,node,9999544810,2026-11-26T08:50:46.120150+00:00
+Bikaner Sweets,fast_food,Haryana,,Gurgaon,"Gurgaon Sector 83, Matrikiran lane, 122004",+91 87001 16724,28.3994933,76.9602551,OpenStreetMap,node,10022352327,2026-11-26T08:50:46.120153+00:00
+Chilli Chaats,fast_food,Haryana,,,,,30.6945844,76.8450679,OpenStreetMap,node,10083201298,2026-11-26T08:50:46.120158+00:00
+Chaat Junction,fast_food,Haryana,,,,,30.6945882,76.8452835,OpenStreetMap,node,10083222306,2026-11-26T08:50:46.120161+00:00
+Lake View Restaurant,restaurant,Haryana,,,,,30.6578509,77.0825478,OpenStreetMap,node,10089267933,2026-11-26T08:50:46.120164+00:00
+Guftagu Cafe,cafe,Haryana,,,,,28.4852731,77.0948027,OpenStreetMap,node,10209710086,2026-11-26T08:50:46.120167+00:00
+Am2Pm Restaurant,restaurant,Haryana,,TARAORI,132116,97296.03303,29.7951119,76.925148,OpenStreetMap,node,10214566332,2026-11-26T08:50:46.120170+00:00
+La Pino'z Pizza,fast_food,Haryana,,Panchkula,"First Floor, SCO 112, Sector 25, 134116",,30.66972,76.8862218,OpenStreetMap,node,10284285102,2026-11-26T08:50:46.120173+00:00
+Subway,fast_food,Haryana,,,,,30.6698136,76.8862853,OpenStreetMap,node,10284285103,2026-11-26T08:50:46.120176+00:00
+Smokkin Grill,restaurant,Haryana,,,,,30.6702135,76.8861566,OpenStreetMap,node,10284701739,2026-11-26T08:50:46.120180+00:00
+La Laziz,restaurant,Haryana,,,,,30.6702127,76.886209,OpenStreetMap,node,10284701740,2026-11-26T08:50:46.120182+00:00
+Rolls King,fast_food,Haryana,Gurgaon,Gurgaon,122101,,28.3949733,77.0314439,OpenStreetMap,node,10541975313,2026-11-26T08:50:46.120187+00:00
+Sagar Ratna,restaurant,Haryana,,Gurgaon,122101,,28.391689,77.0302286,OpenStreetMap,node,10542162110,2026-11-26T08:50:46.120192+00:00
+Haldiram's,fast_food,Haryana,,,,,28.3916521,77.0303593,OpenStreetMap,node,10542162111,2026-11-26T08:50:46.120195+00:00
+Wow! Momo,fast_food,Haryana,,Gurgaon,122101,,28.3911905,77.0300257,OpenStreetMap,node,10542162114,2026-11-26T08:50:46.120198+00:00
+Domino's,fast_food,Haryana,,Gurgaon,122101,,28.391094,77.0300281,OpenStreetMap,node,10542162115,2026-11-26T08:50:46.120201+00:00
+Chaayos Cafe,cafe,Haryana,,Gurgaon,122101,,28.3910366,77.0302333,OpenStreetMap,node,10542162116,2026-11-26T08:50:46.120204+00:00
+McDonald's,fast_food,Haryana,,Gurgaon,122101,,28.3908006,77.0300654,OpenStreetMap,node,10542162117,2026-11-26T08:50:46.120207+00:00
+Nirula's Ice Cream,restaurant,Haryana,,Gurgaon,122101,,28.3910386,77.030112,OpenStreetMap,node,10542162118,2026-11-26T08:50:46.120210+00:00
+Moti Mahal Delux,restaurant,Haryana,,Gurgaon,122101,,28.3912705,77.0299511,OpenStreetMap,node,10542162119,2026-11-26T08:50:46.120213+00:00
+Street Food Stalls,fast_food,Haryana,,Gurgaon,"Sector 70, 122101",,28.3944836,77.0310953,OpenStreetMap,node,10542173341,2026-11-26T08:50:46.120217+00:00
+Krishna Dhaba,restaurant,Haryana,,समालखा,"G.T. Road, 132101",+919728900064,29.2160856,77.019232,OpenStreetMap,node,10586707822,2026-11-26T08:50:46.120220+00:00
+Ranjeet Juice Corner,fast_food,Haryana,,Panchkula,"Sector 25, 134116",+91-7355977324,30.6704665,76.8857994,OpenStreetMap,node,10588185065,2026-11-26T08:50:46.120225+00:00
+Costa,cafe,Haryana,,,,,28.4197953,77.0382615,OpenStreetMap,node,10593508500,2026-11-26T08:50:46.120228+00:00
+Domino's,fast_food,Haryana,,,,,28.4185669,77.0384745,OpenStreetMap,node,10593521398,2026-11-26T08:50:46.120231+00:00
+Thaï Garam,restaurant,Haryana,,,,,28.4185419,77.0385735,OpenStreetMap,node,10593537363,2026-11-26T08:50:46.120233+00:00
+McDonald's,fast_food,Haryana,,,,,28.4179932,77.0392764,OpenStreetMap,node,10594437383,2026-11-26T08:50:46.120236+00:00
+Knite Ryder,restaurant,Haryana,,,,,28.4879794,77.0932299,OpenStreetMap,node,10688625178,2026-11-26T08:50:46.120239+00:00
+McDonald's,fast_food,Haryana,,,,,28.4790655,77.0817221,OpenStreetMap,node,10690963351,2026-11-26T08:50:46.120242+00:00
+HUNGRY PIZZA KESRI,restaurant,Haryana,,Kesri,"Dubli, 133102",08570022333,30.2366654,76.9049201,OpenStreetMap,node,10709331222,2026-11-26T08:50:46.120245+00:00
+HUNGRY PIZZA SAHA,restaurant,Haryana,,Saha,"Rajiv Chowk, 133101",09044114488,30.3004729,76.969857,OpenStreetMap,node,10709858537,2026-11-26T08:50:46.120248+00:00
+LUCKY'S PIZZA Bilaspur,restaurant,Haryana,,Bilaspur,"LUCKY'S PIZZA, KAPAL MOCHAN ROAD, 135102",08282821580,30.300969,77.3044887,OpenStreetMap,node,10710021062,2026-11-26T08:50:46.120251+00:00
+Black Beans Cafe - Most Hygienic & Trending Coffee Shop in Kurukshetra,cafe,Haryana,,Kurukshetra,"SCO 25P, Geeta Colony Sector 17 Thanesar, 136118",9053503501,29.9703147,76.8380855,OpenStreetMap,node,10736632171,2026-11-26T08:50:46.120256+00:00
+LOC,fast_food,Haryana,,faridabad,"225, sector-9, 121006",9999331664,28.3763736,77.333619,OpenStreetMap,node,10736741428,2026-11-26T08:50:46.120259+00:00
+Haryana Tourism,restaurant,Haryana,,,,,28.9315363,77.0987237,OpenStreetMap,node,10790524454,2026-11-26T08:50:46.120262+00:00
+Kukreja Food Point,fast_food,Haryana,,pehowa,"1, Hissar Ambala Road, 136128",7015617830,29.9825988,76.5850121,OpenStreetMap,node,10799150872,2026-11-26T08:50:46.120265+00:00
+361B,fast_food,Haryana,,,,,28.4560215,77.0806115,OpenStreetMap,node,10826396328,2026-11-26T08:50:46.120268+00:00
+Old Gulshan Dhaba,restaurant,Haryana,,,,,27.8602744,77.3990591,OpenStreetMap,node,10864777645,2026-11-26T08:50:46.120271+00:00
+Dharma Dhaba,restaurant,Haryana,,,,,27.8632433,77.3980515,OpenStreetMap,node,10864777647,2026-11-26T08:50:46.120274+00:00
+Asli Gulshan Dhaba,restaurant,Haryana,,,,,27.8677141,77.394879,OpenStreetMap,node,10864777651,2026-11-26T08:50:46.120277+00:00
+Choudhary Dhaba,restaurant,Haryana,,,,,27.8704673,77.3921515,OpenStreetMap,node,10864777652,2026-11-26T08:50:46.120280+00:00
+Mannat Family Dhaba,restaurant,Haryana,,,,,28.0837423,77.3409813,OpenStreetMap,node,10864785149,2026-11-26T08:50:46.120283+00:00
+Gulshan Dhaba,restaurant,Haryana,,,,,27.9047794,77.3691674,OpenStreetMap,node,10864785154,2026-11-26T08:50:46.120287+00:00
+Gulshan No-1 Dhaba,restaurant,Haryana,,,,,27.9531344,77.3478644,OpenStreetMap,node,10864785164,2026-11-26T08:50:46.120290+00:00
+Mannat Dhaba,restaurant,Haryana,,,,,27.9945264,77.3304436,OpenStreetMap,node,10864785170,2026-11-26T08:50:46.120293+00:00
+Shiva Dhaba,restaurant,Haryana,,,,,27.9957735,77.3304436,OpenStreetMap,node,10864785172,2026-11-26T08:50:46.120296+00:00
+Asli Gulshan Dhaba,restaurant,Haryana,,,,,27.9977921,77.3307479,OpenStreetMap,node,10864785174,2026-11-26T08:50:46.120298+00:00
+Shiva Dhaba,restaurant,Haryana,,,,,28.0046207,77.3324622,OpenStreetMap,node,10864785176,2026-11-26T08:50:46.120301+00:00
+Apni Haveli,restaurant,Haryana,,,,,28.0142578,77.3357507,OpenStreetMap,node,10864785177,2026-11-26T08:50:46.120304+00:00
+Café Coffee Day,cafe,Haryana,,,,,28.0177606,77.3353879,OpenStreetMap,node,10864785180,2026-11-26T08:50:46.120307+00:00
+Shri Shyam Dhaba,restaurant,Haryana,,,,,28.0442757,77.3412091,OpenStreetMap,node,10864785190,2026-11-26T08:50:46.120310+00:00
+Shree Balaji Dhaba,restaurant,Haryana,,,,,28.0466254,77.3420013,OpenStreetMap,node,10864785193,2026-11-26T08:50:46.120313+00:00
+Old Bharat Punjabi Dhaba,restaurant,Haryana,,,,,28.0469719,77.34207,OpenStreetMap,node,10864785194,2026-11-26T08:50:46.120317+00:00
+Basant Dhaba,restaurant,Haryana,,,,,28.0516555,77.343909,OpenStreetMap,node,10864785197,2026-11-26T08:50:46.120320+00:00
+Sureya Dhaba,restaurant,Haryana,,,,,28.0535974,77.3446697,OpenStreetMap,node,10864785198,2026-11-26T08:50:46.120323+00:00
+Anand Family Dhaba,restaurant,Haryana,,,,,28.0741078,77.3443132,OpenStreetMap,node,10864785201,2026-11-26T08:50:46.120327+00:00
+81 Miles Dhaba,restaurant,Haryana,,,,,28.0418017,77.3406671,OpenStreetMap,node,10864785202,2026-11-26T08:50:46.120330+00:00
+Singla Amritsari Kulcha,fast_food,Haryana,,,,,29.136305,75.7371851,OpenStreetMap,node,10870380402,2026-11-26T08:50:46.120334+00:00
+Loving Hut,restaurant,Haryana,Gurugram,Gurugram,"299, Badshahpur Sohna Rd, 122018",+919872160699,28.431496,77.0367146,OpenStreetMap,node,10870495962,2026-11-26T08:50:46.120337+00:00
+Lakshya Sweets,cafe,Haryana,,,,,29.3165622,76.3350104,OpenStreetMap,node,10895804140,2026-11-26T08:50:46.120340+00:00
+Aggarwal Sweets,cafe,Haryana,,,,,29.3167672,76.3350132,OpenStreetMap,node,10895804141,2026-11-26T08:50:46.120344+00:00
+Chai Sutta Bar,cafe,Haryana,,,,,29.3172772,76.3350811,OpenStreetMap,node,10895804147,2026-11-26T08:50:46.120348+00:00
+punjabi dhaba,restaurant,Haryana,,,,,28.4152823,77.3524743,OpenStreetMap,node,10902467611,2026-11-26T08:50:46.120352+00:00
+Dil Dosa,restaurant,Haryana,,,,,28.3989059,77.3620439,OpenStreetMap,node,10902470802,2026-11-26T08:50:46.120355+00:00
+OM Sweets,restaurant,Haryana,,,,,28.3871477,77.3553307,OpenStreetMap,node,10902473184,2026-11-26T08:50:46.120358+00:00
+Pizzaa 99,restaurant,Haryana,,,,,28.3988519,77.3620689,OpenStreetMap,node,10902501407,2026-11-26T08:50:46.120361+00:00
+Eat Club,restaurant,Haryana,,,,,28.3978703,77.3621092,OpenStreetMap,node,10902503508,2026-11-26T08:50:46.120364+00:00
+Too Much Melodrama,restaurant,Haryana,,,,,28.3862594,77.3545135,OpenStreetMap,node,10902515148,2026-11-26T08:50:46.120367+00:00
+Tulsi's,restaurant,Haryana,,,,,28.387181,77.3548232,OpenStreetMap,node,10902516248,2026-11-26T08:50:46.120369+00:00
+Narendra's,restaurant,Haryana,,,,,28.3864389,77.3541981,OpenStreetMap,node,10902542669,2026-11-26T08:50:46.120372+00:00
+The Fit Food,restaurant,Haryana,,,,,28.3867408,77.3543774,OpenStreetMap,node,10902542773,2026-11-26T08:50:46.120375+00:00
+Subway,fast_food,Haryana,,,,,28.3869584,77.3543538,OpenStreetMap,node,10902543209,2026-11-26T08:50:46.120378+00:00
+Bistro 57 cafe,restaurant,Haryana,,,,,28.3864575,77.3544487,OpenStreetMap,node,10902545572,2026-11-26T08:50:46.120382+00:00
+Cafe t Area,cafe,Haryana,,,,,28.3862489,77.3539225,OpenStreetMap,node,10902548595,2026-11-26T08:50:46.120385+00:00
+KARIM'S,restaurant,Haryana,,,,,28.3864589,77.3543462,OpenStreetMap,node,10902551537,2026-11-26T08:50:46.120388+00:00
+Nvedya Buildcon,fast_food,Haryana,,,,,28.3862327,77.3543458,OpenStreetMap,node,10902596000,2026-11-26T08:50:46.120391+00:00
+Rahul Eggs,restaurant,Haryana,,,,,28.3867553,77.3546798,OpenStreetMap,node,10902596327,2026-11-26T08:50:46.120394+00:00
+Merak- Reader's Bistro & Soft Play Area,restaurant,Haryana,,,,,28.386944,77.3532263,OpenStreetMap,node,10902598362,2026-11-26T08:50:46.120397+00:00
+World Juice Centre,fast_food,Haryana,,,,,28.3862383,77.3542276,OpenStreetMap,node,10902601710,2026-11-26T08:50:46.120400+00:00
+HOT BLACK CAFE,cafe,Haryana,,,,,28.3864805,77.3526367,OpenStreetMap,node,10902610047,2026-11-26T08:50:46.120403+00:00
+Momo Magic Cafe,cafe,Haryana,,,,,28.3862678,77.3537401,OpenStreetMap,node,10902611491,2026-11-26T08:50:46.120406+00:00
+My O Bites,restaurant,Haryana,,,,,28.3862715,77.3538517,OpenStreetMap,node,10902614216,2026-11-26T08:50:46.120409+00:00
+Burger Singh,fast_food,Haryana,,,,,28.3862092,77.3546606,OpenStreetMap,node,10902615806,2026-11-26T08:50:46.120413+00:00
+The Exotic Kitchen Co,restaurant,Haryana,,,,,28.3868033,77.3530723,OpenStreetMap,node,10902620487,2026-11-26T08:50:46.120416+00:00
+Chai Adda,fast_food,Haryana,,,,,28.386432,77.3530578,OpenStreetMap,node,10902621012,2026-11-26T08:50:46.120418+00:00
+Xero Degrees,restaurant,Haryana,,,,,28.3868127,77.3531259,OpenStreetMap,node,10902622031,2026-11-26T08:50:46.120421+00:00
+Dark Brown World Street,cafe,Haryana,,,,,28.3866117,77.3531769,OpenStreetMap,node,10902628933,2026-11-26T08:50:46.120424+00:00
+the unique,restaurant,Haryana,,,,,28.4154258,77.354644,OpenStreetMap,node,10902633252,2026-11-26T08:50:46.120428+00:00
+Anupam Sweets,restaurant,Haryana,,,,,28.4158599,77.354776,OpenStreetMap,node,10902649926,2026-11-26T08:50:46.120431+00:00
+CJC Green house,restaurant,Haryana,,,,,28.416915,77.3555656,OpenStreetMap,node,10902671761,2026-11-26T08:50:46.120435+00:00
+NAVYA FAST FOOD,fast_food,Haryana,,,,,29.1297899,75.7704691,OpenStreetMap,node,10903370752,2026-11-26T08:50:46.120438+00:00
+BIKANER,fast_food,Haryana,,,,,29.1371146,75.7414688,OpenStreetMap,node,10903384238,2026-11-26T08:50:46.120441+00:00
+MUNNA SWEETS,cafe,Haryana,,,,,29.1320872,75.7594348,OpenStreetMap,node,10903394662,2026-11-26T08:50:46.120445+00:00
+PLA FAST FOOD AREA,fast_food,Haryana,,,,,29.1432653,75.7294139,OpenStreetMap,node,10903415843,2026-11-26T08:50:46.120448+00:00
+Megha Darjeeling Restaurant,restaurant,Haryana,,,"A55/14, DLF Phase 1, Sector 28",7428205724,28.4731264,77.0924937,OpenStreetMap,node,10908640655,2026-11-26T08:50:46.120451+00:00
+Al-Baik Biryani,fast_food,Haryana,Gurgaon,Gurgaon,122101,,28.3944741,77.0315651,OpenStreetMap,node,10951913918,2026-11-26T08:50:46.120455+00:00
+La Pino’z Pizza,restaurant,Haryana,Gurgaon,Gurgaon,122101,,28.394382,77.0321824,OpenStreetMap,node,10951936905,2026-11-26T08:50:46.120458+00:00
+34 Chowringhee Lane,fast_food,Haryana,Gurgaon,Gurgaon,122101,,28.3944733,77.0316269,OpenStreetMap,node,10951960298,2026-11-26T08:50:46.120461+00:00
+Cafe Sixty 9,cafe,Haryana,Gurgaon,Gurgaon,122101,,28.3944744,77.0318037,OpenStreetMap,node,10951988908,2026-11-26T08:50:46.120464+00:00
+Subway,fast_food,Haryana,Gurgaon,Gurgaon,122101,,28.3947548,77.0315143,OpenStreetMap,node,10952001298,2026-11-26T08:50:46.120467+00:00
+Burrppp!,restaurant,Haryana,Gurgaon,Gurgaon,122101,,28.3947212,77.0322261,OpenStreetMap,node,10952751932,2026-11-26T08:50:46.120470+00:00
+D’Cafe,cafe,Haryana,Gurgaon,Gurgaon,122101,,28.3947196,77.0316524,OpenStreetMap,node,10952751935,2026-11-26T08:50:46.120473+00:00
+Ramesh Dhaba,restaurant,Haryana,,,,,28.9464568,75.8278281,OpenStreetMap,node,10957799026,2026-11-26T08:50:46.120478+00:00
+Barista Dinner,cafe,Haryana,Gurgaon,Gurgaon,"Sohna Road, 122101",,28.3826187,77.052527,OpenStreetMap,node,10968993635,2026-11-26T08:50:46.120481+00:00
+The Belgian Waffle Co,restaurant,Haryana,Gurgaon,Gurgaon,"Sohna Road, 122101",,28.3828264,77.0526788,OpenStreetMap,node,10968993640,2026-11-26T08:50:46.120484+00:00
+Chaayos,cafe,Haryana,Gurgaon,Gurgaon,122101,,28.3836064,77.0524458,OpenStreetMap,node,10968993651,2026-11-26T08:50:46.120487+00:00
+Taco Bell,fast_food,Haryana,Haryana,Gurgaon,"Sohna Road, 122101",,28.3832272,77.0521753,OpenStreetMap,node,10968993656,2026-11-26T08:50:46.120490+00:00
+Mad Over Donuts,fast_food,Haryana,Gurgaon,Gurgaon,122101,,28.3833392,77.052409,OpenStreetMap,node,10968993657,2026-11-26T08:50:46.120493+00:00
+Taste Of Sikkim,restaurant,Haryana,Gurgaon,Gurgaon,122101,,28.3824334,77.0520478,OpenStreetMap,node,10968993659,2026-11-26T08:50:46.120496+00:00
+Dhaba HR 26,restaurant,Haryana,,,,,28.4381793,77.1036792,OpenStreetMap,node,11068149259,2026-11-26T08:50:46.120499+00:00
+Sagar Ratna,restaurant,Haryana,,Panchkula,"SCO 53, 134116",,30.6610355,76.8810949,OpenStreetMap,node,11088452431,2026-11-26T08:50:46.120504+00:00
+Kalsang,restaurant,Haryana,,Panchkula,,,30.6911563,76.8517843,OpenStreetMap,node,11118097428,2026-11-26T08:50:46.120507+00:00
+Saroor AC Tavern,restaurant,Haryana,,Panchkula,,,30.6914973,76.8515718,OpenStreetMap,node,11118097433,2026-11-26T08:50:46.120511+00:00
+Vinty Cafe,cafe,Haryana,,,,+91-9465791186,30.6937025,76.8798759,OpenStreetMap,node,11167148659,2026-11-26T08:50:46.120514+00:00
+Sips & Giggles,cafe,Haryana,,,,,30.6951149,76.8799319,OpenStreetMap,node,11167174222,2026-11-26T08:50:46.120518+00:00
+Chai Pe Gupshup,fast_food,Haryana,,,,,30.694342,76.8453356,OpenStreetMap,node,11200686425,2026-11-26T08:50:46.120520+00:00
+Mr.Sanders jakhal,fast_food,Haryana,Fatehabad,jakhal mandi,"opp. indian oil pump, chandigarh road, 125133",9409856000,29.8066904,75.8258602,OpenStreetMap,node,11226426528,2026-11-26T08:50:46.120524+00:00
+Oasis Fast Foods,fast_food,Haryana,,,,,29.7451646,76.9725539,OpenStreetMap,node,11230083168,2026-11-26T08:50:46.120527+00:00
+Manny's Waffle,restaurant,Haryana,,,,,28.4620388,77.0502404,OpenStreetMap,node,11246165564,2026-11-26T08:50:46.120530+00:00
+Long Finish,restaurant,Haryana,,,,,28.462018,77.0497928,OpenStreetMap,node,11246201390,2026-11-26T08:50:46.120532+00:00
+Boju's,restaurant,Haryana,,,,,28.4620161,77.0502074,OpenStreetMap,node,11246222553,2026-11-26T08:50:46.120535+00:00
+Puran Momos,fast_food,Haryana,,,,,28.8853213,76.629341,OpenStreetMap,node,11277458070,2026-11-26T08:50:46.120538+00:00
+Pandit Ji ka Dhaba,restaurant,Haryana,,,,+91-9971353602,28.4245502,77.0678795,OpenStreetMap,node,11314042364,2026-11-26T08:50:46.120544+00:00
+Ashirwaad Veg Dhaba,restaurant,Haryana,,,,,30.305443,76.9517312,OpenStreetMap,node,11335657853,2026-11-26T08:50:46.120547+00:00
+Shivam Juice and Shakes,fast_food,Haryana,,,,,28.4246202,77.0678128,OpenStreetMap,node,11379126766,2026-11-26T08:50:46.120550+00:00
+Barista,cafe,Haryana,kurukshetra,kurukshetra,"Ground Floor, Showroom 1 & 2 Opposite Sector 10 Park Pipli Road, 136118",7206188022,29.9745139,76.8676823,OpenStreetMap,node,11422218772,2026-11-26T08:50:46.120553+00:00
+Sri Pahalwanji Kastha Kachori Wale,fast_food,Haryana,,,,,30.3373268,76.8403694,OpenStreetMap,node,11449050887,2026-11-26T08:50:46.120556+00:00
+McDonald's,fast_food,Haryana,,,,,27.7935547,77.0117505,OpenStreetMap,node,11493914885,2026-11-26T08:50:46.120560+00:00
+Kaffee Stories,cafe,Haryana,,,,,28.4311426,77.0620379,OpenStreetMap,node,11627313794,2026-11-26T08:50:46.120564+00:00
+Cream Bell,fast_food,Haryana,,,,,28.4397355,77.0402237,OpenStreetMap,node,11653018430,2026-11-26T08:50:46.120566+00:00
+Vaango!,fast_food,Haryana,,,,,28.439642,77.0402384,OpenStreetMap,node,11653021896,2026-11-26T08:50:46.120570+00:00
+Costa,cafe,Haryana,,,,,28.4397212,77.0402096,OpenStreetMap,node,11653030148,2026-11-26T08:50:46.120573+00:00
+Pizza Hut,restaurant,Haryana,,,,,28.4396905,77.0401796,OpenStreetMap,node,11653030149,2026-11-26T08:50:46.120577+00:00
+KFC,fast_food,Haryana,,,,,28.4396641,77.0401836,OpenStreetMap,node,11653042802,2026-11-26T08:50:46.120580+00:00
+Joops,fast_food,Haryana,,,,,28.4397039,77.0401938,OpenStreetMap,node,11653045685,2026-11-26T08:50:46.120583+00:00
+The food street,fast_food,Haryana,,,,,28.4396605,77.0402158,OpenStreetMap,node,11653048927,2026-11-26T08:50:46.120586+00:00
+OM Sweets,fast_food,Haryana,,,,,28.4120584,77.3191337,OpenStreetMap,node,11684867981,2026-11-26T08:50:46.120588+00:00
+Crisp n Twist,restaurant,Haryana,,,,,28.4106429,77.3201412,OpenStreetMap,node,11684904989,2026-11-26T08:50:46.120592+00:00
+Big Yellow Door,restaurant,Haryana,,,,,28.4098134,77.319889,OpenStreetMap,node,11684905819,2026-11-26T08:50:46.120594+00:00
+Sagar Ratna,restaurant,Haryana,,,,,28.4091259,77.3198271,OpenStreetMap,node,11684906245,2026-11-26T08:50:46.120597+00:00
+Hotel HSB Grand,restaurant,Haryana,,,,,28.8072566,76.1312878,OpenStreetMap,node,11690685908,2026-11-26T08:50:46.120600+00:00
+Pizza Choice,restaurant,Haryana,,,,,28.8013964,76.1364638,OpenStreetMap,node,11690922403,2026-11-26T08:50:46.120603+00:00
+HSB Family restaurant,restaurant,Haryana,,,,,28.8017325,76.1423753,OpenStreetMap,node,11690940862,2026-11-26T08:50:46.120607+00:00
+Big Bistro,restaurant,Haryana,,,,,28.8110385,76.1441498,OpenStreetMap,node,11690952857,2026-11-26T08:50:46.120610+00:00
+ChaiHollic,restaurant,Haryana,,,,,28.8043941,76.1343888,OpenStreetMap,node,11691036057,2026-11-26T08:50:46.120613+00:00
+Chai Suta Bar,cafe,Haryana,,,,,28.8043913,76.1343089,OpenStreetMap,node,11691036058,2026-11-26T08:50:46.120616+00:00
+Neelkanth Sweets,restaurant,Haryana,,,,,28.8043437,76.1301785,OpenStreetMap,node,11691300755,2026-11-26T08:50:46.120619+00:00
+Mahendra Juice Corner,fast_food,Haryana,,,,,28.8045304,76.130364,OpenStreetMap,node,11691370381,2026-11-26T08:50:46.120622+00:00
+Pizza Paris,restaurant,Haryana,,,,,28.8046753,76.1327623,OpenStreetMap,node,11691432172,2026-11-26T08:50:46.120624+00:00
+Krishna Restaurant,restaurant,Haryana,,,,,28.803042,76.1337934,OpenStreetMap,node,11691432178,2026-11-26T08:50:46.120627+00:00
+The Untold Cafe,cafe,Haryana,,,,,28.8049445,76.1327671,OpenStreetMap,node,11691444883,2026-11-26T08:50:46.120630+00:00
+Toll Pizza,restaurant,Haryana,,,,,28.8026603,76.1340078,OpenStreetMap,node,11691455385,2026-11-26T08:50:46.120633+00:00
+Rose Valley,restaurant,Haryana,,,,,28.8028604,76.133799,OpenStreetMap,node,11691455498,2026-11-26T08:50:46.120637+00:00
+Sumit juice corner,fast_food,Haryana,,,,,28.801742,76.1343922,OpenStreetMap,node,11691462849,2026-11-26T08:50:46.120640+00:00
+Chatpati Chaap,restaurant,Haryana,,,,,28.8010897,76.1384029,OpenStreetMap,node,11691490216,2026-11-26T08:50:46.120642+00:00
+EAZA restaurant,restaurant,Haryana,,,,,28.8010581,76.1368509,OpenStreetMap,node,11691513495,2026-11-26T08:50:46.120646+00:00
+Om Bikaner Misthan Bhandar,restaurant,Haryana,,,,,28.7997146,76.1425342,OpenStreetMap,node,11691566598,2026-11-26T08:50:46.120650+00:00
+7 Cloud,restaurant,Haryana,,,,,28.2789881,76.153637,OpenStreetMap,node,11693115520,2026-11-26T08:50:46.120653+00:00
+Bhavya,restaurant,Haryana,,,,,28.2792091,76.1536483,OpenStreetMap,node,11693115521,2026-11-26T08:50:46.120655+00:00
+Chur Chur naan,restaurant,Haryana,,,,,28.3892418,77.342532,OpenStreetMap,node,11693814868,2026-11-26T08:50:46.120658+00:00
+Punjabi Kadhai,restaurant,Haryana,,,,,28.3984842,77.3485978,OpenStreetMap,node,11693843910,2026-11-26T08:50:46.120661+00:00
+Burger King,fast_food,Haryana,,,,,28.4691969,77.3075412,OpenStreetMap,node,11696651177,2026-11-26T08:50:46.120664+00:00
+Xero Degrees,restaurant,Haryana,,,,,28.4695694,77.3075493,OpenStreetMap,node,11696662402,2026-11-26T08:50:46.120670+00:00
+Barbeque Nation,restaurant,Haryana,,,,,28.4698241,77.3072998,OpenStreetMap,node,11696663611,2026-11-26T08:50:46.120672+00:00
+Crew Brew,cafe,Haryana,,,,,28.39838,77.299076,OpenStreetMap,node,11696672948,2026-11-26T08:50:46.120676+00:00
+The Biryani Exchange,restaurant,Haryana,,,,,28.4693337,77.3070638,OpenStreetMap,node,11696677121,2026-11-26T08:50:46.120678+00:00
+Domino's,fast_food,Haryana,,,,,28.4695152,77.3072006,OpenStreetMap,node,11696698189,2026-11-26T08:50:46.120681+00:00
+Haldiram's,fast_food,Haryana,,,,,28.4694908,77.3069544,OpenStreetMap,node,11696707980,2026-11-26T08:50:46.120684+00:00
+McDonald's,fast_food,Haryana,,,,,28.4694539,77.3072864,OpenStreetMap,node,11696717646,2026-11-26T08:50:46.120687+00:00
+Eat N Joy,restaurant,Haryana,,,,,28.4023604,77.3002843,OpenStreetMap,node,11696787948,2026-11-26T08:50:46.120689+00:00
+The Aravalli Story,restaurant,Haryana,,,,,28.4064705,77.3500697,OpenStreetMap,node,11696955666,2026-11-26T08:50:46.120692+00:00
+Misthan Bhandar,restaurant,Haryana,,Narnaul,,,28.0410187,76.1045644,OpenStreetMap,node,11697239796,2026-11-26T08:50:46.120696+00:00
+vrindavan ground,restaurant,Haryana,,,,,28.4868718,77.2898222,OpenStreetMap,node,11697419467,2026-11-26T08:50:46.120700+00:00
+Topping Masters - Italian Restaurant,restaurant,Haryana,,Pratap Nagar,"Khizrabad Road, 135021",+919671690713,30.292007,77.4978747,OpenStreetMap,node,11711971523,2026-11-26T08:50:46.120703+00:00
+FOODIE BISTRO,restaurant,Haryana,,,,,29.1385834,76.7008145,OpenStreetMap,node,11763664642,2026-11-26T08:50:46.120706+00:00
+Karibaevu,restaurant,Haryana,Gurugram,Gurugram,"G-34, 122003",,28.425535,77.0683293,OpenStreetMap,node,11813552613,2026-11-26T08:50:46.120709+00:00
+PizZoMore,restaurant,Haryana,,,,08527895983,28.4243243,77.0682426,OpenStreetMap,node,11813552614,2026-11-26T08:50:46.120712+00:00
+MSG Shahi Canteen,restaurant,Haryana,SONIPAT,,NH 44,,28.9659094,77.0918085,OpenStreetMap,node,11829945318,2026-11-26T08:50:46.120715+00:00
+Shri Ram Dhaba,restaurant,Haryana,Gurugram,Gurugram,"Sohna Road, Sector 48, 122001",0124-4278885,28.4115593,77.0416411,OpenStreetMap,node,11834470061,2026-11-26T08:50:46.120719+00:00
+Balaji Sweets & Chinese Corner,restaurant,Haryana,,,,,28.3690261,77.0801374,OpenStreetMap,node,11911783863,2026-11-26T08:50:46.120722+00:00
+D S Hunger Hut,fast_food,Haryana,,,,,28.449125,77.0796367,OpenStreetMap,node,11921221856,2026-11-26T08:50:46.120725+00:00
+Third Wave Coffee,cafe,Haryana,,,,,28.4509594,77.0815414,OpenStreetMap,node,11929097599,2026-11-26T08:50:46.120729+00:00
+Chaayos,cafe,Haryana,,,"ROF Portico, Vyapar Kendra Road",,28.4529086,77.082331,OpenStreetMap,node,11929097633,2026-11-26T08:50:46.120733+00:00
+Hong’s Kitchen,restaurant,Haryana,,,,,28.4530925,77.0824427,OpenStreetMap,node,11929097635,2026-11-26T08:50:46.120736+00:00
+ATAL SEVA KENDRA NAMUNDA,cafe,Haryana,,,,,29.2410642,76.9445588,OpenStreetMap,node,12005722305,2026-11-26T08:50:46.120739+00:00
+Chaigaram,fast_food,Haryana,,,,,28.4511065,77.284418,OpenStreetMap,node,12033039285,2026-11-26T08:50:46.120742+00:00
+Nescafe,cafe,Haryana,,,,,28.4511165,77.2867045,OpenStreetMap,node,12033039295,2026-11-26T08:50:46.120746+00:00
+Amrik Saini Poori Wala,restaurant,Haryana,,,Nicholson Road,,30.3370404,76.8391474,OpenStreetMap,node,12054165469,2026-11-26T08:50:46.120749+00:00
+Mayur Dhaba,fast_food,Haryana,,,,,29.9124469,76.910734,OpenStreetMap,node,12055524105,2026-11-26T08:50:46.120752+00:00
+Domino's,fast_food,Haryana,,,,,28.4594286,77.0725921,OpenStreetMap,node,12091571147,2026-11-26T08:50:46.120755+00:00
+Lemon Drops,fast_food,Haryana,,,,,28.4593886,77.0726326,OpenStreetMap,node,12091571491,2026-11-26T08:50:46.120758+00:00
+Sanjhay,fast_food,Haryana,,,,,28.4593314,77.0727173,OpenStreetMap,node,12091571493,2026-11-26T08:50:46.120761+00:00
+Big Bowl Company,fast_food,Haryana,,,,,28.4593602,77.072674,OpenStreetMap,node,12091571494,2026-11-26T08:50:46.120765+00:00
+Food On The Go,fast_food,Haryana,,,,,28.4590906,77.0728573,OpenStreetMap,node,12091572902,2026-11-26T08:50:46.120768+00:00
+Snack On The Go,fast_food,Haryana,,,,,28.4593918,77.0727717,OpenStreetMap,node,12091575918,2026-11-26T08:50:46.120771+00:00
+Good Flippin’ Burgers,fast_food,Haryana,,,"-, Sushant Shopping Arcade, Sushant Lok 1",,28.4604289,77.0792068,OpenStreetMap,node,12091637026,2026-11-26T08:50:46.120775+00:00
+Al-Bake,restaurant,Haryana,,,"-, Sushant Shopping Arcade, Sushant Lok 1",,28.4604243,77.0792568,OpenStreetMap,node,12091637027,2026-11-26T08:50:46.120778+00:00
+Mom In the kitchen,restaurant,Haryana,,,Sushant Shopping Arcade,,28.460532,77.0789591,OpenStreetMap,node,12091644968,2026-11-26T08:50:46.120781+00:00
+The Divine Dining,restaurant,Haryana,Gurugram,Gurugram,122009,,28.4606439,77.0791436,OpenStreetMap,node,12091656878,2026-11-26T08:50:46.120784+00:00
+Flavours - All Time Snacks,cafe,Haryana,,,,+91 96342 61042,28.460619,77.0791424,OpenStreetMap,node,12091656879,2026-11-26T08:50:46.120787+00:00
+Chow Time,restaurant,Haryana,,,,+91 79999 43663,28.4605966,77.0791415,OpenStreetMap,node,12091656881,2026-11-26T08:50:46.120790+00:00
+Rolls King,restaurant,Haryana,,,,,28.4606607,77.0791442,OpenStreetMap,node,12091656882,2026-11-26T08:50:46.120793+00:00
+Ninis Snacks,cafe,Haryana,,,,,28.460578,77.0791392,OpenStreetMap,node,12091656884,2026-11-26T08:50:46.120797+00:00
+La Pino’z Pizza,fast_food,Haryana,,,"-, Sushant Shopping Arcade, Sushant Lok 1",,28.4606127,77.0794514,OpenStreetMap,node,12091658730,2026-11-26T08:50:46.120801+00:00
+Briyani Samaa,fast_food,Haryana,,,,,28.4607006,77.0791498,OpenStreetMap,node,12091664463,2026-11-26T08:50:46.120804+00:00
+Prasuma Momo Kitchen,fast_food,Haryana,,,,,28.46078,77.0792596,OpenStreetMap,node,12091664466,2026-11-26T08:50:46.120807+00:00
+Groaker Burgers,fast_food,Haryana,,,,,28.4608211,77.0792066,OpenStreetMap,node,12091664467,2026-11-26T08:50:46.120810+00:00
+Bucks,restaurant,Haryana,,,,,28.4605003,77.0789801,OpenStreetMap,node,12091690473,2026-11-26T08:50:46.120812+00:00
+Raw Kit,fast_food,Haryana,,,,,28.4609296,77.0794274,OpenStreetMap,node,12091722675,2026-11-26T08:50:46.120815+00:00
+Haldiram,restaurant,Haryana,,,,,28.4365109,77.1344556,OpenStreetMap,node,12095066158,2026-11-26T08:50:46.120818+00:00
+مطعم عربي لبناني,restaurant,Haryana,,,,,28.4394491,77.0448654,OpenStreetMap,node,12113019717,2026-11-26T08:50:46.120821+00:00
+Talab Dhaba,restaurant,Haryana,,,,+91 8449819198,28.4300255,77.0625122,OpenStreetMap,node,12120121044,2026-11-26T08:50:46.120825+00:00
+Ravi Food Corner,fast_food,Haryana,,,,09891620644,28.4300028,77.0624816,OpenStreetMap,node,12120121046,2026-11-26T08:50:46.120829+00:00
+Hrithik Ram,fast_food,Haryana,,,,9125357103,28.4295109,77.0633246,OpenStreetMap,node,12120121047,2026-11-26T08:50:46.120832+00:00
+Lajabab Dhaba,restaurant,Haryana,,,,+919958468930,28.4294004,77.0632716,OpenStreetMap,node,12120121048,2026-11-26T08:50:46.120835+00:00
+Rajeev Restaurant,restaurant,Haryana,,,,,28.4293609,77.0634581,OpenStreetMap,node,12120121049,2026-11-26T08:50:46.120838+00:00
+Food Point Dhaba,restaurant,Haryana,,,,+91 97563 03572;+91 72528 66627  +91 83739 72892;,28.4284202,77.0645575,OpenStreetMap,node,12120121051,2026-11-26T08:50:46.120841+00:00
+Dagar Cafe,restaurant,Haryana,,,,,28.4279207,77.0651712,OpenStreetMap,node,12120121054,2026-11-26T08:50:46.120844+00:00
+Cafe delhi heights,restaurant,Haryana,,,,,28.3920326,77.0593776,OpenStreetMap,node,12270870709,2026-11-26T08:50:46.120847+00:00
+Sandburgs,restaurant,Haryana,,,,,28.3921711,77.058953,OpenStreetMap,node,12270870714,2026-11-26T08:50:46.120850+00:00
+Haldiram's,fast_food,Haryana,,,,,28.3918513,77.0589394,OpenStreetMap,node,12270870717,2026-11-26T08:50:46.120854+00:00
+Cafe Buddy's Espresso,cafe,Haryana,,,,,28.3921369,77.0593102,OpenStreetMap,node,12270870755,2026-11-26T08:50:46.120857+00:00
+Ackers,restaurant,Haryana,,,,,28.3919449,77.0590351,OpenStreetMap,node,12270870756,2026-11-26T08:50:46.120861+00:00
+Gourmet Heven,restaurant,Haryana,,,,,28.3922208,77.0589573,OpenStreetMap,node,12270870758,2026-11-26T08:50:46.120864+00:00
+Koy Bakers,restaurant,Haryana,,,,,28.39222,77.0590412,OpenStreetMap,node,12270870767,2026-11-26T08:50:46.120867+00:00
+TOSSIN PIZZA,restaurant,Haryana,,,,,28.3920535,77.0589582,OpenStreetMap,node,12270870768,2026-11-26T08:50:46.120870+00:00
+QuQu,cafe,Haryana,,,,,28.392218,77.0591745,OpenStreetMap,node,12270870770,2026-11-26T08:50:46.120873+00:00
+The waffle CO.,cafe,Haryana,,,,,28.3923074,77.0589606,OpenStreetMap,node,12270870771,2026-11-26T08:50:46.120876+00:00
+Chaayos,cafe,Haryana,Gurugram,Gurugram,,,28.3918971,77.0591729,OpenStreetMap,node,12270884328,2026-11-26T08:50:46.120879+00:00
+Costa,cafe,Haryana,,,,,28.3918675,77.059135,OpenStreetMap,node,12270884332,2026-11-26T08:50:46.120882+00:00
+Blue Tokai Coffee Roasters,cafe,Haryana,,,,,28.3920477,77.0593057,OpenStreetMap,node,12270884333,2026-11-26T08:50:46.120884+00:00
+Home-Style Cafe,cafe,Haryana,,,,,28.8959696,76.6011471,OpenStreetMap,node,12293777201,2026-11-26T08:50:46.120888+00:00
+Momos Point,fast_food,Haryana,,,,,28.8944268,76.5977194,OpenStreetMap,node,12293777202,2026-11-26T08:50:46.120892+00:00
+Alkauser,fast_food,Haryana,,,,,28.4395885,77.1033131,OpenStreetMap,node,12387494789,2026-11-26T08:50:46.120894+00:00
+Cafe Feca,cafe,Haryana,kurukshetra,kurukshetra,"SCO 1, Basement Floor,, Adjoining Divine Business Park, Opp. New Bus Stand, 136118",+91 9996229666,29.9745039,76.8666168,OpenStreetMap,node,12415397791,2026-11-26T08:50:46.120898+00:00
+BBR Coffee by Before British Raj,cafe,Haryana,,Gurgaon,"10A, Magunum Towers, Golf Course Ext., 122011",+911244950506,28.411246,77.1080579,OpenStreetMap,node,12563476412,2026-11-26T08:50:46.120901+00:00
+"Spot Light Hotel & Restaurant – Finest Dining & Stay on Shahbad-Ladwa Road | Near Jindheri, Haryana",restaurant,Haryana,Kurukshetra,Shahbad,"Near Jandheri Village, Shahbad to Ladwa Road,, 136135",9306022372,30.1454755,76.9005362,OpenStreetMap,node,12581603874,2026-11-26T08:50:46.120904+00:00
+Star Moon,cafe,Haryana,,,,,29.5222031,76.608547,OpenStreetMap,node,12589770035,2026-11-26T08:50:46.120908+00:00
+Anil Chat,fast_food,Haryana,,,,,29.5213083,76.6076658,OpenStreetMap,node,12589770041,2026-11-26T08:50:46.120911+00:00
+Charlie Delight Pizza,fast_food,Haryana,,,,,29.5203323,76.6073438,OpenStreetMap,node,12589770047,2026-11-26T08:50:46.120914+00:00
+Pizza Perfect,fast_food,Haryana,,,,,29.5196937,76.60692,OpenStreetMap,node,12589770051,2026-11-26T08:50:46.120917+00:00
+The Pizza Story,restaurant,Haryana,,,,,29.5197144,76.6061135,OpenStreetMap,node,12589770058,2026-11-26T08:50:46.120920+00:00
+Aah chak pizza,fast_food,Haryana,,,,,29.5195625,76.6061868,OpenStreetMap,node,12589770060,2026-11-26T08:50:46.120924+00:00
+The Best Pizza,fast_food,Haryana,,,,,29.5202408,76.6051111,OpenStreetMap,node,12589770074,2026-11-26T08:50:46.120926+00:00
+Chhabra,fast_food,Haryana,,,,,29.5178168,76.6054466,OpenStreetMap,node,12590677600,2026-11-26T08:50:46.120929+00:00
+Megha Chat Bhandar,fast_food,Haryana,,,,,29.5176485,76.6055931,OpenStreetMap,node,12592501350,2026-11-26T08:50:46.120932+00:00
+"Hungry Point, Assandh",fast_food,Haryana,,,,,29.5209054,76.6072688,OpenStreetMap,node,12592515838,2026-11-26T08:50:46.120935+00:00
+Burger Queen Safidon,fast_food,Haryana,Jind,Safidon,,,29.4080072,76.6619624,OpenStreetMap,node,12595026031,2026-11-26T08:50:46.120938+00:00
+Love Pizza Point,cafe,Haryana,,,,,28.0523064,76.1149685,OpenStreetMap,node,12595542256,2026-11-26T08:50:46.120941+00:00
+Dosti Pizza Point,fast_food,Haryana,,,,,28.0482431,76.1053431,OpenStreetMap,node,12595567683,2026-11-26T08:50:46.120944+00:00
+Khatu Shyam fast food and confectionery,fast_food,Haryana,Jind,Safidon,,,29.4135594,76.6677926,OpenStreetMap,node,12595604885,2026-11-26T08:50:46.120947+00:00
+Food junction bakers Safidon,fast_food,Haryana,Jind,Safidon,,,29.4071066,76.6662455,OpenStreetMap,node,12595635691,2026-11-26T08:50:46.120950+00:00
+Bittu Juice Corner,fast_food,Haryana,Jind,Safidon,,,29.4070064,76.6662385,OpenStreetMap,node,12595672233,2026-11-26T08:50:46.120954+00:00
+Bhatia Chicken Corner,fast_food,Haryana,,,,,29.4068551,76.6660595,OpenStreetMap,node,12595680935,2026-11-26T08:50:46.120957+00:00
+Pizza Rasoi Safidon,fast_food,Haryana,,,,,29.4069794,76.6660374,OpenStreetMap,node,12595699403,2026-11-26T08:50:46.120960+00:00
+mr.grill restaurant safidon,restaurant,Haryana,,,,,29.407706,76.6632564,OpenStreetMap,node,12595789242,2026-11-26T08:50:46.120963+00:00
+V2 cafe,cafe,Haryana,Jind,Safidon,,,29.4076648,76.6633487,OpenStreetMap,node,12595795920,2026-11-26T08:50:46.120966+00:00
+chugh sweets,restaurant,Haryana,,,,,29.6846995,75.5720453,OpenStreetMap,node,12595822327,2026-11-26T08:50:46.120968+00:00
+restaurent,restaurant,Haryana,,,,,29.6856763,75.5774541,OpenStreetMap,node,12595944041,2026-11-26T08:50:46.120971+00:00
+bainiwal sweets,restaurant,Haryana,,,,,29.678002,75.5693952,OpenStreetMap,node,12595985240,2026-11-26T08:50:46.120974+00:00
+cafe,cafe,Haryana,,,,,29.134423,76.6910144,OpenStreetMap,node,12596141008,2026-11-26T08:50:46.120977+00:00
+RR Sweets,restaurant,Haryana,,,,,28.0587732,76.1075405,OpenStreetMap,node,12596162405,2026-11-26T08:50:46.120980+00:00
+CHAI SPOT,cafe,Haryana,,,,,29.1925551,76.6227109,OpenStreetMap,node,12596219495,2026-11-26T08:50:46.120985+00:00
+Radha Ki Rasoi,restaurant,Haryana,,,,,28.7954727,76.1309709,OpenStreetMap,node,12596349544,2026-11-26T08:50:46.120988+00:00
+Hirdesh Fast Food,fast_food,Haryana,,,,,28.0546731,76.1036922,OpenStreetMap,node,12596387543,2026-11-26T08:50:46.120991+00:00
+Garam Masala Restaurant,restaurant,Haryana,,,,,28.7963941,76.1469209,OpenStreetMap,node,12596426822,2026-11-26T08:50:46.120994+00:00
+Baba Chicken Corner,fast_food,Haryana,,,,,28.7952101,76.1507355,OpenStreetMap,node,12596432611,2026-11-26T08:50:46.120997+00:00
+PIZZA GALLARIA,fast_food,Haryana,,,,,29.1392509,76.7052509,OpenStreetMap,node,12597110263,2026-11-26T08:50:46.121000+00:00
+AHUJA RESTRAUNT,restaurant,Haryana,,,,,29.1325681,76.7010459,OpenStreetMap,node,12597561965,2026-11-26T08:50:46.121003+00:00
+GOLDEN EAGLE CANTEEN,restaurant,Haryana,,,,,29.1269172,76.6988058,OpenStreetMap,node,12597568660,2026-11-26T08:50:46.121006+00:00
+ASG,cafe,Haryana,,,,,28.9444809,77.1040715,OpenStreetMap,node,12629756036,2026-11-26T08:50:46.121009+00:00
+Central Perk,cafe,Haryana,,,,,28.9444568,77.1042125,OpenStreetMap,node,12629762295,2026-11-26T08:50:46.121012+00:00
+Golden Hut,restaurant,Haryana,,,,,28.9454698,77.0955927,OpenStreetMap,node,12629806018,2026-11-26T08:50:46.121016+00:00
+Burger Singh,fast_food,Haryana,Sonipat,Sonipat,"Grand Trunk Road, 131029",,28.945335,77.0958135,OpenStreetMap,node,12630055415,2026-11-26T08:50:46.121019+00:00
+Roti Boti,restaurant,Haryana,,,,,28.9436411,77.102572,OpenStreetMap,node,12630055435,2026-11-26T08:50:46.121022+00:00
+LAILA BY EBOWLA,restaurant,Haryana,Gurugram,Gurugram,"26/7/2, SOUTH CITY 1, SECTOR 30, 122001",+919053222227,28.4628618,77.0631406,OpenStreetMap,node,12639413109,2026-11-26T08:50:46.121026+00:00
+Hasora,restaurant,Haryana,,,,+91 93546 41211,28.4599618,77.083366,OpenStreetMap,node,12640705503,2026-11-26T08:50:46.121030+00:00
+Kaku Pizza & Restaurant,restaurant,Haryana,,,,,28.4780428,77.0607624,OpenStreetMap,node,12710533943,2026-11-26T08:50:46.121033+00:00
+Midnight Cafe,restaurant,Haryana,,,,,28.9435256,77.1026805,OpenStreetMap,node,12809254660,2026-11-26T08:50:46.121036+00:00
+Vada Pav Cafe,restaurant,Haryana,,,,,28.9436742,77.1027987,OpenStreetMap,node,12809254662,2026-11-26T08:50:46.121039+00:00
+Ganpati Sweets,restaurant,Haryana,Hisar,Barwala,"Brw, Hissar Ambala Road, 125121",8950892474,29.3619429,75.8980999,OpenStreetMap,node,12865237829,2026-11-26T08:50:46.121043+00:00
+The Waffle CO.,fast_food,Haryana,,,,,28.4531821,76.9922679,OpenStreetMap,node,12873382894,2026-11-26T08:50:46.121045+00:00
+Bikanerwala,fast_food,Haryana,,,,,28.4532159,76.9923347,OpenStreetMap,node,12873382895,2026-11-26T08:50:46.121049+00:00
+Moti Mahal Delux,restaurant,Haryana,,,,,28.4532281,76.9922222,OpenStreetMap,node,12873382896,2026-11-26T08:50:46.121052+00:00
+Domino's,fast_food,Haryana,,,,,28.4532998,76.9924181,OpenStreetMap,node,12873382898,2026-11-26T08:50:46.121056+00:00
+Rolls king,fast_food,Haryana,,,,,28.4532646,76.9923894,OpenStreetMap,node,12873422901,2026-11-26T08:50:46.121059+00:00
+The BarbeQue Company,restaurant,Haryana,,,,,28.4533393,76.9924907,OpenStreetMap,node,12873422902,2026-11-26T08:50:46.121061+00:00
+Vangoo!,fast_food,Haryana,,,,,28.4532411,76.9921934,OpenStreetMap,node,12873422903,2026-11-26T08:50:46.121064+00:00
+Chicago Pizza,fast_food,Haryana,,,,,28.4532896,76.9921497,OpenStreetMap,node,12873422904,2026-11-26T08:50:46.121067+00:00
+Amritsari Express,fast_food,Haryana,,,,,28.453267,76.992168,OpenStreetMap,node,12873422906,2026-11-26T08:50:46.121070+00:00
+Chinese Wok,fast_food,Haryana,,,,,28.453322,76.9921451,OpenStreetMap,node,12873422907,2026-11-26T08:50:46.121073+00:00
+Hisar Haveli,restaurant,Haryana,,,,8397029000,29.0580403,75.6487817,OpenStreetMap,node,12896095220,2026-11-26T08:50:46.121076+00:00
+Yume Japan,restaurant,Haryana,Sonipat,Kundli,"TDI Lake Grove, 1310029",,28.9130881,77.1344598,OpenStreetMap,node,12926272191,2026-11-26T08:50:46.121080+00:00
+Bollywood Dhaba,restaurant,Haryana,,,,,28.9223405,77.1039881,OpenStreetMap,node,12926272192,2026-11-26T08:50:46.121083+00:00
+Barista,cafe,Haryana,,,,,28.9222187,77.1038748,OpenStreetMap,node,12926272193,2026-11-26T08:50:46.121086+00:00
+House of Oldmatess,cafe,Haryana,,Sonipat,Model Town,,28.984299,77.0258679,OpenStreetMap,node,13032506658,2026-11-26T08:50:46.121088+00:00
+Shri Shyam Dhaba,restaurant,Haryana,,,,+91 93118 68487,28.4291306,77.0637029,OpenStreetMap,node,13073917031,2026-11-26T08:50:46.121092+00:00
+Toss & Taste,restaurant,Haryana,,,G35,+91 920558577;+91 9958709477,28.4254784,77.068329,OpenStreetMap,node,13073917040,2026-11-26T08:50:46.121095+00:00
+Degh & Wok,restaurant,Haryana,,,,,28.4251584,77.0679866,OpenStreetMap,node,13073917041,2026-11-26T08:50:46.121098+00:00
+Himalayan Flavours,restaurant,Haryana,,,,,28.4250036,77.067974,OpenStreetMap,node,13073917042,2026-11-26T08:50:46.121101+00:00
+Third Wave Coffee Roasters,cafe,Haryana,,,,,28.4803789,77.0926822,OpenStreetMap,node,13110400367,2026-11-26T08:50:46.121104+00:00
+sundar tea,cafe,Haryana,sirsa,Mandi dabwali,"near Siddhartha hotel, 125104",+917404978023,29.9646669,74.7106501,OpenStreetMap,node,13131256947,2026-11-26T08:50:46.121107+00:00
+Bikanervala,fast_food,Haryana,,,,,28.8898786,77.1165814,OpenStreetMap,node,13146438901,2026-11-26T08:50:46.121111+00:00
+Swastika Mansion,cafe,Haryana,ambala,ambala,,,30.3300707,76.8373553,OpenStreetMap,node,13157443133,2026-11-26T08:50:46.121114+00:00
+Barista,cafe,Haryana,,,,,28.4760813,77.0931075,OpenStreetMap,node,13175452489,2026-11-26T08:50:46.121117+00:00
+Sibang Bakery,cafe,Haryana,,,,,28.4759105,77.0932948,OpenStreetMap,node,13175452490,2026-11-26T08:50:46.121119+00:00
+Fat Tiger,fast_food,Haryana,,,,,28.4754815,77.0928637,OpenStreetMap,node,13175452496,2026-11-26T08:50:46.121122+00:00
+The Golden Dragon,restaurant,Haryana,,,,,28.4762599,77.0932272,OpenStreetMap,node,13175500408,2026-11-26T08:50:46.121125+00:00
+Capital Diner,restaurant,Haryana,,,,,28.4759668,77.0931028,OpenStreetMap,node,13175500411,2026-11-26T08:50:46.121128+00:00
+Chai Town Cafe,fast_food,Haryana,,,,,28.4761818,77.0930709,OpenStreetMap,node,13175500412,2026-11-26T08:50:46.121133+00:00
+Yo! Dimsum,fast_food,Haryana,,,,,28.4758185,77.0931854,OpenStreetMap,node,13175500415,2026-11-26T08:50:46.121136+00:00
+Gulati,restaurant,Haryana,,,,,28.4762676,77.093281,OpenStreetMap,node,13175500421,2026-11-26T08:50:46.121139+00:00
+Gulati Indian Food,restaurant,Haryana,,,,,28.4763942,77.0931944,OpenStreetMap,node,13176626194,2026-11-26T08:50:46.121144+00:00
+Paltan,restaurant,Haryana,,,,,28.4623628,77.0870847,OpenStreetMap,node,13176763098,2026-11-26T08:50:46.121147+00:00
+Kitchen of Awadh,restaurant,Haryana,,,,,28.4625125,77.0869904,OpenStreetMap,node,13176763099,2026-11-26T08:50:46.121150+00:00
+Bread Talk,cafe,Haryana,,,,,28.4482254,77.0992136,OpenStreetMap,node,13179825844,2026-11-26T08:50:46.121153+00:00
+Brick n Bean Cafe,restaurant,Haryana,,,,,28.4481381,77.098974,OpenStreetMap,node,13179825845,2026-11-26T08:50:46.121156+00:00
+For Earth's Sake,cafe,Haryana,,,,,28.4482557,77.0991767,OpenStreetMap,node,13179825846,2026-11-26T08:50:46.121159+00:00
+Another Fine Day,cafe,Haryana,,,,+91 98110 00797,28.4478519,77.0992521,OpenStreetMap,node,13179825847,2026-11-26T08:50:46.121162+00:00
+Sibang Bakery,cafe,Haryana,,,,,28.4480817,77.098988,OpenStreetMap,node,13179825848,2026-11-26T08:50:46.121164+00:00
+Cafe Amaretto,restaurant,Haryana,,,,,28.4481734,77.0990054,OpenStreetMap,node,13179825850,2026-11-26T08:50:46.121167+00:00
+Barista,cafe,Haryana,,,,,28.4482234,77.0992897,OpenStreetMap,node,13179825851,2026-11-26T08:50:46.121170+00:00
+The Bibimbab,restaurant,Haryana,,,,,28.4482737,77.0992588,OpenStreetMap,node,13179825853,2026-11-26T08:50:46.121175+00:00
+Midam,restaurant,Haryana,,,,,28.4481908,77.099242,OpenStreetMap,node,13190611758,2026-11-26T08:50:46.121178+00:00
+Sweet Obsession,cafe,Haryana,,,,,28.4482716,77.0992474,OpenStreetMap,node,13191135210,2026-11-26T08:50:46.121181+00:00
+Ruja Authentic Chinese Restaurant,restaurant,Haryana,,,,,28.4476492,77.099445,OpenStreetMap,node,13191135221,2026-11-26T08:50:46.121184+00:00
+Kashgar,restaurant,Haryana,Gurgaon,Gurgaon,"17, Inside Lotus Villas, DLF IV, 122009",+916230401233,28.4698378,77.0858667,OpenStreetMap,node,13238895997,2026-11-26T08:50:46.121187+00:00
+Sticky Rice,restaurant,Haryana,,,,,28.4583458,77.0961282,OpenStreetMap,node,13243279485,2026-11-26T08:50:46.121190+00:00
+Chaayos,cafe,Haryana,,,,,28.4803226,77.0927675,OpenStreetMap,node,13243334782,2026-11-26T08:50:46.121193+00:00
+The Coffee Bean & Tea Leaf,cafe,Haryana,,,,,28.4804141,77.0926394,OpenStreetMap,node,13243334785,2026-11-26T08:50:46.121196+00:00
+Dohful,cafe,Haryana,,,,,28.4803521,77.0928384,OpenStreetMap,node,13243334787,2026-11-26T08:50:46.121199+00:00
+Blue Tokai Coffee Roasters,cafe,Haryana,,,,,28.4804403,77.0926019,OpenStreetMap,node,13243334788,2026-11-26T08:50:46.121202+00:00
+Starbucks,cafe,Haryana,,,,,28.4934704,77.0921913,OpenStreetMap,node,13246051183,2026-11-26T08:50:46.121206+00:00
+Jalsa,restaurant,Haryana,,,,,28.4667286,77.093962,OpenStreetMap,node,13246707620,2026-11-26T08:50:46.121209+00:00
+Cafe Amour,cafe,Haryana,,,,,28.4647133,77.0954963,OpenStreetMap,node,13246707647,2026-11-26T08:50:46.121212+00:00
+McDonald's,fast_food,Haryana,,,,,28.4607771,77.0952246,OpenStreetMap,node,13246707679,2026-11-26T08:50:46.121214+00:00
+Japonico,restaurant,Haryana,,,,,28.4597607,77.0955069,OpenStreetMap,node,13246708702,2026-11-26T08:50:46.121218+00:00
+Chinese Room,restaurant,Haryana,,,,,28.4575627,77.0965923,OpenStreetMap,node,13246708720,2026-11-26T08:50:46.121220+00:00
+Kalaunji by Sticky Rice,restaurant,Haryana,,,,,28.4566788,77.0966834,OpenStreetMap,node,13246779321,2026-11-26T08:50:46.121223+00:00
+Another Fine Day Cafe and Reading Room,cafe,Haryana,,,,+91 01244386155,28.4547627,77.0971629,OpenStreetMap,node,13246779335,2026-11-26T08:50:46.121230+00:00
+Sidewok,restaurant,Haryana,,,,,28.4547337,77.0971222,OpenStreetMap,node,13246779336,2026-11-26T08:50:46.121233+00:00
+Starbucks,cafe,Haryana,,,,,30.6965928,76.8573583,OpenStreetMap,node,13283216124,2026-11-26T08:50:46.121236+00:00
+Swagath,restaurant,Haryana,,,,,30.6966328,76.8573243,OpenStreetMap,node,13283216125,2026-11-26T08:50:46.121240+00:00
+Pehle Chai,cafe,Haryana,,,,,28.4603842,77.0798764,OpenStreetMap,node,13283972699,2026-11-26T08:50:46.121243+00:00
+Karim's,restaurant,Haryana,,,,,28.4604837,77.0798764,OpenStreetMap,node,13284004601,2026-11-26T08:50:46.121246+00:00
+Bizibean,cafe,Haryana,,,,,28.4458975,77.1001592,OpenStreetMap,node,13289717120,2026-11-26T08:50:46.121249+00:00
+Jus Chkn,fast_food,Haryana,,,,,28.4464551,77.1000517,OpenStreetMap,node,13289717122,2026-11-26T08:50:46.121252+00:00
+Big Boy Burger Co.,fast_food,Haryana,,,,,28.4466328,77.0999971,OpenStreetMap,node,13289717123,2026-11-26T08:50:46.121255+00:00
+Tim Hortons,cafe,Haryana,,,,,28.4947426,77.0879293,OpenStreetMap,node,13293400504,2026-11-26T08:50:46.121259+00:00
+P. F. Chang's,restaurant,Haryana,,,,,28.4950817,77.088333,OpenStreetMap,node,13293400515,2026-11-26T08:50:46.121262+00:00
+Farzi Cafe,restaurant,Haryana,,,,,28.4951954,77.0883936,OpenStreetMap,node,13293400518,2026-11-26T08:50:46.121265+00:00
+Chili's,restaurant,Haryana,,,,,28.4952809,77.0884382,OpenStreetMap,node,13293400521,2026-11-26T08:50:46.121268+00:00
+Cafe Delhi Heights,restaurant,Haryana,,,,,28.4953369,77.0884677,OpenStreetMap,node,13293400524,2026-11-26T08:50:46.121272+00:00
+Made In Punjab,restaurant,Haryana,,,,,28.4954279,77.0884272,OpenStreetMap,node,13293400527,2026-11-26T08:50:46.121275+00:00
+Laid Back Cafe,restaurant,Haryana,,,,,28.4953569,77.0885925,OpenStreetMap,node,13293400528,2026-11-26T08:50:46.121278+00:00
+Cafe Mez,restaurant,Haryana,,,,,28.4960196,77.0887417,OpenStreetMap,node,13293400534,2026-11-26T08:50:46.121281+00:00
+Tablespoon,restaurant,Haryana,,,,,28.4959602,77.0887101,OpenStreetMap,node,13293400537,2026-11-26T08:50:46.121284+00:00
+Blue Tokai Coffee Roasters,cafe,Haryana,,,,,28.4959159,77.088684,OpenStreetMap,node,13293400540,2026-11-26T08:50:46.121286+00:00
+Punjab Grill,restaurant,Haryana,,,,,28.4958595,77.0886567,OpenStreetMap,node,13293400543,2026-11-26T08:50:46.121289+00:00
+Vietnom,restaurant,Haryana,,,,,28.4957585,77.0886032,OpenStreetMap,node,13293400546,2026-11-26T08:50:46.121292+00:00
+Copper Chimney,restaurant,Haryana,,,,,28.4956716,77.0885626,OpenStreetMap,node,13293400549,2026-11-26T08:50:46.121296+00:00
+Cafeteria & Co,restaurant,Haryana,,,,,28.4956156,77.0885331,OpenStreetMap,node,13293400552,2026-11-26T08:50:46.121299+00:00
+Nando's,restaurant,Haryana,,,,,28.4955579,77.0885026,OpenStreetMap,node,13293400555,2026-11-26T08:50:46.121303+00:00
+McDonald's,fast_food,Haryana,,,,,28.4954904,77.0884701,OpenStreetMap,node,13293400558,2026-11-26T08:50:46.121306+00:00
+Starbucks,cafe,Haryana,,,,,28.4956427,77.08891,OpenStreetMap,node,13295285679,2026-11-26T08:50:46.121309+00:00
+McDonald's,fast_food,Haryana,,,,,28.5031846,77.0973207,OpenStreetMap,node,13296605610,2026-11-26T08:50:46.121312+00:00
+Breaking Brew,restaurant,Haryana,,,,,28.5028947,77.0970544,OpenStreetMap,node,13296605614,2026-11-26T08:50:46.121315+00:00
+Barbeque Nation,restaurant,Haryana,,,,,28.5025851,77.097066,OpenStreetMap,node,13296605616,2026-11-26T08:50:46.121318+00:00
+Indus Flavour,restaurant,Haryana,,,,,28.5027784,77.0970553,OpenStreetMap,node,13296605617,2026-11-26T08:50:46.121321+00:00
+Punjabi By Nature,restaurant,Haryana,,,,,28.503173,77.0971048,OpenStreetMap,node,13296605620,2026-11-26T08:50:46.121324+00:00
+Themis Barbeque House,restaurant,Haryana,,,,,28.5030176,77.0970667,OpenStreetMap,node,13296605622,2026-11-26T08:50:46.121327+00:00
+Manbhavan,restaurant,Haryana,,,,,28.503105,77.097088,OpenStreetMap,node,13296605625,2026-11-26T08:50:46.121330+00:00
+Pizza Hut,restaurant,Haryana,,,,,28.5037879,77.0970667,OpenStreetMap,node,13296673490,2026-11-26T08:50:46.121334+00:00
+Jamie Oliver Kitchen,restaurant,Haryana,,,,,28.5025524,77.0976567,OpenStreetMap,node,13296673492,2026-11-26T08:50:46.121337+00:00
+In The Punjab,restaurant,Haryana,,,,,28.5040986,77.0970203,OpenStreetMap,node,13296673493,2026-11-26T08:50:46.121340+00:00
+Spezia Bistro,restaurant,Haryana,,,,,28.5036914,77.0970911,OpenStreetMap,node,13296673497,2026-11-26T08:50:46.121342+00:00
+YouMee,restaurant,Haryana,,,,,28.5031004,77.0975969,OpenStreetMap,node,13296673498,2026-11-26T08:50:46.121345+00:00
+Sagar Ratna,restaurant,Haryana,,,,,28.502709,77.0976396,OpenStreetMap,node,13296673499,2026-11-26T08:50:46.121348+00:00
+Swagat Restro Bar,restaurant,Haryana,,,,,28.5027873,77.0976311,OpenStreetMap,node,13296680501,2026-11-26T08:50:46.121351+00:00
+Punjab Grill,restaurant,Haryana,,,,,28.5031787,77.0975883,OpenStreetMap,node,13296680504,2026-11-26T08:50:46.121354+00:00
+Nando's,restaurant,Haryana,,,,,28.5024962,77.0970399,OpenStreetMap,node,13296680505,2026-11-26T08:50:46.121356+00:00
+Andrea's Eatery,restaurant,Haryana,,,,,28.5040033,77.09703,OpenStreetMap,node,13296680507,2026-11-26T08:50:46.121359+00:00
+Cafe Delhi Heights,restaurant,Haryana,,,,,28.5044188,77.0969981,OpenStreetMap,node,13296680509,2026-11-26T08:50:46.121364+00:00
+Mamagoto,restaurant,Haryana,,,,,28.5041904,77.0970107,OpenStreetMap,node,13296680510,2026-11-26T08:50:46.121367+00:00
+KFC,fast_food,Haryana,,,,,28.5038903,77.0970463,OpenStreetMap,node,13296680511,2026-11-26T08:50:46.121370+00:00
+Haldiram's,fast_food,Haryana,,,,,28.5029538,77.0970767,OpenStreetMap,node,13296680512,2026-11-26T08:50:46.121373+00:00
+Daryaganj,restaurant,Haryana,,,,,28.5030221,77.0976054,OpenStreetMap,node,13296680514,2026-11-26T08:50:46.121376+00:00
+Shalom Cafe,restaurant,Haryana,,,,,28.5029439,77.097614,OpenStreetMap,node,13296680516,2026-11-26T08:50:46.121380+00:00
+TGI Fridays,restaurant,Haryana,,,,,28.5026307,77.0976482,OpenStreetMap,node,13296680517,2026-11-26T08:50:46.121382+00:00
+Gola Sizzlers,restaurant,Haryana,,,,,28.5026487,77.0970522,OpenStreetMap,node,13296680520,2026-11-26T08:50:46.121385+00:00
+Zambar,restaurant,Haryana,,,,,28.5028013,77.0970644,OpenStreetMap,node,13296680521,2026-11-26T08:50:46.121388+00:00
+Krispy Kreme,fast_food,Haryana,,,,,28.5033653,77.0971686,OpenStreetMap,node,13296680522,2026-11-26T08:50:46.121391+00:00
+Dhaba,restaurant,Haryana,,,,,28.5043058,77.097005,OpenStreetMap,node,13296680523,2026-11-26T08:50:46.121395+00:00
+Chili's,restaurant,Haryana,,,,,28.50245,77.0975801,OpenStreetMap,node,13296680525,2026-11-26T08:50:46.121398+00:00
+PizzaExpress,restaurant,Haryana,,,,,28.5028656,77.0976225,OpenStreetMap,node,13296680526,2026-11-26T08:50:46.121401+00:00
+Barista,cafe,Haryana,,,,,28.5032258,77.0973346,OpenStreetMap,node,13296721120,2026-11-26T08:50:46.121404+00:00
+ZING,restaurant,Haryana,Gurugram,Gurugram,"J-23, Block J, Mayfield Garden, 122001",+91 7838000582;+91 78380 00582;+91 96896 81324;+91 7838800058,28.4226891,77.06286,OpenStreetMap,node,13302967399,2026-11-26T08:50:46.121407+00:00
+Nature's Table,restaurant,Haryana,Kurukshetra,Mohri,"07,08,09, Adesh medical college & hospital, Nh-44, Mohri, 136135",9991771919,30.2484659,76.8565144,OpenStreetMap,node,13362764396,2026-11-26T08:50:46.121410+00:00
+Bombay Street,fast_food,Haryana,,,,,30.6945621,76.8377092,OpenStreetMap,node,13393041801,2026-11-26T08:50:46.121413+00:00
+Bite & Brew,cafe,Haryana,Jind,Jind,"Near Nidani Bus Stand, Nidani, 126114",,29.2800976,76.4175545,OpenStreetMap,node,13416120002,2026-11-26T08:50:46.121416+00:00
+Dignity Cafe,fast_food,Haryana,,,Sadhoura road,,30.4719571,77.1224675,OpenStreetMap,node,13428633401,2026-11-26T08:50:46.121420+00:00
+Saahib's,restaurant,Haryana,,,,,28.4728283,77.048064,OpenStreetMap,node,13428853201,2026-11-26T08:50:46.121423+00:00
+Apna Vaishno Dhaba,restaurant,Haryana,,,,,30.6908106,76.8520214,OpenStreetMap,node,13463976179,2026-11-26T08:50:46.121427+00:00
+Royal Chicken Corner,restaurant,Haryana,,,,,30.6909481,76.8520828,OpenStreetMap,node,13463976180,2026-11-26T08:50:46.121430+00:00
+Gopal's Sweets Restaurant Bakery,restaurant,Haryana,,,,,30.6715217,76.8548062,OpenStreetMap,node,13545975170,2026-11-26T08:50:46.121433+00:00
+Degchi Dove Foods,restaurant,Haryana,,,,,30.7059126,76.856946,OpenStreetMap,node,13545996206,2026-11-26T08:50:46.121436+00:00
+Degchi dove foods,restaurant,Haryana,,,,,30.7059331,76.856984,OpenStreetMap,node,13573207602,2026-11-26T08:50:46.121438+00:00
+Om Dhaba,restaurant,Haryana,,,,,29.0026466,77.0812772,OpenStreetMap,node,13666258821,2026-11-26T08:50:46.121441+00:00
+Pandit Dhaba,fast_food,Haryana,,,,,29.0130358,77.0772478,OpenStreetMap,node,13666258828,2026-11-26T08:50:46.121445+00:00
+Hari Dhaba,restaurant,Haryana,,,,,29.0316022,77.0727092,OpenStreetMap,node,13666258835,2026-11-26T08:50:46.121448+00:00
+Nava Gramin Dhaba,restaurant,Haryana,,,,,29.0327349,77.0723851,OpenStreetMap,node,13666258836,2026-11-26T08:50:46.121451+00:00
+Maini's Green Leaf,restaurant,Haryana,,,,,29.0355856,77.0716156,OpenStreetMap,node,13666258838,2026-11-26T08:50:46.121455+00:00
+Blue Tokai,cafe,Haryana,,,,,29.1568575,77.0347863,OpenStreetMap,node,13666292507,2026-11-26T08:50:46.121460+00:00
+Chaayos,cafe,Haryana,,,,,29.1570468,77.0347524,OpenStreetMap,node,13666292508,2026-11-26T08:50:46.121463+00:00
+Naivedyam,restaurant,Haryana,,,,,29.1564256,77.0347998,OpenStreetMap,node,13666292509,2026-11-26T08:50:46.121466+00:00
+Blue Tokai,cafe,Haryana,,,,,29.1568574,77.0347862,OpenStreetMap,node,13666720246,2026-11-26T08:50:46.121469+00:00
+Chaayos,cafe,Haryana,,,,,29.1570467,77.0347524,OpenStreetMap,node,13666720247,2026-11-26T08:50:46.121472+00:00
+Naivedyam,restaurant,Haryana,,,,,29.1564256,77.0347998,OpenStreetMap,node,13666720248,2026-11-26T08:50:46.121475+00:00
+Huda Paratha,fast_food,Haryana,,,,+919577777724;+919716160066,28.4590904,77.0746045,OpenStreetMap,node,13690350439,2026-11-26T08:50:46.121478+00:00
+Khushboo Roll Bhandar,fast_food,Haryana,,,,+919577777724;+919716160066,28.4591235,77.074597,OpenStreetMap,node,13690350440,2026-11-26T08:50:46.121481+00:00
+Hudda Shake Conner,fast_food,Haryana,,,,+919577777724;+919716160066,28.4590588,77.0745937,OpenStreetMap,node,13690350441,2026-11-26T08:50:46.121484+00:00
+Beanly Coffee,cafe,Haryana,Gurugram,Gurugram,"C42, Nirvana Courtyard, 122018",+911244088230,28.4143099,77.065365,OpenStreetMap,node,13691669992,2026-11-26T08:50:46.121487+00:00
+Got Tea,cafe,Haryana,Gurugram,Gurugram,"8-10, Nirvana Courtyard",+919311765719,28.4138841,77.0654432,OpenStreetMap,node,13698048213,2026-11-26T08:50:46.121491+00:00
+Wow! Momo,fast_food,Haryana,Gurugram,Gurugram,"SG099A, DLF Galleria, 122009",,28.4675881,77.0814901,OpenStreetMap,node,13698456812,2026-11-26T08:50:46.121495+00:00
+Chaayos,cafe,Haryana,Gurugram,Gurugram,"DLF Galleria, 122009",18001202424,28.4675733,77.0820987,OpenStreetMap,node,13698456813,2026-11-26T08:50:46.121498+00:00
+Third Wave Coffee Roasters,cafe,Haryana,Gurugram,Gurugram,"SF-53-54, DLF Galleria, 122009",,28.4672518,77.0817998,OpenStreetMap,node,13698456817,2026-11-26T08:50:46.121513+00:00
+Game On Board,cafe,Haryana,Gurugram,Gurugram,"UG-2, Ocus Quantum, 122003",,28.4248431,77.0685552,OpenStreetMap,node,13713120223,2026-11-26T08:50:46.121516+00:00
+Blue Tokai Coffee Roasters,cafe,Haryana,Gurugram,Gurugram,"36,37, Nirvana Courtyard, 122018",,28.4144574,77.0655729,OpenStreetMap,node,13713606509,2026-11-26T08:50:46.121520+00:00
+Galaxy Pizza,restaurant,Haryana,,,"G-40;G-41, Ocus Quantum",,28.4251813,77.0683341,OpenStreetMap,node,13722799054,2026-11-26T08:50:46.121523+00:00
+Tori's Pizza,restaurant,Haryana,,,"UG-36, Ocus Quantum",,28.4251915,77.0683337,OpenStreetMap,node,13722799056,2026-11-26T08:50:46.121526+00:00
+McDonald's,fast_food,Haryana,,,,,28.9120848,77.1068826,OpenStreetMap,node,13739739668,2026-11-26T08:50:46.121530+00:00
+Dada Bhature Wale,fast_food,Haryana,,,,,28.9007855,77.1120669,OpenStreetMap,node,13739739674,2026-11-26T08:50:46.121533+00:00
+Domino's,fast_food,Haryana,,,,,28.8880685,77.1168957,OpenStreetMap,node,13739739679,2026-11-26T08:50:46.121538+00:00
+Jugnu Grill Flame,restaurant,Haryana,,,,,28.8610408,77.1234683,OpenStreetMap,node,13809894198,2026-11-26T08:50:46.121541+00:00
+Burfiwala,restaurant,Haryana,,,,,28.9085818,77.1075988,OpenStreetMap,node,13809984170,2026-11-26T08:50:46.121544+00:00
+OMO Soul Food Community,restaurant,Haryana,Gurugram,Gurugram,"R-004, Galleria Market, 122002",,28.4670721,77.0817489,OpenStreetMap,node,13843483199,2026-11-26T08:50:46.121547+00:00
+Fes Cafe & Desserts,cafe,Haryana,,,,,28.4140436,77.0654362,OpenStreetMap,node,13843822801,2026-11-26T08:50:46.121550+00:00
+Bhukkad Paaji,restaurant,Haryana,Gurugram,Gurugram,"G-39, Baani Square, 122018",,28.4253968,77.0575654,OpenStreetMap,node,13844469951,2026-11-26T08:50:46.121554+00:00
+Liquid love,restaurant,Haryana,Gurugram,Gurugram,"G-69, Baani Square, 122018",,28.4256144,77.0568561,OpenStreetMap,node,13844469961,2026-11-26T08:50:46.121557+00:00
+Jeet Fast Food,fast_food,Haryana,,,,,28.3682844,77.0780379,OpenStreetMap,node,13860536803,2026-11-26T08:50:46.121560+00:00
+Shree Ram Fast Food Corner,fast_food,Haryana,,,,,28.3677226,77.0779423,OpenStreetMap,node,13870321002,2026-11-26T08:50:46.121563+00:00
+Desi Fusion,fast_food,Haryana,,,,,28.3668884,77.0779615,OpenStreetMap,node,13870345003,2026-11-26T08:50:46.121566+00:00
+The Raffles Restaurant,restaurant,Haryana,,,,,28.3610701,77.075675,OpenStreetMap,node,13874913301,2026-11-26T08:50:46.121570+00:00
+Pizza Stand,fast_food,Haryana,,,,,28.3610552,77.0765979,OpenStreetMap,node,13874929902,2026-11-26T08:50:46.121572+00:00
+Maa Hotel,restaurant,Haryana,,,,,28.361147,77.0780504,OpenStreetMap,node,13875343102,2026-11-26T08:50:46.121575+00:00
+Khurana Gol Gappe Wala,fast_food,Haryana,,,,,28.3611455,77.0781005,OpenStreetMap,node,13875343103,2026-11-26T08:50:46.121578+00:00
+Yum Restaurant,restaurant,Haryana,,,,,28.3611461,77.0779946,OpenStreetMap,node,13875343202,2026-11-26T08:50:46.121581+00:00
+Pizza Point,fast_food,Haryana,,,,,28.3611475,77.0781523,OpenStreetMap,node,13875343301,2026-11-26T08:50:46.121584+00:00
+Bhola Momos Wala,fast_food,Haryana,,,,,28.3611414,77.0782877,OpenStreetMap,node,13875344101,2026-11-26T08:50:46.121586+00:00
+Shivam Bhojanalay,restaurant,Haryana,,,,,28.3611428,77.0787736,OpenStreetMap,node,13875413701,2026-11-26T08:50:46.121589+00:00
+Pizza and Burger Club,fast_food,Haryana,,,,,28.3596402,77.0787786,OpenStreetMap,node,13886768807,2026-11-26T08:50:46.121592+00:00
+Mohit Juice Corner,fast_food,Haryana,,,,,28.3595092,77.0787732,OpenStreetMap,node,13886768811,2026-11-26T08:50:46.121596+00:00
+Coco,fast_food,Haryana,,,,,28.4801635,77.0802938,OpenStreetMap,node,13890652476,2026-11-26T08:50:46.121600+00:00
+Barista,cafe,Haryana,,,,,28.48103,77.0802913,OpenStreetMap,node,13890652478,2026-11-26T08:50:46.121604+00:00
+Haldiram's,fast_food,Haryana,,,,,28.4808237,77.0804215,OpenStreetMap,node,13890652482,2026-11-26T08:50:46.121606+00:00
+Bercos,fast_food,Haryana,,,,,28.4807655,77.0804714,OpenStreetMap,node,13890652491,2026-11-26T08:50:46.121609+00:00
+Taco Bell,fast_food,Haryana,,,,,28.4810292,77.0800283,OpenStreetMap,node,13890652500,2026-11-26T08:50:46.121612+00:00
+Street Food By Punjab Grill,restaurant,Haryana,,,,,28.4805762,77.0804785,OpenStreetMap,node,13890672502,2026-11-26T08:50:46.121615+00:00
+Subway,fast_food,Haryana,,,,,28.4807289,77.0804716,OpenStreetMap,node,13890672526,2026-11-26T08:50:46.121618+00:00
+Pizza By Stone Oven,restaurant,Haryana,,,,,28.4807384,77.0804705,OpenStreetMap,node,13890672527,2026-11-26T08:50:46.121620+00:00
+Pan Bangkok,restaurant,Haryana,,,,,28.4802524,77.080474,OpenStreetMap,node,13890672534,2026-11-26T08:50:46.121623+00:00
+Mad Over Donuts,fast_food,Haryana,,,,,28.4804908,77.0804802,OpenStreetMap,node,13890672554,2026-11-26T08:50:46.121626+00:00
+McDonald's,fast_food,Haryana,,,,,28.4803049,77.0804238,OpenStreetMap,node,13890672557,2026-11-26T08:50:46.121630+00:00
+Khadak Singh Da Dhaba,restaurant,Haryana,,,,,28.4803477,77.0804762,OpenStreetMap,node,13890672559,2026-11-26T08:50:46.121633+00:00
+Wow China,fast_food,Haryana,,,,,28.4805403,77.0804817,OpenStreetMap,node,13890672560,2026-11-26T08:50:46.121636+00:00
+Pizza Hut,restaurant,Haryana,,,,,28.4815124,77.0804359,OpenStreetMap,node,13890672563,2026-11-26T08:50:46.121639+00:00
+D Biryani & More,restaurant,Haryana,,,,,28.4803035,77.080475,OpenStreetMap,node,13890672566,2026-11-26T08:50:46.121642+00:00
+Chicago Pizza,fast_food,Haryana,,,,,28.4804398,77.0804771,OpenStreetMap,node,13890672569,2026-11-26T08:50:46.121645+00:00
+Dosa Plaza,restaurant,Haryana,,,,,28.4807183,77.080472,OpenStreetMap,node,13890672576,2026-11-26T08:50:46.121647+00:00
+Sweet Corn,fast_food,Haryana,,,,,28.4801604,77.0802317,OpenStreetMap,node,13890672577,2026-11-26T08:50:46.121650+00:00
+The Belgian Waffle co,fast_food,Haryana,,,,,28.4806342,77.0804118,OpenStreetMap,node,13890672583,2026-11-26T08:50:46.121653+00:00
+Chaat Ka Chaska,fast_food,Haryana,,,,,28.4805621,77.0804155,OpenStreetMap,node,13890672586,2026-11-26T08:50:46.121656+00:00
+Rajasthali,restaurant,Haryana,,,,,28.4808551,77.0800196,OpenStreetMap,node,13890672592,2026-11-26T08:50:46.121660+00:00
+labneh,fast_food,Haryana,,,,,28.4803986,77.08048,OpenStreetMap,node,13890672618,2026-11-26T08:50:46.121662+00:00
+Wow! Momo,fast_food,Haryana,,,,,28.4805123,77.0804811,OpenStreetMap,node,13890672619,2026-11-26T08:50:46.121665+00:00
+McDonald's,fast_food,Haryana,,,,,28.4807482,77.0804708,OpenStreetMap,node,13890672623,2026-11-26T08:50:46.121668+00:00
+Starbucks,cafe,Haryana,,,,,27.7378522,76.98339,OpenStreetMap,node,13906053633,2026-11-26T08:50:46.121671+00:00
+Starbucks,cafe,Haryana,,,,,27.7929919,77.0117014,OpenStreetMap,node,13906053634,2026-11-26T08:50:46.121674+00:00
+McDonald's,fast_food,Haryana,,,,,27.736079,76.9830537,OpenStreetMap,node,13906053640,2026-11-26T08:50:46.121677+00:00
+Bikanerwala,fast_food,Haryana,,,,,27.7364119,76.9831641,OpenStreetMap,node,13906053643,2026-11-26T08:50:46.121679+00:00
+KFC,fast_food,Haryana,,,,,27.7367244,76.9831988,OpenStreetMap,node,13906053650,2026-11-26T08:50:46.121683+00:00
+KFC (India/Pakistan),fast_food,Haryana,,,,,27.7939605,77.0120827,OpenStreetMap,node,13906053658,2026-11-26T08:50:46.121686+00:00
+Haldiram's,fast_food,Haryana,,,,,27.7928013,77.011621,OpenStreetMap,node,13906053666,2026-11-26T08:50:46.121690+00:00
+Haldiram's,fast_food,Haryana,,,,,29.007677,77.0799915,OpenStreetMap,node,13906131392,2026-11-26T08:50:46.121693+00:00
+Barista,cafe,Haryana,,,,,30.3694915,76.7989777,OpenStreetMap,node,13922242599,2026-11-26T08:50:46.121696+00:00
+Shiv Fast Food,fast_food,Haryana,,,,,30.2485237,77.0458598,OpenStreetMap,node,13936857501,2026-11-26T08:50:46.121699+00:00
+Lovely Restaurant,restaurant,Haryana,,,,,30.2500228,77.047255,OpenStreetMap,node,13936857701,2026-11-26T08:50:46.121702+00:00
+Saini Tea Stall,fast_food,Haryana,,,,,30.2520609,77.0471415,OpenStreetMap,node,13936857801,2026-11-26T08:50:46.121704+00:00
+Rama Patties,cafe,Haryana,Panipat,Panipat,"Rama Patties, Ashram Road, Model Town, 132103",+919541136500,29.3825346,76.9597789,OpenStreetMap,node,13945723489,2026-11-26T08:50:46.121708+00:00
+Rama Patties,cafe,Haryana,Panipat,Panipat,"opp. K.G. Hopsital, Ashram Road, Model Town, 132103",+919541136588,29.3822954,76.9595878,OpenStreetMap,node,13945739724,2026-11-26T08:50:46.121711+00:00
+The Spice Central,restaurant,Haryana,,,,,29.6125027,76.5520162,OpenStreetMap,node,13952033400,2026-11-26T08:50:46.121714+00:00
+Shree Krishna Udupi,restaurant,Haryana,,,,,28.4267431,77.0585453,OpenStreetMap,node,13996916118,2026-11-26T08:50:46.121719+00:00
+The Barbeque Times,restaurant,Haryana,,,,,28.4266441,77.0587803,OpenStreetMap,node,13997282025,2026-11-26T08:50:46.121723+00:00
+Mast Banarasi Paan & Kulhar Chai,restaurant,Haryana,,,GF-02,,28.427008,77.0585842,OpenStreetMap,node,13997282029,2026-11-26T08:50:46.121727+00:00
+Tealogy cafe,cafe,Haryana,,,GF-11,,28.4268966,77.0587415,OpenStreetMap,node,13997282033,2026-11-26T08:50:46.121731+00:00
+Cafe Sandoz,cafe,Haryana,,,"1,2",,28.4348047,77.0687271,OpenStreetMap,node,14002589390,2026-11-26T08:50:46.121735+00:00
+Popeyes,fast_food,Haryana,,,3,18003091234,28.4350734,77.0687284,OpenStreetMap,node,14002589398,2026-11-26T08:50:46.121738+00:00
+Castles Barbeque,restaurant,Haryana,,,,,28.435268,77.0685171,OpenStreetMap,node,14002589399,2026-11-26T08:50:46.121741+00:00
+"De jour Cafe, Club & Restaurant",cafe,Haryana,Sonipat,Sonipat,"Gate no 1, Express city, opp. OP Jindal Global University, 131001",,28.9253633,77.0609402,OpenStreetMap,node,14014077212,2026-11-26T08:50:46.121744+00:00
+Afghan Grills,restaurant,Haryana,,,,,28.4352506,77.0714663,OpenStreetMap,node,14021844296,2026-11-26T08:50:46.121748+00:00
+Tea Point,cafe,Haryana,,,,,28.4548784,77.0937074,OpenStreetMap,node,14051476490,2026-11-26T08:50:46.121750+00:00
+Foodeez Cafe,cafe,Haryana,Palwal,Palwal,"112 R, New Colony road",,28.1357333,77.3323707,OpenStreetMap,node,14051720438,2026-11-26T08:50:46.121753+00:00
+Mini Sweet Corner,restaurant,Haryana,,Faridabad,"36,Deep Chand Bhatia Marg Sector 22",,28.3658571,77.2989893,OpenStreetMap,node,14058578038,2026-11-26T08:50:46.121766+00:00
+Treat Cafe,cafe,Haryana,,,Kalpi Naraingarh Road,,30.2899317,76.9975717,OpenStreetMap,node,14067529701,2026-11-26T08:50:46.121769+00:00
+"Themis Greek House, Murthal
+थेमिस ग्रीक हाउस मुर्थल",restaurant,Haryana,,,,,29.0749452,77.0607223,OpenStreetMap,node,14098528262,2026-11-26T08:50:46.121772+00:00
+Chai Point,cafe,Haryana,,,,,28.4269398,77.0569957,OpenStreetMap,node,14112525871,2026-11-26T08:50:46.121775+00:00
+Cafe Espresso Nook,cafe,Haryana,,,,,28.4257032,77.0576636,OpenStreetMap,node,14112525873,2026-11-26T08:50:46.121778+00:00
+Karim's,restaurant,Haryana,,,,+91 74284 71144,28.42568,77.0576912,OpenStreetMap,node,14112525874,2026-11-26T08:50:46.121781+00:00
+Yo! Dimsum,restaurant,Haryana,,,,,28.4255163,77.0578874,OpenStreetMap,node,14112525880,2026-11-26T08:50:46.121784+00:00
+Tossin Pizza,restaurant,Haryana,,,,,28.4253159,77.0579308,OpenStreetMap,node,14112525881,2026-11-26T08:50:46.121787+00:00
+La Pino's Pizza,restaurant,Haryana,,,,+91 82382 20303,28.4253776,77.057936,OpenStreetMap,node,14112525882,2026-11-26T08:50:46.121790+00:00
+99 Pancakes,restaurant,Haryana,,,,,28.425413,77.0579338,OpenStreetMap,node,14112525883,2026-11-26T08:50:46.121793+00:00
+The Belgian Waffle Co.,restaurant,Haryana,,,,,28.4254731,77.0578309,OpenStreetMap,node,14112525884,2026-11-26T08:50:46.121796+00:00
+Veer Ji Malai Chaap Wale,restaurant,Haryana,,,"G-85, Baani Square",+91 92058 45533,28.4255082,77.0569377,OpenStreetMap,node,14112525888,2026-11-26T08:50:46.121799+00:00
+Al Rasheed Barbeque,restaurant,Haryana,,,"G107, Baani Square",+91 98998 16664,28.4256496,77.0567929,OpenStreetMap,node,14112525889,2026-11-26T08:50:46.121802+00:00
+3lue Farms Cafe,cafe,Haryana,,,,+91 99815 82974,28.4255441,77.0575717,OpenStreetMap,node,14112525891,2026-11-26T08:50:46.121805+00:00
+Pizza Galleria,fast_food,Haryana,,,,+91 93556 07999,28.4254703,77.0572984,OpenStreetMap,node,14112525892,2026-11-26T08:50:46.121808+00:00
+Burger Singh,fast_food,Haryana,,,"Bestech Centre Point, Sushant Lok 1",,28.468413,77.0746056,OpenStreetMap,node,14112544401,2026-11-26T08:50:46.121811+00:00
+Lub Lub,restaurant,Haryana,,,,+91 98116 00470,28.4255835,77.0575257,OpenStreetMap,node,14133355622,2026-11-26T08:50:46.121814+00:00
+The Waffle Go.,cafe,Haryana,,,,,28.4255096,77.0576171,OpenStreetMap,node,14133355623,2026-11-26T08:50:46.121817+00:00
+Kulinary Kala,restaurant,Haryana,,,"DG12, Rodeo Drive",+91 98219 99982,28.4198694,77.0518632,OpenStreetMap,node,14133355624,2026-11-26T08:50:46.121820+00:00
+The Burger Company,fast_food,Haryana,,,,,28.4253851,77.0573575,OpenStreetMap,node,14133355626,2026-11-26T08:50:46.121823+00:00
+Foody Chaska,fast_food,Haryana,,,"G-49A, Baani Square",+91 99581 87766,28.4253823,77.0572975,OpenStreetMap,node,14133355627,2026-11-26T08:50:46.121826+00:00
+Oriental Fusion,restaurant,Haryana,,,"G-51, Baani Square",,28.4253807,77.0572276,OpenStreetMap,node,14133355629,2026-11-26T08:50:46.121829+00:00
+Snowberry,restaurant,Haryana,,,,,28.4253992,77.0577793,OpenStreetMap,node,14133355630,2026-11-26T08:50:46.121832+00:00
+Domino's,fast_food,Haryana,,,,,28.4218568,77.0535046,OpenStreetMap,node,14133355643,2026-11-26T08:50:46.121835+00:00
+The Ivy Restaurant,restaurant,Haryana,,,,+91 98714 49222,28.4253526,77.0569559,OpenStreetMap,node,14133355645,2026-11-26T08:50:46.121838+00:00
+Chaayos,cafe,Haryana,,,,,28.4212491,77.0530747,OpenStreetMap,node,14133355650,2026-11-26T08:50:46.121840+00:00
+Foody Chaska,fast_food,Haryana,,,"G-49A, Baani Square",+91 99581 87766,28.4253823,77.0572975,OpenStreetMap,node,14135056506,2026-11-26T08:50:46.121844+00:00
+Oriental Fusion,restaurant,Haryana,,,"G-51, Baani Square",,28.4253807,77.0572276,OpenStreetMap,node,14135056508,2026-11-26T08:50:46.121846+00:00
+Snowberry,restaurant,Haryana,,,,,28.4253992,77.0577793,OpenStreetMap,node,14135056509,2026-11-26T08:50:46.121849+00:00
+The Burger Company,fast_food,Haryana,,,,,28.4253851,77.0573575,OpenStreetMap,node,14135056516,2026-11-26T08:50:46.121852+00:00
+Domino's,fast_food,Haryana,,,,,28.4218568,77.0535046,OpenStreetMap,node,14135056522,2026-11-26T08:50:46.121855+00:00
+The Ivy Restaurant,restaurant,Haryana,,,,+91 98714 49222,28.4253526,77.0569559,OpenStreetMap,node,14135056526,2026-11-26T08:50:46.121858+00:00
+Chaayos,cafe,Haryana,,,,,28.4212491,77.0530747,OpenStreetMap,node,14135056529,2026-11-26T08:50:46.121861+00:00
+Kulinary Kala,restaurant,Haryana,,,"DG12, Rodeo Drive",+91 98219 99982,28.4198694,77.0518632,OpenStreetMap,node,14135056534,2026-11-26T08:50:46.121864+00:00
+The Waffle Go.,cafe,Haryana,,,,,28.4255096,77.0576171,OpenStreetMap,node,14135056535,2026-11-26T08:50:46.121866+00:00
+Lub Lub,restaurant,Haryana,,,,+91 98116 00470,28.4255835,77.0575257,OpenStreetMap,node,14135056536,2026-11-26T08:50:46.121869+00:00
+Coffee Island,cafe,Haryana,,,,,28.4660972,77.0742872,OpenStreetMap,node,14135078061,2026-11-26T08:50:46.121872+00:00
+Tan Yan Asian bbq,restaurant,Haryana,,,,,28.4661418,77.0742791,OpenStreetMap,node,14135078062,2026-11-26T08:50:46.121875+00:00
+Lazeez Affaire,restaurant,Haryana,,,,,28.4662437,77.0743034,OpenStreetMap,node,14135078063,2026-11-26T08:50:46.121877+00:00
+monique,cafe,Haryana,,,,,28.4660908,77.0746423,OpenStreetMap,node,14135078064,2026-11-26T08:50:46.121880+00:00
+Aku's,fast_food,Haryana,,,,+91 96675 19279,28.4661017,77.0747156,OpenStreetMap,node,14135078065,2026-11-26T08:50:46.121883+00:00
+LeMarche Select,restaurant,Haryana,,,,,28.4660882,77.0745608,OpenStreetMap,node,14135078066,2026-11-26T08:50:46.121886+00:00
+Carnatic Cafe,cafe,Haryana,,,,,28.4662397,77.0744867,OpenStreetMap,node,14135078067,2026-11-26T08:50:46.121889+00:00
+Novy,restaurant,Haryana,,,,,28.4662605,77.074677,OpenStreetMap,node,14135078068,2026-11-26T08:50:46.121891+00:00
+She's Here,restaurant,Haryana,,,,,28.4662541,77.0747762,OpenStreetMap,node,14135078069,2026-11-26T08:50:46.121894+00:00
+KFC,fast_food,Haryana,,,,,28.4790014,77.0807666,OpenStreetMap,node,14151247808,2026-11-26T08:50:46.121897+00:00
+Pizza Hut,restaurant,Haryana,,,,,28.4790036,77.0805774,OpenStreetMap,node,14151247811,2026-11-26T08:50:46.121900+00:00
+Sagar Ratna,restaurant,Haryana,,,,,28.4787276,77.0804248,OpenStreetMap,node,14151247812,2026-11-26T08:50:46.121903+00:00
+Burger King,fast_food,Haryana,,,,,28.4789636,77.0804703,OpenStreetMap,node,14151247814,2026-11-26T08:50:46.121906+00:00
+Burger Singh Sikanderpur,fast_food,Haryana,,,"Sikanderpur Metro Station, Mehrauli Gurgaon Road",,28.4809303,77.0927826,OpenStreetMap,node,14151247816,2026-11-26T08:50:46.121909+00:00
+SUBU PARDHAN,cafe,Haryana,jind,Sunderpur,126116,,29.5636616,76.0861017,OpenStreetMap,node,14163284300,2026-11-26T08:50:46.121912+00:00
+KFC,fast_food,Haryana,,,,,28.4790389,77.0905352,OpenStreetMap,node,14173153328,2026-11-26T08:50:46.121915+00:00
+Ikk Panjab,restaurant,Haryana,,,,,28.4629264,77.0964435,OpenStreetMap,node,14173153337,2026-11-26T08:50:46.121918+00:00
+Ketliwala,cafe,Haryana,,Panchkula,,,30.6984179,76.8543711,OpenStreetMap,node,14174763448,2026-11-26T08:50:46.121921+00:00
+The Local House,restaurant,Haryana,,Panchkula,,,30.6988754,76.8544834,OpenStreetMap,node,14174763449,2026-11-26T08:50:46.121924+00:00
+Nik Baker's,cafe,Haryana,,Panchkula,,,30.696486,76.8571317,OpenStreetMap,node,14174763450,2026-11-26T08:50:46.121927+00:00
+Circe Rooftop Restaurant,restaurant,Haryana,,,,,28.4215598,77.1043806,OpenStreetMap,node,14183072728,2026-11-26T08:50:46.121930+00:00
+Starbucks Reserve,cafe,Haryana,,,,,28.4602065,77.0966192,OpenStreetMap,node,14188555464,2026-11-26T08:50:46.121932+00:00
+Magnolia Bakery,cafe,Haryana,,,,,28.4599458,77.0967052,OpenStreetMap,node,14188555465,2026-11-26T08:50:46.121935+00:00
+Prince Ki Rasoi,restaurant,Haryana,,,,+91 98997 14826; +91 97114 44578,28.4506282,77.0906813,OpenStreetMap,node,14188555470,2026-11-26T08:50:46.121938+00:00
+Saharan Highway Hotel,restaurant,Haryana,,,Delhi - Amritsar - Katra Expressway,,29.694993,76.2892149,OpenStreetMap,node,14197016404,2026-11-26T08:50:46.121941+00:00
+The Angara Cafe,cafe,Haryana,,,,+91 92053 60784; +91 95577 66003,28.4543667,77.0973524,OpenStreetMap,node,14240974146,2026-11-26T08:50:46.121944+00:00
+Bhai Ji Shawarma,restaurant,Haryana,,,,,28.4542129,77.0974034,OpenStreetMap,node,14240974147,2026-11-26T08:50:46.121947+00:00
+Aman Juice And Ice Cream,fast_food,Haryana,,,,,28.4541422,77.0974092,OpenStreetMap,node,14240974148,2026-11-26T08:50:46.121950+00:00
+Paul,cafe,Haryana,,,,,28.4509013,77.0974176,OpenStreetMap,node,14240974149,2026-11-26T08:50:46.121952+00:00
+Dona Paratha House,restaurant,Haryana,,,,,28.4544733,77.0973318,OpenStreetMap,node,14240974151,2026-11-26T08:50:46.121955+00:00
+Rudr Shiva,restaurant,Haryana,,,,,29.2814979,77.001196,OpenStreetMap,node,14245023369,2026-11-26T08:50:46.121958+00:00
+Khadak Singh Da Dhaba,fast_food,Haryana,,,"G18, Central Plaza Mall",+91 87503 30750,28.4432693,77.1007112,OpenStreetMap,node,14265712515,2026-11-26T08:50:46.121961+00:00
+Munch-Chow,restaurant,Haryana,,,"G18, Central Plaza Mall",859587184,28.4432561,77.1006687,OpenStreetMap,node,14265712517,2026-11-26T08:50:46.121964+00:00
+Kenagan Coffee,cafe,Haryana,,,,,28.4432341,77.100608,OpenStreetMap,node,14265712518,2026-11-26T08:50:46.121966+00:00
+Little Caesar's Pizza,restaurant,Haryana,,,,,28.4431934,77.100913,OpenStreetMap,node,14265712521,2026-11-26T08:50:46.121969+00:00
+Chaayos,cafe,Haryana,,,Central Plaza,,28.4431429,77.1009305,OpenStreetMap,node,14265712522,2026-11-26T08:50:46.121972+00:00
+Chelvies,cafe,Haryana,,,,,28.4431115,77.1009443,OpenStreetMap,node,14265712523,2026-11-26T08:50:46.121975+00:00
+Subway,fast_food,Haryana,,,Central Plaza,,28.4429873,77.1009824,OpenStreetMap,node,14265712524,2026-11-26T08:50:46.121978+00:00
+Domino's,fast_food,Haryana,,,Central Plaza,,28.4429012,77.1009921,OpenStreetMap,node,14265712525,2026-11-26T08:50:46.121981+00:00
+Sorry Sugar,cafe,Haryana,,,,,28.4428095,77.1010472,OpenStreetMap,node,14265712527,2026-11-26T08:50:46.121984+00:00
+Jai Bharat Restaurant,restaurant,Haryana,Haryana,Faridabad,"D2/10, Dayal Bagh Road, 121009",07303230941,28.4901388,77.2998309,OpenStreetMap,node,14279829506,2026-11-26T08:50:46.121987+00:00
+La Pino's Pizza,restaurant,Haryana,,,"F-10, Central Plaza, 122011",+91 73039 33044,28.4429498,77.1009393,OpenStreetMap,node,14281518168,2026-11-26T08:50:46.121992+00:00
+Rolls Singh,fast_food,Haryana,,,,,28.4544973,77.097299,OpenStreetMap,node,14281518169,2026-11-26T08:50:46.121995+00:00
+Famous Momos Centre,fast_food,Haryana,,,,+91 99710 24948,28.4545651,77.0973174,OpenStreetMap,node,14281518170,2026-11-26T08:50:46.121998+00:00
+Bianchi,restaurant,Haryana,,,Baani The Statement,,28.4543735,77.0965161,OpenStreetMap,node,14281518171,2026-11-26T08:50:46.122013+00:00
+Begeterre,restaurant,Haryana,,,,,28.4544013,77.0964475,OpenStreetMap,node,14281518172,2026-11-26T08:50:46.122016+00:00
+Barista,cafe,Haryana,,,"SG -045, DLF Galleria",,28.4675889,77.0817521,OpenStreetMap,node,14281518176,2026-11-26T08:50:46.122020+00:00
+Costa,cafe,Haryana,,,"SG-103, DLF Galleria",,28.4675521,77.0813656,OpenStreetMap,node,14281518178,2026-11-26T08:50:46.122023+00:00
+Khan Chacha,restaurant,Haryana,,,,,28.4675349,77.0818457,OpenStreetMap,node,14281518182,2026-11-26T08:50:46.122026+00:00
+South Indian Food Jai Jagannath Restaurent,restaurant,Haryana,Haryana,Faridabad,"E-68, Dayal Bagh Road, 121009",09716654057,28.4937446,77.2945983,OpenStreetMap,node,14286024219,2026-11-26T08:50:46.122029+00:00
+Bharat Bhojnalya,restaurant,Haryana,Faridabad,Faridabad,"I block, shiv durga vihar, 121009",8851909040,28.4811212,77.299567,OpenStreetMap,node,14286094250,2026-11-26T08:50:46.122032+00:00
+Daily Dose,restaurant,Haryana,Faridabad,Faridabad,"Shop no -1, Charmwood Village, 121009",,28.4924096,77.2923832,OpenStreetMap,node,14286094251,2026-11-26T08:50:46.122035+00:00
+Faruk Shawarma Point Pvt Ltd,restaurant,Haryana,Faridabad,Faridabad,"Shop No 5Deepak Market, Eros Garden, Charmwood Village, 12009",,28.4923386,77.2924784,OpenStreetMap,node,14286097144,2026-11-26T08:50:46.122038+00:00
+Chatkara Fast Food,restaurant,Haryana,Faridabad,Faridabad,"E-51, Dayal Bagh Road, 121009",,28.4938527,77.2942505,OpenStreetMap,node,14286106508,2026-11-26T08:50:46.122041+00:00
+"Khadak Singh Da Dhaba,",restaurant,Haryana,,Faridabad,"SHOP NO. 6, Nikhil Complex, Eros Garden, SHOP NO. 6, Nikhil Complex, Charmwood Village, A 497, Nav Durga Vihar, Dayal Bagh Colony, 121009",,28.4920527,77.2921143,OpenStreetMap,node,14286143615,2026-11-26T08:50:46.122046+00:00
+Chaayos,cafe,Haryana,,,,,28.4287995,77.0997547,OpenStreetMap,node,14297231719,2026-11-26T08:50:46.122049+00:00
+Gurh Laachi,cafe,Haryana,,,,+91 98189 89847; +91 70154 45322,28.46212,77.1010746,OpenStreetMap,node,14307075440,2026-11-26T08:50:46.122052+00:00
+Utsav FYB Health Cafe,cafe,Haryana,,,M3M Cosmopolitan,,28.4021324,77.0597384,OpenStreetMap,node,14324072544,2026-11-26T08:50:46.122055+00:00
+Dimm Yumm Summ,restaurant,Haryana,,,M3M Cosmopolitan,,28.4018183,77.0594281,OpenStreetMap,node,14324072545,2026-11-26T08:50:46.122059+00:00
+Al-Lazeez Restaurant,restaurant,Haryana,,,Sector 14,+91 92196 01182,28.4736842,77.0475591,OpenStreetMap,node,14334879370,2026-11-26T08:50:46.122062+00:00
+Burger King,fast_food,Haryana,,,Sector 14,,28.4735603,77.0476138,OpenStreetMap,node,14334879371,2026-11-26T08:50:46.122065+00:00
+Domino's,fast_food,Haryana,,,HUDA Market Sector 14,,28.4739347,77.0473592,OpenStreetMap,node,14334879376,2026-11-26T08:50:46.122068+00:00
+Urban Tadka,restaurant,Haryana,,,,,28.4738953,77.0474022,OpenStreetMap,node,14334879379,2026-11-26T08:50:46.122071+00:00
+ab.coffee,cafe,Haryana,,,"Vyapar Kendra, Sushant Lok-1",,28.4600232,77.0837655,OpenStreetMap,node,14334895536,2026-11-26T08:50:46.122074+00:00
+Mr. Krisper,fast_food,Haryana,,,"Vyapar Kendra, Sushant Lok-1",+91 96544 02020,28.4600462,77.0840196,OpenStreetMap,node,14334895537,2026-11-26T08:50:46.122078+00:00
+Barista,cafe,Haryana,,,MGF Metropolis,,28.4786949,77.0825736,OpenStreetMap,node,14334895545,2026-11-26T08:50:46.122081+00:00
+Yo! China,fast_food,Haryana,,,"UG-25, MGF Metropolis",,28.478207,77.0819343,OpenStreetMap,node,14334895552,2026-11-26T08:50:46.122084+00:00
+Tau's,fast_food,Haryana,,,MGF Metropolis,,28.4791361,77.081654,OpenStreetMap,node,14334895553,2026-11-26T08:50:46.122087+00:00
+Chaayos,cafe,Haryana,,,One Horizon Centre,,28.4507871,77.0974627,OpenStreetMap,node,14352954807,2026-11-26T08:50:46.122091+00:00
+Canteen,restaurant,Haryana,,,,,28.4954017,77.0644118,OpenStreetMap,way,120110600,2026-11-26T08:50:46.122094+00:00
+Azure,restaurant,Haryana,,,,,30.7018319,76.8555829,OpenStreetMap,way,129878513,2026-11-26T08:50:46.122098+00:00
+Senior mess,restaurant,Haryana,,,,,28.3671035,77.3157547,OpenStreetMap,way,143865397,2026-11-26T08:50:46.122100+00:00
+Grey Falcon Restaurant,restaurant,Haryana,,,,,28.4179796,77.2777655,OpenStreetMap,way,143943248,2026-11-26T08:50:46.122104+00:00
+Mayur Restaurant,restaurant,Haryana,,,,,28.4178334,77.2800268,OpenStreetMap,way,143943249,2026-11-26T08:50:46.122106+00:00
+Dhaba,cafe,Haryana,,,,,28.4044762,77.1739671,OpenStreetMap,way,152216696,2026-11-26T08:50:46.122111+00:00
+Canteen,restaurant,Haryana,,,,,28.367036,76.8903251,OpenStreetMap,way,152844587,2026-11-26T08:50:46.122114+00:00
+Delhi Complex Bad Restaurant,restaurant,Haryana,,,,,29.9239436,76.9051035,OpenStreetMap,way,228423181,2026-11-26T08:50:46.122117+00:00
+Unitech Infospace Food Court,restaurant,Haryana,,,,,28.5096117,77.0714852,OpenStreetMap,way,247672744,2026-11-26T08:50:46.122120+00:00
+Bikanerwala,restaurant,Haryana,,,,,28.4161729,77.0847608,OpenStreetMap,way,272749557,2026-11-26T08:50:46.122123+00:00
+Norenj,restaurant,Haryana,,,,,28.4270488,77.0571242,OpenStreetMap,way,349978197,2026-11-26T08:50:46.122126+00:00
+Redi wala Food Junction,restaurant,Haryana,Haryana,Faridabad,"F7MX+QRX Faridabad, Haryana, 121009",,28.48435,77.299472,OpenStreetMap,way,351624771,2026-11-26T08:50:46.122129+00:00
+The sky patio,restaurant,Haryana,,,,,28.3926978,77.3404952,OpenStreetMap,way,352530426,2026-11-26T08:50:46.122132+00:00
+Bikaner Sweet,restaurant,Haryana,,gurugram,,,28.4888022,77.0560154,OpenStreetMap,way,378421813,2026-11-26T08:50:46.122135+00:00
+Black Beans Cafe - Most Hygienic & Trending Coffee Shop in Kurukshetra,cafe,Haryana,,Kurukshetra,"SCO 25 P, Geeta Colony Sector 17 Thanesar, 136118",9053503501,29.9703988,76.8381028,OpenStreetMap,way,407959156,2026-11-26T08:50:46.122139+00:00
+Eve's Cafe,cafe,Haryana,,Kurukshetra,"Sector 10, 136118",8221021170,29.9719518,76.8682722,OpenStreetMap,way,408108726,2026-11-26T08:50:46.122143+00:00
+BraaiCraft Smokehouse,restaurant,Haryana,Gurgaon,Gurgaon,"#17, inside Lotus Villas, 122009",+919816461233,28.4698777,77.0858782,OpenStreetMap,way,414381107,2026-11-26T08:50:46.122147+00:00
+I'm Somewhere,cafe,Haryana,Haryana,Gurugram,"1732, 27, 122001",8700151238,28.4798621,76.9988014,OpenStreetMap,way,415455416,2026-11-26T08:50:46.122151+00:00
+Pappu Sweets,restaurant,Haryana,,,,,28.9003313,76.5827769,OpenStreetMap,way,696530101,2026-11-26T08:50:46.122154+00:00
+Red Cherry Bakers,fast_food,Haryana,,,,,28.893284,76.5895924,OpenStreetMap,way,697517693,2026-11-26T08:50:46.122157+00:00
+Bikaner Misthan Bhandar,restaurant,Haryana,,,,,29.1568911,75.7210144,OpenStreetMap,way,868936352,2026-11-26T08:50:46.122160+00:00
+Pahuja Bakers,restaurant,Haryana,,,,,29.1568106,75.7210144,OpenStreetMap,way,868936420,2026-11-26T08:50:46.122163+00:00
+GR8 Cafe,restaurant,Haryana,,,,,28.4393346,77.1041359,OpenStreetMap,way,932961815,2026-11-26T08:50:46.122166+00:00
+Karnal Club,restaurant,Haryana,,,,,29.6937099,76.9878383,OpenStreetMap,way,960774428,2026-11-26T08:50:46.122169+00:00
+Fast Food,fast_food,Haryana,,,,,30.358955,76.8309886,OpenStreetMap,way,1043785545,2026-11-26T08:50:46.122172+00:00
+Manoj Photocopy and canteen,cafe,Haryana,,,,8901535770,27.8856993,76.1108515,OpenStreetMap,way,1054398944,2026-11-26T08:50:46.122176+00:00
+Fun & Shakes,cafe,Haryana,,bahadurgarh,"Ch. Surajmal Statium Complex, 124507",,28.6955427,76.9332235,OpenStreetMap,way,1058643935,2026-11-26T08:50:46.122180+00:00
+Unify Lounge & Bar,restaurant,Haryana,,"Panchkula, Haryana","SCO 136, Sector 25, 134116",,30.6697485,76.885363,OpenStreetMap,way,1058860732,2026-11-26T08:50:46.122183+00:00
+The Burger Co,fast_food,Haryana,,"Panchkula, Haryana","SCO 153, Sector 25, 134116",,30.6699542,76.8850523,OpenStreetMap,way,1058871230,2026-11-26T08:50:46.122186+00:00
+Domino's,fast_food,Haryana,,"Panchkula, Haryana","SCO 118, Ground Floor and First Floor, Sector 25, 134116",1800 208 1234,30.669718,76.8864689,OpenStreetMap,way,1058872491,2026-11-26T08:50:46.122189+00:00
+Malkeet Sweets,restaurant,Haryana,,Jiwan Nagar,"near Bank Of Baroda, Ellenabad road, 125075",+91 9812342139,29.5359053,74.7408015,OpenStreetMap,way,1098145073,2026-11-26T08:50:46.122192+00:00
+Yaara Da Adda,restaurant,Haryana,,Panchkula,"Sector 28, 134116",,30.6503401,76.8842181,OpenStreetMap,way,1099788646,2026-11-26T08:50:46.122196+00:00
+Quality Restaurant and Sweets,restaurant,Haryana,,Panchkula,134116,,30.6697327,76.8861706,OpenStreetMap,way,1124616183,2026-11-26T08:50:46.122199+00:00
+Krishnam Sweets and Restaurant,restaurant,Haryana,,Panchkula,134116,,30.6697405,76.8858828,OpenStreetMap,way,1124616184,2026-11-26T08:50:46.122202+00:00
+Roll Express,fast_food,Haryana,,Panchkula,134116,,30.6699239,76.8850516,OpenStreetMap,way,1194654674,2026-11-26T08:50:46.122205+00:00
+The Park Queen,restaurant,Haryana,Rohtak,Rohtak,"2nd Exit, Delhi bypass road, 124001",,28.8845489,76.6270097,OpenStreetMap,way,1228089958,2026-11-26T08:50:46.122210+00:00
+द: NUKKAD,cafe,Haryana,Gurugram,"DLF City, Phase-2","M1, 122002",+919821261643,28.4902882,77.0829105,OpenStreetMap,way,1236528030,2026-11-26T08:50:46.122213+00:00
+Dominos,restaurant,Haryana,,,,,28.805218,76.1355376,OpenStreetMap,way,1257429741,2026-11-26T08:50:46.122216+00:00
+Dorrance cafe club,cafe,Haryana,,,,,28.3886678,77.3487476,OpenStreetMap,way,1257802215,2026-11-26T08:50:46.122219+00:00
+Churi House,cafe,Haryana,,Sirsa,"Ohm Cine Garden, 125055",9813182090,29.5295705,75.1320926,OpenStreetMap,way,1265035571,2026-11-26T08:50:46.122222+00:00
+Churi House,restaurant,Haryana,sirsa,sirsa,"Atlantic Water Park, Moriwala, Sirsa, 125055",9813182090,29.525981,75.1278286,OpenStreetMap,way,1267933945,2026-11-26T08:50:46.122226+00:00
+Mr.sanders jakhal,fast_food,Haryana,Fatehabad,jakhal mandi,"chandigarh road, 125133",9409856000,29.8066769,75.8258349,OpenStreetMap,way,1268341427,2026-11-26T08:50:46.122229+00:00
+Avinav Gambhir,cafe,Haryana,Ambala,Ambala,"Kakru, 134003",+919034683380,30.4049475,76.7850559,OpenStreetMap,way,1275491427,2026-11-26T08:50:46.122233+00:00
+Online Cafe,fast_food,Haryana,Sirsa,Ellenabad,"Ellenabad, 125102",+918307400294,29.456302,74.6690243,OpenStreetMap,way,1283204270,2026-11-26T08:50:46.122236+00:00
+Subway,fast_food,Haryana,,,,,28.4501668,77.2827789,OpenStreetMap,way,1298982690,2026-11-26T08:50:46.122239+00:00
+Mannat,restaurant,Haryana,,,,,28.2547164,76.820838,OpenStreetMap,way,1299717849,2026-11-26T08:50:46.122243+00:00
+Jail House Cafe,cafe,Haryana,,Karnal,"SCO 1, Ashoka Nursery, Kunjpura Road, 132001",7419144065,29.7109363,77.0126627,OpenStreetMap,way,1304788540,2026-11-26T08:50:46.122247+00:00
+The Forestta,restaurant,Haryana,,,,,28.4392285,77.104043,OpenStreetMap,way,1339165076,2026-11-26T08:50:46.122251+00:00
+Brewzza Cafe,cafe,Haryana,Kurukshetra,Kurukshetra,"SCO 39, First Floor, Geeta Colony, Sector 17,, 136118",090520 00076,29.9703766,76.8374847,OpenStreetMap,way,1339863032,2026-11-26T08:50:46.122254+00:00
+The Skylake Cafe & Lounge,restaurant,Haryana,,,,,28.4299375,77.1403732,OpenStreetMap,way,1368279119,2026-11-26T08:50:46.122257+00:00
+Hotel highway king,restaurant,Haryana,gurugram,gurugram,"NH-48 binola starex university, 122413",,28.2981055,76.8673402,OpenStreetMap,way,1376766554,2026-11-26T08:50:46.122261+00:00
+Hawai Adda,restaurant,Haryana,,Sonipat,Murthal,,29.0475153,77.066913,OpenStreetMap,way,1418309702,2026-11-26T08:50:46.122264+00:00
+Oishii Wok,restaurant,Haryana,,,,,28.4614706,77.0887319,OpenStreetMap,way,1433748812,2026-11-26T08:50:46.122268+00:00
+Chicago Pizza,fast_food,Haryana,,,,,28.4593042,77.0727493,OpenStreetMap,way,1476848255,2026-11-26T08:50:46.122271+00:00
+KFC,fast_food,Haryana,,,,,28.459353,77.0728796,OpenStreetMap,way,1476848258,2026-11-26T08:50:46.122274+00:00
+Chinese Wok,fast_food,Haryana,,,,,28.4595008,77.0726454,OpenStreetMap,way,1476848265,2026-11-26T08:50:46.122278+00:00
+McDonald's,fast_food,Haryana,,,,,28.4595647,77.0729331,OpenStreetMap,way,1476848269,2026-11-26T08:50:46.122282+00:00
+Subway,fast_food,Haryana,,,,,28.4594738,77.0726224,OpenStreetMap,way,1476848272,2026-11-26T08:50:46.122285+00:00
+The French Farm,restaurant,Haryana,,,,,28.2716662,76.8770772,OpenStreetMap,way,1508747275,2026-11-26T08:50:46.122288+00:00
+Kultür Byob,restaurant,Haryana,,,,,28.4151009,77.0552283,OpenStreetMap,way,1533470911,2026-11-26T08:50:46.122291+00:00
+Bhai Ki Shawarma,fast_food,Haryana,Gurugram,Gurugram,"shop 3, Golf Course Road, 122001",+91 97736 46564; +91 81164 26496,28.4545386,77.0973133,OpenStreetMap,way,1538989724,2026-11-26T08:50:46.122294+00:00
+Hotel Indian Roller,restaurant,Haryana,,,,,30.3347288,76.8763889,OpenStreetMap,way,1539434753,2026-11-26T08:50:46.122297+00:00
+Night street food market,restaurant,Haryana,,,,,30.7021605,76.8532122,OpenStreetMap,way,1544864705,2026-11-26T08:50:46.122300+00:00
+Campus Cafetaria,fast_food,Haryana,,,,,28.9883683,77.1512795,OpenStreetMap,way,1550520176,2026-11-26T08:50:46.122304+00:00

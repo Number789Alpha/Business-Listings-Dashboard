@@ -1,0 +1,47 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+Green bakery,cafe,Manipur,,,,,24.7950773,93.9362672,OpenStreetMap,node,4696519591,2026-11-26T07:22:37.785388+00:00
+Luzmi kitchen,restaurant,Manipur,,,,,24.8029385,93.9337247,OpenStreetMap,node,4696542890,2026-11-26T07:22:37.785410+00:00
+Kahva,cafe,Manipur,,,,,24.8080129,93.9291917,OpenStreetMap,node,4696544189,2026-11-26T07:22:37.785417+00:00
+Bake me,cafe,Manipur,,,,,24.8055749,93.9536151,OpenStreetMap,node,6269211408,2026-11-26T07:22:37.785421+00:00
+Sakura restaurant,restaurant,Manipur,,,,,24.8108758,93.9384031,OpenStreetMap,node,6440130585,2026-11-26T07:22:37.785426+00:00
+KFC,fast_food,Manipur,,,,,24.8187065,93.938925,OpenStreetMap,node,6516579155,2026-11-26T07:22:37.785431+00:00
+Pollito's,fast_food,Manipur,,,,,24.8188211,93.9388348,OpenStreetMap,node,6516579156,2026-11-26T07:22:37.785436+00:00
+Mellow,restaurant,Manipur,,,,,24.8229036,93.9395961,OpenStreetMap,node,6516579158,2026-11-26T07:22:37.785440+00:00
+Forage,restaurant,Manipur,,,,,24.8231263,93.9397139,OpenStreetMap,node,6516579159,2026-11-26T07:22:37.785445+00:00
+Spoon,restaurant,Manipur,,,,,24.8256013,93.9463723,OpenStreetMap,node,6516579164,2026-11-26T07:22:37.785449+00:00
+Tidos,fast_food,Manipur,,,,,24.8096969,93.9346257,OpenStreetMap,node,6516579171,2026-11-26T07:22:37.785456+00:00
+JK & South Indian Fast Food,restaurant,Manipur,,,,,24.8090256,93.934444,OpenStreetMap,node,6516579172,2026-11-26T07:22:37.785461+00:00
+People s cafe,restaurant,Manipur,,,,,24.8074304,93.934984,OpenStreetMap,node,6516579177,2026-11-26T07:22:37.785466+00:00
+Luxmi Kitchen,restaurant,Manipur,,,,,24.8066329,93.9326371,OpenStreetMap,node,6516579178,2026-11-26T07:22:37.785471+00:00
+Sid Espresso,cafe,Manipur,,,,+918729814240,24.7954792,93.9398273,OpenStreetMap,node,6556689885,2026-11-26T07:22:37.785476+00:00
+Sid Espresso,cafe,Manipur,,,,,24.7953593,93.9399244,OpenStreetMap,node,6564149886,2026-11-26T07:22:37.785481+00:00
+adventure cafe,restaurant,Manipur,,,,,24.8146518,93.9487326,OpenStreetMap,node,6822221685,2026-11-26T07:22:37.785486+00:00
+Asha Chak restaurant,restaurant,Manipur,,,,,24.2497622,94.3020225,OpenStreetMap,node,6849456177,2026-11-26T07:22:37.785492+00:00
+Fruit shakes 30 rupees,cafe,Manipur,,,,,24.2491265,94.3026597,OpenStreetMap,node,6849456178,2026-11-26T07:22:37.785496+00:00
+Steaming Mug,cafe,Manipur,,,,,24.8105356,93.924092,OpenStreetMap,node,6853156047,2026-11-26T07:22:37.785502+00:00
+Timber Cafe,restaurant,Manipur,,,,,24.8251199,93.9442059,OpenStreetMap,node,6853195285,2026-11-26T07:22:37.785508+00:00
+1985 Retro Coffee Shop,cafe,Manipur,,,,,24.8260322,93.9461688,OpenStreetMap,node,6853196985,2026-11-26T07:22:37.785513+00:00
+La Vue The Coffee Shop,cafe,Manipur,,,,,24.7870931,93.9349587,OpenStreetMap,node,6853198985,2026-11-26T07:22:37.785518+00:00
+Chapati & samosa,restaurant,Manipur,,,,,24.8144351,93.9480782,OpenStreetMap,node,6853692986,2026-11-26T07:22:37.785523+00:00
+Local tea house & chapati,restaurant,Manipur,,,,,24.5006239,93.7763118,OpenStreetMap,node,6854573685,2026-11-26T07:22:37.785528+00:00
+Oinamlong,restaurant,Manipur,,,,7005680492,24.770337,93.2521968,OpenStreetMap,node,7024797185,2026-11-26T07:22:37.785534+00:00
+Books & Coffee,cafe,Manipur,,,,,24.788222,93.9404021,OpenStreetMap,node,7035302085,2026-11-26T07:22:37.785539+00:00
+Laziz Pizza,restaurant,Manipur,,,,,24.7930777,93.9279594,OpenStreetMap,node,7035449585,2026-11-26T07:22:37.785544+00:00
+Delicious food restaurant,restaurant,Manipur,,,,,24.7683005,93.9368477,OpenStreetMap,node,7041285685,2026-11-26T07:22:37.785549+00:00
+Laxmi Hotel,restaurant,Manipur,,,,,24.2457775,94.3069856,OpenStreetMap,node,7138552150,2026-11-26T07:22:37.785554+00:00
+Rice hôtel,restaurant,Manipur,,,,,24.8229087,93.4766279,OpenStreetMap,node,7213745990,2026-11-26T07:22:37.785558+00:00
+Xavier rice hotel,restaurant,Manipur,,,,,24.8600427,93.6235549,OpenStreetMap,node,7213746085,2026-11-26T07:22:37.785563+00:00
+Hôtel Paratha tea,cafe,Manipur,,,,,24.746589,93.4260148,OpenStreetMap,node,7213746092,2026-11-26T07:22:37.785567+00:00
+Rice hôtel,restaurant,Manipur,,,,,24.7462797,93.425905,OpenStreetMap,node,7213746093,2026-11-26T07:22:37.785572+00:00
+Street food,fast_food,Manipur,,,,,24.8104461,93.9342479,OpenStreetMap,node,7271176085,2026-11-26T07:22:37.785577+00:00
+N. Heng Jol,cafe,Manipur,,,,,24.8086208,93.7587486,OpenStreetMap,node,7274014686,2026-11-26T07:22:37.785581+00:00
+Gaby's Café,restaurant,Manipur,,,,,24.3780342,94.1581463,OpenStreetMap,node,7276232286,2026-11-26T07:22:37.785586+00:00
+Laziz Pizza Nambol,restaurant,Manipur,Bishnupur,Nambol,"4, Khoriphaba Road Nambol, 795134",+918660783107,24.7206229,93.8408794,OpenStreetMap,node,8186191011,2026-11-26T07:22:37.785592+00:00
+Shirui Food,fast_food,Manipur,,Nambol,"Tedim Rd, 795134",,24.7191326,93.8392886,OpenStreetMap,node,8186245354,2026-11-26T07:22:37.785598+00:00
+Food Zilla,fast_food,Manipur,Bishnupur,Nambol,"NH2, 795134",,24.7177196,93.8375146,OpenStreetMap,node,8186249933,2026-11-26T07:22:37.785604+00:00
+Joinibhash Cafe,fast_food,Manipur,Bishnupur,Bishnupur,"Bishnupur Bazar, 795126",,24.6297238,93.7628952,OpenStreetMap,node,8186331040,2026-11-26T07:22:37.785610+00:00
+JV Restro,cafe,Manipur,,,,,24.4539118,94.0234905,OpenStreetMap,node,8512893821,2026-11-26T07:22:37.785616+00:00
+subway imphal,restaurant,Manipur,,,,,24.8259887,93.9458978,OpenStreetMap,node,9295908306,2026-11-26T07:22:37.785622+00:00
+KFC (Kentucky Fried Chicken),restaurant,Manipur,Imphal West,Imphal,"Loklaobung Bamon-Leikai Road, 795001",+918527761508,24.7896188,93.9414075,OpenStreetMap,node,11254791656,2026-11-26T07:22:37.785627+00:00
+Mandyroj Restaurant,restaurant,Manipur,,,,,24.5989718,93.7653635,OpenStreetMap,node,11356661932,2026-11-26T07:22:37.785632+00:00
+D-Box Cafe,restaurant,Manipur,,Imphal,"Singjamei Bazar, 795008",,24.7814056,93.9392454,OpenStreetMap,way,586968735,2026-11-26T07:22:37.785637+00:00

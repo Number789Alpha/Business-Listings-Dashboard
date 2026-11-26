@@ -1,0 +1,1038 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id
+Indigo,restaurant,Madhya Pradesh,,,,,22.7533416,75.903384,OpenStreetMap,node,748591329
+Filfora,restaurant,Madhya Pradesh,,,,,23.2639205,77.3802723,OpenStreetMap,node,779408544
+56 Shops,fast_food,Madhya Pradesh,,,,,22.7239936,75.8845077,OpenStreetMap,node,1801726861
+Jain Mithai Bhandar(JMB),restaurant,Madhya Pradesh,,,,,22.727255,75.8945618,OpenStreetMap,node,1802056895
+Ravi Alpahar,fast_food,Madhya Pradesh,,,,,22.7265128,75.8945618,OpenStreetMap,node,1802056898
+Apna Sweets,restaurant,Madhya Pradesh,,,,,22.7257518,75.8920658,OpenStreetMap,node,1802056899
+Indian Coffee House,restaurant,Madhya Pradesh,,Indore,452001,,22.68702,75.8724283,OpenStreetMap,node,1802074259
+Pizza palace,cafe,Madhya Pradesh,,,,,23.2728555,77.4078191,OpenStreetMap,node,2624040051
+Alfanzo,restaurant,Madhya Pradesh,,Gwalior,madhav Rao Scindia Marg,,26.2090183,78.1877501,OpenStreetMap,node,2991362261
+McDonald's,fast_food,Madhya Pradesh,,Gwalior,"Deendayal City Mall, Maharani LaxhmiBai Marg",,26.2097788,78.1667805,OpenStreetMap,node,2991408852
+Malwa Resort Restaurant,restaurant,Madhya Pradesh,,,,,22.3322605,75.3999601,OpenStreetMap,node,3029429800
+Mandu Retreat Restaurant,restaurant,Madhya Pradesh,,,,,22.355671,75.3965578,OpenStreetMap,node,3034009042
+"Dominos, Vijay Nagar",cafe,Madhya Pradesh,,,,,23.1855068,79.9109171,OpenStreetMap,node,3098270217
+Sharan Restauran,restaurant,Madhya Pradesh,,Betul,"Civil Lines College Road, 460001",+91 7141 234338,21.9022284,77.907556,OpenStreetMap,node,3158909791
+Manohar Dairy & Restaurant,restaurant,Madhya Pradesh,,Bhopal,,,23.234239,77.4339722,OpenStreetMap,node,3168001695
+Shree Krishna Chaat,restaurant,Madhya Pradesh,,bhopal,"9, Nadeem Road, 462001",,23.2574182,77.4112473,OpenStreetMap,node,3199068614
+Mediterraneo Restaurant,restaurant,Madhya Pradesh,,Khajuraho,"Jain Temple Road, 471606",,24.8512312,79.9257724,OpenStreetMap,node,3225598465
+Bhojanalay and Tiffin Centre,restaurant,Madhya Pradesh,,,,,22.7554685,75.9049511,OpenStreetMap,node,3267423655
+MY Kitchen Restaurant,restaurant,Madhya Pradesh,,,,,22.7562278,75.9051644,OpenStreetMap,node,3267657264
+hazi samosa center,restaurant,Madhya Pradesh,,,,,22.7190137,75.8593867,OpenStreetMap,node,3278133922
+Mr. Singh's Restaurant,restaurant,Madhya Pradesh,,,,,22.7536052,75.9013727,OpenStreetMap,node,3290559253
+Nafees,restaurant,Madhya Pradesh,,,,,22.7257453,75.8883492,OpenStreetMap,node,3348620811
+Indian Coffee House,restaurant,Madhya Pradesh,,,Sadar,,23.1540567,79.9489513,OpenStreetMap,node,3355355791
+Saifee Restaurant,restaurant,Madhya Pradesh,,,,,22.7160939,75.8641447,OpenStreetMap,node,3360064186
+Saifee Hotel,restaurant,Madhya Pradesh,,,,,22.7163833,75.8640405,OpenStreetMap,node,3360068348
+Perfect Bakery,fast_food,Madhya Pradesh,,,,,22.7548351,75.8881557,OpenStreetMap,node,3585122910
+Amul,cafe,Madhya Pradesh,,,,,23.2171718,77.4039269,OpenStreetMap,node,3673314738
+MANIT Canteen,restaurant,Madhya Pradesh,,,,,23.2153081,77.4062995,OpenStreetMap,node,3673314739
+Nescafe,cafe,Madhya Pradesh,,,,,23.2155435,77.4065564,OpenStreetMap,node,3673314740
+Nescafe,cafe,Madhya Pradesh,,,,,23.2174585,77.4060322,OpenStreetMap,node,3673314741
+Pandit ji,cafe,Madhya Pradesh,,,,,23.2206389,77.4034979,OpenStreetMap,node,3673314742
+Baker's Lounge,cafe,Madhya Pradesh,,,,,23.1785597,75.7905,OpenStreetMap,node,3696035145
+Bapu Ki Kutia,restaurant,Madhya Pradesh,,Bhopal,"Roashanpura Naka, Beside Rajbhavan Road, 462003",+91- 98260-23724,23.2387189,77.4024992,OpenStreetMap,node,3702865866
+Nakoda Snacks,fast_food,Madhya Pradesh,,,,,22.8060627,75.2738559,OpenStreetMap,node,3892805276
+Vrindavan Dhaba,restaurant,Madhya Pradesh,,,,,21.2839309,76.2264864,OpenStreetMap,node,3911131147
+Agrasen,restaurant,Madhya Pradesh,,,,,24.8511199,79.9259427,OpenStreetMap,node,3922195321
+Ganesh,restaurant,Madhya Pradesh,,,,,24.8501658,79.9233157,OpenStreetMap,node,3922197571
+Shawarma Grill & Momo Station,fast_food,Madhya Pradesh,,,,,22.6979739,75.8644941,OpenStreetMap,node,4114694001
+Tinkus,cafe,Madhya Pradesh,,,,,22.7211994,75.8738022,OpenStreetMap,node,4114694197
+Raju Tea Stall,cafe,Madhya Pradesh,,,,,23.2577729,77.3959842,OpenStreetMap,node,4116350390
+Milan Restaurant,restaurant,Madhya Pradesh,,,,,23.2325897,77.4332685,OpenStreetMap,node,4117028790
+Yogesh Uphar Gruha,restaurant,Madhya Pradesh,,,,,21.5938915,78.5280389,OpenStreetMap,node,4407688791
+Quick Bite Restaurant,restaurant,Madhya Pradesh,,,,,21.590294,78.5354179,OpenStreetMap,node,4412605895
+Subway,fast_food,Madhya Pradesh,,,,,26.2096667,78.1665403,OpenStreetMap,node,4456303193
+Pizza Bite's,fast_food,Madhya Pradesh,,,Shinde ki chawani,07516999998,26.2068837,78.1634075,OpenStreetMap,node,4457982793
+Treat Family Restaurant,restaurant,Madhya Pradesh,,,"Fort Road, 474012",7879015449,26.220707,78.1604163,OpenStreetMap,node,4458003192
+Bhola Restaurant,restaurant,Madhya Pradesh,,,,,25.3507783,78.6410287,OpenStreetMap,node,4465410093
+Subway,fast_food,Madhya Pradesh,,,,,22.7137669,75.8746659,OpenStreetMap,node,4469597428
+KFC,fast_food,Madhya Pradesh,,Indore,"1 & 2, kbike Compound Shreemaya Square, RNT marg",,22.7137961,75.8748516,OpenStreetMap,node,4469597915
+Chote Nawab,restaurant,Madhya Pradesh,,,,,23.2228062,77.4451417,OpenStreetMap,node,4476584889
+Mama Sweets,restaurant,Madhya Pradesh,,,,,23.2224525,77.4452758,OpenStreetMap,node,4476584890
+Sunshine Tea Stall,restaurant,Madhya Pradesh,,,,,23.222466,77.4449821,OpenStreetMap,node,4476584892
+Nashta Ghar,restaurant,Madhya Pradesh,,,,,23.2228148,77.445304,OpenStreetMap,node,4476584941
+Raja's Cafe,restaurant,Madhya Pradesh,,,,,24.8528511,79.922988,OpenStreetMap,node,4527820494
+Lassi Corner,restaurant,Madhya Pradesh,,,,,24.8517419,79.9239995,OpenStreetMap,node,4527823890
+Bella Italia,restaurant,Madhya Pradesh,,,,,24.8515249,79.9240155,OpenStreetMap,node,4527898889
+Balaji Family Restaurant and Dhaba,restaurant,Madhya Pradesh,,,,,21.5795659,78.5654479,OpenStreetMap,node,4543155660
+JMB Uttam Bhog,fast_food,Madhya Pradesh,,Indore,"E-7, Scheme No. 94, Bombay Hospital Square, 452010",,22.7531796,75.9049875,OpenStreetMap,node,4568751807
+Mr. Beans,restaurant,Madhya Pradesh,,,Saket Nagar,+91 731 428 5050,22.7232375,75.896927,OpenStreetMap,node,4618038489
+Kebabsville,restaurant,Madhya Pradesh,,,,,22.7508667,75.8893939,OpenStreetMap,node,4623146658
+Blue Lagoon,restaurant,Madhya Pradesh,,,,,22.7509417,75.8889642,OpenStreetMap,node,4623146659
+Mediterra,restaurant,Madhya Pradesh,,,,,22.7515742,75.8890973,OpenStreetMap,node,4623146660
+Chopstick City,restaurant,Madhya Pradesh,,,,,22.7512405,75.8893495,OpenStreetMap,node,4623160739
+Sanchi,restaurant,Madhya Pradesh,,,,,22.7513794,75.8892539,OpenStreetMap,node,4623160740
+The Groundbraking Co.,fast_food,Madhya Pradesh,,,,+07314912718,22.7568383,75.8893009,OpenStreetMap,node,4625701549
+Sakshi Dhaba,restaurant,Madhya Pradesh,,Bhopal,"Bhadbhada Ratibad Road, 462044",,23.2039138,77.3623026,OpenStreetMap,node,4634761636
+Midway Treat Restaurant,restaurant,Madhya Pradesh,,,,,24.9230633,81.6863035,OpenStreetMap,node,4650403394
+Chick-N-Serve,fast_food,Madhya Pradesh,,Indore,"A B Road, 452014",,22.6977973,75.8563363,OpenStreetMap,node,4678431394
+Cafe Coffee Day,cafe,Madhya Pradesh,,indore,Sukhnivas Road,,22.7011162,75.8373799,OpenStreetMap,node,4691916104
+babla chicken centre,restaurant,Madhya Pradesh,,indore,mahunaka road,,22.7048167,75.844087,OpenStreetMap,node,4703147060
+Cafe kava,cafe,Madhya Pradesh,,,,,22.7035818,75.8428803,OpenStreetMap,node,4703339785
+Prashant Restaurant,restaurant,Madhya Pradesh,,,Kanadiya Road,,22.7206932,75.9014201,OpenStreetMap,node,4721553035
+Safari Canteen,restaurant,Madhya Pradesh,,,,,24.8517823,79.9236826,OpenStreetMap,node,4730392994
+Indiana,restaurant,Madhya Pradesh,,,,,24.8515592,79.9243641,OpenStreetMap,node,4730392995
+Highway Treat,restaurant,Madhya Pradesh,,,,,21.8730892,79.5281991,OpenStreetMap,node,4744750868
+Madras Coffee House,restaurant,Madhya Pradesh,,,chhatarpur,,24.8519317,79.923389,OpenStreetMap,node,4751145527
+Zam Zam Fast Food,fast_food,Madhya Pradesh,,,,,23.2622674,77.4111334,OpenStreetMap,node,4836567202
+Manohar Dairy,fast_food,Madhya Pradesh,,Bhopal,"Hamidiya road, 462001",,23.2640849,77.4084157,OpenStreetMap,node,4836583097
+Indiana Restaurant,restaurant,Madhya Pradesh,,,,,24.8514324,79.9247635,OpenStreetMap,node,4878729421
+Café Coffee Day,cafe,Madhya Pradesh,,,,,26.215383,78.1707045,OpenStreetMap,node,4881440623
+Sakshi dhabha,restaurant,Madhya Pradesh,,,,,23.2041578,77.3622843,OpenStreetMap,node,4890963906
+Shikarwar Snacks and Foods,fast_food,Madhya Pradesh,,,,,26.4897594,77.9800067,OpenStreetMap,node,4923157485
+Ram Raja Restaurant & Cafe,restaurant,Madhya Pradesh,,,"Orchha Palace Road, 472246",+917680252697,25.3507378,78.6414687,OpenStreetMap,node,5027625022
+Sai prasad,restaurant,Madhya Pradesh,,,RNT marg,,22.7177775,75.8695959,OpenStreetMap,node,5049920222
+Neelkamal restaurant,restaurant,Madhya Pradesh,,,RNT marg,,22.7178272,75.8694472,OpenStreetMap,node,5049920223
+Neelkanth restaurant,restaurant,Madhya Pradesh,,,RNT marg,,22.7177657,75.8698126,OpenStreetMap,node,5049920422
+Manohar dairy & Restaurant,restaurant,Madhya Pradesh,,Bhopal,"Hamidiya road, 462001",,23.2641182,77.4084612,OpenStreetMap,node,5057501123
+Millan,restaurant,Madhya Pradesh,,,,,25.3507751,78.6412349,OpenStreetMap,node,5087558621
+Wood Wind Bakery Lounge,restaurant,Madhya Pradesh,,,,,23.1925884,77.4332746,OpenStreetMap,node,5180288580
+Bhopal Express,restaurant,Madhya Pradesh,,,,,23.2426214,77.3874912,OpenStreetMap,node,5180325707
+Maa Annapurna Restaurant,restaurant,Madhya Pradesh,,,,,25.3509712,78.6406979,OpenStreetMap,node,5279575723
+Blue Sky restaurant,restaurant,Madhya Pradesh,,,,,24.8532883,79.9229986,OpenStreetMap,node,5285864324
+Paradise Restaurant,restaurant,Madhya Pradesh,,,,,24.8500273,79.9233056,OpenStreetMap,node,5285864325
+Saffron restaurant,restaurant,Madhya Pradesh,,,,,24.8527317,79.9232998,OpenStreetMap,node,5286028921
+Meena Hotel,restaurant,Madhya Pradesh,,bhopal,"bhadbhada road, Barkhedi Kalan,, 462003",,23.2024194,77.3560413,OpenStreetMap,node,5291293110
+Panwar Dhaba,restaurant,Madhya Pradesh,,,,,22.6878814,77.2845022,OpenStreetMap,node,5323247190
+Aarti Bhojnaleya,restaurant,Madhya Pradesh,,,,,22.6401629,77.2757027,OpenStreetMap,node,5323609523
+gurú kripa,restaurant,Madhya Pradesh,,,,,24.851003,79.9260001,OpenStreetMap,node,5359405221
+Rimjhim Raj Restaurant,restaurant,Madhya Pradesh,,,,,25.3516005,78.6391125,OpenStreetMap,node,5426695521
+Goa Restaurant,restaurant,Madhya Pradesh,,,,,24.8506853,79.923336,OpenStreetMap,node,5457238421
+The tea time (Serving Health),fast_food,Madhya Pradesh,,,,+917514000105,26.1969198,78.1589357,OpenStreetMap,node,5458179421
+CanteenS Hg C Canteen,restaurant,Madhya Pradesh,,,,,23.2657076,77.3460173,OpenStreetMap,node,5474591282
+Narmada Restaurant,restaurant,Madhya Pradesh,,,,,23.2737474,77.3482334,OpenStreetMap,node,5474661001
+Chaifeteria,cafe,Madhya Pradesh,,,,,23.273127,77.343516,OpenStreetMap,node,5474661003
+Canteen,restaurant,Madhya Pradesh,,,,,23.2729798,77.339681,OpenStreetMap,node,5474694556
+Shagun,restaurant,Madhya Pradesh,,,,,23.2721881,77.3388156,OpenStreetMap,node,5474694561
+New Darbar,restaurant,Madhya Pradesh,,,,,23.271651,77.3377732,OpenStreetMap,node,5474715702
+SHUDDH BARFI HOUSE,restaurant,Madhya Pradesh,,,,,23.2708541,77.3384221,OpenStreetMap,node,5474715703
+The taste of Nepal,restaurant,Madhya Pradesh,,,,,23.269664,77.3359347,OpenStreetMap,node,5474726792
+Evergreen Restaurant,restaurant,Madhya Pradesh,,,,,23.2683053,77.3210879,OpenStreetMap,node,5479358205
+CHIRAYU BACKSIDE CANTEEN,restaurant,Madhya Pradesh,,,,,23.2703202,77.3089227,OpenStreetMap,node,5479412159
+Chaï stand,cafe,Madhya Pradesh,,,,,25.3456844,78.6408419,OpenStreetMap,node,5502601022
+Sol retreat,restaurant,Madhya Pradesh,,,,,22.9971333,76.5542833,OpenStreetMap,node,5597054127
+MP Restra,restaurant,Madhya Pradesh,,,,,22.5959884,75.2988096,OpenStreetMap,node,5649774321
+Silver saloon,restaurant,Madhya Pradesh,,,,,26.2114571,78.1505151,OpenStreetMap,node,5695123621
+Punjabi food factory,restaurant,Madhya Pradesh,,,,,26.2237022,78.1718739,OpenStreetMap,node,5708578221
+Shree Bhukkads a food lounge,restaurant,Madhya Pradesh,,,,,26.2185696,78.182155,OpenStreetMap,node,5730660224
+Man bhavan,restaurant,Madhya Pradesh,,,Maharaja Yeshwantrao Hospital Road,,22.7137187,75.8745701,OpenStreetMap,node,5736887805
+Kabeer roasted chicken,restaurant,Madhya Pradesh,,,Chhavni Road,,22.7138033,75.8745714,OpenStreetMap,node,5736896122
+Indian coffee house,restaurant,Madhya Pradesh,,,,,26.2152788,78.1828847,OpenStreetMap,node,5747602521
+Open Sky Restaurant,restaurant,Madhya Pradesh,,,,,25.3516514,78.6407966,OpenStreetMap,node,5796109950
+Indiana Restaurant,restaurant,Madhya Pradesh,,,,+919302354368,25.3495724,78.6409776,OpenStreetMap,node,5880478088
+Laxmi Betwa Tarang Restaurant,restaurant,Madhya Pradesh,,,Sheesh Mahal Road,+91 76802 52081,25.3507053,78.6411679,OpenStreetMap,node,5880478089
+Bundeli Restaurant,restaurant,Madhya Pradesh,,,,,25.3498763,78.6409789,OpenStreetMap,node,5882223203
+Maharaja Cafe & Restaurant,restaurant,Madhya Pradesh,,,,,24.8523054,79.9234109,OpenStreetMap,node,5886799302
+Gagan Restaurant,restaurant,Madhya Pradesh,,,,+91 98933 45114,24.8498595,79.9232639,OpenStreetMap,node,5886867288
+Mahveer Restaurant,restaurant,Madhya Pradesh,,,,,24.8441325,79.9348831,OpenStreetMap,node,5890608286
+Badri Seth Marwadi Bhoj,restaurant,Madhya Pradesh,,,,,24.8492398,79.92326,OpenStreetMap,node,5892991687
+Krishna Restaurant,restaurant,Madhya Pradesh,,,,,22.8183481,75.9274068,OpenStreetMap,node,5951153021
+Fort View Cafe,restaurant,Madhya Pradesh,,,,,26.2289575,78.1681786,OpenStreetMap,node,6035727485
+Safari Canteen 2,restaurant,Madhya Pradesh,,,,,24.8517225,79.9244748,OpenStreetMap,node,6038600486
+Gandhi Dham,restaurant,Madhya Pradesh,,,,,23.2386604,77.4024464,OpenStreetMap,node,6125893371
+Saatvik,restaurant,Madhya Pradesh,,,,,23.2359564,77.4018192,OpenStreetMap,node,6125894179
+Sweet & Salt Restaurant,restaurant,Madhya Pradesh,,,,,26.2317778,78.2163548,OpenStreetMap,node,6126470874
+Swad The Taste,restaurant,Madhya Pradesh,,,,,26.2317197,78.2164964,OpenStreetMap,node,6126470879
+Kwality,restaurant,Madhya Pradesh,,,,,23.2365447,77.4006669,OpenStreetMap,node,6126858593
+Taste of Khatta Meetha,fast_food,Madhya Pradesh,,,27,,23.2360415,77.4008009,OpenStreetMap,node,6126858595
+Keventers,fast_food,Madhya Pradesh,,,,,23.2347051,77.4011896,OpenStreetMap,node,6126858596
+Brijwasi,fast_food,Madhya Pradesh,,,,,23.2362844,77.4014337,OpenStreetMap,node,6126858599
+Wah Ji Wah,fast_food,Madhya Pradesh,,,,+91-78699-56299;+91-755-4944-111,23.2358375,77.4024327,OpenStreetMap,node,6128500470
+Aadarsh Namkeen,fast_food,Madhya Pradesh,,,,+91-93005-37712;+91-98262-23865,23.2354495,77.4005044,OpenStreetMap,node,6128501130
+Indian Coffee House,restaurant,Madhya Pradesh,,,,,23.2348644,77.4017207,OpenStreetMap,node,6128501143
+Cafe Terezza,cafe,Madhya Pradesh,,,,,22.7449246,75.8922954,OpenStreetMap,node,6237621399
+Jamboree Kitchen And Cafebar,cafe,Madhya Pradesh,,Indore,,,22.7442481,75.8919319,OpenStreetMap,node,6237628410
+Make My Sandwich And Kulfi,cafe,Madhya Pradesh,,,,,22.7456506,75.8928117,OpenStreetMap,node,6237631183
+Pitchers Cafebar,restaurant,Madhya Pradesh,,,,,22.7443446,75.8920419,OpenStreetMap,node,6237634478
+Cafe Tereza,cafe,Madhya Pradesh,,,,,22.745044,75.8922625,OpenStreetMap,node,6237638641
+cafe terezza,cafe,Madhya Pradesh,,,,,22.7450891,75.8923826,OpenStreetMap,node,6237641282
+Atrangi Cafe,cafe,Madhya Pradesh,,,,,22.7456519,75.8930853,OpenStreetMap,node,6237646497
+Rishabh Restaurant,restaurant,Madhya Pradesh,,,,,24.8457455,79.9304528,OpenStreetMap,node,6357444887
+Moon Light Restaurant,restaurant,Madhya Pradesh,,,,,25.3518282,78.6408692,OpenStreetMap,node,6357446387
+Orchha hut Restaurant,restaurant,Madhya Pradesh,,,,,25.3511997,78.6377498,OpenStreetMap,node,6357446388
+zodiac mall,fast_food,Madhya Pradesh,,Indore,"Sector B,Greater Bicholi Mardana,Greater Brajeshwari,Indore",,22.7034489,75.9176996,OpenStreetMap,node,6372229967
+मिट्टी,cafe,Madhya Pradesh,,,Greater Kailash Road,,22.7249938,75.8901745,OpenStreetMap,node,6385099185
+Le Rose Café,cafe,Madhya Pradesh,,,,,24.8526476,79.9235169,OpenStreetMap,node,6397727385
+Blueberry Restaurant,restaurant,Madhya Pradesh,,Gwalior,"VIP Road, Morar, 474005",,26.2324669,78.2170988,OpenStreetMap,node,6467895378
+Sugar can,cafe,Madhya Pradesh,,,,,22.1748254,75.5869239,OpenStreetMap,node,6533626185
+Chai kappi,cafe,Madhya Pradesh,,,,,22.7230716,75.895915,OpenStreetMap,node,6545371685
+Snack street,fast_food,Madhya Pradesh,,,,,23.2057113,77.4277272,OpenStreetMap,node,6558076685
+chappan bhog,cafe,Madhya Pradesh,,,,,23.197983,77.4173985,OpenStreetMap,node,6562093331
+रेस्टॉरेन्ट नोमाड्स,restaurant,Madhya Pradesh,,,"Main Road near River, 472246",084472 71631,25.3475921,78.6410926,OpenStreetMap,node,6938730685
+# Pizza Kitchen,restaurant,Madhya Pradesh,,Datia,"5, Pizza Kitchen, Maa Pitambara Chouraha, 475661",+91 9336888383,25.6649631,78.4609911,OpenStreetMap,node,6948021888
+McDonald's,fast_food,Madhya Pradesh,,Indore,"Scheme 54, A B Road",,22.7496823,75.8956064,OpenStreetMap,node,7095626876
+McDonald's,fast_food,Madhya Pradesh,,Indore,"Film Colony Rd, South Tujoganj",,22.7181945,75.8714211,OpenStreetMap,node,7095673996
+McDonald's,fast_food,Madhya Pradesh,,Indore,"Malhar Mega Mall, AB Road near Orbit Mall",,22.7453457,75.8943168,OpenStreetMap,node,7095680156
+McDonald's,fast_food,Madhya Pradesh,,Indore,"Bhawarkua, beside Rajnandini Hotel,",,22.7652643,75.8894862,OpenStreetMap,node,7095680746
+McDonald's,fast_food,Madhya Pradesh,,Indore,"Bhawarkua Main Rd, Navlakha, Transport Nagar",,22.6952336,75.8658768,OpenStreetMap,node,7095683797
+McDonald's,fast_food,Madhya Pradesh,,Indore,"Mahatma Gandhi Rd, South Tukoganj",,22.7213749,75.8783876,OpenStreetMap,node,7095689889
+Subway,fast_food,Madhya Pradesh,,Indore,Devi Ahillyabai Holkar Airport Area,,22.727188,75.8030415,OpenStreetMap,node,7097817377
+Subway,fast_food,Madhya Pradesh,,Indore,"The Grace, Near Madhumilan Square",,22.7146324,75.8721261,OpenStreetMap,node,7097832739
+Pizza Hut,restaurant,Madhya Pradesh,,Indore,"Vishal Trinity, Sapna Sangeeta Rd",,22.7004322,75.8680274,OpenStreetMap,node,7097845232
+Subway,fast_food,Madhya Pradesh,,Indore,"Ashirwad SBI Colony, Old Palasia",,22.7256523,75.893092,OpenStreetMap,node,7097848953
+Subway,fast_food,Madhya Pradesh,,,"Sapna Sangeeta Rd, Snehnagar, IndoreSapna Sangeeta Rd, Snehnag",,22.698298,75.8656515,OpenStreetMap,node,7097867636
+KFC,fast_food,Madhya Pradesh,,Indore,Devi Ahillyabai Holkar Airport Area,,22.7269918,75.8024932,OpenStreetMap,node,7097868453
+Pizza Hut,restaurant,Madhya Pradesh,,Indore,"Rafael Tower, Near Saket Square",,22.7252554,75.8943212,OpenStreetMap,node,7097880786
+Domino's,fast_food,Madhya Pradesh,,Indore,"Sayaji Circle, Vijay Nagar",,22.7524151,75.8910855,OpenStreetMap,node,7097886574
+Domino's,fast_food,Madhya Pradesh,,Indore,"Footi Kothi Square, Sudama Nagar road",,22.6939643,75.8288888,OpenStreetMap,node,7097887668
+Domino's,fast_food,Madhya Pradesh,,Indore,"Malhar Mega Mall, Mumbai- Agra National highway",,22.7527322,75.8965655,OpenStreetMap,node,7097887718
+Pizza Hut,restaurant,Madhya Pradesh,,Indore,"Dhan Trident, Vijay Nagar",,22.7538662,75.897717,OpenStreetMap,node,7097887719
+Domino's,fast_food,Madhya Pradesh,,Indore,Ratna Lok Coloy,,22.7489863,75.8956916,OpenStreetMap,node,7097889617
+KFC,fast_food,Madhya Pradesh,,Indore,"Malhar Mega Mall, AB Rd, Vijay Nagar",,22.7448416,75.8942782,OpenStreetMap,node,7097891597
+Domino's,fast_food,Madhya Pradesh,,Indore,"Malhar Mega Mall, Vijay Nagar",,22.7449331,75.8946161,OpenStreetMap,node,7097897156
+Domino's,fast_food,Madhya Pradesh,,Indore,AB Rd,,22.744055,75.8941414,OpenStreetMap,node,7097897157
+Pizza Hut,restaurant,Madhya Pradesh,,Indore,"Malhar Mega Mall, AB Rd, Vijay Nagar",,22.7447525,75.8947744,OpenStreetMap,node,7097898985
+Domino's,fast_food,Madhya Pradesh,,Indore,"Old Palasia Navneet Tower, Road",,22.7254695,75.894413,OpenStreetMap,node,7097914207
+Domino's,fast_food,Madhya Pradesh,,Indore,"Hotel Bee Town, A B Road",,22.6612283,75.8254153,OpenStreetMap,node,7097924038
+Domino's,fast_food,Madhya Pradesh,,Indore,,,22.7212964,75.8785654,OpenStreetMap,node,7097924866
+Domino's,fast_food,Madhya Pradesh,,Indore,Near SSP Office,,22.7182917,75.8715705,OpenStreetMap,node,7097924867
+Domino's,fast_food,Madhya Pradesh,,Indore,"Madhumilan Square, Kibe Compound",,22.7137093,75.874783,OpenStreetMap,node,7097924868
+Subway,fast_food,Madhya Pradesh,,Indore,"Sapna Sangeeta Mall, Sapna Sangeeta Road",,22.6991768,75.8671478,OpenStreetMap,node,7097934980
+Domino's,fast_food,Madhya Pradesh,,Indore,Ocean Arcade Ocean Park Township,,22.760642,75.9297931,OpenStreetMap,node,7097956677
+Domino's,fast_food,Madhya Pradesh,,Indore,"Sita Shree Residency, Airport Road",,22.7235901,75.8277408,OpenStreetMap,node,7097972966
+Domino's,fast_food,Madhya Pradesh,,Indore,"Sapna Sangeeta Mall, Sapna Sangeeta Road",,22.6992077,75.8672819,OpenStreetMap,node,7097989640
+Petu,restaurant,Madhya Pradesh,,,,,22.4264351,80.1480228,OpenStreetMap,node,7120169203
+Hotel Khajuraho Lake view,restaurant,Madhya Pradesh,,,Infron of Shiv Sagar lake,,24.8493598,79.9233366,OpenStreetMap,node,7265600485
+Lake view,restaurant,Madhya Pradesh,,,,,24.8496831,79.9232645,OpenStreetMap,node,7266810585
+Hyderabad Fried Chicken,fast_food,Madhya Pradesh,,,,,23.1789298,80.022508,OpenStreetMap,node,7273688240
+Nescafé,cafe,Madhya Pradesh,,,,,23.1789964,80.022618,OpenStreetMap,node,7273688241
+"Hotel Celebration , Bakery And Restaurant",restaurant,Madhya Pradesh,,Seoni Malwa,461223,,22.4578173,77.475453,OpenStreetMap,node,7503270603
+Indian Coffee House Betul,restaurant,Madhya Pradesh,,betul,460001,,21.9050192,77.9017288,OpenStreetMap,node,7647243973
+Mediterraneo,restaurant,Madhya Pradesh,,,,,25.3497199,78.6409462,OpenStreetMap,node,8043900981
+indian coffee house,cafe,Madhya Pradesh,,,,,23.1927245,79.9147904,OpenStreetMap,node,8120364099
+Vishnu Chinese,fast_food,Madhya Pradesh,,,,,23.2233907,77.4335931,OpenStreetMap,node,8137059703
+Amer Bakery Hut,restaurant,Madhya Pradesh,,,,,23.2174899,77.4276323,OpenStreetMap,node,8137059712
+Cremeore,fast_food,Madhya Pradesh,,,,,23.2176296,77.4278007,OpenStreetMap,node,8137059713
+Bombay Tea Stall,cafe,Madhya Pradesh,,,,,23.2182525,77.4283718,OpenStreetMap,node,8137059715
+Cafe Coffee Day,cafe,Madhya Pradesh,,,,,23.2172068,77.4274557,OpenStreetMap,node,8137059716
+Milan,fast_food,Madhya Pradesh,,,,,23.2164554,77.425644,OpenStreetMap,node,8137094017
+sagar gaire,fast_food,Madhya Pradesh,,,,,23.2143128,77.4347955,OpenStreetMap,node,8137094019
+Chappan bhog,fast_food,Madhya Pradesh,,,,,23.2142392,77.4363738,OpenStreetMap,node,8137094021
+shiva bakery,fast_food,Madhya Pradesh,,,,,23.2093969,77.4367208,OpenStreetMap,node,8137094023
+bora sports,fast_food,Madhya Pradesh,,,,,23.209909,77.4367242,OpenStreetMap,node,8137094024
+charri foods,fast_food,Madhya Pradesh,,,,,23.2091066,77.4362248,OpenStreetMap,node,8137094028
+china bowl,restaurant,Madhya Pradesh,,,,,23.2088598,77.4368158,OpenStreetMap,node,8137094033
+gokul sweets,fast_food,Madhya Pradesh,,,,,23.2089995,77.4366063,OpenStreetMap,node,8137094034
+e-7 resturant,restaurant,Madhya Pradesh,,,,,23.2060998,77.437165,OpenStreetMap,node,8137094039
+chai kapi,cafe,Madhya Pradesh,,,,,23.2070177,77.4365194,OpenStreetMap,node,8137094041
+blue cafe,cafe,Madhya Pradesh,,,,,23.2166907,77.4269555,OpenStreetMap,node,8137094053
+DAL CHINI Restaurant,restaurant,Madhya Pradesh,,indore,"104, tilak nagar, diamond tower, AB Road, 455001",+91 99813 78262,22.9589818,76.0426821,OpenStreetMap,node,8513265890
+Punjab Dairy,fast_food,Madhya Pradesh,,,,,23.3055441,81.3550992,OpenStreetMap,node,8872820872
+Jodhpur Misthan Bhandar,fast_food,Madhya Pradesh,,Dabra,475110,,25.8866929,78.334,OpenStreetMap,node,8893644331
+HOTEL THE ND GRANDE,restaurant,Madhya Pradesh,,,,,25.8835213,78.3334264,OpenStreetMap,node,8893670624
+Rangoli Garden,restaurant,Madhya Pradesh,,,,,25.8834074,78.3334586,OpenStreetMap,node,8893670631
+Ambika sweets,restaurant,Madhya Pradesh,,,,,22.7200466,75.9047668,OpenStreetMap,node,8906592758
+Jainam food,restaurant,Madhya Pradesh,,,,,22.7207019,75.9004597,OpenStreetMap,node,8906592765
+Sharma Sweets,restaurant,Madhya Pradesh,,,,,22.721221,75.8985534,OpenStreetMap,node,8906592768
+ATKT cafe,restaurant,Madhya Pradesh,,,,,22.7180111,75.9055138,OpenStreetMap,node,8909386822
+Hotel Suraj,restaurant,Madhya Pradesh,,,,,25.8901193,78.3367735,OpenStreetMap,node,8909416143
+Kings Arena Cafe and Lounge,cafe,Madhya Pradesh,,Balaghat,"481001, Kali Putli Chowk, 481001",07632357308,21.8164322,80.1864761,OpenStreetMap,node,9103422829
+Lord of Grill,restaurant,Madhya Pradesh,,,,,22.6636278,75.8838454,OpenStreetMap,node,9458213777
+Apna Punjabi Dhaba,restaurant,Madhya Pradesh,,,,,22.6634724,75.8834208,OpenStreetMap,node,9458213778
+Maratha Darbar,restaurant,Madhya Pradesh,,,,,22.6582329,75.8846445,OpenStreetMap,node,9458213779
+Kushwah Benjo Center,cafe,Madhya Pradesh,,,,,22.6839848,75.8743264,OpenStreetMap,node,9465937274
+Maayra Ka Dhaaba,restaurant,Madhya Pradesh,,,,,22.6781986,75.8777271,OpenStreetMap,node,9465937277
+Ramesh South Indian,restaurant,Madhya Pradesh,,,,,22.6765013,75.8782914,OpenStreetMap,node,9465937278
+The MMA Cafe,cafe,Madhya Pradesh,,,,,22.676197,75.8785418,OpenStreetMap,node,9465937279
+Bherunath Nashta,cafe,Madhya Pradesh,,,,,22.6739909,75.8797147,OpenStreetMap,node,9465937284
+Rathore Benjo Center,cafe,Madhya Pradesh,,,,,22.6736231,75.8801636,OpenStreetMap,node,9465937285
+DMP Pani Puri,cafe,Madhya Pradesh,,,,,22.6736615,75.8799145,OpenStreetMap,node,9465937287
+Panna Restaurant & Sweets,restaurant,Madhya Pradesh,,,,,22.6729012,75.880289,OpenStreetMap,node,9465937290
+Sanchi Point,cafe,Madhya Pradesh,,,,,22.6452549,75.8876162,OpenStreetMap,node,9465937302
+Chai Panchayat,cafe,Madhya Pradesh,,,,,22.6729003,75.8765999,OpenStreetMap,node,9465992271
+Chai Chuski Bar,cafe,Madhya Pradesh,,,,,22.6729268,75.876846,OpenStreetMap,node,9465992272
+D. K. Restaurant,restaurant,Madhya Pradesh,,,,,22.6727602,75.8759284,OpenStreetMap,node,9465992275
+Kushwah Ji Tiffin Center,restaurant,Madhya Pradesh,,,,,22.6724461,75.8754909,OpenStreetMap,node,9465992280
+Kesarlal,restaurant,Madhya Pradesh,,,,,22.6702374,75.881027,OpenStreetMap,node,9515553157
+Chai Sutta Bar - Khandwa Naka,cafe,Madhya Pradesh,,,,,22.6702008,75.8810406,OpenStreetMap,node,9515553158
+Saawariya Sandwich,fast_food,Madhya Pradesh,,,,,22.7453635,75.8928954,OpenStreetMap,node,9515853653
+Food Street,cafe,Madhya Pradesh,,,,,22.6993007,75.8674654,OpenStreetMap,node,9515931003
+Dabeli,cafe,Madhya Pradesh,,,,,22.6987897,75.8669384,OpenStreetMap,node,9515931007
+Panipuri,cafe,Madhya Pradesh,,,,,22.6990783,75.867592,OpenStreetMap,node,9515931008
+Apna Sweets,restaurant,Madhya Pradesh,,,,,22.6995369,75.8669063,OpenStreetMap,node,9515931009
+Pishori Dhaba,restaurant,Madhya Pradesh,,,,,22.6987248,75.8641434,OpenStreetMap,node,9515931021
+Googly Cafe,cafe,Madhya Pradesh,,,,,22.7098039,75.8839093,OpenStreetMap,node,9544380110
+DMP Pani Puri,fast_food,Madhya Pradesh,,,,,22.6725907,75.8760041,OpenStreetMap,node,9544567786
+Sabudana Khichadi,fast_food,Madhya Pradesh,,,,,22.6728827,75.8772486,OpenStreetMap,node,9544567789
+Gurjar Restaurant,restaurant,Madhya Pradesh,,,,,22.6729545,75.8769241,OpenStreetMap,node,9544567790
+Taste N Best,restaurant,Madhya Pradesh,,,,,22.6729273,75.8766558,OpenStreetMap,node,9544567791
+Chai aur Sutta Bar,cafe,Madhya Pradesh,,,,,22.672858,75.876165,OpenStreetMap,node,9544567792
+Saawariya Poha Jalebi,fast_food,Madhya Pradesh,,,,,22.6722046,75.8744698,OpenStreetMap,node,9544567798
+Sapna Restaurant,restaurant,Madhya Pradesh,,,,,22.6789702,75.8772349,OpenStreetMap,node,9544998919
+Hotel Bigwig,restaurant,Madhya Pradesh,,Jabalpur,"1450, Dr Barat Road, 482001",,23.160805,79.9393961,OpenStreetMap,node,9557398285
+Wayfare,restaurant,Madhya Pradesh,,Indore,"257, PU4, Scheme - 54, 452001",+91 93997 70600,22.7461157,75.8956163,OpenStreetMap,node,9768715774
+Sudarshan Restaurant,restaurant,Madhya Pradesh,,,,+919752948585,23.2854431,77.2742119,OpenStreetMap,node,10043930273
+Pani Puri & Chaat,fast_food,Madhya Pradesh,,,,,22.6792569,75.8769516,OpenStreetMap,node,10239608201
+Pappu Tea Stall,cafe,Madhya Pradesh,,,,,22.6818641,75.875534,OpenStreetMap,node,10239608202
+Paratha,fast_food,Madhya Pradesh,,,,,22.6925132,75.8679511,OpenStreetMap,node,10239634772
+TINKU'S,fast_food,Madhya Pradesh,,,,,22.6931453,75.8671295,OpenStreetMap,node,10239634773
+A One Juice,fast_food,Madhya Pradesh,,,,,22.6931017,75.8671473,OpenStreetMap,node,10239634774
+Sabudana Khichdi,fast_food,Madhya Pradesh,,,,,22.6683869,75.881876,OpenStreetMap,node,10239634874
+Satkar Pure Veg,restaurant,Madhya Pradesh,,,,,22.6725136,75.8803559,OpenStreetMap,node,10239634878
+Chicken Biryani,fast_food,Madhya Pradesh,,,,,22.6728255,75.8805431,OpenStreetMap,node,10239634879
+Sabudana Khichdi,fast_food,Madhya Pradesh,,,,,22.6736026,75.8799348,OpenStreetMap,node,10239634882
+Residency Sanchi Point,fast_food,Madhya Pradesh,,,,,22.7072895,75.880357,OpenStreetMap,node,10239663670
+Champaran Meat House,fast_food,Madhya Pradesh,,,,,22.7003413,75.8766673,OpenStreetMap,node,10239675752
+Karnawat Pan,fast_food,Madhya Pradesh,,,,,22.7003057,75.8767209,OpenStreetMap,node,10239675753
+Madari The Restaurant,restaurant,Madhya Pradesh,,,,,23.3381408,81.2448324,OpenStreetMap,node,10269208423
+Shri Sahnti dhaba,restaurant,Madhya Pradesh,,,Ujjain - Makshi Highway,,23.2641968,75.820343,OpenStreetMap,node,10295277810
+Kitchen Sensation,restaurant,Madhya Pradesh,,Indore,"LG12 One Centre, Chappan Dukkan, 452001",+919039046282,22.7244192,75.8847302,OpenStreetMap,node,10300570118
+popular fresh momos n more narsinghpur,restaurant,Madhya Pradesh,,narsinghpur,"vaidya babu complex, near old bus stand main road, 487001",+918962333100,22.9470298,79.1929966,OpenStreetMap,node,10739442800
+Majitola,restaurant,Madhya Pradesh,,,,,22.1464734,80.660342,OpenStreetMap,node,10747943292
+Kushre Dhaba,restaurant,Madhya Pradesh,,,,,22.1459098,80.6597543,OpenStreetMap,node,10747943293
+Chai Jayka,cafe,Madhya Pradesh,,,,,22.1062645,80.5580342,OpenStreetMap,node,10750127497
+Hotel Rajhans,fast_food,Madhya Pradesh,,,,,23.7228258,81.0208164,OpenStreetMap,node,10794734858
+Abhinandan Restaurant,restaurant,Madhya Pradesh,,,,,22.0952372,79.5529707,OpenStreetMap,node,10806945403
+Panchavati,restaurant,Madhya Pradesh,,,,,22.2416885,76.0434231,OpenStreetMap,node,10810916986
+मेघदूत पंजाबी ढाबा,restaurant,Madhya Pradesh,,,,,23.1173073,75.7991193,OpenStreetMap,node,10814313519
+ChaiKetly,cafe,Madhya Pradesh,,Indore,"23, PU4 Scheme no 54 Vijay Nagar, 452010",7879903261,22.7461585,75.8967406,OpenStreetMap,node,10829445729
+Rang Cafe,cafe,Madhya Pradesh,,Indore,"VIshnupuri Colony, Old A. B. Road, 452014",,22.6901829,75.8638291,OpenStreetMap,node,10895503064
+Singh Cafe Bar & Restro,cafe,Madhya Pradesh,,Indore,"Vishnupuri Colony, Old A. B. Road, 452014",,22.6902837,75.8639232,OpenStreetMap,node,10895503065
+Just Paratha,restaurant,Madhya Pradesh,,Indore,"Vishnupuri Colony, Old A. B. Road, 452014",,22.6901939,75.8642944,OpenStreetMap,node,10895503066
+Pind Canada,cafe,Madhya Pradesh,,Indore,"Vishnupuri Main, Vishnupuri Colony, Old A. B. Road, 452014",,22.6901374,75.8642268,OpenStreetMap,node,10895503067
+Tea town indore,cafe,Madhya Pradesh,,Indore,"Vishnupuri Colony, Old A. B. Road, 452001",,22.6899135,75.8635026,OpenStreetMap,node,10895503069
+Radha sanchi parler,restaurant,Madhya Pradesh,,Indore,"Vishnupuri Colony, Old A. B. Road, 452014",,22.6900442,75.8635677,OpenStreetMap,node,10895503070
+cafe 1,cafe,Madhya Pradesh,,,,,26.2106441,78.2014213,OpenStreetMap,node,10904527757
+cafe 2,cafe,Madhya Pradesh,,,,,26.2107476,78.2008333,OpenStreetMap,node,10904527758
+cafe 3,cafe,Madhya Pradesh,,,,,26.2103102,78.2015181,OpenStreetMap,node,10904527759
+restaurant 1,restaurant,Madhya Pradesh,,,,,26.2098332,78.2020706,OpenStreetMap,node,10904527781
+fast food centre,fast_food,Madhya Pradesh,,,,,26.2104688,78.201787,OpenStreetMap,node,10904527782
+south indian corner,fast_food,Madhya Pradesh,,,,,26.2099081,78.2038143,OpenStreetMap,node,10904527786
+punjabi tadka,fast_food,Madhya Pradesh,,,,,26.2096653,78.2005818,OpenStreetMap,node,10904527789
+hastag cafe,fast_food,Madhya Pradesh,,,,,26.2095058,78.2006022,OpenStreetMap,node,10904527790
+zaika cafe,cafe,Madhya Pradesh,,,,,26.2083933,78.2047118,OpenStreetMap,node,10904574806
+jodhpur misthan bhandar,fast_food,Madhya Pradesh,,,,,26.2152779,78.2043016,OpenStreetMap,node,10904574807
+hotel vaidya regency & manuhar restaurant & banquet,restaurant,Madhya Pradesh,,balaghat,"ground floor,kesar plaza complex, Hanuman Chowk, 481001",+917489995444,21.8112909,80.1938587,OpenStreetMap,node,10942174301
+KEVENTORS.,cafe,Madhya Pradesh,,,,,22.7056562,75.8559573,OpenStreetMap,node,10959671259
+KOFFEEE,cafe,Madhya Pradesh,,,,,22.7049641,75.8559235,OpenStreetMap,node,10959707941
+NAMO SANDWICH,cafe,Madhya Pradesh,,,,,22.7039737,75.8549123,OpenStreetMap,node,10959712144
+JOLLY..,cafe,Madhya Pradesh,,,,,22.7051036,75.8559199,OpenStreetMap,node,10959715344
+JASSY BURGER,fast_food,Madhya Pradesh,,,,,22.7037308,75.8557218,OpenStreetMap,node,10959759735
+KAMU'S,fast_food,Madhya Pradesh,,,,,22.7051839,75.859325,OpenStreetMap,node,10959759738
+Shreeyansh Lodhi,cafe,Madhya Pradesh,,sagar,"Shreeyansh Lodhi, Mardhi Jamuniya, Madhya Pradesh 470223, Sagar, Madhya Pradesh 470223, Sagar, India, 470223, Sagar, India, 470223, 470223",+919340934773,23.5472918,78.9420876,OpenStreetMap,node,10992158009
+Jalaadhaari,restaurant,Madhya Pradesh,,Ujjain,"172, Mahakaleshwar Temple Road, 456001",,23.1833176,75.7695638,OpenStreetMap,node,11007017462
+Sunset Bistro,cafe,Madhya Pradesh,Scheme 54,Indore,"226, pu4 vijay nagar, 452010",8085553770,22.7472728,75.8957669,OpenStreetMap,node,11286463788
+Dubey Pani Puri,fast_food,Madhya Pradesh,,,,,22.6891522,75.8701791,OpenStreetMap,node,11287852893
+Naitik Jain Bhojnalaya,restaurant,Madhya Pradesh,Vidisha,Vidisha,"Madhav ganj chorahe, 464001",+919340809503,23.523292,77.814029,OpenStreetMap,node,11398838106
+Yash Enterprises: Fruit & Juice Shop,fast_food,Madhya Pradesh,,,,+918085711414,23.2854165,77.2740099,OpenStreetMap,node,11491869453
+Gondwana Chiken Shop,fast_food,Madhya Pradesh,,,,,22.3460378,80.3926316,OpenStreetMap,node,11536437221
+The Rutba,cafe,Madhya Pradesh,Rewa,Rewa,486001,9354707096,24.542921,81.2967838,OpenStreetMap,node,11550692921
+Parte Dairy,cafe,Madhya Pradesh,,,,,22.7227882,80.3739132,OpenStreetMap,node,11568481724
+Dosa Burger Centre,fast_food,Madhya Pradesh,,,,,22.5901553,80.3621232,OpenStreetMap,node,11568898253
+Hotel Shivansh Family Restaurant,restaurant,Madhya Pradesh,,,,,22.7074302,77.831594,OpenStreetMap,node,11610725351
+Hotel Jai Mahakal,restaurant,Madhya Pradesh,,,,,22.7074467,77.8324689,OpenStreetMap,node,11610725352
+Yadav Dhaba,restaurant,Madhya Pradesh,,,,,22.7105648,77.8465575,OpenStreetMap,node,11610725353
+Shri Chouhan Family Restaurant & Dhaba,restaurant,Madhya Pradesh,,,,,22.7088783,77.8921515,OpenStreetMap,node,11610843955
+Shree Radhe Radhe Dhaba,restaurant,Madhya Pradesh,,,,,22.7095837,77.8934425,OpenStreetMap,node,11610864751
+Ram Rahim Dhaba,restaurant,Madhya Pradesh,,,,,22.705612,77.9310872,OpenStreetMap,node,11610888036
+Sandilya Fish Seeds Private Limited,fast_food,Madhya Pradesh,Seoni,,,+917772982402,21.9347287,79.8129897,OpenStreetMap,node,11618571842
+Rajput Dhaba,restaurant,Madhya Pradesh,,,,,22.6367899,80.363017,OpenStreetMap,node,11637194541
+Samosa & Kachori Shop,fast_food,Madhya Pradesh,,,,,22.7243762,78.3562975,OpenStreetMap,node,11679010596
+Primus Lounge,restaurant,Madhya Pradesh,,,,,22.7277475,75.8049536,OpenStreetMap,node,11683855029
+Annapurna Restaurent,restaurant,Madhya Pradesh,,,,,22.6564519,75.8072339,OpenStreetMap,node,11690375145
+Cafe Kono,cafe,Madhya Pradesh,,,,,22.6956748,75.8360323,OpenStreetMap,node,11690375156
+Namo Sandwich,cafe,Madhya Pradesh,,,,,22.6961263,75.835012,OpenStreetMap,node,11690375157
+marwaari rasoi,restaurant,Madhya Pradesh,,,,,25.6976689,76.6852042,OpenStreetMap,node,11690576047
+Ram Bharose  Hotel,restaurant,Madhya Pradesh,,,,,21.8665157,75.9636015,OpenStreetMap,node,11690646934
+Foodie friends cafe,cafe,Madhya Pradesh,,,,,21.8691271,75.9601984,OpenStreetMap,node,11690646935
+G.V.P.R  Restaurant,restaurant,Madhya Pradesh,,,,,21.8681304,75.9586975,OpenStreetMap,node,11690646938
+Jayesh Restauran,restaurant,Madhya Pradesh,,,,,21.8581155,75.9345785,OpenStreetMap,node,11690768566
+Khana-Khazana,restaurant,Madhya Pradesh,,,,,23.8550174,78.779636,OpenStreetMap,node,11691267219
+Yummy In The Tummy,restaurant,Madhya Pradesh,,,,,23.8546207,78.78091,OpenStreetMap,node,11691267228
+Maa Narmade Restaurant,restaurant,Madhya Pradesh,,,,,23.8545028,78.7802916,OpenStreetMap,node,11691267233
+Cafe AM 2 PM sagar,cafe,Madhya Pradesh,,,,,23.8539037,78.7844229,OpenStreetMap,node,11691267261
+Fauji Veg and non veg fast food Junction,restaurant,Madhya Pradesh,,,,,23.8538528,78.7847213,OpenStreetMap,node,11691267262
+Sainik canteen,restaurant,Madhya Pradesh,,,,,23.8537903,78.7848197,OpenStreetMap,node,11691267263
+Prince Chicken & Fish Shop,restaurant,Madhya Pradesh,,,,,23.8536437,78.7856254,OpenStreetMap,node,11691267268
+Gurukripa Restaurant,restaurant,Madhya Pradesh,,,,,23.8532139,78.7860914,OpenStreetMap,node,11691285475
+Way To Mr khiladi cafe,cafe,Madhya Pradesh,,,,,23.8531622,78.786734,OpenStreetMap,node,11691285510
+Indian Coffee House,restaurant,Madhya Pradesh,,,,,23.8517115,78.7918335,OpenStreetMap,node,11691285543
+marwadi rasaoi,restaurant,Madhya Pradesh,,,,,25.6959759,76.6858633,OpenStreetMap,node,11691419388
+mahakaal hotel,restaurant,Madhya Pradesh,,,,,25.7010647,76.6835984,OpenStreetMap,node,11691419389
+Satpura Darbar Restaurant,restaurant,Madhya Pradesh,,,,+919893692577,22.7536454,78.3565744,OpenStreetMap,node,11721812160
+Veg Restaurant,restaurant,Madhya Pradesh,,,,,22.7536603,78.3566102,OpenStreetMap,node,11721812161
+Rajput Vaishnav Restaurant,restaurant,Madhya Pradesh,Narmadapuram,,461775,,22.7538961,78.3571901,OpenStreetMap,node,11721812162
+Bombay Biryani,restaurant,Madhya Pradesh,Narmadapuram,,461775,,22.7540647,78.3579172,OpenStreetMap,node,11721812164
+Jain Lodge & Restaurant,restaurant,Madhya Pradesh,Narmadapuram,,461775,,22.7543245,78.3579534,OpenStreetMap,node,11721812165
+The Panjtara Restaurant & Cafe,restaurant,Madhya Pradesh,Narmadapuram,,461775,,22.7442042,78.3549306,OpenStreetMap,node,11721812826
+Cafe Namaste,cafe,Madhya Pradesh,Narmadapuram,,461775,,22.7474807,78.3551127,OpenStreetMap,node,11721839234
+CRUSHERS,cafe,Madhya Pradesh,Indore,Indore,"284, Piliyakhal Bridge Petrol Pump, Airport Road near Bada Ganpati, 452001",,22.7204587,75.8386581,OpenStreetMap,node,11727904508
+Nimbu - Mirchi Restaurant,fast_food,Madhya Pradesh,,,,,22.4757222,78.4368481,OpenStreetMap,node,11736460257
+Gupta Sweets,fast_food,Madhya Pradesh,,Junnardeo,"Main market, 480551",,22.1947188,78.592524,OpenStreetMap,node,11755156569
+Sunshine Cafe & Restro,fast_food,Madhya Pradesh,,,,+918085708113,23.8266523,79.434523,OpenStreetMap,node,11755291777
+Fruit Crush Cafe,cafe,Madhya Pradesh,Bhopal,Bhopal,"In Front Of Nagpur Hospital, Beside Satyam Restaurant, Raisen road Patel Nagar, Bhopal, M.P., 462022",+919109579103,23.2515984,77.5023027,OpenStreetMap,node,11763383784
+Tea O'clock cafe,cafe,Madhya Pradesh,,,,,23.1717128,77.4307099,OpenStreetMap,node,11772566774
+KEIKEN CAFE & RESTAURANT,cafe,Madhya Pradesh,Betul,Betul,"#3, Chakkar Road, Gauthana, Infront of Jain dadabadi, 460001",+91-7024397557,21.923475,77.894678,OpenStreetMap,node,11795455255
+Cafe Pachmarhi,cafe,Madhya Pradesh,,,,+916232953430,22.4750719,78.4361423,OpenStreetMap,node,11806269567
+Pizza Paradise,fast_food,Madhya Pradesh,,,,,22.4751082,78.4361744,OpenStreetMap,node,11806269568
+Nandanvan Restaurant,restaurant,Madhya Pradesh,Narmadapuram,,,,22.4647467,78.4248603,OpenStreetMap,node,11810661088
+Sahu Restaurant,restaurant,Madhya Pradesh,Narmadapuram,,461775,,22.7601535,78.3504644,OpenStreetMap,node,11813097763
+Ashok Kachori Bhandar,restaurant,Madhya Pradesh,,,,,22.7601744,78.3504836,OpenStreetMap,node,11813097764
+Pal Dhaba Family Restaurant,restaurant,Madhya Pradesh,,,,,22.5985429,78.4545136,OpenStreetMap,node,11813103927
+Ideation hut cafe,fast_food,Madhya Pradesh,,,,,23.292264,77.2711833,OpenStreetMap,node,11865389772
+Sinner's Bistro,restaurant,Madhya Pradesh,Sagar,Sagar,470003,,23.8417424,78.7639918,OpenStreetMap,node,11873453282
+Arogyoa Amruttulya,cafe,Madhya Pradesh,Sagar,Sagar,470004,,23.8636221,78.8013813,OpenStreetMap,node,11873453286
+Topn Towl Ice cream,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8600464,78.7989662,OpenStreetMap,node,11873900285
+Domini's Pizza,restaurant,Madhya Pradesh,Sagar,Sagar,470003,,23.8410952,78.7628334,OpenStreetMap,node,11874156794
+Happiness resturant,restaurant,Madhya Pradesh,Sagar,Sagar,470003,,23.840823,78.7623625,OpenStreetMap,node,11874171875
+Jam jam fast food restaurant,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8397936,78.7584997,OpenStreetMap,node,11874176068
+`Sagaer Gaire,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8353745,78.7624418,OpenStreetMap,node,11876323579
+Mezbaan Non veg restaurant sagar,restaurant,Madhya Pradesh,sagar,sagar,470004,,23.8267052,78.7643599,OpenStreetMap,node,11876531383
+Hotel Sai Aashirwad,restaurant,Madhya Pradesh,Sagar,Sagar,470001,,23.8226388,78.7632014,OpenStreetMap,node,11876558393
+Nescafé Outlet,cafe,Madhya Pradesh,,,,,23.2854116,77.2739607,OpenStreetMap,node,11889061158
+Gayatri Kirana General  & Tea Stai,cafe,Madhya Pradesh,Sagar,Sagar,470004,,23.8683951,78.8054121,OpenStreetMap,node,11892983349
+Ram bhojnalay,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8788741,78.8142974,OpenStreetMap,node,11896425561
+Janvhi fast food,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8842918,78.8190482,OpenStreetMap,node,11896430281
+Shehroz Biryani,restaurant,Madhya Pradesh,Sagar,Sagar,470001,,23.8204794,78.7622359,OpenStreetMap,node,11903967138
+Bapu Ki Kutiya Restaurnt,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8139561,78.758822,OpenStreetMap,node,11903985175
+The Haveii Fast food,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8631804,78.8016652,OpenStreetMap,node,11909673510
+My Self fast Food,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.863611,78.8011314,OpenStreetMap,node,11909675498
+Vistro Cafe,cafe,Madhya Pradesh,Sagar,Sagar,470004,,23.8622726,78.8017233,OpenStreetMap,node,11909676614
+Shanti Vegetarian,restaurant,Madhya Pradesh,Sagar,Sagar,,,23.8610593,78.79973,OpenStreetMap,node,11909729909
+Thakur Restaurant Fast Food,restaurant,Madhya Pradesh,Sagar,Sagar,,,23.8606006,78.799333,OpenStreetMap,node,11909752873
+Chai Sutta Bar,cafe,Madhya Pradesh,Sagar,Sagar,,,23.8576019,78.7970618,OpenStreetMap,node,11911761051
+Occasins Bakery & Sweets,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8573229,78.7966691,OpenStreetMap,node,11911772199
+Rathore Hotel,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8549475,78.794845,OpenStreetMap,node,11911772221
+Jain Chaat Centre,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8569344,78.7960515,OpenStreetMap,node,11911808052
+Rishi Patties The patties King Makroniya,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8538176,78.7939422,OpenStreetMap,node,11912105257
+Tea bar Makronia,cafe,Madhya Pradesh,Sagar,Sagar,470004,,23.8533297,78.7934251,OpenStreetMap,node,11912163832
+swadisht amrttulya,cafe,Madhya Pradesh,Sagar,Sagar,470004,,23.8537689,78.7938654,OpenStreetMap,node,11912164068
+Paaji's family restauant by manjeet,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8524404,78.7927421,OpenStreetMap,node,11912182625
+Gps top rated,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8519552,78.7923895,OpenStreetMap,node,11912209969
+Mishra catering servica in sagar,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8530331,78.7932472,OpenStreetMap,node,11912235479
+Kanchan Dairt and GYM,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8620734,78.7988953,OpenStreetMap,node,11912299223
+RK Pattiez and  fast food corner,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8548267,78.7960296,OpenStreetMap,node,11913156993
+Radhe fulki canter,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8607131,78.8134123,OpenStreetMap,node,11913210908
+Front of makroniya chouraha,restaurant,Madhya Pradesh,Sagar,Sagar,470001,,23.8518986,78.7910991,OpenStreetMap,node,11913222051
+Hotel Quality,restaurant,Madhya Pradesh,Sagar,Sagar,470001,,23.8519184,78.791213,OpenStreetMap,node,11913226398
+Quality foods and cakes,restaurant,Madhya Pradesh,Sagar,Sagar,470001,,23.8519531,78.7909445,OpenStreetMap,node,11913244079
+Momo my iove  fast  food,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8507889,78.7869562,OpenStreetMap,node,11913271192
+pizza point,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8634015,78.8038177,OpenStreetMap,node,11915746691
+Bisty Bakery & Cafe,restaurant,Madhya Pradesh,Sagar,Sagar,,,23.8635832,78.8040495,OpenStreetMap,node,11915786319
+Bakery and Cake Shop,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8628635,78.8053061,OpenStreetMap,node,11915810724
+Chatkara Food Factory,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8510839,78.7911969,OpenStreetMap,node,11921477346
+Agarawal's F3 Resturant,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8532,78.7930163,OpenStreetMap,node,11921495436
+Neha Chat Corner Fast Food,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8512997,78.7914786,OpenStreetMap,node,11921538439
+Keshari Sweets,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8511845,78.7909794,OpenStreetMap,node,11921544998
+GujratN Namkeen  House,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8378603,78.7414261,OpenStreetMap,node,11938911665
+Bharat Bakery,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8381242,78.7419231,OpenStreetMap,node,11938940424
+Tha Patties king Risht Patties,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8379839,78.7420582,OpenStreetMap,node,11938971950
+Naveen Gujara Sweets,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8443131,78.7403653,OpenStreetMap,node,11939431164
+Aarogya amruttlya Katra,cafe,Madhya Pradesh,Sagar,Sagar,470002,,23.8401663,78.7423575,OpenStreetMap,node,11939433548
+Shri Ram Chat Center,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8401203,78.7404273,OpenStreetMap,node,11939524357
+KANHA  BAKERS,restaurant,Madhya Pradesh,Sagar,Sagar,470001,,23.8397984,78.7429625,OpenStreetMap,node,11939613487
+State Side Restaurent,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8388443,78.7430594,OpenStreetMap,node,11939691734
+Yashoda Namkeen & Bakery,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8408293,78.7366309,OpenStreetMap,node,11941473234
+pappu tea,cafe,Madhya Pradesh,Sagar,,470002,,23.8415486,78.7302417,OpenStreetMap,node,11941545689
+Sagar Restaurant & Bar,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8563113,78.6981301,OpenStreetMap,node,11942277703
+Taza Chicken Shop,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8496921,78.792063,OpenStreetMap,node,11947035991
+Mukesh Hotel,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8387819,78.7275669,OpenStreetMap,node,11947094823
+Ankit Jain,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8517944,78.7937853,OpenStreetMap,node,11947101613
+Jay Gurudev Tiffin Centre Sagar,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8392293,78.7277616,OpenStreetMap,node,11947152816
+Badshahi Resturant,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8385151,78.7242938,OpenStreetMap,node,11947534805
+Shree Krishna Family,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8374903,78.7221135,OpenStreetMap,node,11947558492
+Raji daba,restaurant,Madhya Pradesh,Sagar,Sagar,470005,,23.832838,78.7041973,OpenStreetMap,node,11947625018
+D2 lounge and restauants,restaurant,Madhya Pradesh,SAgar,Sagar,470005,,23.8308275,78.6961025,OpenStreetMap,node,11947648338
+Dana pani,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8460592,78.7363161,OpenStreetMap,node,11949551744
+Nema Ji Hotel,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8479877,78.7422252,OpenStreetMap,node,11949829457
+Mr.Chicken,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8482325,78.7386673,OpenStreetMap,node,11949853442
+Balaji tea Store,cafe,Madhya Pradesh,Sagar,Sagar,470002,,23.8482703,78.7431461,OpenStreetMap,node,11949900356
+Army canteen,restaurant,Madhya Pradesh,Sagar,Sagar,470001,,23.8529702,78.7448881,OpenStreetMap,node,11949931770
+The  Seven Dials,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8728118,78.8089773,OpenStreetMap,node,11950027784
+Pushpendra Chaat,cafe,Madhya Pradesh,Sagar,Sagar,470004,,23.8753993,78.8110696,OpenStreetMap,node,11950046534
+Vikram Hotel,restaurant,Madhya Pradesh,Sagar,Sagar,470004,,23.8844646,78.8205406,OpenStreetMap,node,11950060138
+Chai Sutta Bar  Sagar,cafe,Madhya Pradesh,Sagar,Sagar,470003,,23.8354406,78.7622745,OpenStreetMap,node,11962760090
+Indian Coffee House,cafe,Madhya Pradesh,Sagar,Sagar,470003,,23.8298237,78.7745052,OpenStreetMap,node,11962765981
+Neelam,restaurant,Madhya Pradesh,Sagar,Sagar,470003,,23.836471,78.7621565,OpenStreetMap,node,11962779909
+Patel Chat Center Edit,restaurant,Madhya Pradesh,Sagar,Kakaghanj,470002,,23.8227214,78.7251204,OpenStreetMap,node,11964321184
+New Bombay  Chowpati  And Restaurants,restaurant,Madhya Pradesh,Sagar,Sagar Mangalgiri,470003,,23.8193544,78.7268454,OpenStreetMap,node,11964321427
+Honey Money Ice Cream,restaurant,Madhya Pradesh,Sagar,sagar,470002,,23.8450575,78.7313228,OpenStreetMap,node,11968812670
+Shri Mam Krina Store,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8390687,78.725939,OpenStreetMap,node,11968916801
+Devaliya Ji Maharaj,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8390342,78.7262254,OpenStreetMap,node,11968935211
+The Dream Cafe and Restaurant,restaurant,Madhya Pradesh,Sagar,Sagar,470005,,23.8311128,78.7084734,OpenStreetMap,node,11969020169
+Khana Ondoor,restaurant,Madhya Pradesh,sagar,Sagar,470003,,23.8094967,78.7513577,OpenStreetMap,node,11971460794
+Hamao Sagar Asian,restaurant,Madhya Pradesh,sagar,sagar,470004,,23.8302076,78.762965,OpenStreetMap,node,11977667525
+Sai Ki Raosi,restaurant,Madhya Pradesh,Sagar,Kerwana,470004,,23.9262261,78.8608195,OpenStreetMap,node,11980177081
+Hansh raj  hotel and restorant,restaurant,Madhya Pradesh,Sagar,Karrapur,470337,,23.9374591,78.8707082,OpenStreetMap,node,11980190900
+Chandan Dhaba,restaurant,Madhya Pradesh,Sagar,Karrapur,470113,,23.9418725,78.8755792,OpenStreetMap,node,11980195879
+Special  Bara Mungodi Ki Dukan,restaurant,Madhya Pradesh,Sagar,Mangal Dham  karrapur,470337,,23.9395119,78.8722478,OpenStreetMap,node,11980210094
+New Hansraj Dhaba,restaurant,Madhya Pradesh,Sagar,Kandari tigadda,470113,,23.9495851,78.8856957,OpenStreetMap,node,11980221767
+New Radha Dhaba and Family-friendly,restaurant,Madhya Pradesh,Sagar,Dilakhedi,470335,,23.9573067,78.8950445,OpenStreetMap,node,11980222989
+Vishwanath Bhojnalay,restaurant,Madhya Pradesh,Sagar,Banda,470335,,24.0378909,78.9610052,OpenStreetMap,node,11980223629
+Krishna dhaba 14 mel,restaurant,Madhya Pradesh,Sagar,14 mel,470335,,23.948306,78.8836273,OpenStreetMap,node,11980238999
+Dangel Bhojnalay,restaurant,Madhya Pradesh,Sagar,Banda,470335,,24.0355793,78.9593761,OpenStreetMap,node,11980284422
+Bombai pav Bhajhee,restaurant,Madhya Pradesh,Sagar,Banda,470335,,24.0411364,78.9623742,OpenStreetMap,node,11980683770
+Aashiyana Hotel &Residency,restaurant,Madhya Pradesh,Sagar,Banda,470335,,24.0485778,78.9667885,OpenStreetMap,node,11980728941
+Savriya Resntrent,restaurant,Madhya Pradesh,Sagar,Bamhori,470021,,23.888649,78.8696008,OpenStreetMap,node,11982361365
+Ansh Bhojnalay,restaurant,Madhya Pradesh,Sagar,Baheria  Gadgad,470004,,23.8859248,78.8291292,OpenStreetMap,node,11982367866
+Kushwah Ji Jal Pan,cafe,Madhya Pradesh,Sagar,Sidguwan,470021`,,23.8894243,78.8525903,OpenStreetMap,node,11982372829
+Vinayak Dhaba & Restaurant,restaurant,Madhya Pradesh,Sagar,Sidguwan,470021,,23.8867956,78.845937,OpenStreetMap,node,11982373041
+Shiva Dhaba,restaurant,Madhya Pradesh,Sagar,Sidguwan,470021,,23.8876394,78.8376392,OpenStreetMap,node,11982395505
+Parihar Restaurant and dhaba,restaurant,Madhya Pradesh,Sagar,Bamhori,470004,,23.889401,78.8608697,OpenStreetMap,node,11982411873
+Bargad Dhaba,restaurant,Madhya Pradesh,Sagar,Bamhori,470021,,23.8895192,78.8649724,OpenStreetMap,node,11982413869
+Shubham Tiwari,cafe,Madhya Pradesh,Sagar,Parsonria,470021,,23.8562682,78.9321549,OpenStreetMap,node,11982450006
+Kalyan Singh Lodhi,restaurant,Madhya Pradesh,Sagar,Parsonria,470021,,23.8538666,78.9344099,OpenStreetMap,node,11982450015
+Annapurna dhaba,restaurant,Madhya Pradesh,Sagar,Dhungasra,470001,,23.8644254,78.9187689,OpenStreetMap,node,11982450794
+Guru Kripa Chaumin Center,restaurant,Madhya Pradesh,Sagar,,470021,,23.8537316,78.9349925,OpenStreetMap,node,11982485485
+Sameer Dhaba,restaurant,Madhya Pradesh,Sagar,Chandwar,470001,,23.8486639,78.9430795,OpenStreetMap,node,11982632482
+Jain chat  Bhandar,restaurant,Madhya Pradesh,Sagar,Garhakota,470229,,23.7819678,79.1465106,OpenStreetMap,node,11982638656
+Pandaje Coffee House,cafe,Madhya Pradesh,Sagar,Garhakota,470229,,23.7814865,79.1471669,OpenStreetMap,node,11982667955
+Indian Dhaba,restaurant,Madhya Pradesh,Sagar,Barpani,470232,,23.8241248,79.0011268,OpenStreetMap,node,11982682469
+Bundelkhand  Dhaba,restaurant,Madhya Pradesh,Sagar,Parasiya,470232,,23.793467,79.0607402,OpenStreetMap,node,11982698679
+Shri Thkur ji Restorent  & Dhaba,restaurant,Madhya Pradesh,Sagar,Khabari,470232,,23.7944615,79.0562341,OpenStreetMap,node,11982700876
+Neshnal Dhaba,restaurant,Madhya Pradesh,Sagar,Garhakota,470229,,23.7801725,79.1528158,OpenStreetMap,node,11982707144
+GopalJi Bikaner Sweet Corner,restaurant,Madhya Pradesh,Sagar,Garhakota,,,23.7818249,79.1464514,OpenStreetMap,node,11982715105
+Sapre Restorent,restaurant,Madhya Pradesh,Sagar,Garhakota,470229,,23.7801553,79.150799,OpenStreetMap,node,11982718992
+New Bikaner Sweets & Namkeen,restaurant,Madhya Pradesh,Sagar,Garhakota,470229,,23.7820422,79.1463488,OpenStreetMap,node,11982725326
+Aadrika Resntrent & Bhojnalay,restaurant,Madhya Pradesh,Sagar,Garhakota,470229,,23.7819175,79.1462794,OpenStreetMap,node,11982725328
+Indian Family-Friendly,restaurant,Madhya Pradesh,,Garhakota,470229,,23.7816843,79.1465829,OpenStreetMap,node,11982770520
+Shri Gopal Ji Restaurant Gargakota,restaurant,Madhya Pradesh,Sagar,Garhakota,,,23.7860487,79.1299892,OpenStreetMap,node,11982860340
+Sakshi Hotel & Restorent,restaurant,Madhya Pradesh,Sagar,Garhakota,470229,,23.7855675,79.1275802,OpenStreetMap,node,11982880087
+Shree Hari Chatora ghat Sagar,cafe,Madhya Pradesh,Sagar,Bamhori Bika,470001,,23.7939544,78.808501,OpenStreetMap,node,11989582514
+Rishi Hotel,restaurant,Madhya Pradesh,Sagar,Bamhari Bika,470228,,23.7885156,78.8077618,OpenStreetMap,node,11989601513
+Mewat haryana Rajasthan hotel,restaurant,Madhya Pradesh,Sagar,Bamhori Bika,470001,,23.7932469,78.8089334,OpenStreetMap,node,11989606031
+Motel  Keti Highway,restaurant,Madhya Pradesh,Sagar,Bamhori Bika,470001,,23.7903407,78.8075531,OpenStreetMap,node,11989615640
+Shrinath Dhaba,restaurant,Madhya Pradesh,Sagar,Bamhori Bika,470001,,23.7761379,78.8202585,OpenStreetMap,node,11989654225
+Sawariya Faimili Restorent,restaurant,Madhya Pradesh,Sagar,Bamhori Bika,470228,,23.7784996,78.8179986,OpenStreetMap,node,11989667794
+Dubey Hotel,cafe,Madhya Pradesh,Sagar,Dana,470228,,23.7480468,78.8584577,OpenStreetMap,node,11989914722
+Mishra Bekary & Doodh Dery,restaurant,Madhya Pradesh,Sagar,Dana,470228,,23.7473933,78.8590058,OpenStreetMap,node,11989921403
+Pujari Chat Center Dhana,restaurant,Madhya Pradesh,Sagar,Dhana,470228,,23.7455294,78.8623001,OpenStreetMap,node,11989938887
+Akash Dhaba,restaurant,Madhya Pradesh,Sagar,Dhana,470228,,23.7383987,78.8732816,OpenStreetMap,node,11989966556
+Chourasiya Restorent,cafe,Madhya Pradesh,Sagar,Dhana,470228,,23.7378238,78.8746544,OpenStreetMap,node,11989975573
+Sandeep Dhaba,restaurant,Madhya Pradesh,Sagar,Ghatampur,470228,,23.7274111,78.8916916,OpenStreetMap,node,11990023381
+Krishna Family Restaurant And Dhaba,restaurant,Madhya Pradesh,Sagar,Baroda,470228,,23.7171091,78.9066106,OpenStreetMap,node,11990036319
+Rajpoot Hotel Indin,restaurant,Madhya Pradesh,Sagar,Baroda,470228,,23.7148695,78.9090026,OpenStreetMap,node,11990079324
+Kalptaru Restaurant & Dhaba,restaurant,Madhya Pradesh,Sagar,Baroda,470228,,23.7117601,78.9110319,OpenStreetMap,node,11990102206
+Indian Coffee House,restaurant,Madhya Pradesh,,,Mandla Road,,23.1219728,79.9702778,OpenStreetMap,node,12027816551
+the famous chourasiya dhaba& restaurant,restaurant,Madhya Pradesh,bhopal,lambakheda,"01, Bhopal Bypass, 462038",7067669399,23.3399151,77.399881,OpenStreetMap,node,12042696134
+the famous chourasiya dhaba restaurant,restaurant,Madhya Pradesh,bhopal,lambakheda,"001, Bhopal Bypass, 462038",7067669399,23.3388666,77.400156,OpenStreetMap,node,12042696135
+Punjabi Dhaba,restaurant,Madhya Pradesh,,,,,24.8255926,81.6569452,OpenStreetMap,node,12045030840
+Honey's Kitchen Official Bhopal,restaurant,Madhya Pradesh,Bhopal,Bhopal,"Shop no 9, Tarun Market 1250 Tulsi nagar., Link Road no 1, 462003",+91-7587-511503,23.230231,77.4115543,OpenStreetMap,node,12046626644
+Kuldeep  Thakur Fast Food,restaurant,Madhya Pradesh,Sagar,Rehli,470227,,23.6360366,79.060013,OpenStreetMap,node,12055249894
+Carnival Cafe & Restro,cafe,Madhya Pradesh,Sagar,Rehli,470227,,23.6362256,79.0597826,OpenStreetMap,node,12055265224
+Midway Treat MP Tourism,restaurant,Madhya Pradesh,Sagar,Bamori,,,23.7770355,78.8095122,OpenStreetMap,node,12069636685
+Shri Sairam Dhaba,restaurant,Madhya Pradesh,Sagar,Barakhedi Guru,470001,,23.7707686,78.809171,OpenStreetMap,node,12069664477
+Ramkuti Dhaba,restaurant,Madhya Pradesh,Sagar,Barakhedi Guru,470001,,23.7698811,78.8090567,OpenStreetMap,node,12069666176
+New Royal Family Bhojnalaya,restaurant,Madhya Pradesh,Sagar,Berkheri Guru,470001,,23.7501215,78.8080442,OpenStreetMap,node,12069698001
+Rudraksh Dhaba and Resntorent,restaurant,Madhya Pradesh,Sagar,Berkheri Guru,470001,,23.7591101,78.8090618,OpenStreetMap,node,12069730449
+Ma Annpurdna Dahee Bada,restaurant,Madhya Pradesh,Sagar,Chitoura,470221,,23.7408604,78.8081976,OpenStreetMap,node,12069753911
+UtsavDhaba,restaurant,Madhya Pradesh,Sagar,Chitoura,470221,,23.7235413,78.8088145,OpenStreetMap,node,12072899545
+Bundeli Spice The Highway  Adda,restaurant,Madhya Pradesh,Sagar,Chioutra,470221,,23.7312809,78.8081003,OpenStreetMap,node,12072932697
+Raja Dhada,restaurant,Madhya Pradesh,Sagar,Chitoura,470221,,23.7372848,78.8079795,OpenStreetMap,node,12072940321
+Sorabh Dhaba,restaurant,Madhya Pradesh,Sagar,Chioutra,470221,,23.7323554,78.8088287,OpenStreetMap,node,12072945206
+Jai Tarang Dhaba & Family.......,restaurant,Madhya Pradesh,Sagar,Chitoura,470221,,23.728838,78.8084062,OpenStreetMap,node,12072945877
+Highway Mini Nest,restaurant,Madhya Pradesh,Sagar,Chitoura,470221,,23.7264416,78.8086029,OpenStreetMap,node,12072947021
+Rajesh Chicken Shop,restaurant,Madhya Pradesh,Sagar,Raipura,470221,,23.7147465,78.8104426,OpenStreetMap,node,12072965875
+Mewat Dhaba,restaurant,Madhya Pradesh,Sagar,Raipura,470221,,23.7154589,78.8111188,OpenStreetMap,node,12072981075
+Rajasthani Dhaba,restaurant,Madhya Pradesh,Sagar,Raipura,470221,,23.7166841,78.8109177,OpenStreetMap,node,12072982278
+Panjabi Khnna Dhaba,restaurant,Madhya Pradesh,Sagar,Terah meel,470221,,23.7068652,78.8114429,OpenStreetMap,node,12072993471
+Laal Dhaba,restaurant,Madhya Pradesh,Sagar,Terah meel,470221,,23.7075524,78.8112653,OpenStreetMap,node,12072993809
+Mewat Hotal Gane,restaurant,Madhya Pradesh,Sagar,Terah meel,470221,,23.7061471,78.8119792,OpenStreetMap,node,12073011669
+Satkaar Dhaba And Hotel,restaurant,Madhya Pradesh,Sagar,Samnapur,470221,,23.7008019,78.8121809,OpenStreetMap,node,12073012597
+13 Meel,cafe,Madhya Pradesh,Sagar,Bhilaiya,470221,,23.6827087,78.8126,OpenStreetMap,node,12073015887
+Khalsa Punjabi Dhaba,restaurant,Madhya Pradesh,Sagar,Bhilaiya,470221,,23.6799598,78.8133451,OpenStreetMap,node,12073033669
+Haryana Dhaba&Restaurant,restaurant,Madhya Pradesh,Sagar,Surkhi,470221,,23.6227966,78.8383811,OpenStreetMap,node,12073248443
+Nema Mishthan Bhandar,restaurant,Madhya Pradesh,Sagar,Surkhi,470221,,23.6321099,78.8324878,OpenStreetMap,node,12073254330
+Anokha Pan Bhandar,restaurant,Madhya Pradesh,Sagar,Surkhi,470221,,23.6329274,78.8321493,OpenStreetMap,node,12073257189
+Sarpanch Dhaba Surkhi,restaurant,Madhya Pradesh,Sagar,Surkhi,470221,,23.6046693,78.8488142,OpenStreetMap,node,12073332387
+Guru Govind Singh Dhaba,restaurant,Madhya Pradesh,Sagar,Ramtek,470221,,23.5894612,78.8652073,OpenStreetMap,node,12073336423
+Guru Nanak Khalsa Punjabi Dhaba,restaurant,Madhya Pradesh,Sagar,Ramtek,470221,,23.5880852,78.8672385,OpenStreetMap,node,12073349048
+Akshay Kirana Ice Cream....,restaurant,Madhya Pradesh,Sagar,Ramtek,470221,,23.5944463,78.8590396,OpenStreetMap,node,12073351983
+Raja dhaba,restaurant,Madhya Pradesh,SAGAR,Nandpur,470223,,23.5859811,78.8697097,OpenStreetMap,node,12073353452
+Asiam Singer Mewati Hotel,restaurant,Madhya Pradesh,Sagar,Ramtek,470221,,23.5923831,78.861099,OpenStreetMap,node,12073362657
+Guddu Dhava Dhava,restaurant,Madhya Pradesh,Sagar,Gourjhammar,470223,,23.5246421,78.9203608,OpenStreetMap,node,12076518227
+Sree Jay Siddh BAba Hotel,cafe,Madhya Pradesh,Sagar,Gurjhamar,470223,,23.5143394,78.9285047,OpenStreetMap,node,12076656433
+MaAnnpurna bhojalay &dhaba,restaurant,Madhya Pradesh,Sagar,Gourjhamar,470223,,23.5377489,78.911137,OpenStreetMap,node,12076669139
+Tata Telco Def  Rifil Sentar,cafe,Madhya Pradesh,Sagar,Gurjhamar,470223,,23.5227214,78.9225779,OpenStreetMap,node,12076673385
+Shiv Shambhu Anand Guddu Driver Dhaba,restaurant,Madhya Pradesh,Sagar,Gurjhamar,470223,,23.5306529,78.9167197,OpenStreetMap,node,12076681901
+Raja Dhaba,restaurant,Madhya Pradesh,Sagar,Gurjhamar,470223,,23.5158876,78.9275289,OpenStreetMap,node,12076683408
+Dewansh Hotel & Kirana,restaurant,Madhya Pradesh,,Gurjhmar,470223,,23.5117039,78.9329301,OpenStreetMap,node,12076711279
+Arjun Krashi Sewa Kendr &Fast Food,restaurant,Madhya Pradesh,Sagar,Gourjhamar,470223,,23.5236668,78.930733,OpenStreetMap,node,12076762439
+Saket Shrivastava,restaurant,Madhya Pradesh,Sagar,Gourjhamar,470223,,23.52694,78.9383135,OpenStreetMap,node,12076807447
+Raja Dhaba,restaurant,Madhya Pradesh,Sagar,Gurjhmar,470223,,23.5127391,78.9320487,OpenStreetMap,node,12076811133
+Chourasiya Chat Bhandar,restaurant,Madhya Pradesh,Sagar,Gourjhamar,,,23.5248149,78.9308934,OpenStreetMap,node,12076815514
+Shsee Jay  Siddh Baba Hotel,cafe,Madhya Pradesh,Sagar,Gurjhmar,470223,,23.5120958,78.9324762,OpenStreetMap,node,12076815855
+Harsh Tea Stall,cafe,Madhya Pradesh,Sagar,Gourjhamar,470223,,23.5322688,78.9195908,OpenStreetMap,node,12076816182
+Mailk Dairy Gourjhamar,restaurant,Madhya Pradesh,Sagar,Gourjhamar,470226,,23.5041313,78.9451724,OpenStreetMap,node,12086941150
+Harish Mewat Dhaba,restaurant,Madhya Pradesh,Sagar,Gorakhpur,470226,,23.4296065,79.0020077,OpenStreetMap,node,12087003708
+Shiva Dhaba,restaurant,Madhya Pradesh,Sagra,Gopalpur,470226,,23.4661674,78.9788492,OpenStreetMap,node,12087006730
+Hotel Jai Shree Ram,restaurant,Madhya Pradesh,Sagar,Gopalpur,470226,,23.4640367,78.9812431,OpenStreetMap,node,12087006731
+Punjabi LalitpurSagar Dhaba,restaurant,Madhya Pradesh,Sagar,Hath Khoh,470226,,23.4216203,79.0061734,OpenStreetMap,node,12087027040
+Mewati Hotel Irfan Jamalgarh,restaurant,Madhya Pradesh,Sagar,Katangi,470226,,23.4273105,79.0033336,OpenStreetMap,node,12087030823
+Hotel Jai Shree Ram,restaurant,Madhya Pradesh,Sagar,Cheemadhana,470226,,23.4245373,79.0056687,OpenStreetMap,node,12087058534
+Jay Shree Ram,cafe,Madhya Pradesh,,Devri Road,470226,,23.4057257,79.0229695,OpenStreetMap,node,12087061252
+Pushpdeep Dhaba Veg &......,restaurant,Madhya Pradesh,Sagar,Devri Road,470226,,23.405956,79.023413,OpenStreetMap,node,12087067464
+Shree Ram Resntorent,restaurant,Madhya Pradesh,Sagar,Devri,470226,,23.4074386,79.018528,OpenStreetMap,node,12087073105
+Patel Dhaba & Restorent,restaurant,Madhya Pradesh,Sagar,Devri Road,470226,,23.404889,79.025036,OpenStreetMap,node,12087076791
+Aakit Mewat Dhaba Nosera,restaurant,Madhya Pradesh,Sagar,Deori,470227,,23.4009793,79.0287604,OpenStreetMap,node,12088976734
+NH  44 Hotel & Restaurant,restaurant,Madhya Pradesh,Sagar,Deori,470227,,23.3716439,79.0225675,OpenStreetMap,node,12088981680
+Sai Dhaba,restaurant,Madhya Pradesh,Sagar,Deori,470227,,23.3921793,79.0328218,OpenStreetMap,node,12088999088
+Khttri Dhaba,restaurant,Madhya Pradesh,Sagar,Deori,470227,,23.3700435,79.0235111,OpenStreetMap,node,12089001722
+Hotel Sapna & Resntorent,cafe,Madhya Pradesh,Sagar,Deori,470227,,23.3825218,79.0327815,OpenStreetMap,node,12089010981
+Aashirwad Cafe,restaurant,Madhya Pradesh,Sagar,Devri,470226,,23.382656,79.0193181,OpenStreetMap,node,12096785899
+The Guru Caffe Restaurant,restaurant,Madhya Pradesh,Sagar,Deori,470226,,23.3788817,79.0204542,OpenStreetMap,node,12096856718
+Babu Bhai,restaurant,Madhya Pradesh,Sagar,Sagar,,,23.8048265,78.7514723,OpenStreetMap,node,12096929210
+Bhoopand Patel,restaurant,Madhya Pradesh,Sagar,Near Mega City,470002,,23.7992776,78.7469954,OpenStreetMap,node,12096963537
+Hill Top Veg And Non Veg,restaurant,Madhya Pradesh,Sagar,Naya RTO Rod,470001,,23.7952126,78.7486083,OpenStreetMap,node,12096968484
+Aanad Daily Needs,restaurant,Madhya Pradesh,Sagar,Naya RTYO  Rod,470001,,23.7930896,78.7523639,OpenStreetMap,node,12096970838
+DELICIOUS,restaurant,Madhya Pradesh,Sagar,Naya RTYO  Rod,470001,,23.7942928,78.7511969,OpenStreetMap,node,12096971599
+Sorab Shop,cafe,Madhya Pradesh,Sagar,Naya RTYO  Rod,470001,,23.7936086,78.75297,OpenStreetMap,node,12096980793
+Yadav Dhaba,restaurant,Madhya Pradesh,Sagar,Suwatala,470001,,23.7887313,78.7613998,OpenStreetMap,node,12097014268
+Ghanshyam Rastorant,restaurant,Madhya Pradesh,Sagar,Talchiri,470001,,23.7564149,78.7591167,OpenStreetMap,node,12098308471
+MP Online & CSC Center Vineel Sahu,cafe,Madhya Pradesh,Sagar,Talchiri,470001,,23.7586594,78.7595846,OpenStreetMap,node,12098333046
+Krishna Hotel,restaurant,Madhya Pradesh,Sagar,Talchiri,470001,,23.756716,78.7593002,OpenStreetMap,node,12098343102
+Ramkrpa Hotal & Jalpan Grha,cafe,Madhya Pradesh,Sagar,Talchiri,470001,,23.7560337,78.7587413,OpenStreetMap,node,12098714041
+Lakhan Rajghat,restaurant,Madhya Pradesh,Sagar,Rajghat,470001,,23.7386997,78.7508869,OpenStreetMap,node,12098839509
+Sothiya,restaurant,Madhya Pradesh,Sagar,Sothia,470001,,23.7424239,78.7118649,OpenStreetMap,node,12100074096
+Kamal &Jeevan Patel Nivas,cafe,Madhya Pradesh,Sagar,Baroda,470001,,23.72207,78.7029987,OpenStreetMap,node,12100130224
+Samose Ki dukan,restaurant,Madhya Pradesh,Sagar,Karaiya,470125,,23.6545999,78.6413661,OpenStreetMap,node,12100626648
+Chhoti  Gondai Rinku Shukla,restaurant,Madhya Pradesh,Sagar,Sobhapur,470125,,23.6377026,78.6043038,OpenStreetMap,node,12100651373
+Narvda Chat Sentar,restaurant,Madhya Pradesh,Sagar,Jaisinagar,470125,,23.6192934,78.5715051,OpenStreetMap,node,12100756417
+Faiv Star Hotel,restaurant,Madhya Pradesh,Sagar,Jaisinagar,470125,,23.6191169,78.5715373,OpenStreetMap,node,12100774801
+"Sultanganj ,Gaihuras, Keshlon  Tigdda",cafe,Madhya Pradesh,Sagar,Jaisinagar,470125,,23.6190854,78.5712847,OpenStreetMap,node,12101738020
+Yuvraj  Lodhi,restaurant,Madhya Pradesh,Sagar,Jaisingar,470125,,23.624639,78.5678982,OpenStreetMap,node,12101753728
+Golu Ke Golgppe,restaurant,Madhya Pradesh,Sagar,Jaisinagar,470125,,23.6299224,78.5690783,OpenStreetMap,node,12101783233
+Cheese & Chill,cafe,Madhya Pradesh,,Sehore,466001,+919993426097,23.1978914,77.0872617,OpenStreetMap,node,12101831279
+Shree Pure Veg Restaurant,restaurant,Madhya Pradesh,Narmadapuram,Pipariya,"Pipariya Road, 461775",,22.7527372,78.3549022,OpenStreetMap,node,12105697107
+Chandresh Dhaba,restaurant,Madhya Pradesh,SAgar,Bansa,470125,,23.7041984,78.544116,OpenStreetMap,node,12107939522
+The Frypan Restaurant,restaurant,Madhya Pradesh,Narmadapuram,Pachmarhi,"Matkuli - Pachmarhi Highway, 461881",+919425367878,22.4733608,78.4335596,OpenStreetMap,node,12112253520
+Raja The Dhaba & Faimli  Restorent,restaurant,Madhya Pradesh,Sagar,Ratona,470001,,23.820035,78.6718498,OpenStreetMap,node,12150874291
+Muskran Resntorent,restaurant,Madhya Pradesh,Sagar,Ratona,470002,,23.8233237,78.676813,OpenStreetMap,node,12151004379
+Sorabh Dhaba,restaurant,Madhya Pradesh,Sagar,Ratona,470002,,23.8233472,78.6784132,OpenStreetMap,node,12151010775
+Bhavani Resntorent,restaurant,Madhya Pradesh,Sagar,Ratona,470001,,23.8208715,78.6733603,OpenStreetMap,node,12151010846
+Rochee Dhaba,restaurant,Madhya Pradesh,Sagar,Ratona,470002,,23.8220365,78.6757814,OpenStreetMap,node,12151010940
+The Urban Dhaba Pure Veg,restaurant,Madhya Pradesh,Sagar,Sagar,470005,,23.8250619,78.6844049,OpenStreetMap,node,12151022232
+Arihant Sweets And Bakery,restaurant,Madhya Pradesh,Sagar,Keshavganj Ward Laxmipura,470002,,23.8293702,78.7327547,OpenStreetMap,node,12153211643
+Food Club & Resturant,restaurant,Madhya Pradesh,Sagar,Sagar Mangalgiri,470003,,23.8191559,78.7266199,OpenStreetMap,node,12153539093
+Akash Ege Shop,restaurant,Madhya Pradesh,Sagar,Kakaghanj,470002,,23.8236783,78.7251019,OpenStreetMap,node,12153542023
+Hahe Krsna Resntorent,restaurant,Madhya Pradesh,Sagar,Sagar Mangalgiri,,,23.8192562,78.7265576,OpenStreetMap,node,12153555405
+Shree,restaurant,Madhya Pradesh,,,,,23.8162801,78.7341183,OpenStreetMap,node,12153595334
+Jay Mata Di Chat Center,restaurant,Madhya Pradesh,Sagar,Gopal Gang Sagar,470001,,23.8333376,78.7503479,OpenStreetMap,node,12153719076
+Him Baahubali Resntorent,restaurant,Madhya Pradesh,Sagar,Shree Ram nagarTilli Rod Sagar,470001,,23.8296757,78.7513706,OpenStreetMap,node,12153731774
+Bombay Chaupati Snacks Point,restaurant,Madhya Pradesh,Sagar,Shree Ram nagarTilli Rod Sagar,470001,,23.8299504,78.7513174,OpenStreetMap,node,12153734950
+Mamta Coffee House,cafe,Madhya Pradesh,,,,,22.7482653,78.3551159,OpenStreetMap,node,12156388600
+SagarRestaurant & Bar,restaurant,Madhya Pradesh,Sagar,Gadoli Khurd,470115,,23.8564351,78.7000396,OpenStreetMap,node,12157440006
+Jatashankar Dhaba,restaurant,Madhya Pradesh,Sagar,Near Galla Mandi,470001,,23.8541322,78.687503,OpenStreetMap,node,12157457501
+Suryansh Femily  Restaurant  Berkheri,restaurant,Madhya Pradesh,Sagar,Jarara,470002,,23.8550469,78.6367019,OpenStreetMap,node,12157468982
+Family Guy Friends,restaurant,Madhya Pradesh,Sagar,Jairai,470115,,23.8654296,78.6116239,OpenStreetMap,node,12157520367
+ToofanTea Centre,restaurant,Madhya Pradesh,Sagar,Jairi,470115,,23.8673553,78.6111643,OpenStreetMap,node,12157548271
+Chat Centre,restaurant,Madhya Pradesh,Sagar,Naryauli,470115,,23.9114567,78.5867372,OpenStreetMap,node,12157729092
+Shree Hari Har Resturent,restaurant,Madhya Pradesh,Sagar,Naryauli,470115,,23.912631,78.5849705,OpenStreetMap,node,12157730948
+Jay Gurudev Family Restaurant,restaurant,Madhya Pradesh,Sagar,Naryauli,470115,,23.9139762,78.5830489,OpenStreetMap,node,12157759798
+Naresh Yadav,restaurant,Madhya Pradesh,Sagar,Kishunpura,470115,,23.9296419,78.5470923,OpenStreetMap,node,12157823546
+Raikwar Tea Point,restaurant,Madhya Pradesh,Sagar,Jaruwakheda,470115,,23.974995,78.4826494,OpenStreetMap,node,12157834756
+Shiva Dhaba & Restaurent,restaurant,Madhya Pradesh,Sagar,Khuri Rod,470115,,23.930147,78.5436571,OpenStreetMap,node,12157835945
+Raju Dhaba Rangeela Rajastan ka,restaurant,Madhya Pradesh,Sagar,Khurai,470115,,23.9469063,78.5161831,OpenStreetMap,node,12157868265
+New Manohar Dairy,restaurant,Madhya Pradesh,Sagar,Jaruwakheda,470115,,23.9744973,78.4827447,OpenStreetMap,node,12157868864
+Banti Fulki Bhandar,cafe,Madhya Pradesh,Sagar,Jaruwakheda,470115,,23.9747896,78.4827602,OpenStreetMap,node,12157868889
+Thakur Dhaba Sachin Thakur,restaurant,Madhya Pradesh,Sagar,Jaruwakheda,470115,,23.9782682,78.4712214,OpenStreetMap,node,12159327709
+Maharaj  Sweet's,restaurant,Madhya Pradesh,Sagar,Jaruwakheda,470115,,23.9804746,78.4566067,OpenStreetMap,node,12159329062
+Sandeep Raikwar Tea,cafe,Madhya Pradesh,Sagar,Jaruwakheda,470115,,23.9804722,78.4554721,OpenStreetMap,node,12159352633
+Parsann Bhojnalal -Banhot,restaurant,Madhya Pradesh,Sagar,Banhot,470117,,23.9907306,78.4241802,OpenStreetMap,node,12159369323
+Sree Radha Kishan Dhaba,restaurant,Madhya Pradesh,Sagar,Silodha,470117,,24.0176227,78.3742894,OpenStreetMap,node,12159419835
+Rembo Shop,cafe,Madhya Pradesh,Sagar,Silodha,470117,,24.0132755,78.3742812,OpenStreetMap,node,12159449453
+Veera Di Mehfil,cafe,Madhya Pradesh,Sagar,Khuri,470117,,24.020989,78.3680942,OpenStreetMap,node,12159460168
+Mayank Nan Baij Resntorant,restaurant,Madhya Pradesh,Sagar,Khurai,470117,,24.036562,78.3387424,OpenStreetMap,node,12159763796
+Restart Cafe,cafe,Madhya Pradesh,Sagar,Khurai,470117,,24.0383138,78.3365163,OpenStreetMap,node,12159775294
+Sk Ape Spare Part,restaurant,Madhya Pradesh,Sagar,Khurai,470117,,24.0376155,78.3367152,OpenStreetMap,node,12159789568
+Kanha Bakers,restaurant,Madhya Pradesh,Sagar,Khurai,470117,,24.0402069,78.3326073,OpenStreetMap,node,12159808190
+Tarun  Kushawaha,restaurant,Madhya Pradesh,Sagar,Khurai,470117,,24.0417594,78.3286142,OpenStreetMap,node,12159893820
+SAvariya Canteen,cafe,Madhya Pradesh,Sagar,Khurai,470117,,24.051658,78.3186076,OpenStreetMap,node,12161248750
+Kanha Pani Puri,restaurant,Madhya Pradesh,Sagar,Khurai,470117,,24.0490116,78.3217264,OpenStreetMap,node,12161290020
+Radhe Canten & Bekeri Center,restaurant,Madhya Pradesh,Sagar,Khurai,470117,,24.0511608,78.3187686,OpenStreetMap,node,12161364991
+Sengar Bhojnalaya,restaurant,Madhya Pradesh,Sagar,Khurai,470117,,24.0514866,78.329912,OpenStreetMap,node,12161420545
+Thakur Snacks Store,cafe,Madhya Pradesh,Sagar,Khurai,470117,,24.051669,78.3299225,OpenStreetMap,node,12161428348
+Patties Point,restaurant,Madhya Pradesh,Sagar,Khurai,470117,,24.0506851,78.3298251,OpenStreetMap,node,12161442460
+Hot Chilli Fast Food,restaurant,Madhya Pradesh,Sagar,Khurai,470117,,24.0447137,78.3300833,OpenStreetMap,node,12161595251
+Balaji Fast Food,restaurant,Madhya Pradesh,Sagar,Khurai,470117,,24.0446088,78.33091,OpenStreetMap,node,12161597991
+Up Jayka  Resteurent,restaurant,Madhya Pradesh,Sagar,Khurai,470117,,24.0421447,78.3340101,OpenStreetMap,node,12161598987
+Mahakal Family Restourent,restaurant,Madhya Pradesh,Sagar,Khurai,470117,,24.0585871,78.3125074,OpenStreetMap,node,12161622425
+Milan Family Restourant,restaurant,Madhya Pradesh,Sagar,Nirtala,470117,,24.0690515,78.3001406,OpenStreetMap,node,12161645484
+Bhavya Resort,restaurant,Madhya Pradesh,Sagar,Hingti,470113,,24.1650353,78.2198976,OpenStreetMap,node,12161690057
+Royal Resraurant...........,restaurant,Madhya Pradesh,Sagar,Bina,470113,,24.1794567,78.209408,OpenStreetMap,node,12161700087
+Satkar Dhaba Kaithoriya Brothers,restaurant,Madhya Pradesh,Safgar,Bina,470113,,24.1715197,78.21522,OpenStreetMap,node,12161716200
+Jain Family Resntra,restaurant,Madhya Pradesh,Safgar,Bina,470113,,24.1693655,78.2163592,OpenStreetMap,node,12161718530
+Royal Restourat,restaurant,Madhya Pradesh,Safgar,Bina,470113,,24.1710276,78.2151378,OpenStreetMap,node,12161733477
+Hotel Kalash,restaurant,Madhya Pradesh,Sagar,Bina,470113,,24.1782281,78.2106407,OpenStreetMap,node,12161734574
+Shimla Sweets,restaurant,Madhya Pradesh,Sagar,Bina Etawa,470113,,24.1845361,78.2048408,OpenStreetMap,node,12161933343
+Shree Nath Paw Bhaji Center,restaurant,Madhya Pradesh,,Bina Etawa,470113,,24.1836619,78.2033211,OpenStreetMap,node,12165257965
+Rajhans Sweets Bina Itawa,restaurant,Madhya Pradesh,Sagar,Bina Etawa,470113,,24.1847803,78.2045908,OpenStreetMap,node,12165287500
+Spicy Bites & Amool,cafe,Madhya Pradesh,Sagar,Bina Etawa,470113,,24.1841896,78.2039159,OpenStreetMap,node,12165289774
+Chai Shai Bar,cafe,Madhya Pradesh,Sagar,Bina Etawa,470113,,24.1841229,78.2042851,OpenStreetMap,node,12165302145
+Sujit Claudius,restaurant,Madhya Pradesh,Sagar,Bina Etawa,470113,,24.1843324,78.2044613,OpenStreetMap,node,12165317898
+MP Nagrik Seva Kandr,cafe,Madhya Pradesh,Sagar,Bina Etawa,470113,,24.1841915,78.204457,OpenStreetMap,node,12165320024
+Shri  Natraj Food Park,restaurant,Madhya Pradesh,Sagar,Bina Etawa,470113,,24.1825234,78.2021671,OpenStreetMap,node,12165439420
+Jhansi Beg Biryani,restaurant,Madhya Pradesh,Sagar,Bina,470113,,24.1796744,78.1978708,OpenStreetMap,node,12165555188
+Bikanermisthan Bhandar,restaurant,Madhya Pradesh,Sagar,Bina,470113,,24.1804483,78.1986998,OpenStreetMap,node,12165558249
+New Punjab Hotel,restaurant,Madhya Pradesh,Sagar,Bina,470113,,24.1682462,78.1874238,OpenStreetMap,node,12167841434
+Hotel Adarash Bhojnalay,restaurant,Madhya Pradesh,Sagar,Bina,470113,,24.1681259,78.1873372,OpenStreetMap,node,12167855597
+Laxmi Bhojnalaye,restaurant,Madhya Pradesh,Sagar,Bina,470113,,24.167798,78.18743,OpenStreetMap,node,12167855598
+Jain Shree Fast Food,restaurant,Madhya Pradesh,Sagar,Bina,470113,,24.1668744,78.1876924,OpenStreetMap,node,12167859607
+Kapil Misthan  Bhandar,restaurant,Madhya Pradesh,Sagar,Bina,470113,,24.1906514,78.2056036,OpenStreetMap,node,12168001472
+Ram Babu Lce Cream,restaurant,Madhya Pradesh,Sagar,Bina,470113,,24.1910379,78.2054763,OpenStreetMap,node,12168052618
+Krishna Marriage Garden,restaurant,Madhya Pradesh,Sagar,Bina,470113,,24.1800123,78.186534,OpenStreetMap,node,12168084286
+Mahaveer Mistan Bhandar,restaurant,Madhya Pradesh,Sagar,Bina Etawa,470113,,24.1873952,78.2074103,OpenStreetMap,node,12171253551
+Tirupati Fast Food,restaurant,Madhya Pradesh,Sagar,Bina Etawa,470113,,24.1886583,78.2072564,OpenStreetMap,node,12171297116
+Mahaveer Kirana Bhandar,restaurant,Madhya Pradesh,Sagar,Bina,470113,,24.1906866,78.2061587,OpenStreetMap,node,12171326604
+Shree Bala Ji Cafee,cafe,Madhya Pradesh,Sagar,Bina Etawa,470113,,24.1903074,78.2063517,OpenStreetMap,node,12171327103
+Dana Pani,restaurant,Madhya Pradesh,Sagar,Bina Etawa,470113,,24.1877812,78.2096914,OpenStreetMap,node,12171351240
+Banta Tea Stall,cafe,Madhya Pradesh,Sagar,Bina Etawa,470113,,24.1900299,78.2113442,OpenStreetMap,node,12171354090
+Bina Highway Family Restaurant,restaurant,Madhya Pradesh,Sagar,Khimlasa Road,470118,,24.2104491,78.3234388,OpenStreetMap,node,12172350018
+Dinesh Hotel,restaurant,Madhya Pradesh,Sagar,Khimlasa,470118,,24.2028883,78.3633559,OpenStreetMap,node,12172382859
+Khimlasa Pankaj  Chinese,restaurant,Madhya Pradesh,Sagar,Khimlasa,470118,,24.2032916,78.3634289,OpenStreetMap,node,12172501637
+Nema Chat Center,restaurant,Madhya Pradesh,Sagar,Khimlasa,470118,,24.2036004,78.363462,OpenStreetMap,node,12172506767
+Bundelkhand Daba Pathariaya,restaurant,Madhya Pradesh,Sagar,Pathariaya Bodha,470117,,24.1617236,78.3589176,OpenStreetMap,node,12174641585
+Jadu Fast Food,restaurant,Madhya Pradesh,Sagar,Patharia Bodha,470117,,24.1658341,78.3617729,OpenStreetMap,node,12174675407
+Rajput Bhojnalay,restaurant,Madhya Pradesh,Sagar,Pathariya,470118,,24.1589769,78.3577724,OpenStreetMap,node,12174694547
+Sai Restaurent,restaurant,Madhya Pradesh,Sagar,Muhali Buzurg,470117,,24.0722038,78.3318046,OpenStreetMap,node,12174748881
+Hemant Vishwakarma Tea Shop,cafe,Madhya Pradesh,Sagar,Muhali Buzurg Khurai,470117,,24.0613179,78.331506,OpenStreetMap,node,12174872281
+Yadav Tea Stall,cafe,Madhya Pradesh,Sagar,Khurai,470117,,24.0587803,78.3312111,OpenStreetMap,node,12174883653
+Thrayambakeraj Restaurent,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8497322,78.740674,OpenStreetMap,node,12176043291
+Aakash Tea Stall,cafe,Madhya Pradesh,Sagar,,470002,,23.8505747,78.7408203,OpenStreetMap,node,12176046046
+Jay Shree Fruts,restaurant,Madhya Pradesh,Sagar,"Sadar , Sagar",470002,,23.8520708,78.7404062,OpenStreetMap,node,12176083784
+Decvke Cream Parlour,restaurant,Madhya Pradesh,Sagar,"Sadar , Sagar",470002,,23.8532966,78.7407374,OpenStreetMap,node,12176089909
+Muskan Tea Stall,cafe,Madhya Pradesh,Sagar,"Sadar , Sagar",470002,,23.8550353,78.7399422,OpenStreetMap,node,12176091055
+Prakash Pan Masala,restaurant,Madhya Pradesh,Sagar,"Sadar , Sagar",470002,,23.8551428,78.7399627,OpenStreetMap,node,12176095173
+Smart Cafe & Tea Bar,cafe,Madhya Pradesh,Sagar,"Sadar , Sagar",470002,,23.8552415,78.7395754,OpenStreetMap,node,12176110459
+Aisa Hotel,restaurant,Madhya Pradesh,Sagar,"Sadar , Sagar",470002,,23.8553589,78.7394915,OpenStreetMap,node,12176146317
+The Panjabi  B. R.& Rastaurant,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8505081,78.7432051,OpenStreetMap,node,12176429765
+Garg Tiffin Centre,restaurant,Madhya Pradesh,Sagar,"Sadar , Sagar",470002,,23.8496581,78.7425969,OpenStreetMap,node,12176429769
+Subham Bhojnalay,restaurant,Madhya Pradesh,,"Sadar , Sagar",470002,,23.8480987,78.7424107,OpenStreetMap,node,12176492469
+Sita Ki Rasoi,restaurant,Madhya Pradesh,Sagar,"Sadar , Sagar",470002,,23.8482465,78.7429107,OpenStreetMap,node,12176543464
+The Chintoos Restaurant,restaurant,Madhya Pradesh,Sagar,"Sadar , Sagar",470002,,23.8484698,78.7423928,OpenStreetMap,node,12176555240
+Shri Shai Restaurant,restaurant,Madhya Pradesh,Sagar,"Sadar , Sagar",470002,,23.8483332,78.743297,OpenStreetMap,node,12176558764
+Rouddhr Hotel,restaurant,Madhya Pradesh,Sagar,"Sadar , Sagar",470002,,23.8486892,78.7443746,OpenStreetMap,node,12176582645
+Krishna Fast Food Center,restaurant,Madhya Pradesh,Sagar,Bhagwanganj Sagar,470001,,23.8491464,78.7397046,OpenStreetMap,node,12176592983
+The Bakery Hut,restaurant,Madhya Pradesh,Sagar,Bhagwanganj Sagar,470002,,23.8483938,78.7383505,OpenStreetMap,node,12176617072
+Aashish Chicken Shop,restaurant,Madhya Pradesh,Sagar,Bhagwanganj Sagar,470002,,23.8486418,78.7377359,OpenStreetMap,node,12176657984
+Yadav Tea Corner,cafe,Madhya Pradesh,Sagar,Sagar,470001,,23.8685121,78.7316178,OpenStreetMap,node,12185899209
+Kabir Dhaba,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8667983,78.7277472,OpenStreetMap,node,12185992485
+Shree Dev Gourisankar  Nasta & Bhojnalya,restaurant,Madhya Pradesh,Sagar,Sagar,470002,,23.8643334,78.7213767,OpenStreetMap,node,12186024016
+Shri Bholenath Nasta Chat Bhandir,restaurant,Madhya Pradesh,Sagar,Kudari,470115,,23.8992827,78.7245619,OpenStreetMap,node,12188182433
+Raghav Dhaba,restaurant,Madhya Pradesh,Sagar,Rusalla,470001,,23.889541,78.8128045,OpenStreetMap,node,12188221572
+Pathway Retreat Resort,restaurant,Madhya Pradesh,Sagar,Baheriya,470001,,23.8914928,78.8160904,OpenStreetMap,node,12188232781
+Saurabh Dhaba,restaurant,Madhya Pradesh,Sagar,Rusalla,,,23.8889382,78.8128159,OpenStreetMap,node,12188244583
+Satyam Dhaba,restaurant,Madhya Pradesh,Sagar,Bamora,470021,,23.8830895,78.8028329,OpenStreetMap,node,12188248371
+The Highway Hub,restaurant,Madhya Pradesh,Sagar,Jinda,470002,,23.8816631,78.7980712,OpenStreetMap,node,12188254285
+Munmun Dhaba & Famli Restaurant,restaurant,Madhya Pradesh,Sagar,Patkui Bararu,470001,,23.8867771,78.783743,OpenStreetMap,node,12189393034
+Hari Har Restaurant,restaurant,Madhya Pradesh,Sagar,Jinda,470001,,23.8843184,78.7877981,OpenStreetMap,node,12189407318
+Piace For Pure  Vegetarian Food &................,restaurant,Madhya Pradesh,Sagar,Bararu,470001,,23.8914393,78.7715031,OpenStreetMap,node,12189426256
+Maa Hari Dhaba & Restaurant,restaurant,Madhya Pradesh,Sagar,Richda,470115,,23.9178592,78.7363496,OpenStreetMap,node,12189429074
+Manoj Dhaba & Tayar Sarbis,restaurant,Madhya Pradesh,Sagar,Richda,470115,,23.9168244,78.7370546,OpenStreetMap,node,12189482911
+Vaishnav Dhaba & Family Rastaurant,restaurant,Madhya Pradesh,Sagar,Richda,470115,,23.9173605,78.7383418,OpenStreetMap,node,12189482912
+Samrat Dhaba,restaurant,Madhya Pradesh,Sagar,Richoda,470115,,23.9124978,78.7504106,OpenStreetMap,node,12189496732
+Fauji Dhaba,restaurant,Madhya Pradesh,Sagar,Gadpehra,470115,,23.9191464,78.7133039,OpenStreetMap,node,12189497897
+Rajasthani Mahadev Raika Dhaba &Re........,restaurant,Madhya Pradesh,Sagar,Gadpehra Muhal,470115,,23.9190075,78.7209549,OpenStreetMap,node,12189504251
+Radhe Tea Point & Refreshments,restaurant,Madhya Pradesh,Sagar,Ranipura,470115,,23.9271507,78.6969046,OpenStreetMap,node,12189521069
+Jai Yadav Dhaba,restaurant,Madhya Pradesh,Sagar,Ranipura,470115,,23.9254091,78.6989213,OpenStreetMap,node,12189529910
+Patalganga Picnic Spot & Resort,restaurant,Madhya Pradesh,Sagar,Khajuriya Guru,470115,,23.938818,78.6864854,OpenStreetMap,node,12189647772
+Ganga Sagar Restaurant,restaurant,Madhya Pradesh,Sagar,Khjuriya Guru,470115,,23.941296,78.6850737,OpenStreetMap,node,12189721801
+Krah Sarkar Dhaba & F.R......,restaurant,Madhya Pradesh,Sagar,Mothi,470115,,23.9494227,78.6801246,OpenStreetMap,node,12189728035
+Prince Yadav Dhaba,restaurant,Madhya Pradesh,Sagar,Mothi,470115,,23.9509557,78.6801171,OpenStreetMap,node,12189729668
+Netram Nasra,restaurant,Madhya Pradesh,Sagar,Mothi,470115,,23.9598515,78.6775522,OpenStreetMap,node,12189761821
+Faransingh Patel,cafe,Madhya Pradesh,Sagar,Mothi,470115,,23.9587813,78.6774712,OpenStreetMap,node,12189763641
+Dubay Dhaba,restaurant,Madhya Pradesh,Sagar,Mehar,470442,,23.9929252,78.6565337,OpenStreetMap,node,12194163498
+Vibek Rai,restaurant,Madhya Pradesh,Sagar,Mehar,470442,,23.9881045,78.6597485,OpenStreetMap,node,12194245923
+Rouddrax Dhaba,restaurant,Madhya Pradesh,Sagar,Mehar Bandri,470442,,24.0168759,78.6450815,OpenStreetMap,node,12194245956
+Ramraj Singh Mahdele,restaurant,Madhya Pradesh,Sagar,Mehar,470442,,23.9918966,78.6572311,OpenStreetMap,node,12194253885
+Siddharth  Yadav,restaurant,Madhya Pradesh,Sagar,Mehar,470442,,23.987775,78.6596612,OpenStreetMap,node,12194254248
+Shri Siddh Daba,restaurant,Madhya Pradesh,Sagar,Bandri,470442,,24.0253785,78.6399759,OpenStreetMap,node,12194283924
+Om Dhaba,restaurant,Madhya Pradesh,Sagar,Bandri Karoli,470442,,24.0213409,78.6425185,OpenStreetMap,node,12194288414
+Krishna Sweet,restaurant,Madhya Pradesh,Sagar,Bandri,470442,,24.0418025,78.6323647,OpenStreetMap,node,12194422592
+Raikvar bhava,restaurant,Madhya Pradesh,Sagar,Bandri,470442,,24.0481726,78.6298555,OpenStreetMap,node,12196459949
+Irshad Ali  Chicken Shop,restaurant,Madhya Pradesh,Sagar,Bandri,470442,,24.0508456,78.6301419,OpenStreetMap,node,12196482319
+Mama Bhanje Chicken Centre,restaurant,Madhya Pradesh,Sagar,Bandri,470442,,24.0511329,78.6306792,OpenStreetMap,node,12196496908
+Jain dhaba,restaurant,Madhya Pradesh,Sagar,Bandri,470442,,24.0523132,78.6298476,OpenStreetMap,node,12196501906
+Sourabh Dhaba,restaurant,Madhya Pradesh,Sagar,Bandri,470442,,24.053244,78.6302412,OpenStreetMap,node,12196711525
+GFC Food junction,restaurant,Madhya Pradesh,Sagar,Jhujharpura,470442,,24.0816731,78.613718,OpenStreetMap,node,12196740677
+MahrajaDhaba,restaurant,Madhya Pradesh,Sagar,Jhujharpura,470442,,24.0786736,78.6171436,OpenStreetMap,node,12196756234
+Deexha Hotel,restaurant,Madhya Pradesh,Sagar,Bandri,470442,,24.0431393,78.6373255,OpenStreetMap,node,12201174190
+Abhi Zun Zun Wala,restaurant,Madhya Pradesh,Sagar,Bandri,470442,,24.0423968,78.6366702,OpenStreetMap,node,12201460352
+Mahendra Fooo,restaurant,Madhya Pradesh,Sagar,Bandri,470442,,24.0430512,78.6328847,OpenStreetMap,node,12201570440
+Monu Food Company,restaurant,Madhya Pradesh,Sagar,Bandri,470442,,24.042936,78.6321381,OpenStreetMap,node,12201606791
+Yadav Dhaba &restaurant`s,restaurant,Madhya Pradesh,Sagar,Bandri,470422,,24.0473703,78.6372504,OpenStreetMap,node,12203486751
+Lucky & Abhash dhava,restaurant,Madhya Pradesh,sagar,Pali Sujam,470442,,24.0994187,78.6004868,OpenStreetMap,node,12203513047
+Family Restaurant,restaurant,Madhya Pradesh,sagar,Pali Sujam,470442,,24.1000182,78.6010996,OpenStreetMap,node,12203513048
+Thakur Dhaba & Restaurant  Dhaba,restaurant,Madhya Pradesh,Sagar,Bandri,470442,,24.0486596,78.6338087,OpenStreetMap,node,12203526985
+Allu Dhaba,restaurant,Madhya Pradesh,Sagar,Radon Malgujari,470442,,24.1333454,78.6043594,OpenStreetMap,node,12204732707
+Khushi  Dhaba,restaurant,Madhya Pradesh,Sagar,Rajuwa,470442,,24.1247344,78.6088581,OpenStreetMap,node,12204760784
+Deepak Lambardar Dhaba,restaurant,Madhya Pradesh,Sagar,Radon Raitwari,470442,,24.1364401,78.6041853,OpenStreetMap,node,12204770953
+Hotel jain Shri Dhaba & Family R........,restaurant,Madhya Pradesh,Sagar,Barodiya,470441,,24.2004668,78.5835991,OpenStreetMap,node,12206394294
+Chandan Chickin  Shop,restaurant,Madhya Pradesh,Sagar,Barodiya,470441,,24.2055215,78.5803545,OpenStreetMap,node,12206424447
+You Restaurant,restaurant,Madhya Pradesh,Sagar,Prempura,470441,,24.1767928,78.5920409,OpenStreetMap,node,12206437234
+Yadav Dhaba,restaurant,Madhya Pradesh,Sagar,Permpura,470441,,24.1827432,78.5900913,OpenStreetMap,node,12206459020
+Yaduvanshi Dhaba,restaurant,Madhya Pradesh,Sagar,Permpura,470441,,24.181314,78.5899702,OpenStreetMap,node,12206461554
+Hotel Nyou Mithr Milan Jhashi -Sagar Rod,restaurant,Madhya Pradesh,Sagar,Barodiya,470441,,24.2051252,78.5825412,OpenStreetMap,node,12206469374
+Sohit Hotel,restaurant,Madhya Pradesh,Sagar,Barodiya Kalan,470441,,24.2096927,78.5795134,OpenStreetMap,node,12210733889
+Shri Siva Dhaba,restaurant,Madhya Pradesh,Sagar,Palethni,470441,,24.2439847,78.5684546,OpenStreetMap,node,12211364919
+New Raja Hotel,restaurant,Madhya Pradesh,Sagar,Palethni,470441,,24.2352454,78.5726973,OpenStreetMap,node,12211391778
+Bundela Dhaba,restaurant,Madhya Pradesh,Sagar,Palethni,470441,,24.2495871,78.5651749,OpenStreetMap,node,12211421603
+Daggi Raja Dhaba,restaurant,Madhya Pradesh,Sagar,Mandri,470441,,24.2713933,78.5528414,OpenStreetMap,node,12211531627
+Shree Ram Dhaba,restaurant,Madhya Pradesh,Sagar,Sukalipura,470441,,24.2864763,78.5407275,OpenStreetMap,node,12211554765
+Cafe Ice & Spice,cafe,Madhya Pradesh,Shahdol,,"OPM Amlai, 484117",9479515017,23.2081425,81.5745529,OpenStreetMap,node,12361610987
+Dairyman's Naturals,restaurant,Madhya Pradesh,,,,,26.1992424,78.1645297,OpenStreetMap,node,12526412920
+Om Shanti Restaurant,restaurant,Madhya Pradesh,,,,,23.2021291,75.7734094,OpenStreetMap,node,12536337457
+Maa Sherawali,cafe,Madhya Pradesh,,,,,23.2017155,75.7726024,OpenStreetMap,node,12536421257
+Desi Tadka Restaurant,restaurant,Madhya Pradesh,,,,,22.4747042,78.4344858,OpenStreetMap,node,12585278859
+Sagar Gaire Restaurant,restaurant,Madhya Pradesh,,,,,23.2677572,77.4669692,OpenStreetMap,node,12595799536
+Jagan Nashta Shop,fast_food,Madhya Pradesh,,,,,22.1750486,75.6600246,OpenStreetMap,node,12595847380
+Chimes Bistro Cafe,cafe,Madhya Pradesh,,,,,23.2593142,77.4609468,OpenStreetMap,node,12595902250
+Belgian Waffle shop,cafe,Madhya Pradesh,,,"Df61, scheme 54",,22.7577068,75.8840115,OpenStreetMap,node,12595931628
+Dev Bhog Restaurant,restaurant,Madhya Pradesh,,,,,23.2550222,77.4719878,OpenStreetMap,node,12595975444
+Sagar Gaire,fast_food,Madhya Pradesh,,,,,23.2232671,77.4336772,OpenStreetMap,node,12595975463
+"THE STREET FOOD, REWA",fast_food,Madhya Pradesh,Rewa,Rewa,"In front of SBI ATM, Shiwani badrika complex, Tiraha, Dhekaha, Rewa, Madhya Pradesh 486001, 486001",,24.5427275,81.277485,OpenStreetMap,node,12596044227
+vijayshree sandwhcih,restaurant,Madhya Pradesh,,,,,22.7568097,75.8868026,OpenStreetMap,node,12596146058
+Tinku sandhwhich,fast_food,Madhya Pradesh,,,,,22.7567526,75.8870556,OpenStreetMap,node,12596191403
+ridhi sidhi,restaurant,Madhya Pradesh,,,,,22.7566714,75.8874708,OpenStreetMap,node,12596209112
+Pawan Sweets & Restaurant,restaurant,Madhya Pradesh,Rewa,Rewa,"G7VG+79P, Bankuiyan Rd, Near BJP Karyalay, Dhekaha, Rewa, Madhya Pradesh 486001, 486001",,24.5432008,81.2760925,OpenStreetMap,node,12596320921
+Domino's,fast_food,Madhya Pradesh,,,,,24.5399047,81.2646922,OpenStreetMap,node,12596320983
+Haveli Restaurent,restaurant,Madhya Pradesh,,,,,24.543057,81.2744389,OpenStreetMap,node,12596321000
+Indian Coffee House Rewa,restaurant,Madhya Pradesh,Rewa,Rewa,"Shilpi Plaza Road, 486001",,24.5420105,81.2958353,OpenStreetMap,node,12596341878
+Agrawal Chaat Centre,fast_food,Madhya Pradesh,Rewa,Rewa,"Shilpi Plaza Road, 486001",,24.5368706,81.2949481,OpenStreetMap,node,12596366148
+canteen,restaurant,Madhya Pradesh,,,,,23.5193009,77.8202407,OpenStreetMap,node,12596417079
+Pind balluchi,restaurant,Madhya Pradesh,,,,,22.7559532,75.8941344,OpenStreetMap,node,12597676549
+"Art Of Coffee, By- V. SURANA Group",cafe,Madhya Pradesh,Ujjain,ujjain,"A21/20, Triveni vihar, 456001",7580802323,23.1404144,75.7939107,OpenStreetMap,node,12620780166
+Karwaan,restaurant,Madhya Pradesh,,,,+91 89648 10199,26.2097699,78.1983094,OpenStreetMap,node,12666524102
+Nutrimento NX,restaurant,Madhya Pradesh,,Gwalior,"22A, Patel Nagar, City Center",+91 751471142,26.209734,78.198107,OpenStreetMap,node,12666597950
+Amul Store,cafe,Madhya Pradesh,,,,,22.5296329,75.9252789,OpenStreetMap,node,12683698754
+Jucilicoius,cafe,Madhya Pradesh,,,,,22.5294523,75.925102,OpenStreetMap,node,12683716933
+Shiru Cafu,cafe,Madhya Pradesh,,,,,22.5298652,75.9248066,OpenStreetMap,node,12683749903
+Mayuri,cafe,Madhya Pradesh,,,,,23.0727299,76.8575962,OpenStreetMap,node,12685733586
+Bistro,restaurant,Madhya Pradesh,,,,,23.0727767,76.8574658,OpenStreetMap,node,12685733587
+AB Dakshin,restaurant,Madhya Pradesh,,,,,23.0725163,76.8571509,OpenStreetMap,node,12685733588
+Underbelly,restaurant,Madhya Pradesh,,,,,23.0774371,76.8506332,OpenStreetMap,node,12685844692
+Highway Pride - Family Restaurant,restaurant,Madhya Pradesh,Shajapur,Shajapur,"NH52, 465001",,23.4445344,76.2849262,OpenStreetMap,node,12760381716
+Meet and eat,fast_food,Madhya Pradesh,pandhurna,pandhurna,"Rani Durgavati Ward, 480334",,21.5918248,78.5348123,OpenStreetMap,node,12813876738
+The Farmer's Table,restaurant,Madhya Pradesh,bhopal,BHOPAL,"Sahu Colony, Bagli Village, Bhopal, Madhya Pradesh, 462047",07693-006738,23.1659662,77.489109,OpenStreetMap,node,12862934892
+Shobhapur Road,fast_food,Madhya Pradesh,Narmadapuram,PIpariya,"Pachmarhi Road, 461775",,22.7415353,78.3548048,OpenStreetMap,node,12863526580
+Satkar Pure Veg Punjabi Dhaba,restaurant,Madhya Pradesh,Indore,Indore,"Indore Bypass Rd, near Flyover Tejaji Nagar, Tejaji Nagar, Mirjapur, 452020",+919479313713,22.6412741,75.8941297,OpenStreetMap,node,12864364419
+Agarwal Nashta Bhandar,fast_food,Madhya Pradesh,Narmadapuram,Pipariya,"Pachmarhi Road, 461775",,22.747125,78.3548635,OpenStreetMap,node,12894247680
+Bharti Chat Bhandar,fast_food,Madhya Pradesh,Narmadapuram,Pipariya,"Pachmarhi Road, 461775",,22.7471351,78.3550667,OpenStreetMap,node,12894251980
+Hotel Payal & Restaurent,restaurant,Madhya Pradesh,Narmadapuram,Pachmarhi,"Patel Road, 461881",+918989532392,22.4723205,78.436436,OpenStreetMap,node,12913276008
+mamu tea stall,cafe,Madhya Pradesh,shahdol,shahdol,"burhar road, 484001",,23.2961526,81.3661501,OpenStreetMap,node,13098942135
+Fual Station,cafe,Madhya Pradesh,,,Annapurna Road,,22.688268,75.8367235,OpenStreetMap,node,13110461901
+Shriji Restaurant,restaurant,Madhya Pradesh,Narmadapuram,Pipariya,461775,,22.7545471,78.35389,OpenStreetMap,node,13116820635
+sun food restaurant,restaurant,Madhya Pradesh,,,,,22.753817,75.8847761,OpenStreetMap,node,13128839983
+Bhole Shankar Tea Stall,cafe,Madhya Pradesh,,,,,23.8413375,80.3912434,OpenStreetMap,node,13130907196
+tea shop,cafe,Madhya Pradesh,INDORE,Indore,"tea shop near  TVS showroom pipliyahane square, pipliyahana square, 452016",100000000,22.7059681,75.9074989,OpenStreetMap,node,13130979465
+Pinch of Salt,restaurant,Madhya Pradesh,,,,,24.8476093,79.9220288,OpenStreetMap,node,13176518339
+Bhopal Lakeview Coffee House,cafe,Madhya Pradesh,Bhopal,Bhopal,"1980, Khanugaon, 462001",,23.2572155,77.367897,OpenStreetMap,node,13190722062
+A-One Bhojnalaya.,restaurant,Madhya Pradesh,,,,,23.2612392,77.3704237,OpenStreetMap,node,13208609490
+HIDDEN CAFE,cafe,Madhya Pradesh,,,,,23.2506228,77.5265725,OpenStreetMap,node,13235279979
+SUTO CAFE,fast_food,Madhya Pradesh,,,,,23.2505135,77.5263955,OpenStreetMap,node,13235279980
+Zayka Da Taste,restaurant,Madhya Pradesh,,,,,26.1971263,78.1479365,OpenStreetMap,node,13254237728
+MCM BIRYANI PANSEMAL,restaurant,Madhya Pradesh,Barwani,Pansemal,"Bus Station, Pansemal, 451770",+919669660180,21.6589193,74.695041,OpenStreetMap,node,13260990461
+Motel Tanya,restaurant,Madhya Pradesh,,,,,25.6699809,78.4451777,OpenStreetMap,node,13267419474
+Da Pixza Lover,restaurant,Madhya Pradesh,,Ganj Basoda,"First Floor, Nehru chowk, Station Main Road",08839073182,23.8483254,77.9404766,OpenStreetMap,node,13305837901
+Palash pure veg family restaurant,restaurant,Madhya Pradesh,,,,,22.4749393,78.4348868,OpenStreetMap,node,13328034902
+The Treat Fast Food & Cafe,fast_food,Madhya Pradesh,,,,,26.2041513,78.1467254,OpenStreetMap,node,13626833671
+Bajaj Juice Centre,fast_food,Madhya Pradesh,,,,,26.2031576,78.1470625,OpenStreetMap,node,13626867808
+rk restarurant,restaurant,Madhya Pradesh,,,,,23.0720426,78.5131281,OpenStreetMap,node,13671285649
+rk cafe,cafe,Madhya Pradesh,,,,,23.0723073,78.5050492,OpenStreetMap,node,13671298191
+rk fast food,fast_food,Madhya Pradesh,,,,,23.0741196,78.5084692,OpenStreetMap,node,13671429347
+abc restaurant,restaurant,Madhya Pradesh,,,,,23.0530097,78.5664023,OpenStreetMap,node,13671441665
+Sneha Restaurent,restaurant,Madhya Pradesh,,,,,23.0635965,78.4548868,OpenStreetMap,node,13671532800
+chinese fast food center,fast_food,Madhya Pradesh,,,,,23.0603121,78.4552097,OpenStreetMap,node,13671608085
+Indian cafe,cafe,Madhya Pradesh,,,,,23.0611325,78.4531939,OpenStreetMap,node,13671666298
+N.J. Foods,fast_food,Madhya Pradesh,,,,,26.2156203,78.1820971,OpenStreetMap,node,13734970113
+Shiv Ras Bhandar,fast_food,Madhya Pradesh,,,,,26.1967926,78.1488199,OpenStreetMap,node,13776499143
+Orion Restaurant,restaurant,Madhya Pradesh,Indore,Indore,"Service Road, 452016",918109612326,22.7392853,75.9336261,OpenStreetMap,node,13906477076
+Hotel Rajasthani,fast_food,Madhya Pradesh,,,,,24.3559466,74.9471701,OpenStreetMap,node,13909006596
+Saweri Dhaba,restaurant,Madhya Pradesh,,,,,24.007513,75.0870485,OpenStreetMap,node,13909056218
+Agrawal Family Dhaba,restaurant,Madhya Pradesh,,,,,23.2810979,75.6631,OpenStreetMap,node,13909186087
+Desi Zaika,fast_food,Madhya Pradesh,,,,,23.4717563,75.3559109,OpenStreetMap,node,13909206608
+Jain Dhaba,restaurant,Madhya Pradesh,,,,,23.5987208,75.1612873,OpenStreetMap,node,13909206609
+Maharaja Restaurant,restaurant,Madhya Pradesh,,,,,23.6584074,75.12129,OpenStreetMap,node,13909206611
+Rajasthani Restaurant,restaurant,Madhya Pradesh,,,,,23.4655604,75.4291576,OpenStreetMap,node,13909206612
+Magic Restaurant,restaurant,Madhya Pradesh,,,,,23.1704429,75.7739471,OpenStreetMap,node,13909372716
+Time Headquarters,restaurant,Madhya Pradesh,,,,,23.2173553,75.7969832,OpenStreetMap,node,13909372719
+Keshar Dhaba,restaurant,Madhya Pradesh,,,,,23.0618214,75.8236962,OpenStreetMap,node,13909470622
+Swarnteerth Restaurant Dhaba,restaurant,Madhya Pradesh,,,,,23.1146409,75.8015646,OpenStreetMap,node,13909470627
+Shri Ramvasa Dhaba,restaurant,Madhya Pradesh,,,,,23.0565256,75.8255092,OpenStreetMap,node,13909470653
+Mayur Dhaba,restaurant,Madhya Pradesh,,,Sanwer - Kshipra Road,,22.9636669,75.838119,OpenStreetMap,node,13909470656
+Ratnapriya Restaurant,restaurant,Madhya Pradesh,,,,,23.0851938,75.8175976,OpenStreetMap,node,13909470658
+Ice Balls,fast_food,Madhya Pradesh,,,,,22.7241031,75.8848057,OpenStreetMap,node,13912304474
+Guruji,fast_food,Madhya Pradesh,,,,,22.7243168,75.8847352,OpenStreetMap,node,13912304485
+Madhuram Sandwich,fast_food,Madhya Pradesh,,,,,22.7162752,75.849262,OpenStreetMap,node,13912310301
+Mahu Kulfi & Pav Bhaji,fast_food,Madhya Pradesh,,,,,22.7241949,75.8847743,OpenStreetMap,node,13912310334
+AJ Sandwich,fast_food,Madhya Pradesh,,,,,22.7238567,75.8846095,OpenStreetMap,node,13912310341
+Ramesh Masala Dosa,fast_food,Madhya Pradesh,,,,,22.7243891,75.884721,OpenStreetMap,node,13912310344
+Cool Uncle Waffles & Pancakes,fast_food,Madhya Pradesh,,,,,22.7242578,75.884493,OpenStreetMap,node,13912310345
+Chick-n-Serve,fast_food,Madhya Pradesh,,,,,22.7242278,75.8847613,OpenStreetMap,node,13912310353
+Nema,fast_food,Madhya Pradesh,,,,,22.7242259,75.8845052,OpenStreetMap,node,13912310373
+Humty Dumty,fast_food,Madhya Pradesh,,,,,22.7236491,75.8846715,OpenStreetMap,node,13912310382
+Wow! Momo,fast_food,Madhya Pradesh,,,,,22.7243353,75.8847348,OpenStreetMap,node,13912310386
+Koffee King,fast_food,Madhya Pradesh,,,,,22.7237293,75.884649,OpenStreetMap,node,13912310397
+Jai Shree Kanchan,fast_food,Madhya Pradesh,,,,,22.7244012,75.884443,OpenStreetMap,node,13912310408
+Veer Ji Malai Chaap Wale,fast_food,Madhya Pradesh,,,,,22.7243675,75.8847261,OpenStreetMap,node,13912310409
+Doracakes,fast_food,Madhya Pradesh,,,,,22.7242804,75.8847479,OpenStreetMap,node,13912310435
+Madhushaal,fast_food,Madhya Pradesh,,,,,22.7160375,75.853483,OpenStreetMap,node,13912310441
+Dosa Craft,fast_food,Madhya Pradesh,,,,,22.7242963,75.8847391,OpenStreetMap,node,13912310444
+Joshi Coffee House,cafe,Madhya Pradesh,,,,,22.7224697,75.8514604,OpenStreetMap,node,13912310459
+Vijay Chaat House,fast_food,Madhya Pradesh,,,,,22.7237915,75.8846314,OpenStreetMap,node,13912310477
+Milap,fast_food,Madhya Pradesh,,,,,22.7241486,75.8847949,OpenStreetMap,node,13912310480
+Sam's Momos,fast_food,Madhya Pradesh,,,,,22.7242865,75.8844852,OpenStreetMap,node,13912310505
+Johny Hot Dog,fast_food,Madhya Pradesh,,,,,22.7236982,75.8846588,OpenStreetMap,node,13912310515
+Chaat Palace,fast_food,Madhya Pradesh,,,,,22.7243663,75.8844597,OpenStreetMap,node,13912310545
+Rarish,fast_food,Madhya Pradesh,,,,,22.7242454,75.8847444,OpenStreetMap,node,13912310548
+Maghuram,fast_food,Madhya Pradesh,,,,,22.7239932,75.8845703,OpenStreetMap,node,13912310554
+Shri Gajanand Bhojanalaya,restaurant,Madhya Pradesh,,,,,22.715996,75.8533365,OpenStreetMap,node,13912310591
+Karnavat,restaurant,Madhya Pradesh,,,,,22.724879,75.8246056,OpenStreetMap,node,13913872395
+Desi Tadka Restaurant,restaurant,Madhya Pradesh,,,,,22.726756,75.8168448,OpenStreetMap,node,13913881924
+Mid Flight,restaurant,Madhya Pradesh,,,,,22.7300071,75.8138083,OpenStreetMap,node,13913881926
+Mausa,restaurant,Madhya Pradesh,,,,,22.7246808,75.8241325,OpenStreetMap,node,13914261290
+Shyam Sandwich,fast_food,Madhya Pradesh,,,,,22.724773,75.8250408,OpenStreetMap,node,13914270036
+The Garden,restaurant,Madhya Pradesh,,,,,22.7166564,75.9316025,OpenStreetMap,node,13917075345
+Wolf Casa,restaurant,Madhya Pradesh,,,,,22.739175,75.9349029,OpenStreetMap,node,13917075382
+Hotel Apna Avenue,restaurant,Madhya Pradesh,,,,,22.727049,75.8811176,OpenStreetMap,node,13917515315
+Shreemaya Celebrity,cafe,Madhya Pradesh,,,,,22.7398432,75.8924874,OpenStreetMap,node,13917515345
+Domino's,fast_food,Madhya Pradesh,,,,,23.0179219,76.6675586,OpenStreetMap,node,13919631592
+Hotel Shri Sarkaar,restaurant,Madhya Pradesh,,,,,23.2207962,77.1848901,OpenStreetMap,node,13919631595
+Verma Restaurant,restaurant,Madhya Pradesh,,,,,23.1480238,76.9399504,OpenStreetMap,node,13919645408
+Pappi Dhaba,restaurant,Madhya Pradesh,,,,,23.0733586,76.8263908,OpenStreetMap,node,13919645462
+Wow! Momo,fast_food,Madhya Pradesh,,,,,23.0178884,76.6680627,OpenStreetMap,node,13919645464
+Hotel Avantika,restaurant,Madhya Pradesh,,,,,23.2557643,77.4299698,OpenStreetMap,node,13923992454
+Siddhaant,restaurant,Madhya Pradesh,,,"B-208, bharat nagar road",+91 99813 12999,23.1968888,77.430486,OpenStreetMap,node,13923992495
+Krishna Tea Stall,cafe,Madhya Pradesh,,,,,23.2642276,77.4133432,OpenStreetMap,node,13924036641
+Domino's,fast_food,Madhya Pradesh,,,,,23.2361261,77.4015037,OpenStreetMap,node,13925831309
+Rajoriya Family Restaurant,restaurant,Madhya Pradesh,,,,,23.2665569,77.4575969,OpenStreetMap,node,13925831359
+Mirch Masala,fast_food,Madhya Pradesh,,,,,23.2369159,77.4026813,OpenStreetMap,node,13925831368
+Taste of Punjab,fast_food,Madhya Pradesh,,,,,23.2679838,77.4577006,OpenStreetMap,node,13925831389
+Moringa,restaurant,Madhya Pradesh,,,,,23.2690772,77.4557383,OpenStreetMap,node,13925831434
+Daddy's Kitchen,restaurant,Madhya Pradesh,,,,,23.2690016,77.4559669,OpenStreetMap,node,13925831447
+Famous Biryani,fast_food,Madhya Pradesh,,,,,23.2504112,77.4223593,OpenStreetMap,node,13928804675
+CCR,fast_food,Madhya Pradesh,,,,,23.2367681,77.3993091,OpenStreetMap,node,13928804687
+Tapti,restaurant,Madhya Pradesh,,,,,23.2372905,77.3994555,OpenStreetMap,node,13928812323
+Unique Cafe,cafe,Madhya Pradesh,,,,,23.2492042,77.4200337,OpenStreetMap,node,13928812395
+Hakeem Hotel,restaurant,Madhya Pradesh,,,,,23.2360853,77.3987244,OpenStreetMap,node,13928812414
+Bhima Chinese,fast_food,Madhya Pradesh,,,,,23.2368283,77.3993453,OpenStreetMap,node,13928812470
+Fantasy Celebration,fast_food,Madhya Pradesh,,,,,23.2361228,77.4007924,OpenStreetMap,node,13928812472
+Annapurna,restaurant,Madhya Pradesh,,,,,23.2359016,77.399334,OpenStreetMap,node,13928812575
+My Foods,fast_food,Madhya Pradesh,,,,6260248328,23.2368536,77.3990122,OpenStreetMap,node,13928812585
+Flavour & Bite's,fast_food,Madhya Pradesh,,,,,23.2787906,77.4522965,OpenStreetMap,node,13929321710
+Leela's,restaurant,Madhya Pradesh,,,,,23.2269984,77.4016026,OpenStreetMap,node,13931027240
+Sweet Tooth Cafe,cafe,Madhya Pradesh,,,,,23.2270617,77.4012656,OpenStreetMap,node,13931027262
+The Sheesham Bakers Restaurant,restaurant,Madhya Pradesh,,,,,23.2565954,77.4571116,OpenStreetMap,node,13931041436
+Sagar Gaire,fast_food,Madhya Pradesh,,,,,23.227073,77.4013655,OpenStreetMap,node,13931041442
+Raj Darbar,restaurant,Madhya Pradesh,,,,,23.2775813,77.4615937,OpenStreetMap,node,13931041443
+Sharma Chinese,fast_food,Madhya Pradesh,,,,,23.2270359,77.40109,OpenStreetMap,node,13931041455
+Rebound Cafe,cafe,Madhya Pradesh,,,,,23.2262544,77.4016743,OpenStreetMap,node,13931041477
+Daily Escape,cafe,Madhya Pradesh,,,,,23.2263569,77.401667,OpenStreetMap,node,13931041492
+Pooja Bhojanalaya,restaurant,Madhya Pradesh,,,,,23.2337371,77.4347825,OpenStreetMap,node,13931041548
+Sharma Tandoori Bites,fast_food,Madhya Pradesh,,,,,23.2270334,77.401119,OpenStreetMap,node,13931041574
+Riyansh Fast Food,fast_food,Madhya Pradesh,,,,,23.270387,77.4587231,OpenStreetMap,node,13938730345
+Royal Tea Spot,cafe,Madhya Pradesh,,,,+91 93998 16729,23.2694662,77.4584166,OpenStreetMap,node,13938730383
+Chicken ka Kitchen,fast_food,Madhya Pradesh,,,,,23.2712809,77.4587243,OpenStreetMap,node,13938730391
+Oh! Wow Momos Mocktails,fast_food,Madhya Pradesh,,,,,23.2705371,77.4586085,OpenStreetMap,node,13938737311
+Chai Kaapi,cafe,Madhya Pradesh,,,,,23.2697045,77.4582974,OpenStreetMap,node,13938737321
+The Coffee Concept,cafe,Madhya Pradesh,,,,,23.2698448,77.4587247,OpenStreetMap,node,13938737339
+Radha Rani Rasoi,restaurant,Madhya Pradesh,,Indore,"scheme no.136, 452001",,22.7701032,75.8868639,OpenStreetMap,node,14021849948
+Head Sahab Ke Pohe,fast_food,Madhya Pradesh,Indore,Indore,"303, Greater Kailash Road, Near Saket Square, 452001",9165624736,22.7256647,75.8920766,OpenStreetMap,node,14049703461
+2 CUT CHAI,cafe,Madhya Pradesh,,,,,22.7521925,75.8963705,OpenStreetMap,node,14051217209
+Tea Stall,cafe,Madhya Pradesh,,,,,23.7197937,76.0190628,OpenStreetMap,node,14051825602
+Shyam cafe,cafe,Madhya Pradesh,Jablapur,Jabalpur,"sai baba street lane, 482001",,23.1622004,79.9629515,OpenStreetMap,node,14051990674
+Mahakal Bhojnalaya,restaurant,Madhya Pradesh,,,,,26.5269915,78.8805023,OpenStreetMap,node,14092316438
+New Manoj Restaurant,restaurant,Madhya Pradesh,,,"Dewas - Bhopal Corridor, 466114",,23.0358664,76.7141198,OpenStreetMap,node,14208005401
+White Kitchen,restaurant,Madhya Pradesh,,,,,23.163499,79.9249191,OpenStreetMap,node,14289276881
+Jadon Hotel,restaurant,Madhya Pradesh,,,,,26.1341748,77.1399708,OpenStreetMap,node,14337496419
+CHAY,cafe,Madhya Pradesh,,,,,24.735488,80.0229344,OpenStreetMap,node,14346488201
+NAMAH Waiting Lounge,fast_food,Madhya Pradesh,,,,,24.5662429,80.8285805,OpenStreetMap,node,14346488401
+Midway Treat Lakhnadon,restaurant,Madhya Pradesh,Seoni,Lakhnadon,"22.584536,79.607812, Highway NH 07/Nh44, 480886",,22.5845378,79.6078198,OpenStreetMap,node,14348238839
+Annapurna Bhojnalaya LIMITED,restaurant,Madhya Pradesh,Seoni,Lakhnadon,"22.602121,79.603651, 480886",,22.6021411,79.6036752,OpenStreetMap,node,14348475255
+HEERA PALACE & RESTAURANT,restaurant,Madhya Pradesh,Seoni,Lakhnadon,"22.585793,79.608030, 480886",,22.5857595,79.608096,OpenStreetMap,node,14349323274
+Madhuram Restaurant And Cafe,restaurant,Madhya Pradesh,Seoni,Lakhnadon,480886,,22.5853613,79.6095063,OpenStreetMap,node,14349583520
+Ganraj Restaurant,restaurant,Madhya Pradesh,seoni,Lakhnadon,480886,,22.6001333,79.6113853,OpenStreetMap,node,14349593024
+Nawab Cafe,cafe,Madhya Pradesh,Seoni,Lakhnadon,480886,,22.6016466,79.6005879,OpenStreetMap,node,14349678995
+MP 20 Food Junction,restaurant,Madhya Pradesh,seoni,Lakhnadon,"22.602844,79.607118, 480886",,22.6027942,79.6070805,OpenStreetMap,node,14349830481
+BANTI BALAGHATY FAMILY RESTAURANT,restaurant,Madhya Pradesh,,,,,22.6010365,79.6159418,OpenStreetMap,node,14349830482
+Anurag Restaurant,restaurant,Madhya Pradesh,Seoni,Lakhnadon,480886,,22.603313,79.5920707,OpenStreetMap,node,14349851613
+Jai Mahakal Restaurant,restaurant,Madhya Pradesh,,,,,22.4318488,75.61889,OpenStreetMap,node,14357571101
+Indian Coffee House,restaurant,Madhya Pradesh,,,Kampoo,+917512990234,26.1829643,78.151429,OpenStreetMap,node,14365009501
+Indian Coffee House,restaurant,Madhya Pradesh,,,,,26.1928095,78.1642721,OpenStreetMap,node,14382695053
+Jash Garden Restaurant,restaurant,Madhya Pradesh,,,,,22.7543288,75.9069731,OpenStreetMap,way,320244340
+Eden Garden,restaurant,Madhya Pradesh,,,,,22.7705091,75.9006014,OpenStreetMap,way,320370607
+Vrindavan Restaurant,restaurant,Madhya Pradesh,,,,,22.7616141,75.8863559,OpenStreetMap,way,320370611
+Desi Tadka,restaurant,Madhya Pradesh,,,,,22.7488258,75.9117371,OpenStreetMap,way,320961388
+Rangoon Garden,restaurant,Madhya Pradesh,,,,,22.7486549,75.918086,OpenStreetMap,way,326065632
+Mama Maggi Point,cafe,Madhya Pradesh,,,,,23.1768944,80.015398,OpenStreetMap,way,361881095
+Central Mess,restaurant,Madhya Pradesh,,,,,23.1774059,80.021289,OpenStreetMap,way,361881122
+Hexagon,restaurant,Madhya Pradesh,,,,,23.1780862,80.0245585,OpenStreetMap,way,361881143
+Canteen,fast_food,Madhya Pradesh,,,,,24.0760897,75.0295031,OpenStreetMap,way,367238273
+Hunger Pangzzz,restaurant,Madhya Pradesh,,,,,22.7562332,75.9051965,OpenStreetMap,way,370171807
+Lake CCD,cafe,Madhya Pradesh,,,,,23.2422919,77.3817744,OpenStreetMap,way,377972230
+Windz and Waves,restaurant,Madhya Pradesh,,,,,23.2416597,77.3805585,OpenStreetMap,way,377972231
+Dhaba,restaurant,Madhya Pradesh,,,,,22.8498696,76.4982765,OpenStreetMap,way,393550459
+Maharaja Hotel Restaurant,restaurant,Madhya Pradesh,,,,,25.1393486,79.3729529,OpenStreetMap,way,407528676
+Mess - 2,restaurant,Madhya Pradesh,,,,,23.2913227,77.2708838,OpenStreetMap,way,413257691
+Akash garden,restaurant,Madhya Pradesh,,,,,23.2677321,77.3215,OpenStreetMap,way,413540482
+Canteen,restaurant,Madhya Pradesh,,,,,23.2679784,77.3165677,OpenStreetMap,way,413540593
+Domino's,fast_food,Madhya Pradesh,,,,,23.2117123,77.4194949,OpenStreetMap,way,414418462
+Pin & Pan Café,cafe,Madhya Pradesh,Bhopal,Bhopal,"Fortune Business Arcade, Bawadia Kalan, near Danish Bridge, 462026",+919993945830,23.1731063,77.4326786,OpenStreetMap,way,414997702
+PANDIT JI,restaurant,Madhya Pradesh,,,,,22.4088693,75.0690985,OpenStreetMap,way,425538305
+Adarsh Bhojnalaya,restaurant,Madhya Pradesh,,"Vikas Nagar, Jabalpur","108, MR 4 Road, 482002",,23.1923019,79.9150914,OpenStreetMap,way,484284255
+JAM,restaurant,Madhya Pradesh,,,,,22.6249731,75.7922539,OpenStreetMap,way,494912027
+hul adda,restaurant,Madhya Pradesh,,,,,22.6249247,75.7924529,OpenStreetMap,way,494912028
+Shri Shankar Hotel Evam Nashta Ghar,restaurant,Madhya Pradesh,,,"Main Road Barkhedi Kalan, Bhadbhada Road, Kopal, Bhopal, Madhya Pradesh, 462044",,23.2013766,77.3565905,OpenStreetMap,way,547614576
+Canteen,restaurant,Madhya Pradesh,,,,,22.8216651,75.9435182,OpenStreetMap,way,630436627
+Guptaji ka Dhaba,restaurant,Madhya Pradesh,,,,,22.9739981,76.3659169,OpenStreetMap,way,643029237
+Blueberry Restaurant,restaurant,Madhya Pradesh,,,,,26.2324693,78.2171007,OpenStreetMap,way,689451263
+Devnarayan Sweets & Namkeen,fast_food,Madhya Pradesh,,,,,22.7012498,75.9249603,OpenStreetMap,way,699405711
+Chai Sutta Bar,cafe,Madhya Pradesh,,,,,22.6999402,75.9258934,OpenStreetMap,way,699419219
+Veg Bites Cafe & Restaurant,restaurant,Madhya Pradesh,,,,,22.6957343,75.8349682,OpenStreetMap,way,701153842
+Cafe Kono Annapurna,cafe,Madhya Pradesh,,,,,22.6954449,75.8353734,OpenStreetMap,way,701153866
+Nature's Kitchen Pluck & Dine,restaurant,Madhya Pradesh,,,,,22.7624825,75.8847893,OpenStreetMap,way,701362277
+Tealogy,cafe,Madhya Pradesh,,,,,22.6950104,75.8359729,OpenStreetMap,way,701608498
+Sho Sha,cafe,Madhya Pradesh,,,,,22.7490527,75.8925817,OpenStreetMap,way,701908355
+Apna Sweets,restaurant,Madhya Pradesh,,,,,22.7495427,75.8956996,OpenStreetMap,way,702007062
+Starbucks,cafe,Madhya Pradesh,,,,,22.747551,75.8949181,OpenStreetMap,way,702007093
+jay ambe sweets,restaurant,Madhya Pradesh,,,scheme no 54,,22.7569481,75.8859791,OpenStreetMap,way,703194283
+DZire paying guest and mess,restaurant,Madhya Pradesh,,,,,22.7570232,75.8857215,OpenStreetMap,way,703194293
+rohini ke namkeen,fast_food,Madhya Pradesh,,,,,22.7572372,75.8847765,OpenStreetMap,way,703194300
+Hangout cafe,cafe,Madhya Pradesh,,,,,22.7575046,75.8835293,OpenStreetMap,way,703194378
+Mr. Poutine,cafe,Madhya Pradesh,,,,,22.7599146,75.8812494,OpenStreetMap,way,703203714
+Dhaba,restaurant,Madhya Pradesh,,,,,22.8436376,76.4247235,OpenStreetMap,way,712961519
+PUROHIT,restaurant,Madhya Pradesh,,,,,22.3568125,77.0834762,OpenStreetMap,way,820362875
+Madari The Restaurant,restaurant,Madhya Pradesh,,Shahdol,"Ahiridadra, NH-43, 484001",+91 94258 70009;+91 70009 84430,23.3375744,81.2446316,OpenStreetMap,way,825007420
+Chhatrapal Pehalwan Dhaba,restaurant,Madhya Pradesh,Narmadapuram,,,,22.6990968,77.9794426,OpenStreetMap,way,848717147
+hot chillli,restaurant,Madhya Pradesh,,,,,23.1860005,79.9297917,OpenStreetMap,way,871993699
+Suraj dhaba,restaurant,Madhya Pradesh,,,,,23.1957375,81.5760493,OpenStreetMap,way,963959394
+Tj dhaba,restaurant,Madhya Pradesh,,,,,23.1950557,81.5767204,OpenStreetMap,way,963960380
+Yadav dhaba,restaurant,Madhya Pradesh,,,,,23.1951202,81.5766951,OpenStreetMap,way,963960381
+Shrivastav bhojnalay,restaurant,Madhya Pradesh,,,,,23.2081523,81.5715498,OpenStreetMap,way,963988370
+Shere punjab,restaurant,Madhya Pradesh,,,,,23.2079024,81.5714361,OpenStreetMap,way,963989149
+Shere non veg restaurant,restaurant,Madhya Pradesh,,,,,23.2078999,81.5711904,OpenStreetMap,way,963989363
+Mess - 1,restaurant,Madhya Pradesh,,,,,23.2899946,77.2721613,OpenStreetMap,way,997550775
+Mess - 3,restaurant,Madhya Pradesh,,,,,23.2925352,77.2706018,OpenStreetMap,way,997560777
+Mess - 4,restaurant,Madhya Pradesh,,,,,23.2933012,77.2718372,OpenStreetMap,way,997560782
+Ideation Hut,cafe,Madhya Pradesh,,,,,23.2921476,77.2711233,OpenStreetMap,way,997672243
+Cafe Coffee Day,cafe,Madhya Pradesh,,,,,23.287311,77.2744531,OpenStreetMap,way,997689610
+Indian Coffee House,cafe,Madhya Pradesh,,,,,23.2881125,77.2752454,OpenStreetMap,way,997689613
+Mess - 5,restaurant,Madhya Pradesh,,,,,23.2930321,77.2704516,OpenStreetMap,way,997714545
+Grand Palace,restaurant,Madhya Pradesh,,,,,23.8356649,78.7165807,OpenStreetMap,way,1159656701
+Mess - 6,restaurant,Madhya Pradesh,,,,,23.2939129,77.2709181,OpenStreetMap,way,1170502564
+Matargasti,restaurant,Madhya Pradesh,,Indore,"156,Vishnupuri colony, Old A. B. Road, 452014",084549 22434,22.6909854,75.8630839,OpenStreetMap,way,1172654813
+"Vairagi Chef ""Cakes and Street Food""",restaurant,Madhya Pradesh,,Indore,"Shop number G-4,29,Shivom Apartment,Vishnupuri main,Vishnupuri Colony, Old A. B. Road, 452001",,22.6898215,75.863472,OpenStreetMap,way,1172654814
+Royal Bakery Stores,restaurant,Madhya Pradesh,,Indore,"Vishnupuri Colony, Old A. B. Road, 452014",,22.6900604,75.8637631,OpenStreetMap,way,1172654816
+Haldiram's,fast_food,Madhya Pradesh,,,,,23.1687021,79.9236769,OpenStreetMap,way,1232828818
+Hotel The ACE,restaurant,Madhya Pradesh,Narmadapuram,Pipariya,"Pipariya Road, 461775",+917566010740,22.7265772,78.3548666,OpenStreetMap,way,1243586775
+Mehek Dhaba,restaurant,Madhya Pradesh,Narmadapuram,,,,22.6995733,77.9866666,OpenStreetMap,way,1246863699
+Rajput family Dhawa,restaurant,Madhya Pradesh,,,,,22.7087997,77.8619892,OpenStreetMap,way,1249149827
+Indian Coffee House & Restaurant,restaurant,Madhya Pradesh,Narmadapuram,,461881,+918871596850,22.4580153,78.429344,OpenStreetMap,way,1263518944
+Pandit Ji Refreshments,restaurant,Madhya Pradesh,Narmadapuram,,,,22.4598654,78.4267826,OpenStreetMap,way,1270493445
+Karnawat hotel,restaurant,Madhya Pradesh,,,,,22.7571946,75.8849532,OpenStreetMap,way,1360679886
+Shiv Shakti Dhaba,restaurant,Madhya Pradesh,,,,,23.0992767,79.8953278,OpenStreetMap,way,1364734379
+Under belly,restaurant,Madhya Pradesh,,,,,23.0774413,76.8506369,OpenStreetMap,way,1367916188
+Mayuri,restaurant,Madhya Pradesh,,,,,23.0771931,76.8506798,OpenStreetMap,way,1367916189
+Mukesh Sweets,restaurant,Madhya Pradesh,Dewas,Dewas,"AB Road, Moti bunglow, Shivaji Nagar, 455001",,22.9664971,76.0502329,OpenStreetMap,way,1424838847
+mamu tea stall,cafe,Madhya Pradesh,shahdol,shahdol,"burhar road, 484001",,23.2961484,81.3661498,OpenStreetMap,way,1425070226
+Sanawad,cafe,Madhya Pradesh,Khargone,Sanawad,451111,,22.1711969,76.0716854,OpenStreetMap,way,1425902312
+Gopal JI,restaurant,Madhya Pradesh,,,,,23.1633165,79.9545847,OpenStreetMap,way,1427942677
+shree ram tea stall,cafe,Madhya Pradesh,,,"d 24, phoolbagh",,26.2041592,78.1572838,OpenStreetMap,way,1428305328
+Rajasthan Mishtan Bhandar,fast_food,Madhya Pradesh,,,,,23.1948388,77.4707863,OpenStreetMap,way,1457695884
+Dev Darbar,cafe,Madhya Pradesh,,,,,22.626,75.787818,OpenStreetMap,way,1480322363
+rk restuarant,restaurant,Madhya Pradesh,,,,,23.0720647,78.5131213,OpenStreetMap,way,1491795979
+abc restaurant,restaurant,Madhya Pradesh,,,,,23.0530268,78.5664097,OpenStreetMap,way,1491814059
+Indian cafe,cafe,Madhya Pradesh,,,,,23.0611162,78.4531877,OpenStreetMap,way,1491831997
+Around The Block,cafe,Madhya Pradesh,Indore,Indore,"20/2, South Tukoganj, 452001",+91 9171376069,22.7221598,75.8853306,OpenStreetMap,way,1548806943
+Rajesh Restuarant,restaurant,Madhya Pradesh,,,,,22.7153943,75.8417266,OpenStreetMap,relation,6992669
