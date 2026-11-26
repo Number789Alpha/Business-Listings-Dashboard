@@ -1,16 +1,18 @@
 # Business Listings Analytics Dashboard
 
-A full-stack Business Listings Analytics Dashboard built using React.js, FastAPI, and MySQL. The application analyzes business listings and presents interactive visualizations of business distribution across cities, categories, and data sources.
+A full-stack, India-wide Business Listings Analytics Dashboard built using **React.js, FastAPI, Python, and MySQL-compatible databases**. The application collects, processes, stores, and analyzes business listings from OpenStreetMap and presents interactive visualizations across Indian states, districts, cities, and business categories.
 
 ## 1. Project Overview
 
-The objective of this project is to collect, organize, store, and analyze business listing data through a centralized dashboard.
+The objective of this project is to build a centralized platform for analyzing business listings across India.
 
-The dashboard provides insights into:
-- Total number of business listings
-- City-wise business distribution
-- Category-wise business distribution
-- Data source distribution
+The dashboard provides:
+- India-wide business listing statistics
+- State-wise and district-wise business distribution
+- City-wise business analysis
+- Business category distribution
+- Data source analysis
+- Interactive filtering and searchable business listings
 
 ## 2. Technology Stack
 
@@ -18,56 +20,75 @@ The dashboard provides insights into:
 |---|---|
 | Frontend | React.js, Vite |
 | Backend | Python, FastAPI |
-| Database | MySQL |
+| Database | MySQL / TiDB |
 | Data Processing | Python, Pandas |
-| API Communication | Axios |
+| Data Collection | OpenStreetMap |
 | Data Visualization | Recharts |
+| API Communication | Axios |
 | Icons | Lucide React |
-| Development Tools | VS Code, MySQL Workbench, Git, GitHub |
+| Version Control | Git, GitHub |
 
 ## 3. Dataset Overview
 
-The project database contains **2,145 business records** collected using OpenStreetMap data.
+The project contains **45,661 OpenStreetMap business listings** collected across 28 Indian states.
 
 | Metric | Value |
 |---|---:|
-| Total Business Listings | 2,145 |
-| Total Cities | 2 |
-| Total Categories | 159 |
-| Total Data Sources | 1 |
+| Total Business Listings | 45,661 |
+| States Covered | 28 |
+| Business Categories | 3 |
+| Data Sources | 1 |
 
-Cities covered:
-- Agra
-- Gwalior
+Business categories:
+- Restaurant
+- Cafe
+- Fast Food
 
 Data source:
 - OpenStreetMap
 
-Some records have missing phone numbers or addresses. These fields are retained as unavailable rather than filled with fabricated information.
+The dataset includes business names, categories, state, district, city, address, phone number, and geographical information where available.
+
+Missing information is retained as unavailable rather than replaced with fabricated values.
 
 ## 4. Dashboard Features
 
 - KPI cards displaying business statistics.
-- City-wise business distribution using bar charts.
-- Top business categories using a doughnut chart.
-- Category breakdown showing record counts.
-- Data source distribution.
-- Refresh functionality to retrieve updated database information.
+- India-wide business listing overview.
+- State-wise business comparison.
+- District-wise business distribution.
+- City-wise business analysis.
+- Category distribution and breakdown.
+- Data source analysis.
+- State and district filters.
+- Searchable business listings.
+- Category filtering and sorting.
+- Pagination for business records.
+- CSV export functionality.
+- Dashboard refresh functionality.
 
 ## 5. Backend API Endpoints
 
-The FastAPI backend provides the following endpoints:
+The FastAPI backend provides endpoints for database connectivity, analytics, filtering, and business listing retrieval.
 
 | Method | Endpoint | Description |
 |---|---|---|
 | GET | `/` | API welcome message |
 | GET | `/api/health` | Database connection status |
-| GET | `/api/summary` | Overall dashboard statistics |
-| GET | `/api/cities` | City-wise business counts |
-| GET | `/api/categories` | Category-wise business counts |
-| GET | `/api/sources` | Source-wise business counts |
+| GET | `/api/summary` | Legacy dashboard statistics |
+| GET | `/api/cities` | City-wise statistics |
+| GET | `/api/categories` | Category-wise statistics |
+| GET | `/api/sources` | Data source statistics |
+| GET | `/api/states` | Available states |
+| GET | `/api/districts?state=` | Districts for a selected state |
+| GET | `/api/state-summary` | State-wise listing statistics |
+| GET | `/api/india/summary` | India-wide dashboard statistics |
+| GET | `/api/india/cities` | Filtered city statistics |
+| GET | `/api/india/categories` | Filtered category statistics |
+| GET | `/api/india/sources` | Filtered data source statistics |
+| GET | `/api/india/listings` | Searchable and paginated business listings |
 
-Interactive API documentation is available at:
+Interactive API documentation:
 
 `http://127.0.0.1:8000/docs`
 
@@ -78,7 +99,6 @@ Business-Listings-Dashboards/
 │
 ├── backend/
 │   ├── database.py
-│   ├── import_data.py
 │   ├── main.py
 │   └── requirements.txt
 │
@@ -89,11 +109,11 @@ Business-Listings-Dashboards/
 │   └── vite.config.js
 │
 ├── database/
-│   └── business_dashboard.sql
+│   └── business_dashboard_final_utf8.sql
 │
 ├── data/
-│   ├── raw/
-│   └── processed/
+│   ├── india_raw/
+│   └── india_processed/
 │
 ├── scraper/
 │
@@ -101,13 +121,15 @@ Business-Listings-Dashboards/
 └── .gitignore
 ```
 
+*Note: Update this structure to match the exact files and folders present in your repository.*
+
 ## 7. Installation and Setup
 
 ### Prerequisites
 
 - Python
 - Node.js and npm
-- MySQL Server
+- MySQL or TiDB database
 - Git
 
 ### Step 1: Clone the repository
@@ -117,44 +139,32 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 cd Business-Listings-Dashboards
 ```
 
-### Step 2: Set up MySQL
+### Step 2: Configure the database
 
-1. Open MySQL Workbench.
-2. Create a database named `business_dashboard`.
-3. Import `database/business_dashboard.sql`.
-4. Verify that the `listing_master` table contains the business records.
+1. Create a database named `business_dashboard`.
+2. Import the supplied SQL database dump.
+3. Verify that the `listing_master_v2` table contains the India-wide business records.
 
 ### Step 3: Configure the backend
 
-Create a `.env` file in the project root containing:
+Create a `.env` file in the project root with your database connection details.
 
-```env
-DB_HOST=localhost
-DB_PORT=3306
-DB_USER=your_mysql_username
-DB_PASSWORD=your_mysql_password
-DB_NAME=business_dashboard
-```
+Use the variable names expected by `backend/database.py`. Never commit real credentials to GitHub.
 
-Install backend dependencies:
-
-```bash
-python -m venv venv
-```
-
-Activate the virtual environment on Windows:
+Create and activate a virtual environment:
 
 ```powershell
+python -m venv venv
 .\venv\Scripts\Activate.ps1
 ```
 
-Install the dependencies:
+Install dependencies:
 
 ```bash
 pip install -r backend/requirements.txt
 ```
 
-Start the FastAPI server from the project root:
+Start the FastAPI server:
 
 ```bash
 python -m uvicorn backend.main:app --reload
@@ -174,50 +184,44 @@ npm install
 npm run dev
 ```
 
-Open the local URL displayed by Vite, usually:
+Open the local URL displayed by Vite.
 
-`http://localhost:5173`
-
-## 8. Database Design
+## 8. Database Overview
 
 Database: `business_dashboard`
 
-Main table: `listing_master`
+Main India-wide table: `listing_master_v2`
 
-| Column | Description |
-|---|---|
-| id | Unique business record identifier |
-| business_name | Name of the business |
-| category | Business category |
-| city | City where the business is located |
-| address | Business address |
-| phone | Contact number, when available |
-| source | Data source |
-| created_at | Record creation timestamp |
+The application uses the India-wide table for state, district, category, and business listing analytics.
 
-## 9. Challenges and Limitations
+The original `listing_master` table is retained for the legacy dashboard endpoints.
 
-- Handling missing contact information and addresses.
-- Standardizing business categories.
-- Managing database connectivity between the frontend, backend, and MySQL.
-- Handling differences between local MySQL client and server versions during database export.
-- Maintaining consistent data across API responses and dashboard visualizations.
+## 9. Data Quality and Limitations
+
+- Business listings are sourced from OpenStreetMap.
+- Some records have missing city, address, or phone information.
+- District assignment depends on the available geographical boundary data.
+- Duplicate and invalid geographical records are checked during data processing.
+- The dataset represents collected OpenStreetMap listings, not an exhaustive list of every business operating in India.
 
 ## 10. Future Improvements
 
-- Add more cities and business categories.
-- Implement search and filtering.
-- Add pagination for business listings.
-- Introduce additional analytical visualizations.
-- Support multiple business data sources.
+- Integrate additional business listing data sources.
+- Improve geographical data coverage and district matching.
+- Add historical data tracking.
+- Introduce more advanced analytical reports.
+- Improve dashboard performance for larger datasets.
 
 ## 11. Conclusion
 
-The Business Listings Analytics Dashboard provides a centralized solution for storing, analyzing, and visualizing business listing information. It integrates React.js, FastAPI, and MySQL to deliver an interactive data analytics application.
+The Business Listings Analytics Dashboard provides an interactive platform for exploring business listings across 28 Indian states. By integrating Python-based data processing, FastAPI, React.js, and MySQL-compatible database technology, the project delivers geographical analysis, category insights, and searchable business records through a centralized dashboard.
 
 ---
 
 **Project:** Business Listings Analytics Dashboard  
-**Database:** MySQL  
+**Dataset:** OpenStreetMap  
+**Records:** 45,661  
+**States:** 28  
 **Backend:** FastAPI  
-**Frontend:** React.js
+**Frontend:** React.js  
+**Database:** MySQL / TiDB
