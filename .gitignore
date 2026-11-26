@@ -26,3 +26,5 @@ Thumbs.db
 # Logs and temporary files
 *.log
 *.tmp
+# Database certificates
+database/ca.pem
