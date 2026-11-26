@@ -1,0 +1,95 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+Sambhal,restaurant,Sikkim,,,,,27.2893432,88.2584473,OpenStreetMap,node,2110896093,2026-11-26T07:29:59.916117+00:00
+Cyber Cafe,cafe,Sikkim,,,,,27.3012639,88.2372745,OpenStreetMap,node,2208739480,2026-11-26T07:29:59.916154+00:00
+HOTEL,fast_food,Sikkim,,,,,27.2203039,88.3097322,OpenStreetMap,node,4156655002,2026-11-26T07:29:59.916169+00:00
+Latup cafe,cafe,Sikkim,,,737113,,27.3486089,88.1917841,OpenStreetMap,node,4624964690,2026-11-26T07:29:59.916184+00:00
+Tamu restaurant,fast_food,Sikkim,,,,+919735940567,27.132536,88.2819723,OpenStreetMap,node,4848817422,2026-11-26T07:29:59.916196+00:00
+norling,restaurant,Sikkim,,,,,27.3688511,88.2222208,OpenStreetMap,node,4878155422,2026-11-26T07:29:59.916209+00:00
+Gupta restaurant,restaurant,Sikkim,,,,,27.3686646,88.2221813,OpenStreetMap,node,4878155423,2026-11-26T07:29:59.916220+00:00
+traditional inn,restaurant,Sikkim,,,,,27.3687659,88.2221933,OpenStreetMap,node,4878166721,2026-11-26T07:29:59.916230+00:00
+Taste of Sikkim,restaurant,Sikkim,,,,,27.3051309,88.36541,OpenStreetMap,node,4925330141,2026-11-26T07:29:59.916240+00:00
+Coffee cafe day,cafe,Sikkim,,,,,27.328535,88.6125232,OpenStreetMap,node,4925330223,2026-11-26T07:29:59.916251+00:00
+Simar,restaurant,Sikkim,,,,,27.2320101,88.4951292,OpenStreetMap,node,4925330244,2026-11-26T07:29:59.916261+00:00
+Dal bhat buffet,restaurant,Sikkim,,,,,27.4644602,88.5250203,OpenStreetMap,node,4925330424,2026-11-26T07:29:59.916272+00:00
+Kookai,restaurant,Sikkim,,,,,27.3051565,88.3648371,OpenStreetMap,node,4925330430,2026-11-26T07:29:59.916282+00:00
+Kookai,restaurant,Sikkim,,,,,27.305209,88.3653759,OpenStreetMap,node,4925330431,2026-11-26T07:29:59.916292+00:00
+Taste of Tibet,restaurant,Sikkim,,Gangtok,,,27.3276388,88.6126213,OpenStreetMap,node,5222833786,2026-11-26T07:29:59.916302+00:00
+Treat Restaurant,restaurant,Sikkim,,,,,27.3005392,88.236167,OpenStreetMap,node,5242637605,2026-11-26T07:29:59.916312+00:00
+Cloves Indian Resto,restaurant,Sikkim,,,,,27.3011144,88.2368792,OpenStreetMap,node,5242703028,2026-11-26T07:29:59.916322+00:00
+Café Fiction,cafe,Sikkim,,,,,27.3354435,88.6147375,OpenStreetMap,node,5265418921,2026-11-26T07:29:59.916333+00:00
+The Coffee Shop,restaurant,Sikkim,,,Mahatma Gandhi Marg,,27.3259664,88.6117955,OpenStreetMap,node,5265419022,2026-11-26T07:29:59.916344+00:00
+Taste of Tibet,restaurant,Sikkim,,,Mahatma Gandhi Marg,,27.327698,88.6126017,OpenStreetMap,node,5265420922,2026-11-26T07:29:59.916356+00:00
+The Dragon Wok,restaurant,Sikkim,,,,,27.3294366,88.6126159,OpenStreetMap,node,5779489853,2026-11-26T07:29:59.916366+00:00
+Ayush Sweets,fast_food,Sikkim,,,,9735002121,27.1660249,88.3622456,OpenStreetMap,node,5786043157,2026-11-26T07:29:59.916376+00:00
+Moti Chaat,fast_food,Sikkim,,,,,27.3275865,88.6124531,OpenStreetMap,node,6447964885,2026-11-26T07:29:59.916386+00:00
+Shambala Wok,restaurant,Sikkim,,,,,27.3283031,88.6128853,OpenStreetMap,node,6447964886,2026-11-26T07:29:59.916396+00:00
+Hôtel chinary,restaurant,Sikkim,,,,,27.3008627,88.2369456,OpenStreetMap,node,6785117847,2026-11-26T07:29:59.916405+00:00
+BJNOD,restaurant,Sikkim,,,Ravengla Bazaar South sikkim,,27.3062015,88.3650125,OpenStreetMap,node,6785144503,2026-11-26T07:29:59.916416+00:00
+Maggi Point,restaurant,Sikkim,,,737132,,27.1869187,88.4976026,OpenStreetMap,node,6816751987,2026-11-26T07:29:59.916427+00:00
+Rolls corner,fast_food,Sikkim,,,,,27.3289022,88.6124355,OpenStreetMap,node,6942282814,2026-11-26T07:29:59.916437+00:00
+Sunil's,restaurant,Sikkim,,,,,27.3232007,88.6033458,OpenStreetMap,node,6942366896,2026-11-26T07:29:59.916446+00:00
+Fast food,fast_food,Sikkim,,,,,27.3281629,88.602532,OpenStreetMap,node,7113628538,2026-11-26T07:29:59.916456+00:00
+Sweets Shop,cafe,Sikkim,,,,,27.2942861,88.5895248,OpenStreetMap,node,8058835772,2026-11-26T07:29:59.916466+00:00
+Marina,restaurant,Sikkim,,,,,27.1814496,88.5028075,OpenStreetMap,node,8498881527,2026-11-26T07:29:59.916475+00:00
+MESS,fast_food,Sikkim,,,,,27.1818495,88.5025421,OpenStreetMap,node,8498881528,2026-11-26T07:29:59.916485+00:00
+Sweet shop,restaurant,Sikkim,,,,,27.327727,88.6126651,OpenStreetMap,node,8899684084,2026-11-26T07:29:59.916495+00:00
+KFC,fast_food,Sikkim,,,,,27.3433604,88.6139623,OpenStreetMap,node,9732841717,2026-11-26T07:29:59.916505+00:00
+Hangout Longue,restaurant,Sikkim,,,,,27.2988592,88.5700788,OpenStreetMap,node,9948361586,2026-11-26T07:29:59.916514+00:00
+shuffle momos,restaurant,Sikkim,,,"Mahatma Gandhi Marg, 737101",,27.3302194,88.6129998,OpenStreetMap,node,10092288817,2026-11-26T07:29:59.916526+00:00
+Cafeteria,restaurant,Sikkim,,,,,27.3337947,88.6149498,OpenStreetMap,node,10767520684,2026-11-26T07:29:59.916536+00:00
+Chinese restaurant,restaurant,Sikkim,,,,,27.3265143,88.6116128,OpenStreetMap,node,10841622505,2026-11-26T07:29:59.916546+00:00
+Sikkimese restaurant,restaurant,Sikkim,,,,,27.3266213,88.6121675,OpenStreetMap,node,10842061405,2026-11-26T07:29:59.916556+00:00
+Bhutia kitchen (Bhutanese),restaurant,Sikkim,,,,,27.3265028,88.6121497,OpenStreetMap,node,10842077005,2026-11-26T07:29:59.916566+00:00
+Food stands and viewpoint,restaurant,Sikkim,,,,,27.3797496,88.6888562,OpenStreetMap,node,10845711117,2026-11-26T07:29:59.916576+00:00
+Alpine Cafeteria,restaurant,Sikkim,,,,,27.3741765,88.7581408,OpenStreetMap,node,10845711210,2026-11-26T07:29:59.916586+00:00
+A few food stalls,fast_food,Sikkim,,,,,27.1817759,88.3807459,OpenStreetMap,node,11373106169,2026-11-26T07:29:59.916596+00:00
+Crumbs N Whips Café/Bistro,cafe,Sikkim,,,,,27.1667176,88.3614518,OpenStreetMap,node,11373106170,2026-11-26T07:29:59.916605+00:00
+Rose Gardens & Restaurant,restaurant,Sikkim,,,,,27.1549549,88.3429155,OpenStreetMap,node,11375030272,2026-11-26T07:29:59.916615+00:00
+The box 1449,restaurant,Sikkim,,,,,27.1656494,88.3619138,OpenStreetMap,node,11375032770,2026-11-26T07:29:59.916625+00:00
+Burger King,fast_food,Sikkim,,,,,27.3271294,88.6108496,OpenStreetMap,node,11383788272,2026-11-26T07:29:59.916634+00:00
+Sikkim Coffee & roastery,cafe,Sikkim,,,,,27.3242167,88.6118809,OpenStreetMap,node,11385000769,2026-11-26T07:29:59.916644+00:00
+Baker's café,fast_food,Sikkim,,,,,27.3149303,88.6052091,OpenStreetMap,node,11389445469,2026-11-26T07:29:59.916653+00:00
+Oasis Cafe,restaurant,Sikkim,,,,,27.1798776,88.5093058,OpenStreetMap,node,11657191830,2026-11-26T07:29:59.916664+00:00
+Rambles cafe,restaurant,Sikkim,,,,,27.2793574,88.2734257,OpenStreetMap,node,11659896454,2026-11-26T07:29:59.916674+00:00
+Hotel Golden Pagoda,restaurant,Sikkim,,,,,27.3282071,88.6123529,OpenStreetMap,node,11939924663,2026-11-26T07:29:59.916684+00:00
+Chai Chun,restaurant,Sikkim,,,,,27.329701,88.6126399,OpenStreetMap,node,11939997265,2026-11-26T07:29:59.916693+00:00
+Parivar Restaurant,restaurant,Sikkim,,,,,27.3293523,88.6123226,OpenStreetMap,node,11939997916,2026-11-26T07:29:59.916703+00:00
+ALFA Restaurant & Bar,restaurant,Sikkim,,,,,27.3295314,88.6123316,OpenStreetMap,node,11940007377,2026-11-26T07:29:59.916713+00:00
+Hotel Kanchendzonga,restaurant,Sikkim,,,,,27.3296012,88.6125825,OpenStreetMap,node,11940058381,2026-11-26T07:29:59.916722+00:00
+Durga Sweets & Fast Food,fast_food,Sikkim,,,,,27.3294664,88.6125579,OpenStreetMap,node,11940103135,2026-11-26T07:29:59.916731+00:00
+Yummy Tummy,restaurant,Sikkim,,,,,27.3286611,88.6125153,OpenStreetMap,node,11940106298,2026-11-26T07:29:59.916741+00:00
+Rainbow Fast Food,fast_food,Sikkim,,,,,27.3284885,88.612546,OpenStreetMap,node,11940117037,2026-11-26T07:29:59.916751+00:00
+Rhenock Hotel,restaurant,Sikkim,,,,,27.3275358,88.6131789,OpenStreetMap,node,11944637654,2026-11-26T07:29:59.916760+00:00
+Royal Potala,restaurant,Sikkim,,,,,27.3095691,88.5894007,OpenStreetMap,node,11945280638,2026-11-26T07:29:59.916770+00:00
+New Chopsticks,restaurant,Sikkim,,,,,27.3000685,88.5669727,OpenStreetMap,node,12231299801,2026-11-26T07:29:59.916779+00:00
+New Chopsticks,restaurant,Sikkim,,,,,27.3005885,88.5679993,OpenStreetMap,node,12231373702,2026-11-26T07:29:59.916788+00:00
+Roll House,fast_food,Sikkim,,,,,27.3291966,88.6124606,OpenStreetMap,node,12442327601,2026-11-26T07:29:59.916798+00:00
+DOMA,restaurant,Sikkim,,,,,27.3263782,88.6119946,OpenStreetMap,node,12444054204,2026-11-26T07:29:59.916810+00:00
+Cafeteria,restaurant,Sikkim,,,,,27.3595162,88.5646504,OpenStreetMap,node,13190049988,2026-11-26T07:29:59.916820+00:00
+Muskan fast food Biryani house,fast_food,Sikkim,,,,,27.3245409,88.6118019,OpenStreetMap,node,13190589793,2026-11-26T07:29:59.916830+00:00
+Chaat Adda,fast_food,Sikkim,,Gangtok,,,27.3269964,88.6122772,OpenStreetMap,node,13190645612,2026-11-26T07:29:59.916840+00:00
+Momo Kulture,fast_food,Sikkim,,Gangtok,New Market (suggested - same road as Chaatadda),,27.3271058,88.6123771,OpenStreetMap,node,13190645613,2026-11-26T07:29:59.916851+00:00
+Cloud Valley Cafe,restaurant,Sikkim,,,,,27.3741351,88.6886838,OpenStreetMap,node,13191765289,2026-11-26T07:29:59.916861+00:00
+Flavours of Punjab,restaurant,Sikkim,,,,,27.3293416,88.6119675,OpenStreetMap,node,13195195124,2026-11-26T07:29:59.916871+00:00
+The Shahi Darbar,restaurant,Sikkim,,,,,27.329346,88.6122189,OpenStreetMap,node,13195195139,2026-11-26T07:29:59.916880+00:00
+Jelly's Cafe,restaurant,Sikkim,,,,,27.3265471,88.6119855,OpenStreetMap,node,13195259583,2026-11-26T07:29:59.916889+00:00
+Hamro Bhansa Ghar,restaurant,Sikkim,,,,,27.3277513,88.6128895,OpenStreetMap,node,13195467083,2026-11-26T07:29:59.916899+00:00
+Sunrise Fast Food,fast_food,Sikkim,,,,,27.3291511,88.612636,OpenStreetMap,node,13195498149,2026-11-26T07:29:59.916909+00:00
+NESCAFE Cafe,cafe,Sikkim,,,,,27.1826731,88.5032069,OpenStreetMap,node,13196423124,2026-11-26T07:29:59.916919+00:00
+Domino's,fast_food,Sikkim,,,,,27.1814517,88.5029566,OpenStreetMap,node,13196423125,2026-11-26T07:29:59.916930+00:00
+food hut,cafe,Sikkim,,,,,27.182915,88.5017308,OpenStreetMap,node,13196423150,2026-11-26T07:29:59.916940+00:00
+Priya Restruant,restaurant,Sikkim,,,,,27.185569,88.5005995,OpenStreetMap,node,13196423196,2026-11-26T07:29:59.916949+00:00
+Mist & Mug,fast_food,Sikkim,,,,,27.3661316,88.6265182,OpenStreetMap,node,13196965620,2026-11-26T07:29:59.916959+00:00
+Café Yarphel,cafe,Sikkim,,,,,27.3370587,88.6192532,OpenStreetMap,node,13199951776,2026-11-26T07:29:59.916968+00:00
+Pema Fast Food,fast_food,Sikkim,,,,,27.3368424,88.6193379,OpenStreetMap,node,13199995350,2026-11-26T07:29:59.916978+00:00
+Zongri Bakery and Cafe,cafe,Sikkim,,,,,27.3290757,88.6135034,OpenStreetMap,node,13200259858,2026-11-26T07:29:59.916988+00:00
+Buthia's fast food,fast_food,Sikkim,,,,,27.3147694,88.6050616,OpenStreetMap,node,13201995186,2026-11-26T07:29:59.916999+00:00
+Gloria Bae,cafe,Sikkim,,,,,27.2976134,88.5668069,OpenStreetMap,node,13683919431,2026-11-26T07:29:59.917008+00:00
+Cave Cafe,cafe,Sikkim,,,,,27.3272483,88.5885001,OpenStreetMap,way,349527478,2026-11-26T07:29:59.917019+00:00
+Daily Delight Resturant,restaurant,Sikkim,,Gangtok,"Upper Yangang, 737134",,27.2957712,88.4119242,OpenStreetMap,way,1217437378,2026-11-26T07:29:59.917031+00:00
+Momo cafe,restaurant,Sikkim,,,,,27.2296277,88.3906094,OpenStreetMap,way,1245332478,2026-11-26T07:29:59.917043+00:00
+Rose Gardens & Restaurant,restaurant,Sikkim,,,,,27.154939,88.3430092,OpenStreetMap,way,1246476567,2026-11-26T07:29:59.917054+00:00
+Lebron rstraunt,restaurant,Sikkim,,,,,27.2476186,88.4252241,OpenStreetMap,way,1273530345,2026-11-26T07:29:59.917064+00:00
+McDonald's,fast_food,Sikkim,,,,,27.2477867,88.4245695,OpenStreetMap,way,1273530346,2026-11-26T07:29:59.917075+00:00
+Coffee Break,cafe,Sikkim,East Sikkim,Majitar,"RANGPO-GANGTOK Rd, opposide of Indian oil, 737136",,27.186755,88.4988484,OpenStreetMap,way,1437009574,2026-11-26T07:29:59.917086+00:00
+Denzong Dhaba,restaurant,Sikkim,,,,,27.1859847,88.5049875,OpenStreetMap,way,1437009577,2026-11-26T07:29:59.917098+00:00

@@ -1,0 +1,15 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+Domino's,fast_food,Mizoram,,,,,23.734471,92.7170439,OpenStreetMap,node,7992278234,2026-11-26T07:25:17.427672+00:00
+Ropuichhip Hotel,fast_food,Mizoram,,,Main road,,23.7929691,92.5728907,OpenStreetMap,node,8424553117,2026-11-26T07:25:17.427708+00:00
+Lungsen Police Station,restaurant,Mizoram,,,,9612790321,22.8744729,92.5880057,OpenStreetMap,node,10807470652,2026-11-26T07:25:17.427724+00:00
+LR Cafe,cafe,Mizoram,,,,,23.7479927,92.7205379,OpenStreetMap,node,11328697606,2026-11-26T07:25:17.427737+00:00
+cafeenn,cafe,Mizoram,,,,,23.7413423,92.7164422,OpenStreetMap,node,13051571523,2026-11-26T07:25:17.427748+00:00
+Gracie's cafe,cafe,Mizoram,,,,,23.7524204,92.7278607,OpenStreetMap,node,13055981776,2026-11-26T07:25:17.427759+00:00
+delicious local food,restaurant,Mizoram,,,,,23.7464377,92.7203463,OpenStreetMap,node,13057373814,2026-11-26T07:25:17.427770+00:00
+Elina new chaphai,restaurant,Mizoram,,,,,23.4719714,93.3344818,OpenStreetMap,node,13070350113,2026-11-26T07:25:17.427780+00:00
+CUM,restaurant,Mizoram,,,,,23.6451833,93.032364,OpenStreetMap,node,13081510839,2026-11-26T07:25:17.427790+00:00
+Domino's,restaurant,Mizoram,Aizawl,Aizawl,796001,,23.7345025,92.7170657,OpenStreetMap,way,1224862243,2026-11-26T07:25:17.427803+00:00
+Baskin Robins,restaurant,Mizoram,Aizawl,aizawl,796001,,23.7291823,92.7171909,OpenStreetMap,way,1224862253,2026-11-26T07:25:17.427816+00:00
+Pizza Hut,restaurant,Mizoram,aizawl,"Aizawl, Mizoram","khatla kawn, 796001",,23.7206821,92.7161855,OpenStreetMap,way,1224862277,2026-11-26T07:25:17.427829+00:00
+Domino's,fast_food,Mizoram,,,,,23.7534616,92.73218,OpenStreetMap,way,1317089781,2026-11-26T07:25:17.427841+00:00
+KFC,fast_food,Mizoram,,,,,23.7540533,92.7290655,OpenStreetMap,way,1320742772,2026-11-26T07:25:17.427853+00:00

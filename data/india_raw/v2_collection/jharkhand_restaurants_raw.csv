@@ -1,0 +1,246 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+Novelty Restaurant,restaurant,Jharkhand,,,831001,,22.7949922,86.1834678,OpenStreetMap,node,1274361411,2026-11-26T07:45:24.784056+00:00
+Pradhan Line Hotel,restaurant,Jharkhand,,,NH33,,22.8248414,86.2748259,OpenStreetMap,node,1312169856,2026-11-26T07:45:24.784077+00:00
+KFC,fast_food,Jharkhand,,,,,23.3541651,85.3328297,OpenStreetMap,node,2418747927,2026-11-26T07:45:24.784082+00:00
+Dhaba,restaurant,Jharkhand,,,,,22.2610264,85.7360397,OpenStreetMap,node,2419468780,2026-11-26T07:45:24.784086+00:00
+Palash,restaurant,Jharkhand,,,,,23.3502939,85.3263544,OpenStreetMap,node,2419776972,2026-11-26T07:45:24.784089+00:00
+Gaon Restaurant.,restaurant,Jharkhand,,,,,23.3601954,85.3575245,OpenStreetMap,node,2419780518,2026-11-26T07:45:24.784092+00:00
+Momo Point,restaurant,Jharkhand,,,,,23.3598872,85.3397057,OpenStreetMap,node,2419808761,2026-11-26T07:45:24.784095+00:00
+Dosa Plaza,restaurant,Jharkhand,,,,,23.3545472,85.3332324,OpenStreetMap,node,2426783158,2026-11-26T07:45:24.784098+00:00
+Tajna Line Hotel,restaurant,Jharkhand,,,,,23.1078513,85.2781552,OpenStreetMap,node,2426795152,2026-11-26T07:45:24.784100+00:00
+Hotel Jayshree,restaurant,Jharkhand,,ranchi,MG ROAD,,23.3503747,85.3254797,OpenStreetMap,node,2910314252,2026-11-26T07:45:24.784104+00:00
+Yuvraj,restaurant,Jharkhand,,ranchi,,,23.3443885,85.325294,OpenStreetMap,node,2910327600,2026-11-26T07:45:24.784107+00:00
+hotel raj,restaurant,Jharkhand,,,,,23.3514404,85.325545,OpenStreetMap,node,2910341047,2026-11-26T07:45:24.784109+00:00
+Cafe Coffee Day,cafe,Jharkhand,,,,,23.3757352,85.3246377,OpenStreetMap,node,2910370255,2026-11-26T07:45:24.784112+00:00
+capitol hill,restaurant,Jharkhand,,,,,23.362631,85.3238888,OpenStreetMap,node,2912309046,2026-11-26T07:45:24.784115+00:00
+hotel green view,restaurant,Jharkhand,,,,,23.3341128,85.3186362,OpenStreetMap,node,2936685764,2026-11-26T07:45:24.784118+00:00
+IT group cafe,cafe,Jharkhand,,,,,23.3549244,85.3228585,OpenStreetMap,node,2938920766,2026-11-26T07:45:24.784120+00:00
+sonali sweets,fast_food,Jharkhand,,,,,23.3761768,85.3335416,OpenStreetMap,node,3585015693,2026-11-26T07:45:24.784123+00:00
+Food Belle Restaurant,restaurant,Jharkhand,,,,,23.3807523,85.328753,OpenStreetMap,node,3585040293,2026-11-26T07:45:24.784126+00:00
+Madrasi hotel,restaurant,Jharkhand,,Jamshedpur,"J Road, 831001",,22.7958401,86.1835591,OpenStreetMap,node,3681621318,2026-11-26T07:45:24.784129+00:00
+Aashirwaad,restaurant,Jharkhand,,"bistupur, jamshedpur","J Road, 831001",,22.7958385,86.1834628,OpenStreetMap,node,3681628234,2026-11-26T07:45:24.784132+00:00
+shaligram sweets,fast_food,Jharkhand,,jamshedpur,"N Road, 831001",,22.7924399,86.1815403,OpenStreetMap,node,3681630933,2026-11-26T07:45:24.784135+00:00
+singh hotel,fast_food,Jharkhand,,jamshedpur,831001,,22.767555,86.1993339,OpenStreetMap,node,3681636389,2026-11-26T07:45:24.784138+00:00
+Domino's,fast_food,Jharkhand,,Jamshedpur,Bistupur main road,,22.7917681,86.1839959,OpenStreetMap,node,3705988079,2026-11-26T07:45:24.784141+00:00
+Student Palace,fast_food,Jharkhand,,,,,23.6672692,86.1697338,OpenStreetMap,node,4070267738,2026-11-26T07:45:24.784144+00:00
+Bokaro Club,restaurant,Jharkhand,,,,,23.6627883,86.1674378,OpenStreetMap,node,4070267739,2026-11-26T07:45:24.784146+00:00
+Palm Resort Pvt.Ltd,restaurant,Jharkhand,,Tilta  Ratu,835222,,23.4061343,85.2429528,OpenStreetMap,node,4239061942,2026-11-26T07:45:24.784150+00:00
+Sangam,restaurant,Jharkhand,,"Ratu,Kathitar,Ranchi",835222,,23.4103493,85.233925,OpenStreetMap,node,4241723198,2026-11-26T07:45:24.784152+00:00
+Cafeteria,cafe,Jharkhand,,,,,23.3791346,85.3333284,OpenStreetMap,node,4244238989,2026-11-26T07:45:24.784155+00:00
+Panipuri,fast_food,Jharkhand,,,,,23.3791315,85.3332919,OpenStreetMap,node,4244239740,2026-11-26T07:45:24.784158+00:00
+smosaa stall,fast_food,Jharkhand,,,,,23.379151,85.3332954,OpenStreetMap,node,4244242377,2026-11-26T07:45:24.784160+00:00
+Kaveri,restaurant,Jharkhand,,Ranchi,"MG ROAD, 834001",,23.357776,85.3252834,OpenStreetMap,node,4245891832,2026-11-26T07:45:24.784163+00:00
+Pani puri,fast_food,Jharkhand,,,,,23.3682189,85.3319596,OpenStreetMap,node,4246207831,2026-11-26T07:45:24.784166+00:00
+mirchi zone,restaurant,Jharkhand,,,,,23.3871545,85.4614932,OpenStreetMap,node,4247031271,2026-11-26T07:45:24.784168+00:00
+xoxo,restaurant,Jharkhand,,,,,23.3656751,85.3470687,OpenStreetMap,node,4253960174,2026-11-26T07:45:24.784171+00:00
+Pet Puja,restaurant,Jharkhand,,Jharkhand,BIT Road,,23.4272552,85.4119525,OpenStreetMap,node,4254427603,2026-11-26T07:45:24.784174+00:00
+Food Street,fast_food,Jharkhand,,,,,23.3442278,85.3244378,OpenStreetMap,node,4314660100,2026-11-26T07:45:24.784177+00:00
+Kaveri Restaurant S. b. Roy Road,restaurant,Jharkhand,,,"786, S. B. Roy Road, 816109",7091353638,25.2448041,87.631598,OpenStreetMap,node,4583088989,2026-11-26T07:45:24.784180+00:00
+Apple Restaurent,restaurant,Jharkhand,,,,,23.7996112,86.4279474,OpenStreetMap,node,5266835584,2026-11-26T07:45:24.784183+00:00
+Pizzapuram,cafe,Jharkhand,,,,,22.8156587,86.1857523,OpenStreetMap,node,5331658976,2026-11-26T07:45:24.784186+00:00
+Cafe Regal,cafe,Jharkhand,,,,,22.7984021,86.183841,OpenStreetMap,node,5331659125,2026-11-26T07:45:24.784188+00:00
+KFC,fast_food,Jharkhand,,,,,22.80737,86.2024627,OpenStreetMap,node,5331659223,2026-11-26T07:45:24.784191+00:00
+good food,restaurant,Jharkhand,,ranchi,"dhramkata,kokar, NH33, 834001",,23.3818228,85.3658681,OpenStreetMap,node,5852930322,2026-11-26T07:45:24.784194+00:00
+Park Corner,fast_food,Jharkhand,,Ranchi,"Krishna Park, Doranda college road, 834002",,23.3364674,85.3184207,OpenStreetMap,node,6235445762,2026-11-26T07:45:24.784198+00:00
+ahmcvl,restaurant,Jharkhand,,DALTONGANJ,"ghzh, Panki Road SH33, 822101",,24.037455,84.0750711,OpenStreetMap,node,6273565560,2026-11-26T07:45:24.784201+00:00
+rasiklal,restaurant,Jharkhand,,,,,23.3386411,85.3213832,OpenStreetMap,node,6366660093,2026-11-26T07:45:24.784204+00:00
+Shuffle,cafe,Jharkhand,,Ranchi,"Ground Floor, Savita Palace, Kanke Rd, 834008",+91 8092541654,23.3972079,85.3145157,OpenStreetMap,node,7774895785,2026-11-26T07:45:24.784207+00:00
+The Clove,restaurant,Jharkhand,,,,,23.759557,86.7571882,OpenStreetMap,node,8311798329,2026-11-26T07:45:24.784210+00:00
+Rimjhim Hotel,restaurant,Jharkhand,,,828204,,23.7626425,86.7547409,OpenStreetMap,node,8313982134,2026-11-26T07:45:24.784213+00:00
+Rajgharana Restraunt,restaurant,Jharkhand,,,,,23.982389,85.3771379,OpenStreetMap,node,8552314293,2026-11-26T07:45:24.784216+00:00
+Swayambar Marriage Hall,restaurant,Jharkhand,,hazaribagh,825301,,23.9823518,85.3773008,OpenStreetMap,node,8552314294,2026-11-26T07:45:24.784219+00:00
+food resort,restaurant,Jharkhand,,,,,24.272148,87.2489897,OpenStreetMap,node,8886930982,2026-11-26T07:45:24.784221+00:00
+Mirch Masala,restaurant,Jharkhand,,,,,23.3534944,85.3322307,OpenStreetMap,node,8917207364,2026-11-26T07:45:24.784224+00:00
+Domino's,fast_food,Jharkhand,,,,,23.3531959,85.3235651,OpenStreetMap,node,8917244305,2026-11-26T07:45:24.784227+00:00
+The Cake Shop,restaurant,Jharkhand,,,,,23.3540207,85.3242144,OpenStreetMap,node,8917324489,2026-11-26T07:45:24.784230+00:00
+Jungli Moondance,restaurant,Jharkhand,,,,,23.3510377,85.325757,OpenStreetMap,node,8917333148,2026-11-26T07:45:24.784233+00:00
+Tandoor Junction,restaurant,Jharkhand,,,,,23.3496089,85.3309291,OpenStreetMap,node,8917356199,2026-11-26T07:45:24.784235+00:00
+Sunny Restaurant,restaurant,Jharkhand,,,,,23.3495972,85.3313411,OpenStreetMap,node,8917356756,2026-11-26T07:45:24.784238+00:00
+Eat,restaurant,Jharkhand,,,,,23.3495431,85.3295677,OpenStreetMap,node,8917374001,2026-11-26T07:45:24.784240+00:00
+HOTEL,restaurant,Jharkhand,,,,,24.036306,85.3830636,OpenStreetMap,node,9083418012,2026-11-26T07:45:24.784243+00:00
+PAAPI PET,restaurant,Jharkhand,,,,,24.0020861,85.3721905,OpenStreetMap,node,9083418015,2026-11-26T07:45:24.784245+00:00
+Dosa King,restaurant,Jharkhand,,,,,22.7981995,86.1798224,OpenStreetMap,node,9192552285,2026-11-26T07:45:24.784248+00:00
+Khalsa Dhaba,restaurant,Jharkhand,,,,,22.7136283,86.20295,OpenStreetMap,node,9269364992,2026-11-26T07:45:24.784250+00:00
+Pradeep Golgappa Stand,fast_food,Jharkhand,,,,,22.8095551,86.2055292,OpenStreetMap,node,9447314295,2026-11-26T07:45:24.784253+00:00
+Jagjeet Hotel,restaurant,Jharkhand,,,"Kandarberya, Jharkhand",,22.886839,86.13536,OpenStreetMap,node,9482892371,2026-11-26T07:45:24.784256+00:00
+Manjeet Dhaba,restaurant,Jharkhand,,,,,22.8868101,86.1349897,OpenStreetMap,node,9482967850,2026-11-26T07:45:24.784259+00:00
+Hotel Panchwati,restaurant,Jharkhand,,,NH 33,,23.1923252,85.5544235,OpenStreetMap,node,9489528775,2026-11-26T07:45:24.784262+00:00
+Unplugged - Music Bristo & Kitchen,restaurant,Jharkhand,,,,,22.8104367,86.2027407,OpenStreetMap,node,9502840408,2026-11-26T07:45:24.784265+00:00
+Hotel Bibha,restaurant,Jharkhand,,,Pancha,,23.21195,85.4937099,OpenStreetMap,node,9577331941,2026-11-26T07:45:24.784267+00:00
+Bombay Brew Cafe,restaurant,Jharkhand,,,"Ray Building, Uliyan Main Road, Kadma",,22.8132126,86.1594014,OpenStreetMap,node,9759809419,2026-11-26T07:45:24.784270+00:00
+Pahalwan Hotel,restaurant,Jharkhand,,,,,23.350176,85.3054264,OpenStreetMap,node,9768697482,2026-11-26T07:45:24.784273+00:00
+The Kitchen Inn,restaurant,Jharkhand,,,,,23.3501698,85.3054994,OpenStreetMap,node,9768697483,2026-11-26T07:45:24.784276+00:00
+Kaveri's Restaurant,restaurant,Jharkhand,,,,,23.3504493,85.3049677,OpenStreetMap,node,9768697484,2026-11-26T07:45:24.784278+00:00
+Aahar-e Bangali,restaurant,Jharkhand,,,,,23.8320035,86.5070846,OpenStreetMap,node,9772174109,2026-11-26T07:45:24.784281+00:00
+Smoke Wood Restaurant,restaurant,Jharkhand,,,,,23.8233134,86.4791036,OpenStreetMap,node,9772348044,2026-11-26T07:45:24.784284+00:00
+Dhanraj Kitchen,restaurant,Jharkhand,,,,,23.8214366,86.4731776,OpenStreetMap,node,9772348051,2026-11-26T07:45:24.784286+00:00
+Biryani By Kilo,restaurant,Jharkhand,,,,,23.8208734,86.4715632,OpenStreetMap,node,9772348053,2026-11-26T07:45:24.784289+00:00
+Sawariya Cafe,restaurant,Jharkhand,,,,,23.8202737,86.4702481,OpenStreetMap,node,9772348058,2026-11-26T07:45:24.784292+00:00
+Sweet Vijay,restaurant,Jharkhand,,,,,23.8201548,86.4705476,OpenStreetMap,node,9772348059,2026-11-26T07:45:24.784295+00:00
+Champaran Meat House,restaurant,Jharkhand,,,,,23.8200756,86.4689056,OpenStreetMap,node,9772348060,2026-11-26T07:45:24.784297+00:00
+Dhaba Cafe,restaurant,Jharkhand,,,,,23.8197492,86.4684215,OpenStreetMap,node,9772348064,2026-11-26T07:45:24.784300+00:00
+Tandoor Kitchen,restaurant,Jharkhand,,,,,23.8179873,86.4691761,OpenStreetMap,node,9772348066,2026-11-26T07:45:24.784302+00:00
+Konark,restaurant,Jharkhand,,,,,23.8132704,86.4612852,OpenStreetMap,node,9774092656,2026-11-26T07:45:24.784305+00:00
+Highway Treat Bhojanalaya,restaurant,Jharkhand,,,,,23.813942,86.4605179,OpenStreetMap,node,9774092659,2026-11-26T07:45:24.784308+00:00
+Dhanbad Biryani Company,restaurant,Jharkhand,,,,,23.8120757,86.4574544,OpenStreetMap,node,9774092666,2026-11-26T07:45:24.784310+00:00
+New Rohit Hotel,restaurant,Jharkhand,,,,,23.8121004,86.4570561,OpenStreetMap,node,9774092667,2026-11-26T07:45:24.784313+00:00
+Bahamas Fusion Kitchen,restaurant,Jharkhand,,,,,23.8122073,86.4568684,OpenStreetMap,node,9774092670,2026-11-26T07:45:24.784316+00:00
+I-Ball Restaurant,restaurant,Jharkhand,,,,,23.8119719,86.4553908,OpenStreetMap,node,9774092676,2026-11-26T07:45:24.784318+00:00
+Hotel Triotel,restaurant,Jharkhand,,,,,23.8111348,86.4537878,OpenStreetMap,node,9774092682,2026-11-26T07:45:24.784321+00:00
+Sahi Darbar,restaurant,Jharkhand,,,,,23.8113666,86.4442404,OpenStreetMap,node,9774092692,2026-11-26T07:45:24.784323+00:00
+Domino's,fast_food,Jharkhand,,,,,23.7859975,86.4167819,OpenStreetMap,node,9774146416,2026-11-26T07:45:24.784326+00:00
+Kaveri's,restaurant,Jharkhand,,,,,23.7864309,86.4176703,OpenStreetMap,node,9774153718,2026-11-26T07:45:24.784329+00:00
+Frankie,restaurant,Jharkhand,,,,,23.788025,86.4183236,OpenStreetMap,node,9774153729,2026-11-26T07:45:24.784332+00:00
+Madhulika,restaurant,Jharkhand,,,,,23.7874036,86.4192091,OpenStreetMap,node,9774153734,2026-11-26T07:45:24.784335+00:00
+Food Corner,restaurant,Jharkhand,,,,,23.7828711,86.4154998,OpenStreetMap,node,9774153738,2026-11-26T07:45:24.784337+00:00
+Mahendra Hotel,restaurant,Jharkhand,,,,,23.8326062,86.5079922,OpenStreetMap,node,9839368140,2026-11-26T07:45:24.784340+00:00
+Webli House,cafe,Jharkhand,,,,,23.8121913,86.4578794,OpenStreetMap,node,9840878155,2026-11-26T07:45:24.784342+00:00
+Tasty Bites,restaurant,Jharkhand,,,,,23.8111944,86.4440808,OpenStreetMap,node,9840883850,2026-11-26T07:45:24.784345+00:00
+Momos Center,fast_food,Jharkhand,,,,,23.809685,86.4431391,OpenStreetMap,node,9840883852,2026-11-26T07:45:24.784348+00:00
+Shiv Shankar Dosa,fast_food,Jharkhand,,,,,23.8092773,86.4428792,OpenStreetMap,node,9840883853,2026-11-26T07:45:24.784350+00:00
+Shawarma Street,restaurant,Jharkhand,,,,,23.8090902,86.4428168,OpenStreetMap,node,9840883870,2026-11-26T07:45:24.784353+00:00
+The Bonfire,restaurant,Jharkhand,,,,,23.8065705,86.4431617,OpenStreetMap,node,9840883872,2026-11-26T07:45:24.784355+00:00
+South Ka Swad,restaurant,Jharkhand,,,,,23.8025489,86.4350876,OpenStreetMap,node,9841049631,2026-11-26T07:45:24.784358+00:00
+Butter Naan,restaurant,Jharkhand,,,,,23.8022463,86.4355549,OpenStreetMap,node,9841049632,2026-11-26T07:45:24.784360+00:00
+Hotel Shere Punjab,restaurant,Jharkhand,,,,,23.7936787,86.4272992,OpenStreetMap,node,9841049649,2026-11-26T07:45:24.784363+00:00
+Bharat Hindu Hotel,restaurant,Jharkhand,,,,,23.7934405,86.4271053,OpenStreetMap,node,9841049650,2026-11-26T07:45:24.784366+00:00
+New Biryani Corner,restaurant,Jharkhand,,,,,23.7883958,86.4200944,OpenStreetMap,node,9841049655,2026-11-26T07:45:24.784368+00:00
+Waikiki,restaurant,Jharkhand,,,,,23.7880454,86.4185107,OpenStreetMap,node,9841049660,2026-11-26T07:45:24.784370+00:00
+Tikki Talk,restaurant,Jharkhand,,,,,23.788132,86.417857,OpenStreetMap,node,9841049662,2026-11-26T07:45:24.784373+00:00
+Asha hotel,restaurant,Jharkhand,,,,,22.619214,84.5017225,OpenStreetMap,node,9916737419,2026-11-26T07:45:24.784376+00:00
+Durga hotel,restaurant,Jharkhand,,,,,22.6087204,84.5016152,OpenStreetMap,node,9916752818,2026-11-26T07:45:24.784378+00:00
+Sara hotel,restaurant,Jharkhand,,,,,22.6078086,84.501378,OpenStreetMap,node,9922049217,2026-11-26T07:45:24.784381+00:00
+Anushka Burger Center,fast_food,Jharkhand,,,,,22.801094,86.2615237,OpenStreetMap,node,9922626366,2026-11-26T07:45:24.784384+00:00
+Anshika Chienese Hub,fast_food,Jharkhand,,,,,23.3639013,85.3088342,OpenStreetMap,node,10273483410,2026-11-26T07:45:24.784386+00:00
+Chennai Kitchen,restaurant,Jharkhand,,,,,23.3346512,85.3184135,OpenStreetMap,node,10735350705,2026-11-26T07:45:24.784389+00:00
+The Furfect Milkshake bar,cafe,Jharkhand,,ranchi,"UGF 1, Maple plaza, Ashok Nagar road no.2, 834002",7258005598,23.3504678,85.3063478,OpenStreetMap,node,10765927696,2026-11-26T07:45:24.784392+00:00
+Lemon,restaurant,Jharkhand,,,828104,,23.817682,86.4097997,OpenStreetMap,node,10820766605,2026-11-26T07:45:24.784395+00:00
+Shyamali Sweets,restaurant,Jharkhand,,,,,23.3379433,85.3136894,OpenStreetMap,node,10902633303,2026-11-26T07:45:24.784397+00:00
+Ruchika Fast food,fast_food,Jharkhand,,,,,23.3380033,85.3120271,OpenStreetMap,node,10960101353,2026-11-26T07:45:24.784400+00:00
+Moreish,cafe,Jharkhand,,,,,23.3377101,85.3143173,OpenStreetMap,node,10960377198,2026-11-26T07:45:24.784402+00:00
+Manjushree Sweet Shop,restaurant,Jharkhand,,,,,23.3381065,85.3116071,OpenStreetMap,node,10960415582,2026-11-26T07:45:24.784405+00:00
+Slice Thrice,fast_food,Jharkhand,,,,,22.5881215,86.474087,OpenStreetMap,node,11007148606,2026-11-26T07:45:24.784407+00:00
+Hot 'N' Cold,cafe,Jharkhand,,,,,23.4118828,85.4411299,OpenStreetMap,node,11470397476,2026-11-26T07:45:24.784410+00:00
+Maharaja Sweets,restaurant,Jharkhand,,,,,24.2635373,87.2475173,OpenStreetMap,node,11690437302,2026-11-26T07:45:24.784413+00:00
+Manali Sweets,restaurant,Jharkhand,,,,,24.257083,87.2509266,OpenStreetMap,node,11691444577,2026-11-26T07:45:24.784415+00:00
+Apna Hostel,restaurant,Jharkhand,,,,,24.2629472,87.2496929,OpenStreetMap,node,11691461001,2026-11-26T07:45:24.784418+00:00
+Makhanbhog,restaurant,Jharkhand,,,,,24.2648176,87.2455876,OpenStreetMap,node,11691461741,2026-11-26T07:45:24.784420+00:00
+Indian Biryani,restaurant,Jharkhand,,,,,24.2627196,87.2510176,OpenStreetMap,node,11691470018,2026-11-26T07:45:24.784423+00:00
+Satya Food and Sweets,restaurant,Jharkhand,,,,,24.2585363,87.2553694,OpenStreetMap,node,11691476232,2026-11-26T07:45:24.784425+00:00
+Maa Tara Restaurant,restaurant,Jharkhand,,,,,24.2628913,87.249995,OpenStreetMap,node,11691550200,2026-11-26T07:45:24.784428+00:00
+Manali Soda Shop,restaurant,Jharkhand,,,,,24.2611204,87.2440005,OpenStreetMap,node,11691609785,2026-11-26T07:45:24.784431+00:00
+Hotel Saket,restaurant,Jharkhand,,,,,24.2668637,87.2493204,OpenStreetMap,node,11691615550,2026-11-26T07:45:24.784433+00:00
+Maihar Garden,restaurant,Jharkhand,,,,,24.2593242,87.2489691,OpenStreetMap,node,11691620676,2026-11-26T07:45:24.784436+00:00
+Mystique Grill,restaurant,Jharkhand,,,,,22.8293083,86.2248001,OpenStreetMap,node,11691636297,2026-11-26T07:45:24.784438+00:00
+Cafe Unplugged,fast_food,Jharkhand,,,825301,,23.9769456,85.3636165,OpenStreetMap,node,11691766126,2026-11-26T07:45:24.784442+00:00
+Litti Darbar Hazaribagh,restaurant,Jharkhand,,hazaribagh,,,23.9805321,85.3743305,OpenStreetMap,node,11691766144,2026-11-26T07:45:24.784444+00:00
+Kalika Bhojnalay,restaurant,Jharkhand,,Hazaribagh,,,23.976064,85.3740437,OpenStreetMap,node,11691766147,2026-11-26T07:45:24.784447+00:00
+Lockup Restaurant & Banquet,restaurant,Jharkhand,,Hazaribagh,,,23.9977227,85.3720321,OpenStreetMap,node,11691766161,2026-11-26T07:45:24.784450+00:00
+Pepper and Salt,restaurant,Jharkhand,,Hazaribagh,,,23.9977206,85.3727945,OpenStreetMap,node,11691766162,2026-11-26T07:45:24.784452+00:00
+PATIYALA PEG,restaurant,Jharkhand,,,,,22.7885279,86.1761616,OpenStreetMap,node,11768326033,2026-11-26T07:45:24.784455+00:00
+Tiwari Hotel,restaurant,Jharkhand,DHANBAD,Dhanbad,"near janta medical, Hirapur, Pandey Muhalla, Dhanbad, Jharkhand, 826001",,23.7975381,86.4382588,OpenStreetMap,node,12497574938,2026-11-26T07:45:24.784458+00:00
+dominos,cafe,Jharkhand,,,,,24.4909891,86.6816643,OpenStreetMap,node,12596280327,2026-11-26T07:45:24.784460+00:00
+TTF,cafe,Jharkhand,,,,,24.4961488,86.6870641,OpenStreetMap,node,12596283932,2026-11-26T07:45:24.784463+00:00
+mba chaiwala,cafe,Jharkhand,,,,,24.4968436,86.6845543,OpenStreetMap,node,12596291527,2026-11-26T07:45:24.784466+00:00
+bakery shop,cafe,Jharkhand,,,,,24.491439,86.6876405,OpenStreetMap,node,12596292505,2026-11-26T07:45:24.784468+00:00
+McDonald's,fast_food,Jharkhand,,,,,23.8128543,86.4591265,OpenStreetMap,node,12865946196,2026-11-26T07:45:24.784471+00:00
+KFC,fast_food,Jharkhand,,,,,23.8204752,86.4699014,OpenStreetMap,node,12865976656,2026-11-26T07:45:24.784473+00:00
+mayukha dine and drink,restaurant,Jharkhand,Ramgarh,ramgarh,"near mmt ground, gola road, 829122",9065274100,23.6242499,85.5298277,OpenStreetMap,node,12865993729,2026-11-26T07:45:24.784476+00:00
+Pizza Hut,restaurant,Jharkhand,,,,,23.811901,86.4550603,OpenStreetMap,node,12866120967,2026-11-26T07:45:24.784479+00:00
+Burger King,fast_food,Jharkhand,,,,,23.8120953,86.4565915,OpenStreetMap,node,12866124033,2026-11-26T07:45:24.784482+00:00
+Topaz Canteen,fast_food,Jharkhand,,,,,23.818061,86.4380564,OpenStreetMap,node,12880431583,2026-11-26T07:45:24.784484+00:00
+The Singh Saab,restaurant,Jharkhand,east singhbhum,Jamshedpur,831012,,22.8259274,86.222391,OpenStreetMap,node,13002008120,2026-11-26T07:45:24.784487+00:00
+Hot Point,fast_food,Jharkhand,,,,,23.2947278,85.3118838,OpenStreetMap,node,13115880158,2026-11-26T07:45:24.784490+00:00
+Chai Cafeteria,cafe,Jharkhand,,Ranchi,834003,,23.2969761,85.3129818,OpenStreetMap,node,13116134820,2026-11-26T07:45:24.784493+00:00
+The Food Court NXT,restaurant,Jharkhand,,Ranchi,834003,,23.2999355,85.3131227,OpenStreetMap,node,13116134886,2026-11-26T07:45:24.784496+00:00
+Chicken Shwarma,fast_food,Jharkhand,,Ranchi,834003,,23.2999052,85.313385,OpenStreetMap,node,13116134888,2026-11-26T07:45:24.784499+00:00
+The Shack kitchen,restaurant,Jharkhand,,Ranchi,834003,,23.3019607,85.3146534,OpenStreetMap,node,13116134893,2026-11-26T07:45:24.784501+00:00
+The Cove Restaurant,restaurant,Jharkhand,,,,,23.3021242,85.3147349,OpenStreetMap,node,13116134894,2026-11-26T07:45:24.784504+00:00
+Laziz Restaurant,restaurant,Jharkhand,,Ranchi,834003,,23.3019883,85.3146104,OpenStreetMap,node,13116134895,2026-11-26T07:45:24.784506+00:00
+The Food Court,restaurant,Jharkhand,,Ranchi,834003,,23.3042574,85.3149667,OpenStreetMap,node,13116136602,2026-11-26T07:45:24.784509+00:00
+TAO BAO,restaurant,Jharkhand,,,,,23.3077044,85.3165512,OpenStreetMap,node,13116136606,2026-11-26T07:45:24.784512+00:00
+Crown 7,restaurant,Jharkhand,,,,,23.3139828,85.3177413,OpenStreetMap,node,13116136612,2026-11-26T07:45:24.784514+00:00
+RFC,fast_food,Jharkhand,,,,,23.315315,85.3173712,OpenStreetMap,node,13116136613,2026-11-26T07:45:24.784517+00:00
+Chai Sutta Bar,cafe,Jharkhand,Ranchi,Ranchi,"Markaz tower, beside Nirmala college, New Parastoli, Doranda, 834002",,23.3358602,85.3150412,OpenStreetMap,node,13131349661,2026-11-26T07:45:24.784520+00:00
+Menu Master,restaurant,Jharkhand,,Ranchi,"Pithiyatil, 834003",,23.277045,85.3069152,OpenStreetMap,node,13146806279,2026-11-26T07:45:24.784523+00:00
+1st Meet,restaurant,Jharkhand,,Ranchi,834003,,23.2837942,85.3093021,OpenStreetMap,node,13146806280,2026-11-26T07:45:24.784526+00:00
+Mom's Kitchen,restaurant,Jharkhand,,,,,23.2853922,85.3094477,OpenStreetMap,node,13146806281,2026-11-26T07:45:24.784529+00:00
+Khalsa Pizza & Burger,restaurant,Jharkhand,,,,,23.286734,85.3096056,OpenStreetMap,node,13146806283,2026-11-26T07:45:24.784531+00:00
+Golki Cafe & Dinner,restaurant,Jharkhand,,,,,23.3007097,85.3180308,OpenStreetMap,node,13146806285,2026-11-26T07:45:24.784534+00:00
+Tapan Sweets & Bakery,restaurant,Jharkhand,,,,,23.3022618,85.3140202,OpenStreetMap,node,13146806286,2026-11-26T07:45:24.784536+00:00
+Mahto Hotel,restaurant,Jharkhand,,,,,23.2906164,85.3836622,OpenStreetMap,node,13147562752,2026-11-26T07:45:24.784539+00:00
+Sibil Jomea,restaurant,Jharkhand,,,"Kharsidag, 834010",,23.267847,85.3810052,OpenStreetMap,node,13147562753,2026-11-26T07:45:24.784542+00:00
+Watsal Cafe,restaurant,Jharkhand,,,"Kharsidag, 834010",,23.2677741,85.3809151,OpenStreetMap,node,13147562754,2026-11-26T07:45:24.784544+00:00
+Evara,restaurant,Jharkhand,,,,,23.2836843,85.3839234,OpenStreetMap,node,13147562757,2026-11-26T07:45:24.784547+00:00
+Tito Family Restaurant,restaurant,Jharkhand,,,,,23.2979041,85.3728281,OpenStreetMap,node,13147562760,2026-11-26T07:45:24.784550+00:00
+Devkala,restaurant,Jharkhand,,,,,23.3058624,85.3444486,OpenStreetMap,node,13147562761,2026-11-26T07:45:24.784553+00:00
+Bhola Litti,restaurant,Jharkhand,,,,,23.3246029,85.3143533,OpenStreetMap,node,13147710728,2026-11-26T07:45:24.784555+00:00
+Swapan's Family Restaurant,restaurant,Jharkhand,,,,,23.3280374,85.3146002,OpenStreetMap,node,13147710729,2026-11-26T07:45:24.784558+00:00
+Sky Dine,restaurant,Jharkhand,,,,,23.3252318,85.3102053,OpenStreetMap,node,13147710732,2026-11-26T07:45:24.784560+00:00
+Moksha Family Restro & Bar,restaurant,Jharkhand,,,,,23.3252687,85.3102502,OpenStreetMap,node,13147710733,2026-11-26T07:45:24.784562+00:00
+Handee Restaurant,restaurant,Jharkhand,,,,,23.3227348,85.3083735,OpenStreetMap,node,13147710736,2026-11-26T07:45:24.784565+00:00
+Aditi Kitchen,restaurant,Jharkhand,,Ranchi,834003,,23.3020102,85.314216,OpenStreetMap,node,13167089007,2026-11-26T07:45:24.784568+00:00
+McDonald's,fast_food,Jharkhand,,,,,23.3761878,85.3328824,OpenStreetMap,node,13167212289,2026-11-26T07:45:24.784570+00:00
+McDonald's,fast_food,Jharkhand,,,,,23.3787133,85.3147367,OpenStreetMap,node,13167212292,2026-11-26T07:45:24.784573+00:00
+Himalayan Fast Food Centre,fast_food,Jharkhand,,Ranchi,"Hesag, 834003",,23.2949461,85.3192524,OpenStreetMap,node,13172420497,2026-11-26T07:45:24.784576+00:00
+Punjabi Kitchen,restaurant,Jharkhand,,,,,23.3680195,85.3378899,OpenStreetMap,node,13172763562,2026-11-26T07:45:24.784578+00:00
+Jashn The Restaurant,restaurant,Jharkhand,,,,,23.367886,85.3366084,OpenStreetMap,node,13172763563,2026-11-26T07:45:24.784581+00:00
+Sarna Hotel,restaurant,Jharkhand,,Ranchi,"Daladili Chowk, Ring Road, 835222",,23.370923,85.2325799,OpenStreetMap,node,13302852820,2026-11-26T07:45:24.784584+00:00
+Ravi Hotel,restaurant,Jharkhand,,,,,23.372033,85.2328105,OpenStreetMap,node,13302852821,2026-11-26T07:45:24.784586+00:00
+Moe Jharkhandi Hotel,restaurant,Jharkhand,,,,,23.3729634,85.2324157,OpenStreetMap,node,13302852822,2026-11-26T07:45:24.784589+00:00
+Mess,restaurant,Jharkhand,,,,,23.3382722,85.2539163,OpenStreetMap,node,13319878878,2026-11-26T07:45:24.784591+00:00
+Nescafe,cafe,Jharkhand,,,,,23.3406662,85.2538685,OpenStreetMap,node,13319878882,2026-11-26T07:45:24.784594+00:00
+Rqjendra fast food,fast_food,Jharkhand,Koderma,Jhumri telaiya,825409,,24.4248743,85.5359474,OpenStreetMap,node,13382617390,2026-11-26T07:45:24.784596+00:00
+Tasty Andaaz,restaurant,Jharkhand,,,,,23.3189223,85.2685073,OpenStreetMap,node,13430331702,2026-11-26T07:45:24.784599+00:00
+Dhurwa Mutton,restaurant,Jharkhand,,,,,23.3207896,85.2647905,OpenStreetMap,node,13430331703,2026-11-26T07:45:24.784602+00:00
+KFC,restaurant,Jharkhand,,,,,23.815666,86.4424675,OpenStreetMap,node,13440277530,2026-11-26T07:45:24.784604+00:00
+Arushi Food Truck,fast_food,Jharkhand,,,834010,,23.298271,85.3709204,OpenStreetMap,node,13703121779,2026-11-26T07:45:24.784607+00:00
+Pizza Hut,restaurant,Jharkhand,,,,,23.3541029,85.3327887,OpenStreetMap,node,13754452042,2026-11-26T07:45:24.784609+00:00
+Burger King,fast_food,Jharkhand,,,,,23.3540541,85.3327438,OpenStreetMap,node,13754452043,2026-11-26T07:45:24.784612+00:00
+Pergola Restaurant,restaurant,Jharkhand,,,834010,,23.2829659,85.3838146,OpenStreetMap,node,13806086901,2026-11-26T07:45:24.784614+00:00
+C For Cafe,cafe,Jharkhand,Pakur,Pakur,"1st Floor,Balaji Supermarket, near SBI Bazar Branch, Harindanga Bazaar, 816107",084349 48037,24.636778,87.8524635,OpenStreetMap,node,14050460593,2026-11-26T07:45:24.784618+00:00
+Amritulya cafe,cafe,Jharkhand,ranchi,,"opposite brahma chari nahar, 834008",,23.419603,85.3173039,OpenStreetMap,node,14051946337,2026-11-26T07:45:24.784620+00:00
+Bangali Hotel,restaurant,Jharkhand,,,"Pani Tanki-Paharpuri Road, 829206",,23.7431719,84.5130638,OpenStreetMap,node,14133492303,2026-11-26T07:45:24.784624+00:00
+B.S. Sweets,restaurant,Jharkhand,,,834010,,23.2894765,85.3837001,OpenStreetMap,node,14184210501,2026-11-26T07:45:24.784627+00:00
+Gupta Roll,fast_food,Jharkhand,,,,,23.3501433,85.3212854,OpenStreetMap,node,14288712201,2026-11-26T07:45:24.784629+00:00
+Little Cafe,fast_food,Jharkhand,,,,,23.3494805,85.321187,OpenStreetMap,node,14288712301,2026-11-26T07:45:24.784632+00:00
+Mahi Restaurant,restaurant,Jharkhand,,,,,23.3530488,85.2984869,OpenStreetMap,way,287431219,2026-11-26T07:45:24.784635+00:00
+Hotel AVN Grand,restaurant,Jharkhand,,,,,23.3570525,85.324248,OpenStreetMap,way,287431300,2026-11-26T07:45:24.784638+00:00
+trishna restaurant,restaurant,Jharkhand,,,,,23.353366,85.2994112,OpenStreetMap,way,287432266,2026-11-26T07:45:24.784641+00:00
+river view,restaurant,Jharkhand,,ranchi,,,23.3330269,85.3181498,OpenStreetMap,way,287662931,2026-11-26T07:45:24.784644+00:00
+Bawarchi Restaurant,restaurant,Jharkhand,,,,,23.3496312,85.3076023,OpenStreetMap,way,287812922,2026-11-26T07:45:24.784647+00:00
+Apni Rasoi,restaurant,Jharkhand,,,,,23.4124942,85.4416705,OpenStreetMap,way,326477140,2026-11-26T07:45:24.784650+00:00
+aanand vatika,restaurant,Jharkhand,,,,,23.3757131,85.3347653,OpenStreetMap,way,352725542,2026-11-26T07:45:24.784652+00:00
+apsara hotel,restaurant,Jharkhand,,,,,23.3741996,85.3362389,OpenStreetMap,way,352726644,2026-11-26T07:45:24.784655+00:00
+PARIJAT Hall,restaurant,Jharkhand,,,,,23.374781,85.3362285,OpenStreetMap,way,352728463,2026-11-26T07:45:24.784658+00:00
+KAVERI RESTAURENT,restaurant,Jharkhand,,,,,23.375148,85.3356676,OpenStreetMap,way,352734706,2026-11-26T07:45:24.784660+00:00
+Gupta Hotel,restaurant,Jharkhand,,,,,22.7794412,86.1425416,OpenStreetMap,way,361356177,2026-11-26T07:45:24.784663+00:00
+Ashoka Hotel,restaurant,Jharkhand,,,,,23.3401228,85.3221645,OpenStreetMap,way,372056251,2026-11-26T07:45:24.784666+00:00
+Bokaro Niwash,restaurant,Jharkhand,,,,,23.6613146,86.1696734,OpenStreetMap,way,398666128,2026-11-26T07:45:24.784669+00:00
+"The Kav""s",restaurant,Jharkhand,,,,,23.3547761,85.3000874,OpenStreetMap,way,425339573,2026-11-26T07:45:24.784671+00:00
+food hut,restaurant,Jharkhand,,,,,23.3580388,85.3076035,OpenStreetMap,way,425339577,2026-11-26T07:45:24.784674+00:00
+मदन ढाबा भोजनालय,restaurant,Jharkhand,,,,,23.3810959,85.3645281,OpenStreetMap,way,516696272,2026-11-26T07:45:24.784676+00:00
+Domino's,fast_food,Jharkhand,,,,,23.3527269,85.3245018,OpenStreetMap,way,516960078,2026-11-26T07:45:24.784679+00:00
+Punjab Sweet House,restaurant,Jharkhand,,,,,23.3593013,85.3254146,OpenStreetMap,way,516960089,2026-11-26T07:45:24.784682+00:00
+The Best,restaurant,Jharkhand,,Ranchi,"Ground Floor, RS Tower, Circular Road, 834001",+917361996622,23.3697327,85.3400498,OpenStreetMap,way,516991071,2026-11-26T07:45:24.784685+00:00
+Uday Misthan Bhandar,restaurant,Jharkhand,,,,,23.3720165,85.3385658,OpenStreetMap,way,516994586,2026-11-26T07:45:24.784688+00:00
+Cafeteria,cafe,Jharkhand,,,,,23.2960296,85.3094029,OpenStreetMap,way,517598120,2026-11-26T07:45:24.784691+00:00
+Chowmin Centre,fast_food,Jharkhand,,,,,23.7653946,86.7603654,OpenStreetMap,way,894277928,2026-11-26T07:45:24.784694+00:00
+Baba Hotel,restaurant,Jharkhand,,,828204,,23.7631231,86.7559605,OpenStreetMap,way,894484770,2026-11-26T07:45:24.784696+00:00
+Unique Family Restaurant,restaurant,Jharkhand,,,,,23.7713478,86.7322995,OpenStreetMap,way,894484776,2026-11-26T07:45:24.784699+00:00
+Barbeque Nation,restaurant,Jharkhand,,Ranchi,"3rd Floor, MAX building, circular road, 834001",+919905006060,23.3692676,85.3392954,OpenStreetMap,way,902963272,2026-11-26T07:45:24.784702+00:00
+Rajgharna Restraunt,restaurant,Jharkhand,,,,,23.9824747,85.3772158,OpenStreetMap,way,921144697,2026-11-26T07:45:24.784705+00:00
+recipe bar & restaurant,restaurant,Jharkhand,,,,,23.7447837,86.141742,OpenStreetMap,way,1013439832,2026-11-26T07:45:24.784708+00:00
+Campus Cafe,restaurant,Jharkhand,,,,,22.8191426,86.1906437,OpenStreetMap,way,1054617822,2026-11-26T07:45:24.784710+00:00
+Dadoos,restaurant,Jharkhand,,,,,22.8191847,86.1905263,OpenStreetMap,way,1054617823,2026-11-26T07:45:24.784714+00:00
+XLRI Dhaba,restaurant,Jharkhand,,,,,22.81619,86.1914231,OpenStreetMap,way,1065409113,2026-11-26T07:45:24.784716+00:00
+SECURITY GATE,restaurant,Jharkhand,,,,,22.8258567,86.0898059,OpenStreetMap,way,1185206487,2026-11-26T07:45:24.784718+00:00
+IM SECTION,restaurant,Jharkhand,,,,,22.8182263,86.0855068,OpenStreetMap,way,1185214682,2026-11-26T07:45:24.784721+00:00
+Laxmi Canteen,restaurant,Jharkhand,,,,+918825147061,23.4136731,85.4361033,OpenStreetMap,way,1235566559,2026-11-26T07:45:24.784724+00:00
+Pahan,restaurant,Jharkhand,,,,,23.4176174,85.4341088,OpenStreetMap,way,1235566560,2026-11-26T07:45:24.784727+00:00
+Chhotu Dhaba,restaurant,Jharkhand,,,,+917549058167,23.4192872,85.4333259,OpenStreetMap,way,1235566561,2026-11-26T07:45:24.784730+00:00
+hotel amardeep,restaurant,Jharkhand,,,,,24.5295668,84.0003124,OpenStreetMap,way,1360677583,2026-11-26T07:45:24.784732+00:00
+"Dominoz Pizza | Piska More, Ranchi",restaurant,Jharkhand,Ranchi,Ranchi,"Piska more, Ratu Road, 834005",18002081234,23.3812595,85.2944164,OpenStreetMap,way,1425290680,2026-11-26T07:45:24.784735+00:00
+Freshpresso,cafe,Jharkhand,,,,,23.8163864,86.4417753,OpenStreetMap,way,1563980832,2026-11-26T07:45:24.784738+00:00
+Mega Mess,restaurant,Jharkhand,,,,,22.7730155,86.1461029,OpenStreetMap,way,1582510285,2026-11-26T07:45:24.784741+00:00
+Hostel I Canteen,restaurant,Jharkhand,,,,,22.7722055,86.1443055,OpenStreetMap,way,1582510288,2026-11-26T07:45:24.784744+00:00

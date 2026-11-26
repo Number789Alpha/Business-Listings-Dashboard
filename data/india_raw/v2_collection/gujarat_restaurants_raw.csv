@@ -1,0 +1,923 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+Vishala,restaurant,Gujarat,,,,,22.9936417,72.5357058,OpenStreetMap,node,440339381,2026-11-26T07:40:06.284639+00:00
+Rajvadu Restaurant,restaurant,Gujarat,,,,,23.0042051,72.5397742,OpenStreetMap,node,440339389,2026-11-26T07:40:06.284663+00:00
+Mangaldas Ni Haveli,restaurant,Gujarat,,,,,23.0227338,72.5920852,OpenStreetMap,node,632066507,2026-11-26T07:40:06.284667+00:00
+McDonald's,fast_food,Gujarat,,,,,23.0317635,72.5701852,OpenStreetMap,node,695666626,2026-11-26T07:40:06.284670+00:00
+Cyber Cafe,cafe,Gujarat,,,,,23.0422876,72.5699576,OpenStreetMap,node,695666627,2026-11-26T07:40:06.284673+00:00
+Cafe Souq,restaurant,Gujarat,,,,,23.0410467,72.5485619,OpenStreetMap,node,1313805176,2026-11-26T07:40:06.284676+00:00
+Chocolate Room,cafe,Gujarat,,,,,23.0407234,72.5485324,OpenStreetMap,node,1313805177,2026-11-26T07:40:06.284679+00:00
+"Barrista, Vijay 4 Roads",cafe,Gujarat,,,,,23.0427079,72.5494685,OpenStreetMap,node,1313805178,2026-11-26T07:40:06.284681+00:00
+Cafe Coffee Day,cafe,Gujarat,,,,,23.0312796,72.5493907,OpenStreetMap,node,1313805179,2026-11-26T07:40:06.284684+00:00
+Upper Crust Cafe,restaurant,Gujarat,,Ahmedabad,"Aarohi Complex, Vijay Cross Roads, 380009",91-79-26401554,23.0412121,72.5485673,OpenStreetMap,node,1313805181,2026-11-26T07:40:06.284689+00:00
+Cafeteria,fast_food,Gujarat,,,,,23.1887134,72.6268235,OpenStreetMap,node,1343052725,2026-11-26T07:40:06.284693+00:00
+Chai Gate!!!,cafe,Gujarat,,,,,23.0120603,72.5691606,OpenStreetMap,node,1429887846,2026-11-26T07:40:06.284697+00:00
+Annapurna,restaurant,Gujarat,,,,,23.2553399,69.6763591,OpenStreetMap,node,1545193217,2026-11-26T07:40:06.284700+00:00
+Shan-e-Punjab Dhaba,restaurant,Gujarat,,,,,23.2380571,69.7235774,OpenStreetMap,node,1545193428,2026-11-26T07:40:06.284703+00:00
+Colours Café,restaurant,Gujarat,,Bhuj,"Bus Stand Road, 370001",,23.2492557,69.6712382,OpenStreetMap,node,1545295256,2026-11-26T07:40:06.284707+00:00
+Green Rock,restaurant,Gujarat,,Bhuj,"Bus Stand Road, 370001",,23.2493617,69.669609,OpenStreetMap,node,1545295260,2026-11-26T07:40:06.284710+00:00
+Amul,fast_food,Gujarat,,,,,23.0116852,72.568823,OpenStreetMap,node,1561520723,2026-11-26T07:40:06.284713+00:00
+U.S Pizza,restaurant,Gujarat,,,387001,,22.6811071,72.868841,OpenStreetMap,node,1752603276,2026-11-26T07:40:06.284717+00:00
+Dinner Bell,restaurant,Gujarat,,,,,23.0457522,72.5524611,OpenStreetMap,node,1779118412,2026-11-26T07:40:06.284720+00:00
+Havmor Restaurant,restaurant,Gujarat,,,,,23.0376713,72.565775,OpenStreetMap,node,1964926897,2026-11-26T07:40:06.284723+00:00
+Natural Ice Cream,fast_food,Gujarat,,,"Law Garden Road, 380009",,23.0328812,72.5655478,OpenStreetMap,node,1973440767,2026-11-26T07:40:06.284726+00:00
+Agashiye Restaurant,restaurant,Gujarat,,,,,23.0270378,72.5816167,OpenStreetMap,node,1973442552,2026-11-26T07:40:06.284729+00:00
+Canara Coffee House,cafe,Gujarat,,,"Raopura Road, 390001",,22.2995039,73.2024685,OpenStreetMap,node,2022830550,2026-11-26T07:40:06.284732+00:00
+Hot Stuff,fast_food,Gujarat,,,"New Sama Road, 390008",,22.3365654,73.1891104,OpenStreetMap,node,2153505700,2026-11-26T07:40:06.284736+00:00
+Food Temple,restaurant,Gujarat,,,"GST Crossing, 382480",,23.0847638,72.5647629,OpenStreetMap,node,2211694435,2026-11-26T07:40:06.284738+00:00
+Chatkazz Vadapav,fast_food,Gujarat,,,"Opp. Shiddi Vinayak Madir, Dandia Bazar",,22.3002336,73.1989767,OpenStreetMap,node,2344004644,2026-11-26T07:40:06.284742+00:00
+Coco Chai,cafe,Gujarat,,,,,22.2957077,73.1967093,OpenStreetMap,node,2344605595,2026-11-26T07:40:06.284745+00:00
+FTE Canteen,cafe,Gujarat,,,,,22.2974074,73.1972376,OpenStreetMap,node,2344621377,2026-11-26T07:40:06.284748+00:00
+Black Salt,restaurant,Gujarat,,,,,23.0523024,72.4998803,OpenStreetMap,node,2376626693,2026-11-26T07:40:06.284750+00:00
+Green House Restaurant,restaurant,Gujarat,,Ahmedabad,"Opposite Sidi Saiyad Jali, 380001",,23.0272633,72.5816108,OpenStreetMap,node,2377178378,2026-11-26T07:40:06.284753+00:00
+Vrundavan Restaurant;AKHBAR NAGAR CIRCLE,restaurant,Gujarat,,,,,23.0674245,72.5645716,OpenStreetMap,node,2477174077,2026-11-26T07:40:06.284756+00:00
+Sankalp Restaurant,restaurant,Gujarat,,,,,23.5873499,72.3760315,OpenStreetMap,node,2525219671,2026-11-26T07:40:06.284759+00:00
+Jain Bhojnalay,restaurant,Gujarat,,,,,23.8323355,71.6040515,OpenStreetMap,node,2530373737,2026-11-26T07:40:06.284762+00:00
+cafe point,cafe,Gujarat,,,,,22.2865868,70.7461339,OpenStreetMap,node,2533658375,2026-11-26T07:40:06.284765+00:00
+The Grand Bhagwati (TGB),restaurant,Gujarat,,,,,21.1361303,72.7511307,OpenStreetMap,node,2629356573,2026-11-26T07:40:06.284768+00:00
+Canteen,cafe,Gujarat,,,,,21.1643768,72.7860194,OpenStreetMap,node,2630733329,2026-11-26T07:40:06.284770+00:00
+McDonald's,fast_food,Gujarat,,"Surat, Gujarat",Valentine Cine Vision,,21.155601,72.764266,OpenStreetMap,node,2632034960,2026-11-26T07:40:06.284773+00:00
+Domino's Pizaa,restaurant,Gujarat,,,,,21.1577547,72.7690457,OpenStreetMap,node,2632034970,2026-11-26T07:40:06.284776+00:00
+Yoko Sizzler,restaurant,Gujarat,,,,,21.1598834,72.7728759,OpenStreetMap,node,2632034999,2026-11-26T07:40:06.284779+00:00
+Sizzling Salsa,restaurant,Gujarat,,,,,21.1604362,72.7741339,OpenStreetMap,node,2632035005,2026-11-26T07:40:06.284781+00:00
+Barbeque Nation,restaurant,Gujarat,,,,,21.1712182,72.7893442,OpenStreetMap,node,2632141322,2026-11-26T07:40:06.284784+00:00
+Wok On Fire,restaurant,Gujarat,,,,,21.1711832,72.7893335,OpenStreetMap,node,2632141386,2026-11-26T07:40:06.284786+00:00
+Cafe Coffee Day,cafe,Gujarat,,,,,21.1712682,72.789414,OpenStreetMap,node,2632141397,2026-11-26T07:40:06.284789+00:00
+Ken's Koffee Plus Plus,cafe,Gujarat,,Gandhinagar,"148-A, NH8C, 382009",+91 8758637922,23.1964319,72.6328106,OpenStreetMap,node,2679948361,2026-11-26T07:40:06.284792+00:00
+Atithi,restaurant,Gujarat,,Bharuch,"NH 8, At. & Po. Vagusana, 392021",+919228015737,21.755772,73.0180728,OpenStreetMap,node,2755593910,2026-11-26T07:40:06.284795+00:00
+Gir Rajwadi Dining Hall,restaurant,Gujarat,,,,,21.1522166,70.5906425,OpenStreetMap,node,2757855862,2026-11-26T07:40:06.284798+00:00
+Gir Rajwadi Dining Hall,restaurant,Gujarat,,,,,21.1687084,70.5968992,OpenStreetMap,node,2757856261,2026-11-26T07:40:06.284801+00:00
+Dwarkesh,restaurant,Gujarat,,,,,21.753507,71.6931133,OpenStreetMap,node,2760194050,2026-11-26T07:40:06.284803+00:00
+Gokulam Dairy,cafe,Gujarat,,Surat,"RK Desai Marg, 395001",,21.1788591,72.8108678,OpenStreetMap,node,2805132405,2026-11-26T07:40:06.284806+00:00
+Cafe Coffee Day,cafe,Gujarat,,Surat,395001,,21.1759376,72.8099601,OpenStreetMap,node,2805154068,2026-11-26T07:40:06.284809+00:00
+Real Paprika,restaurant,Gujarat,,Ahmedabad,Nehrunagar,,23.0212619,72.543503,OpenStreetMap,node,2908966984,2026-11-26T07:40:06.284812+00:00
+Cadet's mess,restaurant,Gujarat,,,361230,,22.5950869,70.2104665,OpenStreetMap,node,3141977940,2026-11-26T07:40:06.284815+00:00
+Canteen,cafe,Gujarat,,,361230,,22.5970047,70.2068659,OpenStreetMap,node,3141991631,2026-11-26T07:40:06.284818+00:00
+OSHO loj,restaurant,Gujarat,,,,,22.8315043,69.352975,OpenStreetMap,node,3183279440,2026-11-26T07:40:06.284821+00:00
+Gol Limbda Bhajiya and Nashta House,fast_food,Gujarat,,Ahmedabad,380001,,23.0200882,72.5860331,OpenStreetMap,node,3204975264,2026-11-26T07:40:06.284824+00:00
+adarsh,restaurant,Gujarat,,,,,21.1970691,72.8015788,OpenStreetMap,node,3205803327,2026-11-26T07:40:06.284827+00:00
+cafe coffeee,cafe,Gujarat,,,,,21.1997395,72.8012268,OpenStreetMap,node,3205803328,2026-11-26T07:40:06.284830+00:00
+dokla cafe,cafe,Gujarat,,,,,21.2369,72.8105028,OpenStreetMap,node,3217044437,2026-11-26T07:40:06.284832+00:00
+Zen Cafe,cafe,Gujarat,,,,,23.0362229,72.5494261,OpenStreetMap,node,3239361169,2026-11-26T07:40:06.284835+00:00
+Barbeque Nation,restaurant,Gujarat,,ahmedabad,,,23.0480405,72.526862,OpenStreetMap,node,3241011933,2026-11-26T07:40:06.284837+00:00
+Cafe Coffee Day,cafe,Gujarat,,,,+91 93776 19151,23.0329764,72.5600005,OpenStreetMap,node,3242226330,2026-11-26T07:40:06.284840+00:00
+Geeta Lodge,restaurant,Gujarat,,Junagadh,362001,,21.5266287,70.4587491,OpenStreetMap,node,3269304451,2026-11-26T07:40:06.284843+00:00
+Shreeji krupa vadapav,fast_food,Gujarat,,,,,23.0423379,72.549193,OpenStreetMap,node,3293763762,2026-11-26T07:40:06.284846+00:00
+McDonald's,fast_food,Gujarat,,,120 Feet Ring Road,,23.0423816,72.5486525,OpenStreetMap,node,3293792062,2026-11-26T07:40:06.284850+00:00
+Asharfilal Kulfi,fast_food,Gujarat,,,120 Feet Ring Road,,23.0426757,72.5492422,OpenStreetMap,node,3294081761,2026-11-26T07:40:06.284860+00:00
+Jay Ambe Juice Center,cafe,Gujarat,,,,,21.5205824,70.464251,OpenStreetMap,node,3294480449,2026-11-26T07:40:06.284865+00:00
+Paradise Restaurant,restaurant,Gujarat,,Veraval,"Rajmahal Road, 362265",+91 98982 72327,20.9096773,70.3687088,OpenStreetMap,node,3294480455,2026-11-26T07:40:06.284868+00:00
+Santoor,restaurant,Gujarat,,,First Floor,,21.5150395,70.4624813,OpenStreetMap,node,3294481246,2026-11-26T07:40:06.284871+00:00
+Jagruti,restaurant,Gujarat,,,,,21.5318844,71.8240268,OpenStreetMap,node,3297005164,2026-11-26T07:40:06.284874+00:00
+Shrinathji,restaurant,Gujarat,,,,,21.5295656,71.8239079,OpenStreetMap,node,3297005860,2026-11-26T07:40:06.284877+00:00
+Alif Restaurant,fast_food,Gujarat,,,,,23.2554625,69.6760858,OpenStreetMap,node,3299342031,2026-11-26T07:40:06.284880+00:00
+Noorani Mahal,restaurant,Gujarat,,,,,23.2543159,69.6772864,OpenStreetMap,node,3299342036,2026-11-26T07:40:06.284882+00:00
+Norani,restaurant,Gujarat,,,,,22.8317481,69.3540529,OpenStreetMap,node,3299342037,2026-11-26T07:40:06.284885+00:00
+Park View Restaurant,restaurant,Gujarat,,,,,23.2494991,69.6677353,OpenStreetMap,node,3299342039,2026-11-26T07:40:06.284888+00:00
+Pizza and Sandwich,fast_food,Gujarat,,,,,23.249612,69.6693694,OpenStreetMap,node,3299342040,2026-11-26T07:40:06.284890+00:00
+Ghandi Cold Drink House,cafe,Gujarat,,,,,23.0246187,72.5828928,OpenStreetMap,node,3306683246,2026-11-26T07:40:06.284893+00:00
+Lucky Tea Shop,fast_food,Gujarat,,,,,23.027562,72.5811204,OpenStreetMap,node,3306683251,2026-11-26T07:40:06.284896+00:00
+Naeeka,restaurant,Gujarat,,,,,23.0552316,72.5908571,OpenStreetMap,node,3306683254,2026-11-26T07:40:06.284899+00:00
+Nishat,restaurant,Gujarat,,,,,23.0248713,72.5829376,OpenStreetMap,node,3306683255,2026-11-26T07:40:06.284902+00:00
+Nishat,restaurant,Gujarat,,,,,23.0248607,72.5830856,OpenStreetMap,node,3306683256,2026-11-26T07:40:06.284904+00:00
+Paramount,restaurant,Gujarat,,,,,23.0245678,72.5823659,OpenStreetMap,node,3306683257,2026-11-26T07:40:06.284907+00:00
+Relief Cyber Cafe,cafe,Gujarat,,,,,23.0263181,72.5830356,OpenStreetMap,node,3306683649,2026-11-26T07:40:06.284910+00:00
+Delhi Express,restaurant,Gujarat,,Vadodara,"101, Old Padra Road, 390007",+912656585555,22.30613,73.1655462,OpenStreetMap,node,3320465231,2026-11-26T07:40:06.284913+00:00
+Bangali,restaurant,Gujarat,,,Dahl Road,0285 2625764,21.5224588,70.4613749,OpenStreetMap,node,3354876868,2026-11-26T07:40:06.284916+00:00
+Panchavati Hotel,restaurant,Gujarat,,,,,21.8451299,70.6932169,OpenStreetMap,node,3399306471,2026-11-26T07:40:06.284919+00:00
+Toran,restaurant,Gujarat,,,,,21.8428638,70.6930187,OpenStreetMap,node,3399310917,2026-11-26T07:40:06.284922+00:00
+Jasuben Pizza,fast_food,Gujarat,,,,,23.0206812,72.5540845,OpenStreetMap,node,3426621651,2026-11-26T07:40:06.284924+00:00
+Canteen,restaurant,Gujarat,,,,,23.1862186,72.6329653,OpenStreetMap,node,3459655264,2026-11-26T07:40:06.284926+00:00
+MAHARAJ Food Corner,fast_food,Gujarat,,,,,23.0839448,72.5892158,OpenStreetMap,node,3500459658,2026-11-26T07:40:06.284929+00:00
+Niti Dining Hall,restaurant,Gujarat,,,,,22.8406083,69.730554,OpenStreetMap,node,3541177100,2026-11-26T07:40:06.284932+00:00
+Paradise,restaurant,Gujarat,,,,,22.8423773,69.7338882,OpenStreetMap,node,3541330194,2026-11-26T07:40:06.284934+00:00
+Sabri,restaurant,Gujarat,,,,,22.8423427,69.7337004,OpenStreetMap,node,3541331807,2026-11-26T07:40:06.284937+00:00
+Havmor,restaurant,Gujarat,,Jamnagar,Lakhota Lake road,,22.4624634,70.0685262,OpenStreetMap,node,3622462694,2026-11-26T07:40:06.284940+00:00
+La Pinoz,restaurant,Gujarat,,Jamnagar,"1st Floor, H. B. Empire, Opp. Dhanvantri Ground, P. N. Marg, 361008",+918460443344,22.4794206,70.0624039,OpenStreetMap,node,3623287293,2026-11-26T07:40:06.284944+00:00
+mcdonald,restaurant,Gujarat,,,,,23.5851908,72.3724852,OpenStreetMap,node,3750268416,2026-11-26T07:40:06.284947+00:00
+nagalpur cafe,cafe,Gujarat,,,,,23.5988982,72.3791721,OpenStreetMap,node,3751102466,2026-11-26T07:40:06.284949+00:00
+PIZZA STAR,fast_food,Gujarat,,,,,21.6385029,69.6194311,OpenStreetMap,node,3776207275,2026-11-26T07:40:06.284952+00:00
+KARNAVATI SNACKS,fast_food,Gujarat,,,,,21.638468,69.6221831,OpenStreetMap,node,3776207281,2026-11-26T07:40:06.284954+00:00
+waah,restaurant,Gujarat,,,,,23.0342579,72.5609251,OpenStreetMap,node,3776238973,2026-11-26T07:40:06.284957+00:00
+havmor,restaurant,Gujarat,,,,,23.0342641,72.5608446,OpenStreetMap,node,3776238974,2026-11-26T07:40:06.284959+00:00
+choice,restaurant,Gujarat,,,,,23.0344517,72.5612536,OpenStreetMap,node,3776238977,2026-11-26T07:40:06.284962+00:00
+chocolate room,cafe,Gujarat,,,,,23.0358422,72.5617312,OpenStreetMap,node,3776238978,2026-11-26T07:40:06.284965+00:00
+purohit,restaurant,Gujarat,,,,,23.0342345,72.5610096,OpenStreetMap,node,3776238979,2026-11-26T07:40:06.284967+00:00
+Goodies Cafeteria,fast_food,Gujarat,,,,,22.3102246,73.1584287,OpenStreetMap,node,3881713855,2026-11-26T07:40:06.284970+00:00
+Lilleria,fast_food,Gujarat,,,,,22.3105074,73.1584019,OpenStreetMap,node,3881714384,2026-11-26T07:40:06.284972+00:00
+Frigtemp,fast_food,Gujarat,,,,,22.3249248,73.1891946,OpenStreetMap,node,3882193585,2026-11-26T07:40:06.284975+00:00
+Tea stall,cafe,Gujarat,,,,,23.5804544,70.6456905,OpenStreetMap,node,3903320373,2026-11-26T07:40:06.284978+00:00
+Toran Tourist Complex,restaurant,Gujarat,,,,,23.8796461,70.2129191,OpenStreetMap,node,3903351491,2026-11-26T07:40:06.284980+00:00
+Jiragadh Dhar,restaurant,Gujarat,,,,,22.7280116,70.4814202,OpenStreetMap,node,3910429695,2026-11-26T07:40:06.284983+00:00
+Swagat pure veg restaurant,restaurant,Gujarat,,,,,23.699853,71.7622943,OpenStreetMap,node,3912085331,2026-11-26T07:40:06.284986+00:00
+Bhajiya shop,fast_food,Gujarat,,,,,21.7682472,73.1343647,OpenStreetMap,node,4008725890,2026-11-26T07:40:06.284989+00:00
+Rajuchacha Vadapav,fast_food,Gujarat,,,,,21.2027199,72.7944018,OpenStreetMap,node,4061956254,2026-11-26T07:40:06.284992+00:00
+Dumas Bhajiya,fast_food,Gujarat,,,,,21.0845444,72.7168744,OpenStreetMap,node,4061982513,2026-11-26T07:40:06.284994+00:00
+Cafe Coffee Day,cafe,Gujarat,,,,,23.0245018,72.5073318,OpenStreetMap,node,4199023903,2026-11-26T07:40:06.284997+00:00
+Honest,restaurant,Gujarat,,,,,23.0385865,72.5126614,OpenStreetMap,node,4199023904,2026-11-26T07:40:06.285000+00:00
+Subway,fast_food,Gujarat,,,,,23.0385075,72.512884,OpenStreetMap,node,4199023905,2026-11-26T07:40:06.285003+00:00
+McDonald's,fast_food,Gujarat,,,,,23.0244178,72.507327,OpenStreetMap,node,4199023906,2026-11-26T07:40:06.285005+00:00
+Havmor,restaurant,Gujarat,,,,,23.0381817,72.5122645,OpenStreetMap,node,4199023907,2026-11-26T07:40:06.285008+00:00
+Cup of chemistry,cafe,Gujarat,,,,,22.3098085,73.1590719,OpenStreetMap,node,4209354790,2026-11-26T07:40:06.285011+00:00
+Moin Chicken Center,restaurant,Gujarat,,,Amadhara,,20.7211129,73.1129026,OpenStreetMap,node,4225527777,2026-11-26T07:40:06.285014+00:00
+Satkar Dining Hall,restaurant,Gujarat,,,,,22.8394238,69.7239404,OpenStreetMap,node,4226176707,2026-11-26T07:40:06.285016+00:00
+Rajvi Resort,restaurant,Gujarat,,,,,23.084914,70.1058755,OpenStreetMap,node,4241074806,2026-11-26T07:40:06.285019+00:00
+Munshi sadik,cafe,Gujarat,,,"037634557, 392180",0552425809,22.1479633,72.7665683,OpenStreetMap,node,4262196990,2026-11-26T07:40:06.285022+00:00
+Real Taste,restaurant,Gujarat,,Jamnagar,Jamnagar Bypass,,22.4235591,70.0678398,OpenStreetMap,node,4266241772,2026-11-26T07:40:06.285026+00:00
+Cafe Coffee Day,cafe,Gujarat,,Jamnagar,,,22.463343,70.0380406,OpenStreetMap,node,4269483846,2026-11-26T07:40:06.285028+00:00
+Madras Cafe,cafe,Gujarat,,,,,22.4718772,70.0711407,OpenStreetMap,node,4269621852,2026-11-26T07:40:06.285031+00:00
+Kisor pakodi,fast_food,Gujarat,,,"Asharam Road, 384001",,23.6111091,72.3971773,OpenStreetMap,node,4291987892,2026-11-26T07:40:06.285034+00:00
+JANTA ice cream,fast_food,Gujarat,,,sh 41,,23.2184113,72.5151861,OpenStreetMap,node,4292013893,2026-11-26T07:40:06.285037+00:00
+MD masala,fast_food,Gujarat,,,,,23.241203,72.4875858,OpenStreetMap,node,4292013895,2026-11-26T07:40:06.285040+00:00
+Gruh laxmi spices,fast_food,Gujarat,,,SH 41,,23.2070953,72.5343354,OpenStreetMap,node,4292039993,2026-11-26T07:40:06.285043+00:00
+HFM MCDONALD'S DOMINO'S,fast_food,Gujarat,,,"0 limbdi, State Highway 20",,22.5742604,71.8072937,OpenStreetMap,node,4292071189,2026-11-26T07:40:06.285046+00:00
+McDonald's,fast_food,Gujarat,,,Rajkot Bypass,,22.2689264,70.8254589,OpenStreetMap,node,4292073790,2026-11-26T07:40:06.285050+00:00
+Gajanand restaurant,fast_food,Gujarat,,,Ahmedabad Palanpur State Highway SH41,,23.4800544,72.3963594,OpenStreetMap,node,4293330794,2026-11-26T07:40:06.285052+00:00
+Mirchi fast food,fast_food,Gujarat,,,Modhera road,,23.592099,72.3781027,OpenStreetMap,node,4293346091,2026-11-26T07:40:06.285055+00:00
+Bin harif dabeli,fast_food,Gujarat,,,toranvadi,,23.6022597,72.3902882,OpenStreetMap,node,4293366993,2026-11-26T07:40:06.285057+00:00
+kisan dabeli,fast_food,Gujarat,,,toranvadi,,23.6022634,72.3904129,OpenStreetMap,node,4293408093,2026-11-26T07:40:06.285060+00:00
+Raj fast food,fast_food,Gujarat,,,fuvara,,23.6038413,72.3907168,OpenStreetMap,node,4293413591,2026-11-26T07:40:06.285063+00:00
+Dilkhus rasoiya,fast_food,Gujarat,,,"Asharam Road, 384001",,23.6165144,72.3961053,OpenStreetMap,node,4293980691,2026-11-26T07:40:06.285066+00:00
+Jay Jalaram Khaman House,restaurant,Gujarat,,Surat,,,21.2102322,72.7859044,OpenStreetMap,node,4294695462,2026-11-26T07:40:06.285069+00:00
+shree Ramdev gota vada,fast_food,Gujarat,,,Modhera road,,23.6020755,72.2788733,OpenStreetMap,node,4295526691,2026-11-26T07:40:06.285072+00:00
+Shiv dosa ,fast_food,Gujarat,,,"Ahmedabad Palanpur State Highway SH41, 384002",,23.5901936,72.3785851,OpenStreetMap,node,4296060089,2026-11-26T07:40:06.285074+00:00
+Jay bhavani vadapav,fast_food,Gujarat,,,Ahmedabad Palanpur State Highway SH41,,23.5903262,72.3784846,OpenStreetMap,node,4296060389,2026-11-26T07:40:06.285077+00:00
+prem pizza,fast_food,Gujarat,,,Ahmedabad Palanpur State Highway SH41,,23.5934074,72.3785531,OpenStreetMap,node,4296616808,2026-11-26T07:40:06.285080+00:00
+funny food,fast_food,Gujarat,,,Ahmedabad Palanpur State Highway SH41,,23.5966168,72.3796471,OpenStreetMap,node,4296617441,2026-11-26T07:40:06.285082+00:00
+devi krupa pan parlor,fast_food,Gujarat,,,Modhera road,,23.5950735,72.3788323,OpenStreetMap,node,4296617912,2026-11-26T07:40:06.285085+00:00
+Bombey chopati,fast_food,Gujarat,,,Modhera road,,23.5947523,72.3784591,OpenStreetMap,node,4296621399,2026-11-26T07:40:06.285088+00:00
+Jaibhairav fastfood,fast_food,Gujarat,,,Ahmedabad Palanpur State Highway SH41,,23.527785,72.3874584,OpenStreetMap,node,4296622504,2026-11-26T07:40:06.285090+00:00
+madhvi,fast_food,Gujarat,,,,,23.5872989,72.3753781,OpenStreetMap,node,4296622506,2026-11-26T07:40:06.285093+00:00
+Subway,fast_food,Gujarat,,,"1, Ahmedabad Palanpur State Highway SH41",,23.4725549,72.3921142,OpenStreetMap,node,4296657289,2026-11-26T07:40:06.285097+00:00
+om sai parlor,fast_food,Gujarat,,,Ahmedabad Palanpur State Highway SH41,,23.6158135,72.3974546,OpenStreetMap,node,4296657292,2026-11-26T07:40:06.285100+00:00
+Jay ambe,fast_food,Gujarat,,,Ahmedabad Palanpur State Highway SH41,,23.6007767,72.3806226,OpenStreetMap,node,4296791292,2026-11-26T07:40:06.285103+00:00
+Cafe Coffee Day,cafe,Gujarat,,,"Ahmedabad Palanpur State Highway SH41, 384435",,23.472493,72.392119,OpenStreetMap,node,4297402092,2026-11-26T07:40:06.285106+00:00
+Fun & food Restaurant,restaurant,Gujarat,,,"Ahmedabad Palanpur State Highway SH41, 384435",,23.4730834,72.3923125,OpenStreetMap,node,4297402093,2026-11-26T07:40:06.285109+00:00
+Madhvi,fast_food,Gujarat,,mehsana,"Ahmedabad Palanpur State Highway SH41, 384002",,23.6057772,72.3817999,OpenStreetMap,node,4297541889,2026-11-26T07:40:06.285112+00:00
+lalaji puri n food,fast_food,Gujarat,,,station road,,23.601829,72.390272,OpenStreetMap,node,4297879802,2026-11-26T07:40:06.285114+00:00
+GolGappa,fast_food,Gujarat,,,Ahmedabad Palanpur State Highway SH41,,23.5911876,72.3776059,OpenStreetMap,node,4301504489,2026-11-26T07:40:06.285117+00:00
+lucky tea center,fast_food,Gujarat,,,Siddheshwari Society Road,,23.2456191,72.4978359,OpenStreetMap,node,4301914793,2026-11-26T07:40:06.285120+00:00
+Karnavati fastfood,fast_food,Gujarat,,,382729,,23.2848545,72.4400144,OpenStreetMap,node,4303548191,2026-11-26T07:40:06.285123+00:00
+Sattadhar bhojnalay,restaurant,Gujarat,,,ahmedabad palnpur road,,23.2484269,72.4848601,OpenStreetMap,node,4303548193,2026-11-26T07:40:06.285126+00:00
+Om Santos parotha house,restaurant,Gujarat,,,station road ,,23.6013645,72.3901261,OpenStreetMap,node,4303548392,2026-11-26T07:40:06.285129+00:00
+Ramdev green,fast_food,Gujarat,,,Ahmedabad Palanpur State Highway SH41,,23.5842642,72.3733741,OpenStreetMap,node,4303548395,2026-11-26T07:40:06.285132+00:00
+Hotel Musafir,restaurant,Gujarat,,,Ahmedabad,,23.2527008,72.4840286,OpenStreetMap,node,4303553216,2026-11-26T07:40:06.285134+00:00
+Sambhu's cofee shop,fast_food,Gujarat,,,Ahmedabad Palanpur State Highway SH41,,23.5841874,72.3733004,OpenStreetMap,node,4303562695,2026-11-26T07:40:06.285137+00:00
+Indian sing,fast_food,Gujarat,,,krishn cinema road,,23.5969444,72.3894444,OpenStreetMap,node,4304415998,2026-11-26T07:40:06.285140+00:00
+Ankur khamani,fast_food,Gujarat,,mahesana,"Asharam Road, 384001",,23.6129273,72.4029724,OpenStreetMap,node,4305384390,2026-11-26T07:40:06.285142+00:00
+Tulsi Restaurant,restaurant,Gujarat,,,Ahmedabad Palanpur State Highway SH41,,23.5850627,72.3744247,OpenStreetMap,node,4305384393,2026-11-26T07:40:06.285145+00:00
+Jay bhavani vadapav,fast_food,Gujarat,,,Ahmedabad -Mehsana highway,8000266665,23.2529063,72.483675,OpenStreetMap,node,4305633595,2026-11-26T07:40:06.285148+00:00
+Oiyo online play store Restaurant,restaurant,Gujarat,,mehsana,"Ahmedabad Palanpur State Highway SH41, 384002",,23.5879627,72.3772271,OpenStreetMap,node,4306901989,2026-11-26T07:40:06.285151+00:00
+Khaman house,fast_food,Gujarat,,,Modhera road,,23.5936389,72.3828776,OpenStreetMap,node,4306919589,2026-11-26T07:40:06.285154+00:00
+Sun glow,restaurant,Gujarat,,,"T.B.Road, 384002",,23.5955153,72.3879297,OpenStreetMap,node,4306977290,2026-11-26T07:40:06.285156+00:00
+Pakvan dining Hall,restaurant,Gujarat,,,Ahmedabad Palanpur State Highway SH41,,23.5883865,72.3765756,OpenStreetMap,node,4308250918,2026-11-26T07:40:06.285159+00:00
+Pizza Crust,fast_food,Gujarat,,,Ahmedabad Palanpur State Highway SH41,,23.5977819,72.3793866,OpenStreetMap,node,4308250936,2026-11-26T07:40:06.285162+00:00
+Pooja fastfood,fast_food,Gujarat,,,Siddheshwari Society Road,,23.2408637,72.5010327,OpenStreetMap,node,4312193691,2026-11-26T07:40:06.285165+00:00
+Nescafe,cafe,Gujarat,,,,,23.0371357,72.5443257,OpenStreetMap,node,4319362053,2026-11-26T07:40:06.285168+00:00
+McDonald's,fast_food,Gujarat,,Vadodara,"Siddhartha Annexe F Vaimali Road, Sama-Savli Rd",,22.3511802,73.2008394,OpenStreetMap,node,4323347599,2026-11-26T07:40:06.285171+00:00
+Domino's,fast_food,Gujarat,,,New Sama Road,,22.3512548,73.2009354,OpenStreetMap,node,4323406799,2026-11-26T07:40:06.285174+00:00
+Southern Spice,fast_food,Gujarat,,,New Sama Road,,22.3511081,73.2004175,OpenStreetMap,node,4323427291,2026-11-26T07:40:06.285176+00:00
+Subway,fast_food,Gujarat,,Vadodara,"Siddharth Anex, Sama-Savli Rd, Vemali",,22.3514675,73.2008301,OpenStreetMap,node,4323468590,2026-11-26T07:40:06.285179+00:00
+TGB,fast_food,Gujarat,,,Ashram Road,,23.005805,72.5552881,OpenStreetMap,node,4326501193,2026-11-26T07:40:06.285182+00:00
+Patel vihar garden Restaurant ,restaurant,Gujarat,,,rajkot road,,22.3224626,70.8475458,OpenStreetMap,node,4326820495,2026-11-26T07:40:06.285184+00:00
+Fun n food,fast_food,Gujarat,,,rajkot road,,22.3287536,70.8748215,OpenStreetMap,node,4326845590,2026-11-26T07:40:06.285187+00:00
+Coffee,cafe,Gujarat,,,,,23.0756072,70.1074807,OpenStreetMap,node,4327969289,2026-11-26T07:40:06.285190+00:00
+Khodiyar Restaurant,restaurant,Gujarat,,,,,23.5610455,72.3508168,OpenStreetMap,node,4330451390,2026-11-26T07:40:06.285193+00:00
+Nagraj Restaurant,restaurant,Gujarat,,,,,23.5655589,72.3429415,OpenStreetMap,node,4330451989,2026-11-26T07:40:06.285195+00:00
+Family Restaurant,cafe,Gujarat,,,,,22.3496463,73.2009242,OpenStreetMap,node,4351743798,2026-11-26T07:40:06.285198+00:00
+Domino's,fast_food,Gujarat,,,,,23.051025,72.64396,OpenStreetMap,node,4358562689,2026-11-26T07:40:06.285201+00:00
+TGB,fast_food,Gujarat,,,,,23.0510167,72.64456,OpenStreetMap,node,4358562690,2026-11-26T07:40:06.285203+00:00
+Spoons n straws,fast_food,Gujarat,,,NH8,,23.0512085,72.643756,OpenStreetMap,node,4358562889,2026-11-26T07:40:06.285206+00:00
+Cafeteria,cafe,Gujarat,,,,,21.6344178,69.6705946,OpenStreetMap,node,4360009480,2026-11-26T07:40:06.285209+00:00
+McDonald's,restaurant,Gujarat,,,,,23.0142097,72.597377,OpenStreetMap,node,4368272090,2026-11-26T07:40:06.285212+00:00
+Subway,restaurant,Gujarat,,,,,23.0464898,72.5294517,OpenStreetMap,node,4369863491,2026-11-26T07:40:06.285214+00:00
+Bhojnalaya - Unodri Bhavan,fast_food,Gujarat,,,,,23.1799492,72.5730115,OpenStreetMap,node,4380552160,2026-11-26T07:40:06.285217+00:00
+Kaka fast food,fast_food,Gujarat,,,,,23.1103852,72.6748785,OpenStreetMap,node,4422047292,2026-11-26T07:40:06.285220+00:00
+Kaka ni bhajipav,fast_food,Gujarat,,,,,23.1113356,72.6718897,OpenStreetMap,node,4422082966,2026-11-26T07:40:06.285222+00:00
+Kaka fastfood,fast_food,Gujarat,,,Sardar Patel Ring Road,,23.1104061,72.6748011,OpenStreetMap,node,4422101589,2026-11-26T07:40:06.285225+00:00
+Gayatri Tea Stall,cafe,Gujarat,,,,,22.6907783,72.8617094,OpenStreetMap,node,4434343696,2026-11-26T07:40:06.285228+00:00
+Saibaba tea stall,cafe,Gujarat,,,,,22.6926106,72.8600379,OpenStreetMap,node,4434346083,2026-11-26T07:40:06.285231+00:00
+Kathi Junction,restaurant,Gujarat,,,,,22.6947627,72.8596266,OpenStreetMap,node,4434576229,2026-11-26T07:40:06.285233+00:00
+Saibaba Refreshments,fast_food,Gujarat,,,,,22.6926553,72.8600277,OpenStreetMap,node,4434581034,2026-11-26T07:40:06.285236+00:00
+tadka n tapas,restaurant,Gujarat,,,"G-06, Dumas Road, 395007",+91 261 400 4321,21.1579104,72.7694641,OpenStreetMap,node,4436381093,2026-11-26T07:40:06.285239+00:00
+Atithi Dining Hall,restaurant,Gujarat,,,,,23.0381074,72.5138086,OpenStreetMap,node,4445025289,2026-11-26T07:40:06.285242+00:00
+Surti Farsan,restaurant,Gujarat,,,,,22.0111351,73.1128139,OpenStreetMap,node,4448821197,2026-11-26T07:40:06.285245+00:00
+Subway,fast_food,Gujarat,,,,,22.2781379,70.7623762,OpenStreetMap,node,4456317590,2026-11-26T07:40:06.285248+00:00
+Mcdonald,fast_food,Gujarat,,,,,22.2728284,70.7563155,OpenStreetMap,node,4456338991,2026-11-26T07:40:06.285251+00:00
+Pizza Mēo,restaurant,Gujarat,,,Sayajigunj,2362211,22.3085946,73.1841521,OpenStreetMap,node,4470087289,2026-11-26T07:40:06.285254+00:00
+Kalyan,restaurant,Gujarat,,,,,22.3086925,73.184278,OpenStreetMap,node,4473292490,2026-11-26T07:40:06.285256+00:00
+Shreeeji Milk Palace,fast_food,Gujarat,,,,,23.2370307,72.4938701,OpenStreetMap,node,4477740673,2026-11-26T07:40:06.285259+00:00
+"Sabri Kathiyavadi,panjabi",restaurant,Gujarat,,,Dmart road / nikol naroda road,,23.0591783,72.6708433,OpenStreetMap,node,4478346292,2026-11-26T07:40:06.285261+00:00
+Food point 51 hotels,fast_food,Gujarat,,,,,23.2322383,72.6490567,OpenStreetMap,node,4479025200,2026-11-26T07:40:06.285264+00:00
+Food point Restaurant,restaurant,Gujarat,,,,,23.2322032,72.6494087,OpenStreetMap,node,4479107496,2026-11-26T07:40:06.285266+00:00
+Food Court sec.16,restaurant,Gujarat,,,,,23.2324893,72.6491648,OpenStreetMap,node,4481077289,2026-11-26T07:40:06.285269+00:00
+AFC Garden Restaurant,restaurant,Gujarat,,,,,23.111054,72.6050699,OpenStreetMap,node,4481532989,2026-11-26T07:40:06.285272+00:00
+The Petal Restaurant,restaurant,Gujarat,,,,,21.5267471,70.4587657,OpenStreetMap,node,4482082591,2026-11-26T07:40:06.285274+00:00
+Dairy Den,cafe,Gujarat,,,,,22.3088994,73.1843787,OpenStreetMap,node,4482106189,2026-11-26T07:40:06.285277+00:00
+Kabir Restaurant,restaurant,Gujarat,,,,,23.0795581,72.6690656,OpenStreetMap,node,4483404102,2026-11-26T07:40:06.285280+00:00
+Cremos,fast_food,Gujarat,,,,,23.2820159,72.441546,OpenStreetMap,node,4483440390,2026-11-26T07:40:06.285282+00:00
+The Grand Thakar,restaurant,Gujarat,,,,,22.3008266,70.8010108,OpenStreetMap,node,4486260689,2026-11-26T07:40:06.285285+00:00
+Hotel Ashish,restaurant,Gujarat,,,,,23.736463,73.4202854,OpenStreetMap,node,4487905060,2026-11-26T07:40:06.285288+00:00
+Hotel Surbhi,restaurant,Gujarat,,,,,21.0010005,72.9727497,OpenStreetMap,node,4488412988,2026-11-26T07:40:06.285290+00:00
+Golden Curries,restaurant,Gujarat,,,,,22.6948279,72.8746928,OpenStreetMap,node,4510471077,2026-11-26T07:40:06.285293+00:00
+arbi,restaurant,Gujarat,,,,,23.030136,72.600163,OpenStreetMap,node,4510519793,2026-11-26T07:40:06.285296+00:00
+Avad Shangri-la,restaurant,Gujarat,,,,,21.141407,72.965667,OpenStreetMap,node,4520483290,2026-11-26T07:40:06.285299+00:00
+Cooking Culture,restaurant,Gujarat,,,,,23.035392,72.5065,OpenStreetMap,node,4534049990,2026-11-26T07:40:06.285302+00:00
+Domino's,fast_food,Gujarat,,mehasana,Radhanpur-Mehsana sh-68ext,,23.6165137,72.3515712,OpenStreetMap,node,4538991536,2026-11-26T07:40:06.285304+00:00
+PYRAMID Highway fast food,fast_food,Gujarat,,,vadodra by pass,,22.1646238,73.1832104,OpenStreetMap,node,4546482889,2026-11-26T07:40:06.285307+00:00
+HANDI HOTEL,restaurant,Gujarat,,,,,23.0659846,72.5827993,OpenStreetMap,node,4585364197,2026-11-26T07:40:06.285310+00:00
+Black Pepper,restaurant,Gujarat,,,,,21.158015,72.7690396,OpenStreetMap,node,4586701789,2026-11-26T07:40:06.285312+00:00
+Little Italy,restaurant,Gujarat,,,,,23.0324134,72.5082222,OpenStreetMap,node,4595604995,2026-11-26T07:40:06.285315+00:00
+Tandoorworkz,restaurant,Gujarat,,,"Gf-7, Chimanlal Girdharlal Road, 380006",+91 90168 61000,23.0199957,72.5580704,OpenStreetMap,node,4633783690,2026-11-26T07:40:06.285318+00:00
+Annapurna,restaurant,Gujarat,,,,,22.9818481,72.6317943,OpenStreetMap,node,4636987374,2026-11-26T07:40:06.285320+00:00
+Gayatri,restaurant,Gujarat,,,,,22.9811933,72.6319432,OpenStreetMap,node,4637012137,2026-11-26T07:40:06.285323+00:00
+Royal Pride,restaurant,Gujarat,,,,,22.9815706,72.6329291,OpenStreetMap,node,4637012138,2026-11-26T07:40:06.285326+00:00
+nilam snacks,fast_food,Gujarat,,,,,23.0550362,72.5398877,OpenStreetMap,node,4685354589,2026-11-26T07:40:06.285329+00:00
+Tan-man bhaji pav,fast_food,Gujarat,,,"tanman chokdi, 382418",,23.0071778,72.6638136,OpenStreetMap,node,4704651212,2026-11-26T07:40:06.285332+00:00
+Nandini food plaza,fast_food,Gujarat,,,nh 48 mangrol,,21.466768,72.9969943,OpenStreetMap,node,4707672889,2026-11-26T07:40:06.285335+00:00
+rajputana,restaurant,Gujarat,,Jamnagar,Teenbatti road,,22.4707735,70.0721618,OpenStreetMap,node,4711049104,2026-11-26T07:40:06.285338+00:00
+jamjam sea food,restaurant,Gujarat,,Jamnagar,Teenbatti road,,22.4712506,70.0719107,OpenStreetMap,node,4711049105,2026-11-26T07:40:06.285340+00:00
+Upper Crest,restaurant,Gujarat,,,,,23.0168753,72.4703195,OpenStreetMap,node,4718583250,2026-11-26T07:40:06.285344+00:00
+Shmbhu's cafe,cafe,Gujarat,,,,,23.1653459,72.812201,OpenStreetMap,node,4721512569,2026-11-26T07:40:06.285346+00:00
+Kutchi King,fast_food,Gujarat,,,,,23.1646237,72.8107969,OpenStreetMap,node,4721512586,2026-11-26T07:40:06.285349+00:00
+Apun Ka Adda,fast_food,Gujarat,,,,,23.1647419,72.8109707,OpenStreetMap,node,4721512587,2026-11-26T07:40:06.285351+00:00
+Yash Farsan,cafe,Gujarat,,,,,23.1655503,72.8133323,OpenStreetMap,node,4721520831,2026-11-26T07:40:06.285354+00:00
+Jay Bhole,fast_food,Gujarat,,,,,23.1663714,72.8139376,OpenStreetMap,node,4722413220,2026-11-26T07:40:06.285357+00:00
+Tulsi Restaurant,restaurant,Gujarat,,,,,23.1617132,72.8079774,OpenStreetMap,node,4723369292,2026-11-26T07:40:06.285359+00:00
+Green Leaf Restaurant,restaurant,Gujarat,,,,,23.1569882,72.7993084,OpenStreetMap,node,4723369307,2026-11-26T07:40:06.285362+00:00
+Neelkanth Restaurant,restaurant,Gujarat,,,,,23.6122833,72.3605678,OpenStreetMap,node,4741560491,2026-11-26T07:40:06.285365+00:00
+Anna's Kitchen,restaurant,Gujarat,,,"Dumas Road, 395007",+919722222276,21.1679578,72.7846624,OpenStreetMap,node,4771172623,2026-11-26T07:40:06.285368+00:00
+Food plaza,fast_food,Gujarat,,,,,22.4673747,73.1149321,OpenStreetMap,node,4789797737,2026-11-26T07:40:06.285371+00:00
+Subway,fast_food,Gujarat,,,,,23.0422816,72.549183,OpenStreetMap,node,4797415998,2026-11-26T07:40:06.285373+00:00
+Fullfills Ahmedabad,cafe,Gujarat,,Ahmedabad,"G2 Yash Aqua, Vijay Cross Road, Navarangpura, 380009",,23.042429,72.5486687,OpenStreetMap,node,4797416004,2026-11-26T07:40:06.285376+00:00
+quinches,cafe,Gujarat,,,,,23.0416337,72.5490709,OpenStreetMap,node,4797416005,2026-11-26T07:40:06.285379+00:00
+uno pizza,cafe,Gujarat,,,,,23.042389,72.5492178,OpenStreetMap,node,4797416006,2026-11-26T07:40:06.285382+00:00
+Nishra Restaurant,restaurant,Gujarat,,,,,23.1871084,72.5728883,OpenStreetMap,node,4810670481,2026-11-26T07:40:06.285384+00:00
+Sugar 'N Spice,restaurant,Gujarat,,,,02631237550,20.5793807,73.7451092,OpenStreetMap,node,4832529496,2026-11-26T07:40:06.285387+00:00
+Cafe Coffee Day & Subway,restaurant,Gujarat,,,,,22.5682234,71.7772281,OpenStreetMap,node,4867789645,2026-11-26T07:40:06.285390+00:00
+Shayog,restaurant,Gujarat,,,,,22.5741295,71.9562152,OpenStreetMap,node,4867827121,2026-11-26T07:40:06.285392+00:00
+Sugar and Spice,fast_food,Gujarat,,,,,22.5724352,71.9992397,OpenStreetMap,node,4867827321,2026-11-26T07:40:06.285395+00:00
+Subway,fast_food,Gujarat,,vadodara,"Genda circle, 390007",,22.3173132,73.1684808,OpenStreetMap,node,4877532112,2026-11-26T07:40:06.285398+00:00
+Royal tea n farsan,fast_food,Gujarat,,,Sardar Patel Chowk,,21.5110656,70.4602873,OpenStreetMap,node,4907922529,2026-11-26T07:40:06.285400+00:00
+Hotel Taj,restaurant,Gujarat,,,,,24.0265105,72.3853525,OpenStreetMap,node,4928898745,2026-11-26T07:40:06.285403+00:00
+Sognet,restaurant,Gujarat,,,,,23.2970401,72.342756,OpenStreetMap,node,4943470525,2026-11-26T07:40:06.285406+00:00
+The Cafe Baraco,cafe,Gujarat,,ahmedabad,"34, memnagar",,23.0444534,72.5505062,OpenStreetMap,node,5029238558,2026-11-26T07:40:06.285409+00:00
+Kesariyaji Jain Bhojanshala,restaurant,Gujarat,,,,,21.5088776,71.8164839,OpenStreetMap,node,5096900723,2026-11-26T07:40:06.285412+00:00
+Iscon Ghantiya,fast_food,Gujarat,,,,,23.0398379,72.5276503,OpenStreetMap,node,5140818187,2026-11-26T07:40:06.285414+00:00
+Bansari Traditional,restaurant,Gujarat,,,,,23.2170442,72.6496663,OpenStreetMap,node,5154580839,2026-11-26T07:40:06.285417+00:00
+Hotel Purohit Por,restaurant,Gujarat,,,,,22.9945198,72.665834,OpenStreetMap,node,5177688241,2026-11-26T07:40:06.285420+00:00
+Havmor restaurant,restaurant,Gujarat,,,,,23.0287895,72.4775187,OpenStreetMap,node,5197470721,2026-11-26T07:40:06.285422+00:00
+The Gateway Hotel,restaurant,Gujarat,,,,,22.2934916,73.1743197,OpenStreetMap,node,5240630041,2026-11-26T07:40:06.285425+00:00
+Subway,fast_food,Gujarat,,Vadodara,"Cosmos Tower, Near, Padra Road, Atladara",,22.2699124,73.1431511,OpenStreetMap,node,5240634617,2026-11-26T07:40:06.285428+00:00
+MadHouse,restaurant,Gujarat,,,Ring Road -2,,22.2702529,70.7379304,OpenStreetMap,node,5240796621,2026-11-26T07:40:06.285432+00:00
+Subway,fast_food,Gujarat,,,,,22.024323,73.1175448,OpenStreetMap,node,5243760038,2026-11-26T07:40:06.285434+00:00
+McDonald's,fast_food,Gujarat,,"kamrej, Surat",Mumbai Ahemdabad Highway,,21.2762148,72.9537852,OpenStreetMap,node,5245153965,2026-11-26T07:40:06.285437+00:00
+Hotel Sabar,restaurant,Gujarat,,,,,21.0732558,72.9808187,OpenStreetMap,node,5245229134,2026-11-26T07:40:06.285440+00:00
+Pizza Hut,restaurant,Gujarat,,,,,20.3740634,72.9198079,OpenStreetMap,node,5246698096,2026-11-26T07:40:06.285442+00:00
+Amber,restaurant,Gujarat,,,,,20.2557163,72.8848017,OpenStreetMap,node,5246789892,2026-11-26T07:40:06.285445+00:00
+Seva Cafe,cafe,Gujarat,,,,,23.0346667,72.5603703,OpenStreetMap,node,5276640722,2026-11-26T07:40:06.285447+00:00
+Bhagyoday hotel,restaurant,Gujarat,,,Bharuch Bypass,,21.6353865,73.0213399,OpenStreetMap,node,5291387923,2026-11-26T07:40:06.285450+00:00
+Campus Bakers,cafe,Gujarat,,,,,23.520504,72.455349,OpenStreetMap,node,5303187062,2026-11-26T07:40:06.285453+00:00
+Unlocked,cafe,Gujarat,,,,,23.033026,72.5577346,OpenStreetMap,node,5329590125,2026-11-26T07:40:06.285456+00:00
+Hotel Hot & More,restaurant,Gujarat,,,Mahatma Gandhi Road,,22.2982402,70.8013882,OpenStreetMap,node,5337339070,2026-11-26T07:40:06.285458+00:00
+Cafe udipi richi,cafe,Gujarat,,,Chimanlal Girdharlal Road,,23.0320819,72.5600295,OpenStreetMap,node,5340470022,2026-11-26T07:40:06.285461+00:00
+Hotel Emerland,restaurant,Gujarat,,,Kotar pur-airport road,,23.0742871,72.6506214,OpenStreetMap,node,5403772221,2026-11-26T07:40:06.285464+00:00
+In-Garden Cafe,cafe,Gujarat,,,,,23.0122064,72.5062163,OpenStreetMap,node,5407346983,2026-11-26T07:40:06.285466+00:00
+McDonald's,fast_food,Gujarat,,Surat,"Ghod Dhod Road, 395007",,21.1737312,72.7944337,OpenStreetMap,node,5429221632,2026-11-26T07:40:06.285469+00:00
+Sanmani Restaurant,restaurant,Gujarat,,,,,23.0236978,72.5995018,OpenStreetMap,node,5496066223,2026-11-26T07:40:06.285472+00:00
+Garden Café,restaurant,Gujarat,,,,,21.5192524,70.4733448,OpenStreetMap,node,5518578221,2026-11-26T07:40:06.285475+00:00
+Takshshila Food Court,restaurant,Gujarat,,,,,23.0275402,72.559229,OpenStreetMap,node,5527659737,2026-11-26T07:40:06.285477+00:00
+Jai Jalaram Parontha House,restaurant,Gujarat,,,,,23.0246356,72.5714777,OpenStreetMap,node,5527662483,2026-11-26T07:40:06.285480+00:00
+Udipi Cafe,cafe,Gujarat,,,,,23.0144058,72.565418,OpenStreetMap,node,5527662869,2026-11-26T07:40:06.285483+00:00
+Samrasi - Premium Bhojnalaya,restaurant,Gujarat,,,,,23.1800841,72.5735839,OpenStreetMap,node,5546134536,2026-11-26T07:40:06.285485+00:00
+Premavati Swaminarayan Vegetarian,restaurant,Gujarat,,mehsana,384002,,23.6068356,72.3812553,OpenStreetMap,node,5645206026,2026-11-26T07:40:06.285488+00:00
+Jalaram Parotha house,restaurant,Gujarat,,,Ambli Bopal Road,,23.0284866,72.4766561,OpenStreetMap,node,5753441521,2026-11-26T07:40:06.285491+00:00
+Feeling hungry?,fast_food,Gujarat,,,,,21.2136691,72.7727807,OpenStreetMap,node,6046844085,2026-11-26T07:40:06.285494+00:00
+Hotel Supreme,restaurant,Gujarat,,,,,21.5156585,73.0028726,OpenStreetMap,node,6050496031,2026-11-26T07:40:06.285496+00:00
+Giriraj,restaurant,Gujarat,,,,,22.2859258,73.2475187,OpenStreetMap,node,6050547003,2026-11-26T07:40:06.285499+00:00
+Radhe Garden,restaurant,Gujarat,,,,,23.6898759,72.3850285,OpenStreetMap,node,6087011583,2026-11-26T07:40:06.285502+00:00
+Vrindavan,restaurant,Gujarat,,,,,23.1333506,72.6334745,OpenStreetMap,node,6088126794,2026-11-26T07:40:06.285504+00:00
+Sugar And Spice,restaurant,Gujarat,,,,,20.6992504,72.9833742,OpenStreetMap,node,6088128503,2026-11-26T07:40:06.285507+00:00
+Khetlaapa Tea Shop,cafe,Gujarat,,Gandhinagar,"Sargasan Crossroad, 382421",,23.1931868,72.6148754,OpenStreetMap,node,6113416289,2026-11-26T07:40:06.285510+00:00
+7 Colours Pan Parlor,cafe,Gujarat,,Gandhinagar,"Sarthak Mall, Kh-Road, 382421",,23.1950881,72.6146833,OpenStreetMap,node,6113416290,2026-11-26T07:40:06.285513+00:00
+Cafetera,restaurant,Gujarat,,,,,22.7489533,71.7020931,OpenStreetMap,node,6152909599,2026-11-26T07:40:06.285515+00:00
+Om Shiv Hotel,restaurant,Gujarat,,,,,22.7033435,70.4592434,OpenStreetMap,node,6176261000,2026-11-26T07:40:06.285518+00:00
+Chicken biryani,restaurant,Gujarat,,,,,23.0169709,72.5835893,OpenStreetMap,node,6183928288,2026-11-26T07:40:06.285520+00:00
+K.G.N. Chinese Fry Centre,restaurant,Gujarat,,,,,23.0197975,72.5838568,OpenStreetMap,node,6183937086,2026-11-26T07:40:06.285523+00:00
+D.S. dhosa,restaurant,Gujarat,,,Kiran chowk,,21.2131988,72.8840563,OpenStreetMap,node,6190442922,2026-11-26T07:40:06.285526+00:00
+Patel fastfood,restaurant,Gujarat,,,kiran chowk,,21.2133764,72.8815738,OpenStreetMap,node,6190444675,2026-11-26T07:40:06.285529+00:00
+Tea Post,cafe,Gujarat,,,,,22.2929511,73.1225043,OpenStreetMap,node,6352355304,2026-11-26T07:40:06.285531+00:00
+Gossip,cafe,Gujarat,,,,,22.2928758,73.1219622,OpenStreetMap,node,6352355305,2026-11-26T07:40:06.285534+00:00
+Da Pizza Planet,restaurant,Gujarat,,,,,22.2948715,73.1429303,OpenStreetMap,node,6357743403,2026-11-26T07:40:06.285537+00:00
+Caffein Restro,cafe,Gujarat,,,,,22.2951243,73.1433879,OpenStreetMap,node,6357743404,2026-11-26T07:40:06.285540+00:00
+Ready Platter,restaurant,Gujarat,,,,,22.2948132,73.1433798,OpenStreetMap,node,6357743405,2026-11-26T07:40:06.285542+00:00
+The Chocolate Room,restaurant,Gujarat,,,,,22.298249,73.1403087,OpenStreetMap,node,6357758242,2026-11-26T07:40:06.285545+00:00
+Food Lovers,restaurant,Gujarat,,,,,21.4577946,72.94733,OpenStreetMap,node,6372467085,2026-11-26T07:40:06.285548+00:00
+Legend,restaurant,Gujarat,,,,,23.4509304,73.3224377,OpenStreetMap,node,6373440134,2026-11-26T07:40:06.285550+00:00
+Hotel Sahyog,restaurant,Gujarat,,,,,22.7042535,73.5717349,OpenStreetMap,node,6373527900,2026-11-26T07:40:06.285553+00:00
+Rekhaben's namkeen,restaurant,Gujarat,,,,,21.1733701,72.7935489,OpenStreetMap,node,6391518940,2026-11-26T07:40:06.285555+00:00
+Bansi Kathiyawadi,restaurant,Gujarat,,,,,23.6193239,72.3471616,OpenStreetMap,node,6403442251,2026-11-26T07:40:06.285558+00:00
+Bypass Fast Food,fast_food,Gujarat,,,,,23.6200348,72.3441328,OpenStreetMap,node,6403467582,2026-11-26T07:40:06.285560+00:00
+cafrestro,cafe,Gujarat,,,,,21.7502988,73.0195385,OpenStreetMap,node,6521014634,2026-11-26T07:40:06.285563+00:00
+McDonald's,fast_food,Gujarat,,anand,"Shop No.46, Maruti Mall,Shop No 46 Ground Floor Maruti Solaris Near Madhuban Resort, Anand - Sojitra Rd, Anand, Gujarat 388001, 388001",,22.5417812,72.9468395,OpenStreetMap,node,6544940700,2026-11-26T07:40:06.285566+00:00
+lilivadi,restaurant,Gujarat,,Tharad,"State Highway 54, 385565",6359009042,24.3824923,71.6272833,OpenStreetMap,node,6574770532,2026-11-26T07:40:06.285569+00:00
+cabana lounge,cafe,Gujarat,,ahmedabad,"0, behind bogarosa, rajpath club, bodakdev., 380054",+919998822297,23.0355672,72.5061396,OpenStreetMap,node,6649963089,2026-11-26T07:40:06.285572+00:00
+Madhuvan,restaurant,Gujarat,,,,,22.4918805,72.4528706,OpenStreetMap,node,6718709966,2026-11-26T07:40:06.285575+00:00
+Himalaya Bakery,fast_food,Gujarat,,,,,22.9798046,72.5737246,OpenStreetMap,node,6831009179,2026-11-26T07:40:06.285577+00:00
+Хорошая еда,restaurant,Gujarat,,,,,20.704911,72.9948257,OpenStreetMap,node,6986680185,2026-11-26T07:40:06.285580+00:00
+Sairam Ubadiyu,fast_food,Gujarat,,,,,20.6778123,72.9521001,OpenStreetMap,node,7005934785,2026-11-26T07:40:06.285582+00:00
+Krishna park,restaurant,Gujarat,,,,,20.6770305,72.9513281,OpenStreetMap,node,7008866785,2026-11-26T07:40:06.285585+00:00
+Balaji Wafers Retail Counter,fast_food,Gujarat,,,,,20.6757094,72.9503207,OpenStreetMap,node,7008883628,2026-11-26T07:40:06.285588+00:00
+Black Pepper Restaurant and Cafe,restaurant,Gujarat,,Jamnagar,"Gokul Nagar, Indira Gandhi road, 361006",+91 90818 13132,22.44948,70.0400086,OpenStreetMap,node,7053786116,2026-11-26T07:40:06.285591+00:00
+Dosa House,restaurant,Gujarat,,Jamnagar,"Gokul Nagar, Indira Gandhi road, 361006",,22.449549,70.0405388,OpenStreetMap,node,7053786117,2026-11-26T07:40:06.285594+00:00
+McDonald's,fast_food,Gujarat,,Surat,"Millionaire Business Park, Adajan",,21.1940006,72.7870448,OpenStreetMap,node,7095153563,2026-11-26T07:40:06.285596+00:00
+McDonald's,fast_food,Gujarat,,"Surat, Gujarat","Rundh Village Dumas Road, Magdalla",,21.1447394,72.7579799,OpenStreetMap,node,7095203711,2026-11-26T07:40:06.285599+00:00
+McDonald's,fast_food,Gujarat,,"Surat, Gujarat",VIP Road Althan,,21.1451476,72.8029557,OpenStreetMap,node,7095220180,2026-11-26T07:40:06.285602+00:00
+Burger King,fast_food,Gujarat,,Surat,"VR surat, Dumas Road",,21.1581677,72.7696204,OpenStreetMap,node,7095228247,2026-11-26T07:40:06.285605+00:00
+Burger King,fast_food,Gujarat,,Surat,"Valentina Business Hub, LP Savani Rd",,21.1894756,72.7899221,OpenStreetMap,node,7095230046,2026-11-26T07:40:06.285608+00:00
+McDonald's,fast_food,Gujarat,,"Adajan, Surat",Umeshwar Complex,,21.1974536,72.7954141,OpenStreetMap,node,7095246183,2026-11-26T07:40:06.285610+00:00
+McDonald's,fast_food,Gujarat,,Adajan Surat,"Umeshwar Complex, Rander Rd",,21.2000634,72.8041839,OpenStreetMap,node,7095263038,2026-11-26T07:40:06.285613+00:00
+McDonald's,fast_food,Gujarat,,"Ring Rd, Surat",Reliance Mega Mall,,21.1825082,72.8310697,OpenStreetMap,node,7095266804,2026-11-26T07:40:06.285615+00:00
+McDonald's,fast_food,Gujarat,,Gujarat,"Moje Umbhel, Taluka, Kamrej",,21.1783122,72.9627747,OpenStreetMap,node,7095268877,2026-11-26T07:40:06.285618+00:00
+Burger King,fast_food,Gujarat,,Surat,"VR Mall, Udhna Magdalla Road",,21.1447746,72.7573895,OpenStreetMap,node,7095277011,2026-11-26T07:40:06.285621+00:00
+McDonald's,fast_food,Gujarat,,Surat,Street no 3 Nana Varachha,,21.2291712,72.8963614,OpenStreetMap,node,7095280394,2026-11-26T07:40:06.285623+00:00
+Burger King,fast_food,Gujarat,,Vadodara,"Taksh Galaxy Mall, Vadodara Bypass",,22.3018409,73.2544159,OpenStreetMap,node,7095285971,2026-11-26T07:40:06.285626+00:00
+Burger King,fast_food,Gujarat,,Vadodara,"Inorbit mall, Subhanpura",,22.3219443,73.1654796,OpenStreetMap,node,7095294131,2026-11-26T07:40:06.285629+00:00
+McDonald's,fast_food,Gujarat,,"Vadodara, Gujarat","Inox Multiplex, Race Course Rd",,22.3130881,73.1581583,OpenStreetMap,node,7095295458,2026-11-26T07:40:06.285632+00:00
+McDonald's,fast_food,Gujarat,,"Vadodara, Gujarat","Ashwamegh Nagar, Saiyed Vasna",,22.3015915,73.1384812,OpenStreetMap,node,7095305002,2026-11-26T07:40:06.285634+00:00
+McDonald's,fast_food,Gujarat,,"Vadodara, Gujarat","Vadodara Central, Genda Cir, Alkapuri",,22.3172319,73.1683863,OpenStreetMap,node,7095312772,2026-11-26T07:40:06.285637+00:00
+McDonald's,fast_food,Gujarat,,"Vadodara, Gujarat","The New World, Manisha Chowkdi",,22.2970337,73.1649712,OpenStreetMap,node,7095335323,2026-11-26T07:40:06.285640+00:00
+McDonald's,fast_food,Gujarat,,Vadodara Gujarat,"Ground Eva Mall patidar, Uma Char Rasta",,22.2733459,73.1882821,OpenStreetMap,node,7095346152,2026-11-26T07:40:06.285642+00:00
+McDonald's,fast_food,Gujarat,,Vadodara,"Eva Mall Patider, near saraswati complex",,22.2727018,73.1904577,OpenStreetMap,node,7095347686,2026-11-26T07:40:06.285645+00:00
+Burger King,fast_food,Gujarat,,Vadodara,"Chikuwadi, Haripura, Old Padra Road",,22.3076346,73.1659044,OpenStreetMap,node,7095351316,2026-11-26T07:40:06.285647+00:00
+McDonald's,fast_food,Gujarat,,Vadodara,"Jayesh Colony, Fatehgunj",,22.3228945,73.1867698,OpenStreetMap,node,7095377137,2026-11-26T07:40:06.285650+00:00
+McDonald's,fast_food,Gujarat,,Vadodara,Kamlanagar Madhavpura,,22.3125533,73.2541038,OpenStreetMap,node,7095406829,2026-11-26T07:40:06.285653+00:00
+McDonald's,fast_food,Gujarat,,Vadodara,"opposite L&T Knowledge City, Madhavpura",,22.3012708,73.2404379,OpenStreetMap,node,7095409510,2026-11-26T07:40:06.285655+00:00
+Subway,fast_food,Gujarat,,Surat,"Ambatalavdi, Katargam",,21.2361461,72.8252615,OpenStreetMap,node,7097465543,2026-11-26T07:40:06.285658+00:00
+Subway,fast_food,Gujarat,,Surat,"Adajan Gam, Adajan",,21.1955541,72.797396,OpenStreetMap,node,7097472475,2026-11-26T07:40:06.285661+00:00
+KFC,fast_food,Gujarat,,Surat,"UN G1B, Gr Flr, Shivalik Western, TGB circle",,21.1931143,72.7867777,OpenStreetMap,node,7097473055,2026-11-26T07:40:06.285664+00:00
+KFC,fast_food,Gujarat,,Surat,"VR Mall, Dumas Road",,21.1424293,72.7552014,OpenStreetMap,node,7097492279,2026-11-26T07:40:06.285667+00:00
+KFC,fast_food,Gujarat,,Surat,"Cental Mall, Dumas Road",,21.1545081,72.764844,OpenStreetMap,node,7097495882,2026-11-26T07:40:06.285669+00:00
+Domino's,fast_food,Gujarat,,Surat,Bhatar Road,,21.1755739,72.8176366,OpenStreetMap,node,7097517439,2026-11-26T07:40:06.285672+00:00
+Subway,fast_food,Gujarat,,Surat,"Vanlentina Business Hub, Adajan Gam, Adajan",,21.1894449,72.7900021,OpenStreetMap,node,7097533557,2026-11-26T07:40:06.285675+00:00
+Subway,fast_food,Gujarat,,Surat,"E-space, Nr. Bhagwan Mahavir College",,21.1433876,72.7947489,OpenStreetMap,node,7097536064,2026-11-26T07:40:06.285677+00:00
+Subway,fast_food,Gujarat,,Surat,"Adarsh Society, Athwa",,21.1757603,72.8090181,OpenStreetMap,node,7097538095,2026-11-26T07:40:06.285680+00:00
+Subway,fast_food,Gujarat,,Surat,"Anmol complex, Athwa",,21.1706861,72.7885552,OpenStreetMap,node,7097539688,2026-11-26T07:40:06.285682+00:00
+Subway,fast_food,Gujarat,,Surat,"Piplod Main Road, Beside Rajanse Cinema, Piplod",,21.1600827,72.7727727,OpenStreetMap,node,7097541232,2026-11-26T07:40:06.285685+00:00
+Domino's,fast_food,Gujarat,,Surat,"First Floor Regent Arcade, Ghod Dhod Road",,21.1740069,72.7999983,OpenStreetMap,node,7097547342,2026-11-26T07:40:06.285688+00:00
+Pizza Hut,restaurant,Gujarat,,Surat,"Tribhuvan Complex, Ghod Dhod Road",,21.1750005,72.8013232,OpenStreetMap,node,7097548124,2026-11-26T07:40:06.285691+00:00
+Domino's,fast_food,Gujarat,,Surat,Anand Mahal Road,,21.1960571,72.7975612,OpenStreetMap,node,7097561481,2026-11-26T07:40:06.285693+00:00
+Pizza Hut,restaurant,Gujarat,,Surat,"International Business Centre, Piplod",,21.1581607,72.7694678,OpenStreetMap,node,7097567685,2026-11-26T07:40:06.285696+00:00
+Domino's,fast_food,Gujarat,,Surat,LP Savani Road,,21.1913006,72.7878355,OpenStreetMap,node,7097573142,2026-11-26T07:40:06.285699+00:00
+Domino's,fast_food,Gujarat,,Surat,"Kinnary Cinema, Salabatpura, Ring Road",,21.186045,72.8367322,OpenStreetMap,node,7097582072,2026-11-26T07:40:06.285701+00:00
+Domino's,fast_food,Gujarat,,Surat,"Laxmi nagar, Udhana",,21.1708131,72.8310991,OpenStreetMap,node,7097589074,2026-11-26T07:40:06.285704+00:00
+Domino's,fast_food,Gujarat,,Surat,near D Mart,,21.2247183,72.8074072,OpenStreetMap,node,7097592073,2026-11-26T07:40:06.285707+00:00
+Domino's,fast_food,Gujarat,,Surat,"Causeway Road, Singanpor",,21.2245608,72.8071974,OpenStreetMap,node,7097593422,2026-11-26T07:40:06.285709+00:00
+Domino's,fast_food,Gujarat,,Surat,"Sunshine Complex, Sudama chowk",,21.2366855,72.875673,OpenStreetMap,node,7097596947,2026-11-26T07:40:06.285712+00:00
+Domino's,fast_food,Gujarat,,Surat,"Adithya Chambers, Varachha Road",,21.218227,72.8701262,OpenStreetMap,node,7097621426,2026-11-26T07:40:06.285715+00:00
+Domino's,fast_food,Gujarat,,Surat,"Village, Ichhapur",,21.1871027,72.7111664,OpenStreetMap,node,7097621984,2026-11-26T07:40:06.285717+00:00
+Domino's,fast_food,Gujarat,,Surat,,,21.1871827,72.7118101,OpenStreetMap,node,7097630825,2026-11-26T07:40:06.285720+00:00
+Domino's,fast_food,Gujarat,,Surat,"International Business Center, Piplod, Dumas Road",,21.1577917,72.7686783,OpenStreetMap,node,7097644075,2026-11-26T07:40:06.285723+00:00
+Domino's,fast_food,Gujarat,,Surat,Varachha Main Road,,21.2311446,72.9032447,OpenStreetMap,node,7097645949,2026-11-26T07:40:06.285725+00:00
+Domino's,fast_food,Gujarat,,Suart,"Ramnagar, Adajan",,21.2177043,72.7885489,OpenStreetMap,node,7097646212,2026-11-26T07:40:06.285728+00:00
+Domino's,fast_food,Gujarat,,Surat,Palanpur,,21.2141092,72.7756803,OpenStreetMap,node,7097648159,2026-11-26T07:40:06.285730+00:00
+Domino's,fast_food,Gujarat,,Surat,"ESSAR, HAZARIA",,21.1298191,72.6529466,OpenStreetMap,node,7097678539,2026-11-26T07:40:06.285733+00:00
+Domino's,fast_food,Gujarat,,Surat,"Chitrakut Society, Vishal Nagar",,21.2325355,72.8358594,OpenStreetMap,node,7097680916,2026-11-26T07:40:06.285736+00:00
+Domino's,fast_food,Gujarat,,Surat,Amidhara Society,,21.1966259,72.8598251,OpenStreetMap,node,7097702167,2026-11-26T07:40:06.285738+00:00
+Subway,fast_food,Gujarat,,Vadodara,"Sun Buildings, Race Course Road",,22.3089875,73.1603544,OpenStreetMap,node,7097971974,2026-11-26T07:40:06.285741+00:00
+KFC,fast_food,Gujarat,,Vadodara,"Inorbit Mall Vadodara, Subhanpura",,22.3223768,73.1655062,OpenStreetMap,node,7097987463,2026-11-26T07:40:06.285743+00:00
+Domino's,fast_food,Gujarat,,Vadodara,"Sai Rutu Manjalpur, Sarawati road",,22.2709058,73.1944365,OpenStreetMap,node,7097989781,2026-11-26T07:40:06.285746+00:00
+Subway,fast_food,Gujarat,,Vadodara,"GIDC Industrial Area, Manjalpur",,22.2710488,73.1941976,OpenStreetMap,node,7097998981,2026-11-26T07:40:06.285749+00:00
+Subway,fast_food,Gujarat,,Vadodara,"Chandramauleshwar Nagar, Gotri",,22.3158037,73.1320175,OpenStreetMap,node,7098005061,2026-11-26T07:40:06.285751+00:00
+KFC,fast_food,Gujarat,,vadodara,"Central Mall Genda, Genda Circle",,22.3173237,73.1699104,OpenStreetMap,node,7098007505,2026-11-26T07:40:06.285754+00:00
+Subway,fast_food,Gujarat,,Vadodara,"Gorwa Rd, Subhanpura",,22.3223109,73.1652321,OpenStreetMap,node,7098028446,2026-11-26T07:40:06.285756+00:00
+Subway,fast_food,Gujarat,,Vadodara,"Ganga Jamana Society, Subhanpura",,22.3201933,73.1596747,OpenStreetMap,node,7098029044,2026-11-26T07:40:06.285759+00:00
+KFC,fast_food,Gujarat,,Vadodara Gujarat,"Saraswati Complex, Manjalpur",,22.2734946,73.1886805,OpenStreetMap,node,7098030447,2026-11-26T07:40:06.285762+00:00
+Subway,fast_food,Gujarat,,Vadodara,"University, Sarod, Sayajiganj",,22.3089015,73.1866446,OpenStreetMap,node,7098033446,2026-11-26T07:40:06.285764+00:00
+Pizza Hut,restaurant,Gujarat,,Vadodara,"Inorbt Mall, Alembic Rd, Gorwa",,22.3217705,73.1650009,OpenStreetMap,node,7098040237,2026-11-26T07:40:06.285767+00:00
+Domino's,fast_food,Gujarat,,Vadodara,,,22.3226584,73.166166,OpenStreetMap,node,7098041167,2026-11-26T07:40:06.285769+00:00
+Domino's,fast_food,Gujarat,,Vadodara,,,22.3200841,73.1596456,OpenStreetMap,node,7098045064,2026-11-26T07:40:06.285772+00:00
+Domino's,fast_food,Gujarat,,Vadodara,"Raj Castle Building, Race Course Road",,22.3158697,73.1615258,OpenStreetMap,node,7098059135,2026-11-26T07:40:06.285775+00:00
+Domino's,fast_food,Gujarat,,Vadodara,"AG Chamber, Narhari Hospital Circle,",,22.3190656,73.188303,OpenStreetMap,node,7098059410,2026-11-26T07:40:06.285778+00:00
+Pizza Hut,restaurant,Gujarat,,Vadodara Gujarat,"Eva Mall, Manjalpur",,22.2735572,73.1881068,OpenStreetMap,node,7098062368,2026-11-26T07:40:06.285780+00:00
+Subway,fast_food,Gujarat,,Vadodara,"Goverdhan Apartment, Jay Santhoshi Nagar, Karelibagh",,22.323134,73.1973994,OpenStreetMap,node,7098067282,2026-11-26T07:40:06.285783+00:00
+Pizza Hut,restaurant,Gujarat,,Vadodara,"Akashganga Complex, Race Course Rd",,22.3121029,73.1649813,OpenStreetMap,node,7098071037,2026-11-26T07:40:06.285786+00:00
+Domino's,fast_food,Gujarat,,Vadodara,Nizampura,,22.3373315,73.1791996,OpenStreetMap,node,7098072008,2026-11-26T07:40:06.285789+00:00
+Domino's,fast_food,Gujarat,,Vadodar,"near Akshar Chowk, Munjmahuda",,22.2829953,73.1662708,OpenStreetMap,node,7098075930,2026-11-26T07:40:06.285792+00:00
+Domino's,fast_food,Gujarat,,Vadodara,"beside M.S. Hostel, Vemali",,22.3517647,73.2008805,OpenStreetMap,node,7098076994,2026-11-26T07:40:06.285794+00:00
+Domino's,fast_food,Gujarat,,Vadodara,New VIP Rd,,22.3179465,73.2276885,OpenStreetMap,node,7098083471,2026-11-26T07:40:06.285797+00:00
+Domino's,fast_food,Gujarat,,Vadodara,"Uma Co-operative Housing Society Limited, indrapuri road",,22.3003308,73.230419,OpenStreetMap,node,7098090588,2026-11-26T07:40:06.285799+00:00
+Naitri Parlour,restaurant,Gujarat,,Bhavnagar,"Plot No - 4, Jay Kedarnath - Shantilal Shah Engineering College Road, Sidsar",+919426462612,21.714119,72.1158327,OpenStreetMap,node,7100010316,2026-11-26T07:40:06.285802+00:00
+Cafe Coffee Day,cafe,Gujarat,,,,,20.9958097,72.9690918,OpenStreetMap,node,7106150590,2026-11-26T07:40:06.285805+00:00
+Shyam Kathiawadi Dhaba,restaurant,Gujarat,,,,,21.2306163,72.8660789,OpenStreetMap,node,7106196777,2026-11-26T07:40:06.285808+00:00
+The Cafe Date,cafe,Gujarat,,,,,23.034043,72.5018226,OpenStreetMap,node,7137331982,2026-11-26T07:40:06.285810+00:00
+Hotel Kaileshwari,restaurant,Gujarat,,,,,23.358514,73.6159215,OpenStreetMap,node,7232492352,2026-11-26T07:40:06.285813+00:00
+Sonali Fast Food,restaurant,Gujarat,,,,,22.2998941,70.7768169,OpenStreetMap,node,7503041176,2026-11-26T07:40:06.285815+00:00
+Shri Hari,restaurant,Gujarat,,,,,22.2909308,70.7785174,OpenStreetMap,node,7503041177,2026-11-26T07:40:06.285818+00:00
+Neel Da Dhaba,restaurant,Gujarat,,,,,22.30431,70.7758432,OpenStreetMap,node,7503041605,2026-11-26T07:40:06.285820+00:00
+Pizza Da Dhaba,fast_food,Gujarat,,Surat,"Model Town Road, Near I Mata Circle, 395010",,21.1909121,72.8602453,OpenStreetMap,node,7713971326,2026-11-26T07:40:06.285823+00:00
+Subway,fast_food,Gujarat,,Vadodara,"Grown Floor, Pancham Icon, Saiyed Vasna Road, Near D'Mart, 390012",,22.2949189,73.1534212,OpenStreetMap,node,7740233364,2026-11-26T07:40:06.285826+00:00
+Domino's,fast_food,Gujarat,,Vadodara,"Pancham Icon, Saiyed Vasna Road, 390015",,22.2949415,73.1536692,OpenStreetMap,node,7740233365,2026-11-26T07:40:06.285829+00:00
+Pizza Hut,restaurant,Gujarat,,,,,22.3015421,73.1382288,OpenStreetMap,node,7740233371,2026-11-26T07:40:06.285832+00:00
+the shake maker,cafe,Gujarat,,surat,"5 neel gagan apt, Athwalines Road, 395001",,21.1856424,72.8097318,OpenStreetMap,node,7846556358,2026-11-26T07:40:06.285835+00:00
+choice snackbar,restaurant,Gujarat,,rajkot,"revenue society 2, 360001",+917878101234,22.286494,70.7919535,OpenStreetMap,node,7953854861,2026-11-26T07:40:06.285838+00:00
+Coffee Stand-CG Road,cafe,Gujarat,,Ahmedabad,"1, Swastik Cross Road /Swastik Society Road / Swastik X Road, 380009",+919726323358,23.0360509,72.5611735,OpenStreetMap,node,8039346176,2026-11-26T07:40:06.285841+00:00
+MTH Sky Dine Café,cafe,Gujarat,,Vadodara,"7, Shreeji Apartment, 390011",+918511377767,22.273385,73.1842138,OpenStreetMap,node,8088485434,2026-11-26T07:40:06.285844+00:00
+MTH Sky Dine Café,cafe,Gujarat,,,,,22.2731501,73.1852968,OpenStreetMap,node,8088547777,2026-11-26T07:40:06.285846+00:00
+Mealbox @ Out Of The Box,restaurant,Gujarat,,Rajkot,"Out Of The Box, Nyari Dam 1 Road , Kalawad Road, 360005",+918980989999,22.2550841,70.7200524,OpenStreetMap,node,8096305941,2026-11-26T07:40:06.285849+00:00
+fiftyeight sixtyeight - 5868,restaurant,Gujarat,,Adalaj,"Shivam 2, Trimandir - Dadanagar Rd, 382421",+91 95747 45868,23.1875373,72.5739984,OpenStreetMap,node,8152270626,2026-11-26T07:40:06.285857+00:00
+REHAN'S KHITCHEN,cafe,Gujarat,,vadodara,"GF-02, New VIP Ring Road, 390025",,22.2873692,73.2369245,OpenStreetMap,node,8354696042,2026-11-26T07:40:06.285861+00:00
+Episode Coffee Lounge,cafe,Gujarat,,Surat,"C-203 Aagam Viviannna, Near Florence Apt, Vesu, 395007",+91 9904807788,21.1381158,72.7745876,OpenStreetMap,node,8407527478,2026-11-26T07:40:06.285864+00:00
+Cafe Appetito - Alembic,cafe,Gujarat,,Vadodara,"Shop - 3, Alemibc Arcade, Alembic City, Alembic Road, Gorwa, 390003",+91 7874115110,22.3249456,73.1651971,OpenStreetMap,node,8433322863,2026-11-26T07:40:06.285867+00:00
+McDonald's,fast_food,Gujarat,,,,,23.0221413,72.5567513,OpenStreetMap,node,8455774613,2026-11-26T07:40:06.285870+00:00
+quickshef,fast_food,Gujarat,,gandhinagar,"G-4, pethapur, 382610",6356166209,23.2642324,72.6661194,OpenStreetMap,node,8460962736,2026-11-26T07:40:06.285873+00:00
+Hocco Eatery,restaurant,Gujarat,,Ahmedabad,"SoBo Centre, 200ft. Gala Gymkhana Road",,23.0175789,72.4750517,OpenStreetMap,node,8490717173,2026-11-26T07:40:06.285876+00:00
+Hogspot,restaurant,Gujarat,,,,,21.1773139,72.8012332,OpenStreetMap,node,8519862707,2026-11-26T07:40:06.285878+00:00
+Crushh,cafe,Gujarat,,,,,21.1485188,72.766095,OpenStreetMap,node,8519862713,2026-11-26T07:40:06.285881+00:00
+Swati Snacks,restaurant,Gujarat,,,,+91 79 2640 5900,23.0244466,72.5589826,OpenStreetMap,node,8548483880,2026-11-26T07:40:06.285884+00:00
+Deshi Chulha Non-veg,cafe,Gujarat,,,,,23.0158336,72.5508007,OpenStreetMap,node,8847682611,2026-11-26T07:40:06.285887+00:00
+Bean Box Cafe,cafe,Gujarat,,,,,23.0451215,72.4854863,OpenStreetMap,node,8847682612,2026-11-26T07:40:06.285890+00:00
+Siya's Cafe,cafe,Gujarat,,anand,"NR University circle, radha madhav complex, 388120",7600352626,22.5554889,72.923112,OpenStreetMap,node,8859452165,2026-11-26T07:40:06.285893+00:00
+Spice Kraft,restaurant,Gujarat,,Vadodara,"FF 106-107, Golden Icon, Chakli Circle, 390007",+91 9099034796,22.3077172,73.1659009,OpenStreetMap,node,8932000241,2026-11-26T07:40:06.285896+00:00
+Babadeepsingh Restaurant,restaurant,Gujarat,,Ahmedabad,"4,5,6, Nadroda Business Hub, opp. Satva Green Party Plot, Nr. Ring Road Circle Hanspura, Naroda - Dahegam Road, 382330",,23.0875162,72.683768,OpenStreetMap,node,8972208043,2026-11-26T07:40:06.285898+00:00
+Diwan Bhel Pakodi Center,fast_food,Gujarat,,Ahmedabad,"Shivalay Apartment 2, 380015",,23.0163696,72.5248026,OpenStreetMap,node,8998662168,2026-11-26T07:40:06.285902+00:00
+Jagdish Chaat Pakodi Center,fast_food,Gujarat,,Ahmedabad,"GF-5, Nandanvan 3, 380015",,23.0163966,72.5243683,OpenStreetMap,node,8998662169,2026-11-26T07:40:06.285904+00:00
+Sambar Cafe,restaurant,Gujarat,,,,+917874444757,23.0333924,72.4354163,OpenStreetMap,node,9002228814,2026-11-26T07:40:06.285907+00:00
+Domino's,fast_food,Gujarat,,Ahmedabad,"132 Ft. Ring Road, Shyamal, 380015",18002081234,23.0172744,72.5299212,OpenStreetMap,node,9005464434,2026-11-26T07:40:06.285910+00:00
+La Milano Pizzeria Prahladnagar,restaurant,Gujarat,,Ahmedabad,"GF7-8, Opp Prahladnagar Garden, 380015",+916359149090,23.0116205,72.5052184,OpenStreetMap,node,9006994317,2026-11-26T07:40:06.285913+00:00
+McDonald's,fast_food,Gujarat,,Ahmedabad,"SN 1, Sardar Patel Ring Road, 380058",+919372722317,23.0258612,72.4762382,OpenStreetMap,node,9009705206,2026-11-26T07:40:06.285916+00:00
+McDonald's,fast_food,Gujarat,,Ahmedabad,"A-04 A-05, 100 Ft. Road, 380015",+918928304108,23.0123743,72.511119,OpenStreetMap,node,9009771427,2026-11-26T07:40:06.285919+00:00
+Crush Culture Cafe Bar,cafe,Gujarat,,Ahmedabad,"106, Naroda business hub, NR. New D-Mart, Naroda-dehgam road, Hanspura, 382330",+91 9974 973181,23.0875987,72.6839578,OpenStreetMap,node,9078990286,2026-11-26T07:40:06.285921+00:00
+Rail Ahar,fast_food,Gujarat,,,,,21.205929,72.8405609,OpenStreetMap,node,9115520769,2026-11-26T07:40:06.285924+00:00
+Rail Ahar,fast_food,Gujarat,,,,,21.2059607,72.8408444,OpenStreetMap,node,9115520770,2026-11-26T07:40:06.285927+00:00
+Dadu Cafe,cafe,Gujarat,,Ahmedabad,382350,+91 97254 00091,23.0496098,72.6705415,OpenStreetMap,node,9116794693,2026-11-26T07:40:06.285929+00:00
+Domino's,fast_food,Gujarat,,,"5-6, Ahmedabad Palanpur State Highway SH41, 384435",,23.4724121,72.3920679,OpenStreetMap,node,9117110581,2026-11-26T07:40:06.285932+00:00
+Gordhan Thal,restaurant,Gujarat,,Ahmedabad,"Shapath Tower Ground Floor Sarkhej Gandhi Nagar Highway, Near State Bank Of India, Thaltej, 380054",,23.0359596,72.5111196,OpenStreetMap,node,9123477265,2026-11-26T07:40:06.285935+00:00
+Deva's Coffee Bar,fast_food,Gujarat,,,,,23.0361967,72.5110489,OpenStreetMap,node,9123574763,2026-11-26T07:40:06.285938+00:00
+Coffee Place,cafe,Gujarat,,,,,21.8691202,72.6927449,OpenStreetMap,node,9128822012,2026-11-26T07:40:06.285941+00:00
+Shreeji Krupa Bombay Vadapav,fast_food,Gujarat,,,"Himalaya Arcade B, Sargam Marg, Nehru Park Cir, Mahavir Nagar society, Vastrapur, Ahmedabad, Gujarat 380015",,23.0371443,72.5290405,OpenStreetMap,node,9287451026,2026-11-26T07:40:06.285944+00:00
+Starbucks,cafe,Gujarat,,,380054,,23.0319557,72.5107614,OpenStreetMap,node,9292073779,2026-11-26T07:40:06.285947+00:00
+mocha,cafe,Gujarat,,,"Ground Floor 6-9, 380054",,23.0318311,72.511298,OpenStreetMap,node,9292073782,2026-11-26T07:40:06.285951+00:00
+Gajanand Pauva House,fast_food,Gujarat,,,"Himalaya Arcade B, Sargam Marg, Nehru Park Cir, Mahavir Nagar society, Vastrapur, Ahmedabad, Gujarat 380015",,23.0371776,72.5291086,OpenStreetMap,node,9296316189,2026-11-26T07:40:06.285954+00:00
+Jay Mataji Fast Food,fast_food,Gujarat,,,"Himalaya Arcade B, Sargam Marg, Nehru Park Cir, Mahavir Nagar society, Vastrapur, Ahmedabad, Gujarat 380015",+919377080380,23.0371316,72.5290981,OpenStreetMap,node,9296318313,2026-11-26T07:40:06.285957+00:00
+Hotel Kismat Kathiyawadi,restaurant,Gujarat,,,,,22.7069859,72.8256701,OpenStreetMap,node,9296319948,2026-11-26T07:40:06.285960+00:00
+Tulsi Restaurant,restaurant,Gujarat,,,,,22.7079703,72.8233537,OpenStreetMap,node,9296322076,2026-11-26T07:40:06.285962+00:00
+Purohit Chavana and Sweet Mart,fast_food,Gujarat,,,,+919824013574,23.0182853,72.4716006,OpenStreetMap,node,9310325493,2026-11-26T07:40:06.285965+00:00
+Puffiza,fast_food,Gujarat,,,,079 4039 5555,23.0276271,72.5588748,OpenStreetMap,node,9318813907,2026-11-26T07:40:06.285968+00:00
+Skyz Restaurant and Banquet,restaurant,Gujarat,,,"3rd floor, 100 ft. Road, Prahaladnagar",07926931600,23.0116726,72.5081733,OpenStreetMap,node,9345872082,2026-11-26T07:40:06.285971+00:00
+The Waffling Station,restaurant,Gujarat,,Ahmedabad,"Ground Floor, Vaibhav Flats,, H.L Commerce College Rd, Navrangpara, 380009",+919725035686,23.0322805,72.5551823,OpenStreetMap,node,9348528050,2026-11-26T07:40:06.285974+00:00
+The Chocolate Room,cafe,Gujarat,,Kutch,"7 Arrow, Sedata-Madhapar(Mundra Road), 370001",+918401339825,23.233367,69.6632014,OpenStreetMap,node,9527819935,2026-11-26T07:40:06.285977+00:00
+Plumeria Cafe,cafe,Gujarat,,,,,22.961352,72.4239095,OpenStreetMap,node,9660433812,2026-11-26T07:40:06.285980+00:00
+Dharmraj Bhel House,fast_food,Gujarat,,Dhrol,"Dhrol Main Road, 361210",,22.5669643,70.4142122,OpenStreetMap,node,9754908564,2026-11-26T07:40:06.285983+00:00
+Bhole Baba Hotel,restaurant,Gujarat,Morbi,Otala,"Dhrol - Tankara State Highway, 363650",,22.5977096,70.6306276,OpenStreetMap,node,9758833565,2026-11-26T07:40:06.285986+00:00
+Sanjha chulha garden dhaba,restaurant,Gujarat,,Popatpura,Godhra-vadodara highway,9824070170,22.7326857,73.5916417,OpenStreetMap,node,9764864077,2026-11-26T07:40:06.285988+00:00
+McDonald's,fast_food,Gujarat,,Gandhinagar,"Gandhinagar Bypass Road, 382421",,23.1925108,72.6164238,OpenStreetMap,node,9806747712,2026-11-26T07:40:06.285991+00:00
+Shiva's Cafe,cafe,Gujarat,,Gandhinagar,"Shop no.5 , Ground Floor, Gandhinagar Bypass Road, 382421",+918128886999,23.1923234,72.6165249,OpenStreetMap,node,9806747713,2026-11-26T07:40:06.285994+00:00
+Upper Deck,restaurant,Gujarat,,Gandhinagar,"Gandhinagar Bypass Road, 382421",,23.1918606,72.616653,OpenStreetMap,node,9806747714,2026-11-26T07:40:06.285997+00:00
+The Grill Street,restaurant,Gujarat,,Ahemedabad,"Dev Arc Commercial Complex, 106, Iskcon Cross Rd, Near iscon cross road, Ramdev Nagar,, 380015",,23.0267886,72.5079662,OpenStreetMap,node,9809086195,2026-11-26T07:40:06.286000+00:00
+Joules bar,fast_food,Gujarat,,,,,22.5452396,72.9296937,OpenStreetMap,node,9837804256,2026-11-26T07:40:06.286003+00:00
+Relish World,fast_food,Gujarat,,,,,22.5558085,72.9503592,OpenStreetMap,node,9837829149,2026-11-26T07:40:06.286005+00:00
+Brown corner,fast_food,Gujarat,,,,,22.5416374,72.9470543,OpenStreetMap,node,9838131524,2026-11-26T07:40:06.286008+00:00
+Octant Pizza,restaurant,Gujarat,,,,,22.5417172,72.9470076,OpenStreetMap,node,9838131525,2026-11-26T07:40:06.286010+00:00
+Poptos,restaurant,Gujarat,,,,,22.5415577,72.9469176,OpenStreetMap,node,9838131528,2026-11-26T07:40:06.286013+00:00
+Pizza Hut,restaurant,Gujarat,,,,,22.5415843,72.9468312,OpenStreetMap,node,9838131535,2026-11-26T07:40:06.286016+00:00
+The Shakemaker,fast_food,Gujarat,,,,,22.5412519,72.9468888,OpenStreetMap,node,9838131541,2026-11-26T07:40:06.286018+00:00
+HD cafe,cafe,Gujarat,,,,,22.5416208,72.9466909,OpenStreetMap,node,9838131543,2026-11-26T07:40:06.286021+00:00
+The House of Khaman,restaurant,Gujarat,,,Navrangpura,+91 88660 79988,23.0396084,72.5644073,OpenStreetMap,node,9878358235,2026-11-26T07:40:06.286024+00:00
+Trupti Snacks,restaurant,Gujarat,,Gandevi,396360,,20.8177753,72.996319,OpenStreetMap,node,9903992861,2026-11-26T07:40:06.286027+00:00
+La Milano,restaurant,Gujarat,,,,,23.610062,72.3659229,OpenStreetMap,node,9921911550,2026-11-26T07:40:06.286030+00:00
+Puffiza,restaurant,Gujarat,,,,,23.6100456,72.3659841,OpenStreetMap,node,9921911551,2026-11-26T07:40:06.286033+00:00
+Chai Makers By Engineers VIP,cafe,Gujarat,,Surat,"G/25, G.FL, OFIRA BUSINESS HUB, VIP Road, opp. BHAGWAN MAHAVIR COLLEGE, Bharthana, Surat, Gujarat 395007, 395007",,21.141804,72.7934341,OpenStreetMap,node,9928911545,2026-11-26T07:40:06.286036+00:00
+Bhookh Lagi Hai?,fast_food,Gujarat,,,,+919001293435,23.0218092,72.5062361,OpenStreetMap,node,9951265800,2026-11-26T07:40:06.286038+00:00
+The House of Makeba (Bhat),restaurant,Gujarat,,Ahmedabad,"304, 3rd Floor Xperia, Sardar Patel Ring Road, 382424",,23.1170709,72.6283409,OpenStreetMap,node,9996701486,2026-11-26T07:40:06.286041+00:00
+AD Hot & Cool Cafe,cafe,Gujarat,,Petlad,"1, Shivaay Arcade, Nr. College Chowkdi, 388450",+917016614525,22.4766187,72.8105645,OpenStreetMap,node,10054284661,2026-11-26T07:40:06.286044+00:00
+Gwalia Sweets,fast_food,Gujarat,,,,,23.017434,72.4756286,OpenStreetMap,node,10177917536,2026-11-26T07:40:06.286047+00:00
+Honest,restaurant,Gujarat,,,,,22.8596075,72.8074025,OpenStreetMap,node,10177933594,2026-11-26T07:40:06.286050+00:00
+Aasiyana Restaurant,restaurant,Gujarat,,,,,21.4710791,73.1006464,OpenStreetMap,node,10181376212,2026-11-26T07:40:06.286052+00:00
+The Coffee Time,cafe,Gujarat,,Surat,"G-25, Silver Buisness Point, 394105",+919727275059,21.2336825,72.8636589,OpenStreetMap,node,10201713118,2026-11-26T07:40:06.286055+00:00
+Authentic cafe,cafe,Gujarat,,,,,23.0319107,72.5883477,OpenStreetMap,node,10225625719,2026-11-26T07:40:06.286058+00:00
+Ashirwad Resto & Cafe,restaurant,Gujarat,,"Dhrol , Dist Jamnagar",Rajkot To Jamnagar Highway,,22.5611378,70.4142109,OpenStreetMap,node,10233379394,2026-11-26T07:40:06.286060+00:00
+Atithi Garden Restaurant,restaurant,Gujarat,,"Dhrol , Dist Jamnagar","Dhrol Bus Station Road, 361160",,22.5619307,70.415671,OpenStreetMap,node,10233379395,2026-11-26T07:40:06.286063+00:00
+Shree Siddhnath Ghughra Center,restaurant,Gujarat,,Dhrol,361210,,22.5624299,70.419007,OpenStreetMap,node,10233379396,2026-11-26T07:40:06.286066+00:00
+One More Cafe,cafe,Gujarat,,,rajhans complex,+918866155426,20.7674729,72.9827834,OpenStreetMap,node,10267076271,2026-11-26T07:40:06.286068+00:00
+McDonald's Gundlav,restaurant,Gujarat,,,Gundlav,,20.6163064,72.961314,OpenStreetMap,node,10281287614,2026-11-26T07:40:06.286071+00:00
+Shri Udipi Restaurant,restaurant,Gujarat,,,,,20.6096787,72.9311226,OpenStreetMap,node,10281314251,2026-11-26T07:40:06.286074+00:00
+Retro Bistro Anand,restaurant,Gujarat,,Anand,"Retro Bistro, Opp. Hero Showroom, Lambhvel Road, 388001",+91 7600600727,22.5760103,72.940198,OpenStreetMap,node,10292116771,2026-11-26T07:40:06.286077+00:00
+Jassi De Parathe,restaurant,Gujarat,,,"107, Safal Pegasus, 100 Feet, Anandnagar Road,",+91 95102 22000,23.0123617,72.5110318,OpenStreetMap,node,10550714022,2026-11-26T07:40:06.286080+00:00
+inorbit,fast_food,Gujarat,,maharashtra,"123, new link road, 400092",+91 99887 76655,22.3220925,73.1654761,OpenStreetMap,node,10613564144,2026-11-26T07:40:06.286082+00:00
+Choco drama,cafe,Gujarat,,,,,23.0410761,72.5269272,OpenStreetMap,node,10750415881,2026-11-26T07:40:06.286085+00:00
+leela sandwich,fast_food,Gujarat,,,,,23.0407863,72.5275081,OpenStreetMap,node,10750415885,2026-11-26T07:40:06.286088+00:00
+Hotel Annpurna Kathiyawadi,restaurant,Gujarat,,Morbi,"8-A, 8-A, National Highway, Near Radheshyam Plaza Bharatnagar(old Sadurka, 2, Gujarat, 363642",09574745454,22.8955963,70.8309663,OpenStreetMap,node,10905240730,2026-11-26T07:40:06.286091+00:00
+Ramdev Farsan,restaurant,Gujarat,,,,,23.1084228,72.5824778,OpenStreetMap,node,10959605481,2026-11-26T07:40:06.286093+00:00
+Monginis Cake shop,restaurant,Gujarat,,,,,23.1089422,72.5912774,OpenStreetMap,node,10959628584,2026-11-26T07:40:06.286096+00:00
+Subway.,restaurant,Gujarat,,,,,23.1035224,72.5960745,OpenStreetMap,node,10959640143,2026-11-26T07:40:06.286098+00:00
+The Belgian Waffle,restaurant,Gujarat,,,,,23.1096267,72.5938416,OpenStreetMap,node,10959661519,2026-11-26T07:40:06.286101+00:00
+Tandoor & Tadka,restaurant,Gujarat,,,,,23.1096095,72.5942231,OpenStreetMap,node,10959671658,2026-11-26T07:40:06.286104+00:00
+La Pino's Pizza.,restaurant,Gujarat,,,,,23.1034803,72.5961933,OpenStreetMap,node,10959699945,2026-11-26T07:40:06.286107+00:00
+Dangee Dums,restaurant,Gujarat,,,,,23.1056688,72.5957957,OpenStreetMap,node,10959715013,2026-11-26T07:40:06.286109+00:00
+La Milano Pizzeria.,restaurant,Gujarat,,,,,23.103377,72.5958266,OpenStreetMap,node,10959718509,2026-11-26T07:40:06.286112+00:00
+Gwalia Sweets Private Limited,restaurant,Gujarat,,,,,23.102916,72.5952916,OpenStreetMap,node,10959725324,2026-11-26T07:40:06.286114+00:00
+Zest Restaurant,restaurant,Gujarat,,,,,21.190875,72.8695467,OpenStreetMap,node,11047646005,2026-11-26T07:40:06.286117+00:00
+KHODIYAR SWEET MART,fast_food,Gujarat,,,,+91 9427694027,23.5962042,72.9632565,OpenStreetMap,node,11078676165,2026-11-26T07:40:06.286120+00:00
+Milo Chai Pe,cafe,Gujarat,Surat,Surat,"G30, Palladium Plaza, Near Shyam Mandir, Vip Road, Vesu, 395007",9173874561,21.1442229,72.7957792,OpenStreetMap,node,11088970058,2026-11-26T07:40:06.286123+00:00
+Ajay's Takeaway Food,fast_food,Gujarat,,,,07299551155,20.7749324,73.3581121,OpenStreetMap,node,11166515816,2026-11-26T07:40:06.286126+00:00
+La Pino'z Pizza,fast_food,Gujarat,,,,,20.5787709,73.7483668,OpenStreetMap,node,11167119253,2026-11-26T07:40:06.286130+00:00
+Ajay's Takeaway Food,fast_food,Gujarat,,,,09856020020,20.5785738,73.7483829,OpenStreetMap,node,11167119254,2026-11-26T07:40:06.286132+00:00
+Jagdish Baldaniya's Home,restaurant,Gujarat,,Surat,"A-84, Surbhi Vihar Society,Aie Mata Road, 395010",+919924783883,21.197367,72.8585673,OpenStreetMap,node,11238067919,2026-11-26T07:40:06.286135+00:00
+BLUEBERRY RESTAURANT & BANQUET,restaurant,Gujarat,Gujarat,Ahmedabad,"1, Aarth Business Center, Ring Road, opp. Torrent Sub-Station, Nikol, 382350",+91 97126 00530,23.0416984,72.6784893,OpenStreetMap,node,11259129233,2026-11-26T07:40:06.286138+00:00
+Food Hungerz,fast_food,Gujarat,,Chotila,"New Shakti Parotha House, National Highway, 363520",+918320080360,22.424675,71.2038814,OpenStreetMap,node,11282906851,2026-11-26T07:40:06.286141+00:00
+Tasty Touch Restaurant,restaurant,Gujarat,Valsad,Rola Dungri,"1, Near vaishnavi Petrol pump, 396001",,20.7015365,72.9871362,OpenStreetMap,node,11297544187,2026-11-26T07:40:06.286144+00:00
+THE SANDWICH SHOP,cafe,Gujarat,Rajkot,bhayavadar,360450,+919879730263,21.8526896,70.2470875,OpenStreetMap,node,11363469137,2026-11-26T07:40:06.286147+00:00
+Namah Restaurant & Cafe,restaurant,Gujarat,Anand,Petlad,"1st floor, Shivay 2 Complex, Opposite of Narayan Kund, Near Swaminarayan Temple, 388450",+918200338822,22.4787488,72.8055992,OpenStreetMap,node,11372215697,2026-11-26T07:40:06.286150+00:00
+Scoop N Munch,cafe,Gujarat,,Gandhinagar,"B116, Shaligram Lakeview, S P Ring Road, 382470",7203025213,23.1361303,72.5502307,OpenStreetMap,node,11419836108,2026-11-26T07:40:06.286153+00:00
+Vachhraj Garden,restaurant,Gujarat,,,,,22.393335,68.9929222,OpenStreetMap,node,11423726286,2026-11-26T07:40:06.286156+00:00
+white house panjabi khana,restaurant,Gujarat,,vadodara,"7, indrapuri road, 390019",9724623813,22.3008186,73.2345593,OpenStreetMap,node,11502663110,2026-11-26T07:40:06.286159+00:00
+Green Eggs,restaurant,Gujarat,,,,+91 98791 77243,22.4159201,70.060126,OpenStreetMap,node,11508848269,2026-11-26T07:40:06.286162+00:00
+Sakha Surti Locho & Rasawala Khaman,fast_food,Gujarat,,,,+91 8780680039,22.9782788,72.6106967,OpenStreetMap,node,11539673209,2026-11-26T07:40:06.286164+00:00
+Harsiddhi Bhel Sentre,restaurant,Gujarat,,,,,22.1578033,69.344148,OpenStreetMap,node,11557821979,2026-11-26T07:40:06.286167+00:00
+Dosawala,restaurant,Gujarat,,,,8238011325,23.0681879,72.576195,OpenStreetMap,node,11563630520,2026-11-26T07:40:06.286169+00:00
+Stallions Cafe,cafe,Gujarat,,Ahmedabad,"Science City Bhadaj Road, 380060",+919909909560,23.0843166,72.4878637,OpenStreetMap,node,11575789971,2026-11-26T07:40:06.286172+00:00
+Multimenu,restaurant,Gujarat,,,,,23.6213513,72.3420185,OpenStreetMap,node,11675798054,2026-11-26T07:40:06.286175+00:00
+Sunny paji da dhaba,restaurant,Gujarat,,,,,23.2144733,69.622557,OpenStreetMap,node,11690598042,2026-11-26T07:40:06.286177+00:00
+Ganna Juice,restaurant,Gujarat,,,,,23.2173003,69.6260679,OpenStreetMap,node,11690662821,2026-11-26T07:40:06.286181+00:00
+Maraj tea house,cafe,Gujarat,,,,,23.2198811,69.6295455,OpenStreetMap,node,11690680545,2026-11-26T07:40:06.286183+00:00
+Hotel Shiv shakti,restaurant,Gujarat,,,,,23.2190222,69.6279067,OpenStreetMap,node,11690687005,2026-11-26T07:40:06.286186+00:00
+Shree Hari dabeli,restaurant,Gujarat,,,,,23.219008,69.6343729,OpenStreetMap,node,11690727187,2026-11-26T07:40:06.286189+00:00
+Mahaveer Colddrink,restaurant,Gujarat,,,,,23.2215488,69.633857,OpenStreetMap,node,11691273901,2026-11-26T07:40:06.286191+00:00
+Restaurant,restaurant,Gujarat,,,,,20.7984769,70.6963695,OpenStreetMap,node,11691593331,2026-11-26T07:40:06.286194+00:00
+Dharmjivan Restaurant,restaurant,Gujarat,Rajkot,Rajkot,"Satadhar Complex, Near Radha Mira Hotel, Hudko Chokdi, Kothariya Ring Rd, 360002",7574848757,22.2567202,70.8136956,OpenStreetMap,node,11710271042,2026-11-26T07:40:06.286197+00:00
+1944 The Hocco Kitchen,restaurant,Gujarat,,,,9904623689,23.0381383,72.6772579,OpenStreetMap,node,11724303079,2026-11-26T07:40:06.286200+00:00
+custom,cafe,Gujarat,,,,,21.1868105,72.8222109,OpenStreetMap,node,11743527411,2026-11-26T07:40:06.286202+00:00
+The Gyan Café,cafe,Gujarat,,,,,23.1048411,72.5379754,OpenStreetMap,node,11773753701,2026-11-26T07:40:06.286205+00:00
+Dinchuiliu Vidhani Kitchen,restaurant,Gujarat,Gujarat,,"117, B-Ward, Kubernagar",,23.0721192,72.6421901,OpenStreetMap,node,11792825426,2026-11-26T07:40:06.286208+00:00
+HL Frankie,fast_food,Gujarat,,,Safal Parisar Road,,23.0162491,72.4646557,OpenStreetMap,node,11986210790,2026-11-26T07:40:06.286211+00:00
+Hotel Sarvottam,restaurant,Gujarat,AAhmedabad,sanand,"Sanand Sarkhej Road, Gibpura, 382110",,22.9853909,72.4188332,OpenStreetMap,node,12065744903,2026-11-26T07:40:06.286214+00:00
+Shri Gajanand Hotel,restaurant,Gujarat,,,,,22.4875881,72.6644702,OpenStreetMap,node,12067827158,2026-11-26T07:40:06.286218+00:00
+Matuki Restaurant,restaurant,Gujarat,,,,,22.2459079,70.7865431,OpenStreetMap,node,12101833319,2026-11-26T07:40:06.286220+00:00
+Mozilo's Eatery,cafe,Gujarat,Junagadh,Keshod,"1st floor, Rajhans Complex, Junagadh road, 362220",9723191588,21.3098423,70.2482258,OpenStreetMap,node,12128712290,2026-11-26T07:40:06.286223+00:00
+Supriya Cafe,fast_food,Gujarat,Bhavnagar,MAHUVA,"Pramukh Swami Road, 364290",,21.0800078,71.7501228,OpenStreetMap,node,12133714743,2026-11-26T07:40:06.286226+00:00
+Bethak Cafe & Restorant,restaurant,Gujarat,Junagadh,Keshod,362220,8401191628,21.3246735,70.2467686,OpenStreetMap,node,12153781108,2026-11-26T07:40:06.286229+00:00
+Bansi Kathiyawadi,restaurant,Gujarat,Patan,,384265,,23.854501,72.1377861,OpenStreetMap,node,12159707172,2026-11-26T07:40:06.286232+00:00
+Chai N Chill,cafe,Gujarat,Surat,Surat,"Chai N Chill, Opp Suryam Primrose, Pragatimarg, Gauravpath Road, Pal, 395009",9510762433,21.1936347,72.7702224,OpenStreetMap,node,12170002532,2026-11-26T07:40:06.286235+00:00
+Nukkad - Cafe & Restro,restaurant,Gujarat,,,,,21.1522238,72.797879,OpenStreetMap,node,12484272410,2026-11-26T07:40:06.286238+00:00
+Maheshwari Fast Food & Frankie Corner,restaurant,Gujarat,,,,,21.153414,72.7981774,OpenStreetMap,node,12484286177,2026-11-26T07:40:06.286240+00:00
+Irenic Cafe & Pizzeria,restaurant,Gujarat,,,,,21.1557636,72.797582,OpenStreetMap,node,12484327387,2026-11-26T07:40:06.286243+00:00
+Pappu Tea Centre,fast_food,Gujarat,,,,,21.1556115,72.7934094,OpenStreetMap,node,12484342974,2026-11-26T07:40:06.286245+00:00
+Zorko Brand Of Food Lovers,restaurant,Gujarat,,,,,21.1431342,72.7895764,OpenStreetMap,node,12484715379,2026-11-26T07:40:06.286248+00:00
+The dark roast,cafe,Gujarat,,"Ahmedabad, Prahladnagar","Service road - Sarkhej Gandhinagar Highway, 380015",,23.0124903,72.5033515,OpenStreetMap,node,12590599051,2026-11-26T07:40:06.286250+00:00
+Domino's,fast_food,Gujarat,,,,,21.7577096,72.1450408,OpenStreetMap,node,12592886775,2026-11-26T07:40:06.286253+00:00
+Octant Pizza,fast_food,Gujarat,,,,,21.7483643,72.1382963,OpenStreetMap,node,12592897439,2026-11-26T07:40:06.286256+00:00
+PAVAJI NAMKEEN,fast_food,Gujarat,,Surat,"behind alankar cinema, bardoli",,21.1307307,73.1033429,OpenStreetMap,node,12593687399,2026-11-26T07:40:06.286259+00:00
+CAFE ROSTA,cafe,Gujarat,,,,,21.7224174,72.157743,OpenStreetMap,node,12595085226,2026-11-26T07:40:06.286261+00:00
+Pizza Hut,restaurant,Gujarat,,,,,22.3556978,73.1990179,OpenStreetMap,node,12625137525,2026-11-26T07:40:06.286264+00:00
+La Pino'z Pizza,restaurant,Gujarat,,,,,22.3552119,73.199322,OpenStreetMap,node,12625137530,2026-11-26T07:40:06.286267+00:00
+Kathiyawadi Village Restaurant,restaurant,Gujarat,,,,,22.3547799,73.1995678,OpenStreetMap,node,12625137531,2026-11-26T07:40:06.286269+00:00
+Starbucks,cafe,Gujarat,,,,,23.1849638,72.6304054,OpenStreetMap,node,12726457252,2026-11-26T07:40:06.286272+00:00
+Urban Dosa House,restaurant,Gujarat,,Gandhinagar,382421,,23.1846554,72.6293004,OpenStreetMap,node,12726457258,2026-11-26T07:40:06.286275+00:00
+Rasam Thal,restaurant,Gujarat,,,,,23.1849769,72.6312398,OpenStreetMap,node,12731411380,2026-11-26T07:40:06.286278+00:00
+Banna's Tea Stall,cafe,Gujarat,,Gandhinagar,382421,,23.1885733,72.6302431,OpenStreetMap,node,12732749099,2026-11-26T07:40:06.286280+00:00
+Honest Restaurant,restaurant,Gujarat,,,,,23.0309116,72.4650527,OpenStreetMap,node,12770326645,2026-11-26T07:40:06.286283+00:00
+chaibugssilverserenity,cafe,Gujarat,Vadodara,Vadodara,"Shop no 1&2, First floor, Vinaya hub Brookfield, Tulshi Dham Rd, Manjalpur, Vadodara, Gujarat, 390011",+91 92659 36247,22.2703265,73.1957193,OpenStreetMap,node,12775741784,2026-11-26T07:40:06.286286+00:00
+Pizza Hut,restaurant,Gujarat,,,,,23.0267125,72.4769539,OpenStreetMap,node,12778806546,2026-11-26T07:40:06.286288+00:00
+Timtim,restaurant,Gujarat,,,,,23.0362706,72.5034854,OpenStreetMap,node,12809739186,2026-11-26T07:40:06.286291+00:00
+Sambhar Cafe,cafe,Gujarat,,,,,23.0334428,72.4370691,OpenStreetMap,node,12809748225,2026-11-26T07:40:06.286293+00:00
+Prakash Bhojnalaya,fast_food,Gujarat,,,,,23.078011,72.5901382,OpenStreetMap,node,12827631579,2026-11-26T07:40:06.286296+00:00
+Sri Udupi,restaurant,Gujarat,,,,,23.0499932,72.4992539,OpenStreetMap,node,12827753536,2026-11-26T07:40:06.286298+00:00
+22nd Parallel,restaurant,Gujarat,,,,,22.3213033,73.1980237,OpenStreetMap,node,12828864337,2026-11-26T07:40:06.286301+00:00
+Shree Kathiyawadi Khadki,restaurant,Gujarat,,Vadodara,,,22.312363,73.1587158,OpenStreetMap,node,12830392197,2026-11-26T07:40:06.286304+00:00
+Shriji Bombay Vada Pav,fast_food,Gujarat,,,,,23.0298827,72.4746282,OpenStreetMap,node,12848354132,2026-11-26T07:40:06.286306+00:00
+The Gossip Cafe,fast_food,Gujarat,,,,,22.3331958,73.2164008,OpenStreetMap,node,12849288801,2026-11-26T07:40:06.286309+00:00
+Jalaram Khaman House,fast_food,Gujarat,,,,,20.5903615,72.9519659,OpenStreetMap,node,12945143093,2026-11-26T07:40:06.286312+00:00
+McDonald's,fast_food,Gujarat,,,,,23.0218259,72.55691,OpenStreetMap,node,13041581330,2026-11-26T07:40:06.286314+00:00
+Burger King,fast_food,Gujarat,,,,,23.0217347,72.5569853,OpenStreetMap,node,13041668531,2026-11-26T07:40:06.286317+00:00
+Taco Bell,fast_food,Gujarat,,,,,23.0217891,72.5569528,OpenStreetMap,node,13041668532,2026-11-26T07:40:06.286320+00:00
+KFC,fast_food,Gujarat,,,,,23.0216444,72.5570471,OpenStreetMap,node,13041668533,2026-11-26T07:40:06.286322+00:00
+Shri Maruti Nandan,restaurant,Gujarat,,,,,23.0216852,72.5570151,OpenStreetMap,node,13041668534,2026-11-26T07:40:06.286325+00:00
+Hotel Asopalav,restaurant,Gujarat,Gujarat,Patan,"Gopi Avenue,  Liliwadi, Chanasma HIghway, Gujarat state highway 10, Patan,, 384265",+919558106440,23.8404843,72.1305216,OpenStreetMap,node,13116258442,2026-11-26T07:40:06.286329+00:00
+LIlivadi hotel,restaurant,Gujarat,Patan,Patan,"chansma highway, 384265",,23.8401691,72.1299418,OpenStreetMap,node,13131068099,2026-11-26T07:40:06.286331+00:00
+Farukis,restaurant,Gujarat,Navsari,Navsari,"728, Faruki House, Charpool luncikui road, opposite makhdumpura masjid,Navsari 396444, 396445",+918238117952,20.9483538,72.9350321,OpenStreetMap,node,13159399790,2026-11-26T07:40:06.286334+00:00
+Chacha Bhatija Food Club,restaurant,Gujarat,,,"Jamnagar Dwarka Road, 361006",,22.4541038,70.0248261,OpenStreetMap,node,13272162302,2026-11-26T07:40:06.286337+00:00
+Jai bhavani vadapao,fast_food,Gujarat,,,,,23.5816016,72.9718387,OpenStreetMap,node,13383836496,2026-11-26T07:40:06.286340+00:00
+Kettl Cafe Sarkhej-Sanand Rd.,cafe,Gujarat,Ahmedabad,Ahmedabad,"Survery No. 478, Inside Nayara Energy Fuel Pump, Sarkhej-Sanand Rd, Near Telav, 382210",,22.9876163,72.4476696,OpenStreetMap,node,13434133836,2026-11-26T07:40:06.286343+00:00
+Open air food market,restaurant,Gujarat,,,,,23.0233074,72.588879,OpenStreetMap,node,13446377303,2026-11-26T07:40:06.286345+00:00
+Food Track,fast_food,Gujarat,,,,,22.3097972,73.1808887,OpenStreetMap,node,13452359456,2026-11-26T07:40:06.286348+00:00
+Rail Aahar,fast_food,Gujarat,,,,,22.3095157,73.1808844,OpenStreetMap,node,13452359465,2026-11-26T07:40:06.286350+00:00
+Domino's,fast_food,Gujarat,,,,,22.9912301,72.6323612,OpenStreetMap,node,13465290621,2026-11-26T07:40:06.286353+00:00
+Mess,restaurant,Gujarat,,,,,21.1306513,72.7180244,OpenStreetMap,node,13470784120,2026-11-26T07:40:06.286356+00:00
+College Canteen,restaurant,Gujarat,,,,,21.1330732,72.7179011,OpenStreetMap,node,13470784121,2026-11-26T07:40:06.286358+00:00
+Canteen Sitting Area-2,restaurant,Gujarat,,,,,21.1329878,72.7177087,OpenStreetMap,node,13470784122,2026-11-26T07:40:06.286360+00:00
+Canteen Sitting Area-1,restaurant,Gujarat,,,,,21.1330122,72.7180337,OpenStreetMap,node,13470784123,2026-11-26T07:40:06.286363+00:00
+Balaji Cloud Kitchen,restaurant,Gujarat,,,,,22.2888183,70.8104808,OpenStreetMap,node,13472882425,2026-11-26T07:40:06.286365+00:00
+Utsav restaurant & banquet hall,restaurant,Gujarat,,,Jinagad Road,,21.5222154,70.4559329,OpenStreetMap,node,13500690501,2026-11-26T07:40:06.286368+00:00
+Rail Aahar,fast_food,Gujarat,,,,,22.3114482,73.1805244,OpenStreetMap,node,13519678145,2026-11-26T07:40:06.286370+00:00
+Rail Aahar,fast_food,Gujarat,,,,,22.3108873,73.1805548,OpenStreetMap,node,13519678148,2026-11-26T07:40:06.286373+00:00
+GUGLI BRAHMIN 505,restaurant,Gujarat,,,,,22.2439169,68.9656831,OpenStreetMap,node,13625889614,2026-11-26T07:40:06.286376+00:00
+RAJ GADHAVI'S HOME,restaurant,Gujarat,JAMNAGAR,jamjodhpur,"91, shivam park near balva fatak,jamjodhour, 360530",,21.9071203,70.0266776,OpenStreetMap,node,13637597810,2026-11-26T07:40:06.286378+00:00
+AASHAPURA,cafe,Gujarat,,,,,22.2394694,70.8963518,OpenStreetMap,node,13694409674,2026-11-26T07:40:06.286381+00:00
+coffee cafe,cafe,Gujarat,,,,,23.6931448,71.9059999,OpenStreetMap,node,13700302913,2026-11-26T07:40:06.286384+00:00
+Eat Food,restaurant,Gujarat,,,,,23.6925577,71.904527,OpenStreetMap,node,13700302914,2026-11-26T07:40:06.286386+00:00
+Deily Dose Cafe,cafe,Gujarat,gujrat,Bhavnagar,"Sidsar Road Bhavnagar, 364002",+919499791298,21.7219136,72.1210894,OpenStreetMap,node,13762723600,2026-11-26T07:40:06.286389+00:00
+iDot Cafe,restaurant,Gujarat,,,,+91 63549 26326,21.2193721,72.8410915,OpenStreetMap,node,13898368078,2026-11-26T07:40:06.286391+00:00
+The fountain hotel,restaurant,Gujarat,,,"Mansarowar road, 382470",,23.1306578,72.5678755,OpenStreetMap,node,13911496601,2026-11-26T07:40:06.286394+00:00
+"Sumul's MasterChef, Multicuisine Restaurant And Banquet",restaurant,Gujarat,,,,,21.2143638,72.8400636,OpenStreetMap,node,13914939816,2026-11-26T07:40:06.286397+00:00
+Dairy Corner & Fast Food,fast_food,Gujarat,,,,,21.18555,72.8095623,OpenStreetMap,node,13917736715,2026-11-26T07:40:06.286400+00:00
+Belgian Waffles,fast_food,Gujarat,,,,,21.185593,72.8096437,OpenStreetMap,node,13917736716,2026-11-26T07:40:06.286402+00:00
+Rail Aahar,fast_food,Gujarat,,,,,22.3095185,73.1806728,OpenStreetMap,node,13948464096,2026-11-26T07:40:06.286405+00:00
+Hotel One 10,restaurant,Gujarat,,,,,20.8143897,73.0688813,OpenStreetMap,node,13955700726,2026-11-26T07:40:06.286408+00:00
+Simply South By Taste Of Bhagwati,restaurant,Gujarat,,,,,21.1752457,72.8049974,OpenStreetMap,node,13971853209,2026-11-26T07:40:06.286410+00:00
+Kingsman Foods,fast_food,Gujarat,,,,,21.2005164,72.7690048,OpenStreetMap,node,13974559357,2026-11-26T07:40:06.286413+00:00
+Harikrupa Dalbati and Hotel,restaurant,Gujarat,Sabar Kantha,Prempur,383225,,23.7087459,72.8711321,OpenStreetMap,node,14000242267,2026-11-26T07:40:06.286415+00:00
+22nd Parallel,restaurant,Gujarat,,,,,22.3082389,73.16794,OpenStreetMap,node,14005748676,2026-11-26T07:40:06.286418+00:00
+Oven Magick,restaurant,Gujarat,,,,,22.3081564,73.1679441,OpenStreetMap,node,14005748677,2026-11-26T07:40:06.286421+00:00
+Belgian Waffle,restaurant,Gujarat,,,,,22.3225129,73.1655956,OpenStreetMap,node,14005944265,2026-11-26T07:40:06.286424+00:00
+Kulcha & More,restaurant,Gujarat,,,,,22.3224751,73.1655874,OpenStreetMap,node,14005944266,2026-11-26T07:40:06.286426+00:00
+Momos Eatery,restaurant,Gujarat,,,,,22.3224336,73.1655425,OpenStreetMap,node,14005944267,2026-11-26T07:40:06.286429+00:00
+McDonald's,fast_food,Gujarat,,,,,22.3224487,73.1653669,OpenStreetMap,node,14005944270,2026-11-26T07:40:06.286432+00:00
+Chatoree,restaurant,Gujarat,,,,,22.3223958,73.1653016,OpenStreetMap,node,14005944271,2026-11-26T07:40:06.286434+00:00
+Pizza Hut,restaurant,Gujarat,,,,,22.3223807,73.1652118,OpenStreetMap,node,14005944272,2026-11-26T07:40:06.286436+00:00
+Subway,fast_food,Gujarat,,,,,22.3222446,73.1652199,OpenStreetMap,node,14005944273,2026-11-26T07:40:06.286439+00:00
+South Bombay,restaurant,Gujarat,,,,,22.3221728,73.1653179,OpenStreetMap,node,14005944274,2026-11-26T07:40:06.286442+00:00
+Keventers,restaurant,Gujarat,,,,,22.3219574,73.1653179,OpenStreetMap,node,14005944275,2026-11-26T07:40:06.286444+00:00
+Boston Chicken,restaurant,Gujarat,,,,,22.3217646,73.1653547,OpenStreetMap,node,14005944276,2026-11-26T07:40:06.286447+00:00
+369 Restro,restaurant,Gujarat,,,,,22.4682204,72.8008208,OpenStreetMap,node,14020353801,2026-11-26T07:40:06.286449+00:00
+ChaiG Cafe,restaurant,Gujarat,Ahmedabad,Ahmedabad,"10, Ganesh Meredian, 380060",,23.0760412,72.5265342,OpenStreetMap,node,14022544458,2026-11-26T07:40:06.286452+00:00
+Sasuma Garden Restaurent,restaurant,Gujarat,Banaskantha,Palanpur,"Ahmedabad Palanpur State Highway SH41, 385001",097266 26677,24.1427955,72.4091994,OpenStreetMap,node,14051212753,2026-11-26T07:40:06.286455+00:00
+Brahmani tea & Parlour,cafe,Gujarat,,,,,23.1622431,72.6555373,OpenStreetMap,node,14051232491,2026-11-26T07:40:06.286457+00:00
+MotaBhai Cholebhature,fast_food,Gujarat,,,,,22.3086877,73.1875942,OpenStreetMap,node,14051439668,2026-11-26T07:40:06.286460+00:00
+Rail Aahar,fast_food,Gujarat,,,,,22.3088611,73.1806724,OpenStreetMap,node,14058729731,2026-11-26T07:40:06.286462+00:00
+Rail Aahar,fast_food,Gujarat,,,,,22.3111481,73.1805335,OpenStreetMap,node,14058729732,2026-11-26T07:40:06.286465+00:00
+Rail Aahar,fast_food,Gujarat,,,,,22.3103416,73.1806027,OpenStreetMap,node,14058729736,2026-11-26T07:40:06.286468+00:00
+Rail Aahar,fast_food,Gujarat,,,,,22.3110236,73.1805441,OpenStreetMap,node,14058729738,2026-11-26T07:40:06.286470+00:00
+Rail Aahar,fast_food,Gujarat,,,,,22.30973,73.180655,OpenStreetMap,node,14058729739,2026-11-26T07:40:06.286472+00:00
+Wagh Bakri Tea Lounge,cafe,Gujarat,,,,,23.0199395,72.5603757,OpenStreetMap,node,14065592760,2026-11-26T07:40:06.286475+00:00
+Chandravilas Restaurant,restaurant,Gujarat,,,,,23.024425,72.5893682,OpenStreetMap,node,14067660558,2026-11-26T07:40:06.286478+00:00
+Girish,fast_food,Gujarat,,,,,23.0231796,72.5893383,OpenStreetMap,node,14067832703,2026-11-26T07:40:06.286481+00:00
+Tea Post,cafe,Gujarat,,,,,23.0213106,72.5529727,OpenStreetMap,node,14068010751,2026-11-26T07:40:06.286484+00:00
+Tim Hortons,cafe,Gujarat,,,,,23.0727031,72.6200504,OpenStreetMap,node,14068572207,2026-11-26T07:40:06.286486+00:00
+Domino's,fast_food,Gujarat,,,,,23.072229,72.6196753,OpenStreetMap,node,14068572211,2026-11-26T07:40:06.286489+00:00
+The Poutinerie,fast_food,Gujarat,,,,,23.0720765,72.6196443,OpenStreetMap,node,14068572213,2026-11-26T07:40:06.286492+00:00
+Wagh Bakri Tea World,cafe,Gujarat,,,,,23.0721735,72.619648,OpenStreetMap,node,14068572219,2026-11-26T07:40:06.286494+00:00
+KFC,fast_food,Gujarat,,,,,23.072164,72.6197384,OpenStreetMap,node,14068572222,2026-11-26T07:40:06.286497+00:00
+Kansar Garden Restaurant,restaurant,Gujarat,,,,,23.1751911,72.6283905,OpenStreetMap,node,14090328557,2026-11-26T07:40:06.286500+00:00
+"Gujarat Hotel (Gujarat Dhaba) ગુજરાત હોટલ
+ગુજરાત ઢાબા",restaurant,Gujarat,,,,,23.1826079,72.6829507,OpenStreetMap,node,14090334447,2026-11-26T07:40:06.286502+00:00
+Nescafe,cafe,Gujarat,,,,,23.2098927,72.6844176,OpenStreetMap,node,14096330672,2026-11-26T07:40:06.286505+00:00
+Papa Louie's Pizza,restaurant,Gujarat,,,,,22.4685737,72.8020595,OpenStreetMap,node,14128814301,2026-11-26T07:40:06.286507+00:00
+Gulabo and Co.,cafe,Gujarat,,Ahmedabad,Drive-in Road,,23.0415536,72.5509087,OpenStreetMap,node,14144313016,2026-11-26T07:40:06.286510+00:00
+Masi pakoda,fast_food,Gujarat,,,,,23.2511553,72.8022013,OpenStreetMap,node,14148270441,2026-11-26T07:40:06.286513+00:00
+Fabsscoop,restaurant,Gujarat,Vadodara,Vadodra,"Shop No 17, Sama-Harni Link Road, Harni, 390024",7383211970,22.3425166,73.2129259,OpenStreetMap,node,14182676242,2026-11-26T07:40:06.286515+00:00
+Mahalaxmi Juice And Fast Food Corner,fast_food,Gujarat,,,,,21.2240848,72.8067742,OpenStreetMap,node,14227032488,2026-11-26T07:40:06.286518+00:00
+Canteen,fast_food,Gujarat,,,,,23.0112367,72.5690552,OpenStreetMap,way,49406390,2026-11-26T07:40:06.286521+00:00
+Students Mess,restaurant,Gujarat,,,,,23.0089219,72.5704264,OpenStreetMap,way,80831910,2026-11-26T07:40:06.286524+00:00
+Patang - The Revolving Restaurant,restaurant,Gujarat,,Ahmedabad,"Nehru Bridge, 380009",,23.026352,72.5721737,OpenStreetMap,way,85209894,2026-11-26T07:40:06.286527+00:00
+Nescafe,cafe,Gujarat,,,,,22.2965737,73.196522,OpenStreetMap,way,225754286,2026-11-26T07:40:06.286530+00:00
+Lake View Restaurant,restaurant,Gujarat,,,,,21.1639643,72.7793428,OpenStreetMap,way,257731257,2026-11-26T07:40:06.286532+00:00
+@Mango,restaurant,Gujarat,,,,+919925238230,23.0400297,72.5020608,OpenStreetMap,way,366459078,2026-11-26T07:40:06.286536+00:00
+Upper crust cafe,cafe,Gujarat,,,,,23.0410843,72.5269296,OpenStreetMap,way,367198356,2026-11-26T07:40:06.286538+00:00
+cafe area,cafe,Gujarat,,,,,23.5988665,72.3791728,OpenStreetMap,way,371545643,2026-11-26T07:40:06.286541+00:00
+Radhe Krishna,restaurant,Gujarat,,,,,21.6837446,69.5979193,OpenStreetMap,way,371814941,2026-11-26T07:40:06.286544+00:00
+chocolate room,restaurant,Gujarat,,,,,23.0344702,72.5611866,OpenStreetMap,way,374253742,2026-11-26T07:40:06.286547+00:00
+waah,restaurant,Gujarat,,,,,23.0342326,72.5610089,OpenStreetMap,way,374253743,2026-11-26T07:40:06.286549+00:00
+purohit,restaurant,Gujarat,,,,,23.0342154,72.5610967,OpenStreetMap,way,374253744,2026-11-26T07:40:06.286552+00:00
+havmore,restaurant,Gujarat,,,,,23.0342648,72.5608419,OpenStreetMap,way,374253745,2026-11-26T07:40:06.286554+00:00
+School mess,restaurant,Gujarat,,,,,21.652497,69.6827035,OpenStreetMap,way,375135814,2026-11-26T07:40:06.286557+00:00
+Senior mess,restaurant,Gujarat,,,,,21.6523013,69.6822784,OpenStreetMap,way,375135815,2026-11-26T07:40:06.286560+00:00
+MG Science Canteen,cafe,Gujarat,,,,,23.0347461,72.5514151,OpenStreetMap,way,404227760,2026-11-26T07:40:06.286562+00:00
+Green Palace,restaurant,Gujarat,,,,,23.0688413,70.1400698,OpenStreetMap,way,429281665,2026-11-26T07:40:06.286565+00:00
+Icy-spicy,restaurant,Gujarat,,,,,22.4792065,70.0586324,OpenStreetMap,way,432348856,2026-11-26T07:40:06.286568+00:00
+Chamunda,restaurant,Gujarat,,,,,21.6786229,69.6052483,OpenStreetMap,way,439324940,2026-11-26T07:40:06.286570+00:00
+kAKA Ni Bhaji pav,fast_food,Gujarat,,,,,23.1110174,72.6719342,OpenStreetMap,way,451500298,2026-11-26T07:40:06.286573+00:00
+Kathiyawadi,restaurant,Gujarat,,ahmedabad,Nikol-Nava Naroda road,,23.0581169,72.6719773,OpenStreetMap,way,451514771,2026-11-26T07:40:06.286576+00:00
+Canteen,fast_food,Gujarat,,,,,21.0918594,73.1051758,OpenStreetMap,way,537678289,2026-11-26T07:40:06.286578+00:00
+Pharma Canteen(F1),restaurant,Gujarat,,,,,23.1282802,72.5473164,OpenStreetMap,way,538938317,2026-11-26T07:40:06.286581+00:00
+Law Canteen(F2),restaurant,Gujarat,,,,,23.1271067,72.5450506,OpenStreetMap,way,538946980,2026-11-26T07:40:06.286584+00:00
+Hotel Emerland,restaurant,Gujarat,,Ahemedabad,Rakhiyal Road SH-68,,23.0741383,72.650781,OpenStreetMap,way,560617360,2026-11-26T07:40:06.286586+00:00
+Parth Flavour,restaurant,Gujarat,,Ahmedabad,"Ashram Road, 380013",,23.0483244,72.5713265,OpenStreetMap,way,573008944,2026-11-26T07:40:06.286590+00:00
+Nescafe,cafe,Gujarat,,,,,22.3119312,73.1852048,OpenStreetMap,way,676223345,2026-11-26T07:40:06.286593+00:00
+Hotel rajwadi,restaurant,Gujarat,,,,,20.2806287,72.8751059,OpenStreetMap,way,677561432,2026-11-26T07:40:06.286595+00:00
+Tilak Restaurant and Banquet Hall,restaurant,Gujarat,,,,,23.620732,72.3463793,OpenStreetMap,way,683642722,2026-11-26T07:40:06.286598+00:00
+Prince Bhaji Pav,restaurant,Gujarat,,,,,22.9949985,72.6050299,OpenStreetMap,way,754019040,2026-11-26T07:40:06.286601+00:00
+Rajdeep Khaman House,fast_food,Gujarat,,,,,22.2783411,73.1961376,OpenStreetMap,way,857200424,2026-11-26T07:40:06.286603+00:00
+OUT OF THE BOX AMAZEMENT PARK (OTB),restaurant,Gujarat,,Rajkot,"Nyari dam 1, kalavad road, 360005",,22.2550077,70.7203197,OpenStreetMap,way,866729575,2026-11-26T07:40:06.286606+00:00
+DOME Pizzeria,restaurant,Gujarat,,Surat,"1st Floor, Samanvay, Near Chandni Chowk, Gymkhana Rd, Piplod, 395007",,21.1655317,72.7757231,OpenStreetMap,way,893282695,2026-11-26T07:40:06.286609+00:00
+toran restaurent,restaurant,Gujarat,,,,,23.5824881,72.1346739,OpenStreetMap,way,911907268,2026-11-26T07:40:06.286612+00:00
+Honest Khoda,restaurant,Gujarat,,Khoda,"Sanand-Viramgam Highway, 382110",+919727736888,23.0305837,72.2964209,OpenStreetMap,way,973444844,2026-11-26T07:40:06.286615+00:00
+ak cafe,cafe,Gujarat,,,,,21.2597955,73.370496,OpenStreetMap,way,987626970,2026-11-26T07:40:06.286618+00:00
+Vibes9 V9 Cafe,cafe,Gujarat,,Ahmedabad,"Sardar Patel Ring Road, 380059",,23.0677778,72.4870557,OpenStreetMap,way,993060289,2026-11-26T07:40:06.286621+00:00
+Anticlock Canteen,cafe,Gujarat,,,,,23.2024101,72.5831926,OpenStreetMap,way,997945841,2026-11-26T07:40:06.286624+00:00
+Tarkari Restaurant,restaurant,Gujarat,,Vadodara,"Dumad Chowkdi, 390008",,22.3623957,73.2016843,OpenStreetMap,way,1024632485,2026-11-26T07:40:06.286626+00:00
+Kathyawadi Restaurant,restaurant,Gujarat,,,,,22.3351928,73.4641472,OpenStreetMap,way,1047641860,2026-11-26T07:40:06.286629+00:00
+Restaurant,restaurant,Gujarat,,,,,22.3355862,73.4653441,OpenStreetMap,way,1047642675,2026-11-26T07:40:06.286632+00:00
+Dira's Cafe,cafe,Gujarat,,Rajkot,"Besides The Fantacy World, Nyari Dam Road, 360005",+91 7573929292,22.253538,70.7168881,OpenStreetMap,way,1073261944,2026-11-26T07:40:06.286634+00:00
+Kamla Cafe,restaurant,Gujarat,,,,07925506441,23.0442392,72.5175621,OpenStreetMap,way,1087307157,2026-11-26T07:40:06.286637+00:00
+Just Chill Cafe,fast_food,Gujarat,,,,,23.2106762,72.6845373,OpenStreetMap,way,1135220070,2026-11-26T07:40:06.286640+00:00
+Aadhya Cafe,fast_food,Gujarat,,,,,23.213354,72.6838841,OpenStreetMap,way,1135236974,2026-11-26T07:40:06.286643+00:00
+Gopi Resturant,restaurant,Gujarat,,,,,22.3699424,69.1071814,OpenStreetMap,way,1161175441,2026-11-26T07:40:06.286646+00:00
+New Shakti Restaurant,restaurant,Gujarat,,,,,22.3704155,69.1068993,OpenStreetMap,way,1161175452,2026-11-26T07:40:06.286649+00:00
+Praful Dairy Parlour,restaurant,Gujarat,,,,,23.1065269,72.5760501,OpenStreetMap,way,1180002417,2026-11-26T07:40:06.286652+00:00
+Camilo Coffee,cafe,Gujarat,,,,,23.0454565,72.4917071,OpenStreetMap,way,1211760600,2026-11-26T07:40:06.286654+00:00
+A Sahakar Multi Cuisine Restaurant,restaurant,Gujarat,,,,,22.1577943,69.3445667,OpenStreetMap,way,1243559054,2026-11-26T07:40:06.286657+00:00
+Nomai Pan Parlar,cafe,Gujarat,,,,,22.1293938,69.289979,OpenStreetMap,way,1245366399,2026-11-26T07:40:06.286660+00:00
+Darshan pan tea senter,restaurant,Gujarat,,,,,22.1298015,69.2906546,OpenStreetMap,way,1245375438,2026-11-26T07:40:06.286662+00:00
+Jalaram farsher,fast_food,Gujarat,,,,,22.1298006,69.2905249,OpenStreetMap,way,1245375439,2026-11-26T07:40:06.286665+00:00
+Vachchharah Soda shop,fast_food,Gujarat,,,,,22.0905792,69.2767183,OpenStreetMap,way,1251792415,2026-11-26T07:40:06.286668+00:00
+KGN Omelette,restaurant,Gujarat,,,,,22.0883611,69.2719018,OpenStreetMap,way,1252550023,2026-11-26T07:40:06.286670+00:00
+Bismillah,restaurant,Gujarat,,,,,22.0898551,69.2713416,OpenStreetMap,way,1252550036,2026-11-26T07:40:06.286673+00:00
+Huseni Omlet,fast_food,Gujarat,,,,,22.0899253,69.2713434,OpenStreetMap,way,1252550037,2026-11-26T07:40:06.286675+00:00
+Basir Bhai,fast_food,Gujarat,,,,,22.0900533,69.2713006,OpenStreetMap,way,1252550039,2026-11-26T07:40:06.286678+00:00
+Joker,fast_food,Gujarat,,,,,22.090393,69.2724035,OpenStreetMap,way,1252550124,2026-11-26T07:40:06.286681+00:00
+Friends,restaurant,Gujarat,,,,,22.0909494,69.2727938,OpenStreetMap,way,1252550136,2026-11-26T07:40:06.286683+00:00
+Bombe Pavbhaji,restaurant,Gujarat,,,,,22.0910015,69.272559,OpenStreetMap,way,1252550139,2026-11-26T07:40:06.286686+00:00
+New Shree Balaji,restaurant,Gujarat,,,,,22.0909787,69.2721337,OpenStreetMap,way,1252560991,2026-11-26T07:40:06.286688+00:00
+Annapurna,restaurant,Gujarat,,,,,22.0907498,69.2720747,OpenStreetMap,way,1252560996,2026-11-26T07:40:06.286691+00:00
+Swad,restaurant,Gujarat,,,,,22.0918741,69.2736317,OpenStreetMap,way,1252917556,2026-11-26T07:40:06.286694+00:00
+Madavpham,cafe,Gujarat,,,,,22.0918037,69.2731556,OpenStreetMap,way,1252917599,2026-11-26T07:40:06.286696+00:00
+Balaji,restaurant,Gujarat,,,,,22.0914237,69.2725919,OpenStreetMap,way,1252917654,2026-11-26T07:40:06.286699+00:00
+Murlidhar,fast_food,Gujarat,,,,,22.0914718,69.2722814,OpenStreetMap,way,1252917669,2026-11-26T07:40:06.286701+00:00
+Abhiyay,cafe,Gujarat,,,,,22.091629,69.2720862,OpenStreetMap,way,1252945505,2026-11-26T07:40:06.286704+00:00
+Siya Ram,fast_food,Gujarat,,,,,22.0912363,69.2720649,OpenStreetMap,way,1252945514,2026-11-26T07:40:06.286706+00:00
+Khaudarhi,restaurant,Gujarat,,,,,22.0913177,69.2720766,OpenStreetMap,way,1252945516,2026-11-26T07:40:06.286709+00:00
+Curry Tree,fast_food,Gujarat,,,,,23.0757115,72.6237907,OpenStreetMap,way,1260747555,2026-11-26T07:40:06.286712+00:00
+Mahavir,fast_food,Gujarat,,,,,23.210546,72.6850034,OpenStreetMap,way,1274878131,2026-11-26T07:40:06.286714+00:00
+PIT Canteen,cafe,Gujarat,,,,,22.2865475,73.3635702,OpenStreetMap,way,1298339329,2026-11-26T07:40:06.286717+00:00
+PIT Foodcourt,cafe,Gujarat,,,,,22.286078,73.3636671,OpenStreetMap,way,1298339330,2026-11-26T07:40:06.286720+00:00
+Patel Cafe,cafe,Gujarat,,,,,23.6181783,72.3483867,OpenStreetMap,way,1306587236,2026-11-26T07:40:06.286722+00:00
+The Waffle House,cafe,Gujarat,,"Surat, Gujarat 395010, India","19, 19, Adinath Marg, Karunesh Nagar, D V Park Society, Yamuna Nagar, 395010",9537349672,21.1901736,72.8608569,OpenStreetMap,way,1316120589,2026-11-26T07:40:06.286725+00:00
+Chamunda pan tea house,cafe,Gujarat,,,,,22.0884677,69.2714645,OpenStreetMap,way,1317597733,2026-11-26T07:40:06.286728+00:00
+Bansi Farsan,restaurant,Gujarat,,,,,22.0933802,69.2747141,OpenStreetMap,way,1318809488,2026-11-26T07:40:06.286731+00:00
+સોનલ કૃપા હોટલ,cafe,Gujarat,,,,,22.0702968,69.1488945,OpenStreetMap,way,1319714399,2026-11-26T07:40:06.286734+00:00
+Kaviraj Dhaba,restaurant,Gujarat,,,,,22.0864423,69.1190629,OpenStreetMap,way,1319738481,2026-11-26T07:40:06.286736+00:00
+Momai Pan & Hotel & garage,cafe,Gujarat,,,,,22.139344,69.2017722,OpenStreetMap,way,1322343393,2026-11-26T07:40:06.286739+00:00
+સોનલ હોટેલ,restaurant,Gujarat,,,,,22.1058248,69.2664907,OpenStreetMap,way,1323196721,2026-11-26T07:40:06.286741+00:00
+Murlidhar Pan & Tea,cafe,Gujarat,,,,,22.18815,69.2142525,OpenStreetMap,way,1334374200,2026-11-26T07:40:06.286744+00:00
+Namasta Restaurant,restaurant,Gujarat,,,,,23.6213152,72.3468716,OpenStreetMap,way,1335314705,2026-11-26T07:40:06.286746+00:00
+Jay bajrang hotel,cafe,Gujarat,,,,,22.1948136,69.1937346,OpenStreetMap,way,1340626876,2026-11-26T07:40:06.286749+00:00
+Maldhari Restaurant And Tea-House,restaurant,Gujarat,,,,,22.1942557,69.1883173,OpenStreetMap,way,1340626919,2026-11-26T07:40:06.286752+00:00
+Mastana hotel,restaurant,Gujarat,,,,,22.195009,69.1914204,OpenStreetMap,way,1340626939,2026-11-26T07:40:06.286755+00:00
+Hanuman Mandir,restaurant,Gujarat,,,,,22.1952043,69.1939284,OpenStreetMap,way,1340626953,2026-11-26T07:40:06.286757+00:00
+Jay Mahakali aai mata hotel rajasthani,restaurant,Gujarat,,,,,22.1377498,69.0671257,OpenStreetMap,way,1341389375,2026-11-26T07:40:06.286760+00:00
+Tandulbhog Restaurant in Dwarka,restaurant,Gujarat,,,,,22.20293,69.0143104,OpenStreetMap,way,1341926518,2026-11-26T07:40:06.286763+00:00
+Makhan - Pure Vegetarian Restaurant,restaurant,Gujarat,,,,,22.2098746,69.0107462,OpenStreetMap,way,1341926554,2026-11-26T07:40:06.286765+00:00
+MEETU SINGH DODIYA,fast_food,Gujarat,,,,,22.2388724,68.9710719,OpenStreetMap,way,1342223121,2026-11-26T07:40:06.286768+00:00
+ahadev Rajwadi Chay coofi Shree dwaravati hotal,cafe,Gujarat,,,,,22.238619,68.9712631,OpenStreetMap,way,1342223126,2026-11-26T07:40:06.286770+00:00
+Ramesh Special Chinese Fast Food,fast_food,Gujarat,,,,,22.2392037,68.971416,OpenStreetMap,way,1342223194,2026-11-26T07:40:06.286773+00:00
+NAVJAGRUTI FISHERIES PRODUCER COMPANY LIMITED,restaurant,Gujarat,,,,,22.2395079,68.9722958,OpenStreetMap,way,1342223202,2026-11-26T07:40:06.286776+00:00
+SHIVAM,restaurant,Gujarat,,,,,22.2404397,68.9746287,OpenStreetMap,way,1342223249,2026-11-26T07:40:06.286780+00:00
+New Muralidhar Restaurant,restaurant,Gujarat,,,,,22.238973,68.9701987,OpenStreetMap,way,1343177597,2026-11-26T07:40:06.286783+00:00
+Gomti Restaurant,restaurant,Gujarat,,,,,22.2381042,68.9689086,OpenStreetMap,way,1343177672,2026-11-26T07:40:06.286785+00:00
+Flavorfusion café,restaurant,Gujarat,,,,,22.2385953,68.9689996,OpenStreetMap,way,1343177678,2026-11-26T07:40:06.286788+00:00
+Madhav Dining Hall,restaurant,Gujarat,,,,,22.2379799,68.9681577,OpenStreetMap,way,1343177725,2026-11-26T07:40:06.286790+00:00
+Jodhpur wala Restaurant,fast_food,Gujarat,,,,,22.2379228,68.9681717,OpenStreetMap,way,1343177726,2026-11-26T07:40:06.286793+00:00
+Dwarka gugli bramin bhojnalaya (chappan sidi),restaurant,Gujarat,,,,,22.2368662,68.9677819,OpenStreetMap,way,1343188292,2026-11-26T07:40:06.286796+00:00
+Bhojan prasadalay,restaurant,Gujarat,,,,,22.2370542,68.9676676,OpenStreetMap,way,1343188293,2026-11-26T07:40:06.286799+00:00
+Shree Krishna,cafe,Gujarat,,,,,22.2368981,68.9676131,OpenStreetMap,way,1343188297,2026-11-26T07:40:06.286801+00:00
+Shree Ashapura Tea House,cafe,Gujarat,,,,,22.1912183,69.0222888,OpenStreetMap,way,1343498475,2026-11-26T07:40:06.286804+00:00
+AVADH FOOD ZONE,restaurant,Gujarat,,,,,22.1974422,69.0197376,OpenStreetMap,way,1343580738,2026-11-26T07:40:06.286807+00:00
+AVADH FOOD MALL(HONEST),restaurant,Gujarat,,,,,22.1969714,69.019661,OpenStreetMap,way,1343580739,2026-11-26T07:40:06.286809+00:00
+Alakh Punjabi Dhaba,restaurant,Gujarat,,,,,22.2014266,69.0165351,OpenStreetMap,way,1343589706,2026-11-26T07:40:06.286812+00:00
+Madhav Garden Restaurant-chaipresso Cafe,restaurant,Gujarat,,,,,22.2029195,69.0156677,OpenStreetMap,way,1343589709,2026-11-26T07:40:06.286814+00:00
+GOKUL RESTAURANT BARADIA DEV BHUMI DWARKA,restaurant,Gujarat,,,,,22.2088143,69.0127021,OpenStreetMap,way,1343589765,2026-11-26T07:40:06.286817+00:00
+Teapost,cafe,Gujarat,,,,,22.2088804,69.0128715,OpenStreetMap,way,1343589766,2026-11-26T07:40:06.286820+00:00
+Laxmi dinning hall,restaurant,Gujarat,,,,,22.2382055,68.9762449,OpenStreetMap,way,1343717937,2026-11-26T07:40:06.286822+00:00
+SHIVANGI HOTEL,restaurant,Gujarat,,,,,22.2365906,68.9771419,OpenStreetMap,way,1343718008,2026-11-26T07:40:06.286825+00:00
+La Pinoz Pizza,restaurant,Gujarat,,,,,22.2365333,68.977031,OpenStreetMap,way,1343718009,2026-11-26T07:40:06.286827+00:00
+Hiravanshi Hotel,restaurant,Gujarat,,,,,22.2365659,68.9772799,OpenStreetMap,way,1343718010,2026-11-26T07:40:06.286830+00:00
+Shivam Restaurant,restaurant,Gujarat,,,,,22.2396411,68.971989,OpenStreetMap,way,1343832233,2026-11-26T07:40:06.286833+00:00
+Shiv mandir garsar farm,restaurant,Gujarat,,,,,22.2144916,69.0171316,OpenStreetMap,way,1344385178,2026-11-26T07:40:06.286835+00:00
+Kathiyawadi Greens,restaurant,Gujarat,,,,,22.2302737,69.0313261,OpenStreetMap,way,1344423204,2026-11-26T07:40:06.286838+00:00
+Aai Mata,restaurant,Gujarat,,,,,22.2278884,69.0359127,OpenStreetMap,way,1344423247,2026-11-26T07:40:06.286840+00:00
+Hotel Mayur,cafe,Gujarat,,,,,22.2249395,69.043797,OpenStreetMap,way,1344546783,2026-11-26T07:40:06.286843+00:00
+Pavilion Restaurant,restaurant,Gujarat,Surat,Vesu,"VIP Road, behind CB Patel Health Club,, 395007",,21.139727,72.7874103,OpenStreetMap,way,1349508213,2026-11-26T07:40:06.286846+00:00
+Bhojanalay,cafe,Gujarat,,,,,20.5430756,73.1925575,OpenStreetMap,way,1353371771,2026-11-26T07:40:06.286848+00:00
+Swastik Restaurant,restaurant,Gujarat,,,,,22.238445,68.9680373,OpenStreetMap,way,1367421147,2026-11-26T07:40:06.286851+00:00
+Amrutras Restaurant,restaurant,Gujarat,,,,,22.2385041,68.9679984,OpenStreetMap,way,1367421149,2026-11-26T07:40:06.286859+00:00
+JALARAM FOOD,fast_food,Gujarat,,,,,22.2386406,68.9679843,OpenStreetMap,way,1367421152,2026-11-26T07:40:06.286862+00:00
+Vaman Food Point,restaurant,Gujarat,,,,,22.2383984,68.9676398,OpenStreetMap,way,1367421162,2026-11-26T07:40:06.286865+00:00
+MAMI KA LODGE,restaurant,Gujarat,,,,,22.2387272,68.9673676,OpenStreetMap,way,1367421167,2026-11-26T07:40:06.286868+00:00
+Indian Rasoi,restaurant,Gujarat,,,,,22.23859,68.9666401,OpenStreetMap,way,1367421178,2026-11-26T07:40:06.286870+00:00
+Radwan,cafe,Gujarat,,,,,22.2387051,68.9665323,OpenStreetMap,way,1367421185,2026-11-26T07:40:06.286873+00:00
+Govinda Multi Cuisine Restaurant,restaurant,Gujarat,,,,,22.2388237,68.9663871,OpenStreetMap,way,1367426042,2026-11-26T07:40:06.286875+00:00
+The sangam narayan restaurant,restaurant,Gujarat,,,,,22.2357994,68.9652103,OpenStreetMap,way,1367672592,2026-11-26T07:40:06.286878+00:00
+Under the Neem Trees,restaurant,Gujarat,,,,,23.0322626,72.5049551,OpenStreetMap,way,1369893075,2026-11-26T07:40:06.286881+00:00
+Pavillion,restaurant,Gujarat,,,,,22.3711202,69.83557,OpenStreetMap,way,1370786372,2026-11-26T07:40:06.286884+00:00
+Saffron,restaurant,Gujarat,,,,,22.3711435,69.834917,OpenStreetMap,way,1370786373,2026-11-26T07:40:06.286887+00:00
+Highrise mess,restaurant,Gujarat,,,,,23.1569085,72.6689096,OpenStreetMap,way,1370788552,2026-11-26T07:40:06.286890+00:00
+site,cafe,Gujarat,,,,,23.0362244,72.4940097,OpenStreetMap,way,1375690863,2026-11-26T07:40:06.286892+00:00
+NesCafe,cafe,Gujarat,,,,,23.1885664,72.6272818,OpenStreetMap,way,1432594581,2026-11-26T07:40:06.286895+00:00
+K ++,cafe,Gujarat,,,,,23.1886074,72.6269134,OpenStreetMap,way,1432594583,2026-11-26T07:40:06.286898+00:00
+Juice Centre,fast_food,Gujarat,,,,,23.188488,72.6270739,OpenStreetMap,way,1432594587,2026-11-26T07:40:06.286900+00:00
+Jalaram Farsan Mart,restaurant,Gujarat,,,,,22.2382398,68.965158,OpenStreetMap,way,1433636147,2026-11-26T07:40:06.286903+00:00
+Kant Alpahar,fast_food,Gujarat,,,,,22.2386249,68.9650224,OpenStreetMap,way,1433636151,2026-11-26T07:40:06.286905+00:00
+RAVI PIZZA,restaurant,Gujarat,,,,,22.236089,68.9646393,OpenStreetMap,way,1433646736,2026-11-26T07:40:06.286908+00:00
+Chamunda Juice Centre,cafe,Gujarat,,,,,22.2375975,68.9629721,OpenStreetMap,way,1433646762,2026-11-26T07:40:06.286910+00:00
+Munikrupa Bhojnalaya & Nasta,restaurant,Gujarat,,,,,22.2370389,68.9651691,OpenStreetMap,way,1433646783,2026-11-26T07:40:06.286913+00:00
+achhi Dabeli by Bhavesh Mahraaj,fast_food,Gujarat,,,,,22.2385088,68.9649137,OpenStreetMap,way,1433646797,2026-11-26T07:40:06.286916+00:00
+TGL Special,restaurant,Gujarat,,,,,22.2387625,68.9642564,OpenStreetMap,way,1433646811,2026-11-26T07:40:06.286918+00:00
+Manek the Restaurant,restaurant,Gujarat,,,,,22.2390816,68.9618962,OpenStreetMap,way,1433646831,2026-11-26T07:40:06.286921+00:00
+sunset,cafe,Gujarat,,,,,22.2417236,68.9565495,OpenStreetMap,way,1433659906,2026-11-26T07:40:06.286924+00:00
+Krishna Dining house,restaurant,Gujarat,,,,,22.2398235,68.9680737,OpenStreetMap,way,1433915859,2026-11-26T07:40:06.286926+00:00
+SHREE KRISHNA FAST FOOD RESTAURANT,restaurant,Gujarat,,,,,22.2398246,68.9681584,OpenStreetMap,way,1433915861,2026-11-26T07:40:06.286929+00:00
+9 To 69,fast_food,Gujarat,,,,,22.2400852,68.9681496,OpenStreetMap,way,1433915865,2026-11-26T07:40:06.286931+00:00
+GOKULAM CAFE,cafe,Gujarat,,,,,22.2400803,68.9683359,OpenStreetMap,way,1433915868,2026-11-26T07:40:06.286934+00:00
+Kathiyawadi Village,restaurant,Gujarat,,,,,22.2400781,68.9684951,OpenStreetMap,way,1433915869,2026-11-26T07:40:06.286937+00:00
+Shreenathji Restaurant,restaurant,Gujarat,,,,,22.2391892,68.9678487,OpenStreetMap,way,1433929915,2026-11-26T07:40:06.286939+00:00
+Dwarawati Restaurant,restaurant,Gujarat,,,,,22.2396063,68.9678218,OpenStreetMap,way,1433929924,2026-11-26T07:40:06.286942+00:00
+Gatral Dabeli Center,restaurant,Gujarat,,,,,22.2401195,68.9669296,OpenStreetMap,way,1433929945,2026-11-26T07:40:06.286945+00:00
+Krishna Dairy Farm,restaurant,Gujarat,,,,,22.2392724,68.9663882,OpenStreetMap,way,1433929954,2026-11-26T07:40:06.286948+00:00
+od Mohalla Dwarka,fast_food,Gujarat,,,,,22.2392847,68.9661506,OpenStreetMap,way,1433929956,2026-11-26T07:40:06.286950+00:00
+Sanjay,cafe,Gujarat,,,,,22.2400273,68.9661347,OpenStreetMap,way,1433929960,2026-11-26T07:40:06.286953+00:00
+Nandanlal lassi and milk,cafe,Gujarat,,,,,22.2398122,68.9660416,OpenStreetMap,way,1433929965,2026-11-26T07:40:06.286958+00:00
+Chavada Ashok Parshotambhai,fast_food,Gujarat,,,,,22.2395304,68.9661464,OpenStreetMap,way,1433929968,2026-11-26T07:40:06.286960+00:00
+Raghunath Chatni Puri,fast_food,Gujarat,,,,,22.2400728,68.9666314,OpenStreetMap,way,1433929972,2026-11-26T07:40:06.286963+00:00
+Kutchhi Snacks,restaurant,Gujarat,,,,,22.2388767,68.9653389,OpenStreetMap,way,1434048766,2026-11-26T07:40:06.286966+00:00
+Naranyan Gathiya Wala,fast_food,Gujarat,,,,,22.238782,68.9649396,OpenStreetMap,way,1434048770,2026-11-26T07:40:06.286968+00:00
+BHANUBHAI PARSHOTAMBHAI MODI,cafe,Gujarat,,,,,22.2388381,68.9649159,OpenStreetMap,way,1434048771,2026-11-26T07:40:06.286971+00:00
+Dwarka Dish Pani Puri,fast_food,Gujarat,,,,,22.2392081,68.9648737,OpenStreetMap,way,1434048781,2026-11-26T07:40:06.286974+00:00
+Jay Dwarkadhis Food Point,fast_food,Gujarat,,,,,22.2392512,68.9648312,OpenStreetMap,way,1434048782,2026-11-26T07:40:06.286976+00:00
+Achijaa Food Cafe,restaurant,Gujarat,,,,,22.2393341,68.9648164,OpenStreetMap,way,1434048783,2026-11-26T07:40:06.286979+00:00
+Tamilnadu Restaurant,restaurant,Gujarat,,,,,22.2395996,68.9647508,OpenStreetMap,way,1434048785,2026-11-26T07:40:06.286982+00:00
+Raghuvanshi restaurant,restaurant,Gujarat,,,,,22.2396616,68.9647316,OpenStreetMap,way,1434048791,2026-11-26T07:40:06.286984+00:00
+ODEDARA SANTOKBEN VEJABHAI,fast_food,Gujarat,,,,,22.2398004,68.9648777,OpenStreetMap,way,1434048792,2026-11-26T07:40:06.286987+00:00
+Dosa Delight,restaurant,Gujarat,,,,,22.2398392,68.9651456,OpenStreetMap,way,1434048797,2026-11-26T07:40:06.286990+00:00
+Divya Bhav Restaurant,restaurant,Gujarat,,,,,22.2399258,68.9653617,OpenStreetMap,way,1434048800,2026-11-26T07:40:06.286992+00:00
+SHANTILAL PAVBHAJIVARA,fast_food,Gujarat,,,,,22.2398112,68.9658488,OpenStreetMap,way,1434048807,2026-11-26T07:40:06.286995+00:00
+MAHTMAJI GATHIYA WALA,fast_food,Gujarat,,,,,22.2389777,68.9654556,OpenStreetMap,way,1434048824,2026-11-26T07:40:06.286998+00:00
+shree sai kutchi dabeli,fast_food,Gujarat,,,,,22.2388901,68.9645762,OpenStreetMap,way,1434067760,2026-11-26T07:40:06.287000+00:00
+Lal Sai dabeli & Vada pav,fast_food,Gujarat,,,,,22.239497,68.964511,OpenStreetMap,way,1434067771,2026-11-26T07:40:06.287003+00:00
+Shreenath Paubhaji,fast_food,Gujarat,,,,,22.2395607,68.9645417,OpenStreetMap,way,1434067772,2026-11-26T07:40:06.287006+00:00
+Kutchi Snacks Fast Food,fast_food,Gujarat,,,,,22.2397534,68.9643887,OpenStreetMap,way,1434067777,2026-11-26T07:40:06.287008+00:00
+Gopal Restaurant,fast_food,Gujarat,,,,,22.2396185,68.9641259,OpenStreetMap,way,1434067780,2026-11-26T07:40:06.287011+00:00
+SHREE MULABAPA NI JAGYA Annakshetra,restaurant,Gujarat,,,,,22.2396696,68.9627763,OpenStreetMap,way,1434067808,2026-11-26T07:40:06.287014+00:00
+KAUSHAL BHIKHUBHAI GONDALIYA,fast_food,Gujarat,,,,,22.2413891,68.9656807,OpenStreetMap,way,1434139545,2026-11-26T07:40:06.287016+00:00
+Thaker Fast Food,restaurant,Gujarat,,,,,22.2415554,68.9656965,OpenStreetMap,way,1434139547,2026-11-26T07:40:06.287019+00:00
+Gokul Madhav Restaurant,restaurant,Gujarat,,,,,22.2416438,68.9657217,OpenStreetMap,way,1434139548,2026-11-26T07:40:06.287022+00:00
+Shreenath Dining Hall (Original),restaurant,Gujarat,,,,,22.2417372,68.96576,OpenStreetMap,way,1434139549,2026-11-26T07:40:06.287024+00:00
+ms fast food dwarka,restaurant,Gujarat,,,,,22.2418385,68.9657183,OpenStreetMap,way,1434139550,2026-11-26T07:40:06.287027+00:00
+Purushottam Parotha House and Punjabi Restaurant,restaurant,Gujarat,,,,,22.24176,68.9656863,OpenStreetMap,way,1434139551,2026-11-26T07:40:06.287030+00:00
+Kathiyawadi Rasthal,restaurant,Gujarat,,,,,22.2412787,68.9656253,OpenStreetMap,way,1434139560,2026-11-26T07:40:06.287032+00:00
+Dwarkesh Food's,restaurant,Gujarat,,,,,22.2420835,68.9624702,OpenStreetMap,way,1434139609,2026-11-26T07:40:06.287035+00:00
+વડલાની પ્રખ્યાત પાઉંભાજી (શિવ શક્તિ પાઉંભાજી),restaurant,Gujarat,,,,,22.2425141,68.9654322,OpenStreetMap,way,1434139638,2026-11-26T07:40:06.287037+00:00
+THE WAFFLE .COM DWARKA,cafe,Gujarat,,,,,22.2429195,68.9653157,OpenStreetMap,way,1434139652,2026-11-26T07:40:06.287040+00:00
+Amritam : A multicuisine Restaurant,restaurant,Gujarat,,,,,22.2439588,68.9648978,OpenStreetMap,way,1434139669,2026-11-26T07:40:06.287043+00:00
+Garden cofee,cafe,Gujarat,,,,,22.243418,68.9668137,OpenStreetMap,way,1434143534,2026-11-26T07:40:06.287045+00:00
+Krishn vijay tea house,cafe,Gujarat,,,,,22.2402738,68.9658151,OpenStreetMap,way,1436215273,2026-11-26T07:40:06.287048+00:00
+Heerabai Gathiyawada,restaurant,Gujarat,,,,,22.2403196,68.9658025,OpenStreetMap,way,1436215275,2026-11-26T07:40:06.287051+00:00
+GOVERDHAN THAL.,restaurant,Gujarat,,,,,22.2400747,68.9651631,OpenStreetMap,way,1436215282,2026-11-26T07:40:06.287055+00:00
+Thanki Jayeshbhai Jivanlal,restaurant,Gujarat,,,,,22.2401781,68.9647765,OpenStreetMap,way,1436215287,2026-11-26T07:40:06.287058+00:00
+Maruti Fast Food,fast_food,Gujarat,,,,,22.2400122,68.9645475,OpenStreetMap,way,1436215290,2026-11-26T07:40:06.287061+00:00
+SAVARIYA SETH RESTAURANT,fast_food,Gujarat,,,,,22.240552,68.9656421,OpenStreetMap,way,1436215301,2026-11-26T07:40:06.287064+00:00
+Harsh Fast Food - Best Fast Food Cafe in Dwarka Gujarat,fast_food,Gujarat,,,,,22.240518,68.9657587,OpenStreetMap,way,1436215302,2026-11-26T07:40:06.287066+00:00
+PEPPERMENT RESTAURANT,restaurant,Gujarat,,,,,22.2408557,68.9657388,OpenStreetMap,way,1436215306,2026-11-26T07:40:06.287069+00:00
+Rathang Thal,restaurant,Gujarat,,,,,22.2409034,68.9657909,OpenStreetMap,way,1436215307,2026-11-26T07:40:06.287072+00:00
+Basuri RESTAURANT,restaurant,Gujarat,,,,,22.2410109,68.9655308,OpenStreetMap,way,1436215315,2026-11-26T07:40:06.287074+00:00
+Vakol Krupa Samosa Centre,restaurant,Gujarat,,,,,22.2403822,68.9667118,OpenStreetMap,way,1436232679,2026-11-26T07:40:06.287077+00:00
+Kant Dining Hall & Restaurant,restaurant,Gujarat,,,,,22.240379,68.9659605,OpenStreetMap,way,1436232686,2026-11-26T07:40:06.287080+00:00
+Amrut Food Zone,restaurant,Gujarat,,,,,22.2406028,68.9660362,OpenStreetMap,way,1436232689,2026-11-26T07:40:06.287082+00:00
+Dwarkesh Bhojnalaya,restaurant,Gujarat,,,,,22.2409198,68.9660135,OpenStreetMap,way,1436232692,2026-11-26T07:40:06.287085+00:00
+SAWAI RAJ,fast_food,Gujarat,,,,,22.2412294,68.9665934,OpenStreetMap,way,1436232701,2026-11-26T07:40:06.287088+00:00
+PALAK TELECOM,restaurant,Gujarat,,,,,22.2410654,68.9660257,OpenStreetMap,way,1436232703,2026-11-26T07:40:06.287090+00:00
+Krishna Kathiyawadi,restaurant,Gujarat,,,,,22.2412115,68.9660367,OpenStreetMap,way,1436232705,2026-11-26T07:40:06.287093+00:00
+SANI DAS VAISHNAV,restaurant,Gujarat,,,,,22.2408212,68.9667707,OpenStreetMap,way,1436232712,2026-11-26T07:40:06.287096+00:00
+હરિદાસ ખીમજી ચી,restaurant,Gujarat,,,,,22.2402332,68.968468,OpenStreetMap,way,1436232747,2026-11-26T07:40:06.287099+00:00
+ANKIT ISHWARBHAI VITHLANI,fast_food,Gujarat,,,,,22.2405515,68.9684917,OpenStreetMap,way,1436232755,2026-11-26T07:40:06.287101+00:00
+BANSI'S FOOD CORNER,restaurant,Gujarat,,,,,22.2412659,68.9679224,OpenStreetMap,way,1436240260,2026-11-26T07:40:06.287104+00:00
+Dwarkadhish Ac Restaurant,restaurant,Gujarat,,,,,22.2409001,68.9684862,OpenStreetMap,way,1436240265,2026-11-26T07:40:06.287107+00:00
+Mark24 Pizza Dwarka,restaurant,Gujarat,,,,,22.2434722,68.9661737,OpenStreetMap,way,1436240315,2026-11-26T07:40:06.287109+00:00
+Kamat Restaurant,restaurant,Gujarat,,,,,22.2436277,68.9665375,OpenStreetMap,way,1436240318,2026-11-26T07:40:06.287112+00:00
+Marigold,restaurant,Gujarat,,,,,23.5986643,73.2035144,OpenStreetMap,way,1459471312,2026-11-26T07:40:06.287115+00:00
+Food Stall,restaurant,Gujarat,,,,,22.3674873,70.7963405,OpenStreetMap,way,1460035769,2026-11-26T07:40:06.287118+00:00
+College Canteen,restaurant,Gujarat,,,,,21.133027,72.7178878,OpenStreetMap,way,1469542162,2026-11-26T07:40:06.287120+00:00
+NFSU Cafeteria,fast_food,Gujarat,,,,,23.2096588,72.6627817,OpenStreetMap,way,1486398672,2026-11-26T07:40:06.287123+00:00
+Sai Shlok Bhavan,restaurant,Gujarat,,,,,22.2431443,68.9655566,OpenStreetMap,way,1486400489,2026-11-26T07:40:06.287126+00:00
+BHAVESH KARABHAI SOLANKI,restaurant,Gujarat,,,,,22.2442389,68.9675544,OpenStreetMap,way,1486403330,2026-11-26T07:40:06.287128+00:00
+Maldhari Hotel & Restaurant,restaurant,Gujarat,,,,,22.2443257,68.9672983,OpenStreetMap,way,1486403334,2026-11-26T07:40:06.287131+00:00
+Kanaiya Kathiyawadi,restaurant,Gujarat,,,,,22.2441687,68.9672259,OpenStreetMap,way,1486403335,2026-11-26T07:40:06.287134+00:00
+Somya's Waffles,restaurant,Gujarat,,,,,22.2444712,68.9661552,OpenStreetMap,way,1486403353,2026-11-26T07:40:06.287136+00:00
+Madhav Pan And Tea Stall,restaurant,Gujarat,,,,,22.2442582,68.9661354,OpenStreetMap,way,1486403354,2026-11-26T07:40:06.287139+00:00
+ROMANO CUCCINA RESTAURANT,restaurant,Gujarat,,,,,22.2447897,68.9654915,OpenStreetMap,way,1486403356,2026-11-26T07:40:06.287142+00:00
+Malabha Makwana,restaurant,Gujarat,,,,,22.2442503,68.9656504,OpenStreetMap,way,1486403357,2026-11-26T07:40:06.287144+00:00
+ઓખાઈ,restaurant,Gujarat,,,,,22.2461025,68.9706634,OpenStreetMap,way,1486408156,2026-11-26T07:40:06.287147+00:00
+શ્રી શકત કુપા ટી સ્ટોલ,cafe,Gujarat,,,,,22.245594,68.9704076,OpenStreetMap,way,1486408157,2026-11-26T07:40:06.287150+00:00
+Murlidhar cantin restaurant,restaurant,Gujarat,,,,,22.245285,68.9639077,OpenStreetMap,way,1487293936,2026-11-26T07:40:06.287152+00:00
+Rajavir Parotha House (Restaurant),restaurant,Gujarat,,,,,22.2454916,68.9641829,OpenStreetMap,way,1487293938,2026-11-26T07:40:06.287155+00:00
+Fouji Restaurant nonveg,restaurant,Gujarat,,,,,22.2456419,68.9641848,OpenStreetMap,way,1487293940,2026-11-26T07:40:06.287158+00:00
+JAM MIYAZARBHA,fast_food,Gujarat,,,,,22.2457369,68.9641629,OpenStreetMap,way,1487293941,2026-11-26T07:40:06.287160+00:00
+Madina Restaurant,restaurant,Gujarat,,,,,22.2460502,68.9641749,OpenStreetMap,way,1487293943,2026-11-26T07:40:06.287163+00:00
+Shree Khodiyar Kathiyawadi Dhaba,restaurant,Gujarat,,,,,22.2466407,68.96464,OpenStreetMap,way,1487300797,2026-11-26T07:40:06.287166+00:00
+Fish food,restaurant,Gujarat,,,,,22.2485932,68.9658446,OpenStreetMap,way,1487307156,2026-11-26T07:40:06.287168+00:00
+Madhav Homely Food,restaurant,Gujarat,,,,,22.2476198,68.9607448,OpenStreetMap,way,1488694140,2026-11-26T07:40:06.287171+00:00
+Empire,restaurant,Gujarat,,,,,22.247238,68.9605027,OpenStreetMap,way,1488694172,2026-11-26T07:40:06.287174+00:00
+Chadrabhan,restaurant,Gujarat,,,,,22.247294,68.9585166,OpenStreetMap,way,1488694204,2026-11-26T07:40:06.287177+00:00
+Aasad Annapurna,restaurant,Gujarat,,,,,22.2492677,68.9618832,OpenStreetMap,way,1488700539,2026-11-26T07:40:06.287179+00:00
+DWARKADHISH DHABA,restaurant,Gujarat,,,,,22.252453,68.9616986,OpenStreetMap,way,1488703895,2026-11-26T07:40:06.287182+00:00
+RAGHUVANSHI GRUHUDHYOG,restaurant,Gujarat,,,,,22.2539492,68.9594991,OpenStreetMap,way,1488706252,2026-11-26T07:40:06.287185+00:00
+Burger King Taksh galaxy mall Waghodia chowkdi Vadodara,cafe,Gujarat,,,Taksh galaxy malll,,22.2989187,73.25408,OpenStreetMap,way,1530795634,2026-11-26T07:40:06.287188+00:00
+ChaiG Cafe and restaurant,restaurant,Gujarat,,,,,23.0760361,72.5265743,OpenStreetMap,way,1540063342,2026-11-26T07:40:06.287191+00:00
+Shyam tea stall,cafe,Gujarat,,,,,22.276355,69.1106765,OpenStreetMap,way,1545503944,2026-11-26T07:40:06.287194+00:00
+Zibrata,restaurant,Gujarat,,,,09797974433,23.248354,72.7414505,OpenStreetMap,way,1550197286,2026-11-26T07:40:06.287196+00:00
+Unity Food Court,restaurant,Gujarat,,,382355,09909922776,23.2469479,72.7406255,OpenStreetMap,way,1550197287,2026-11-26T07:40:06.287199+00:00
+Hotel Royal Fort,restaurant,Gujarat,,,,,23.2622182,72.7489946,OpenStreetMap,way,1550197288,2026-11-26T07:40:06.287202+00:00
+Geetha Cafe,cafe,Gujarat,,,,,21.1207887,72.7412512,OpenStreetMap,way,1550206291,2026-11-26T07:40:06.287205+00:00
+"Lollo Rosso, Shantigram",restaurant,Gujarat,,,,+918855978128,23.164822,72.5383734,OpenStreetMap,way,1552022342,2026-11-26T07:40:06.287208+00:00
+Geetha Restaurant,restaurant,Gujarat,,,,,21.1519483,72.7740061,OpenStreetMap,way,1552229634,2026-11-26T07:40:06.287210+00:00
+BELLA STAYS PRIVATE LIMITED,restaurant,Gujarat,,,,,22.3346766,69.0846878,OpenStreetMap,way,1552703702,2026-11-26T07:40:06.287213+00:00
+Hotel Zanzari,restaurant,Gujarat,,,,,23.2179625,73.0810183,OpenStreetMap,way,1564410061,2026-11-26T07:40:06.287216+00:00

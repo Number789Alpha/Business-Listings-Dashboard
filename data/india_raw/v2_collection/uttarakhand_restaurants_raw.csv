@@ -1,0 +1,578 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+Dhaba,restaurant,Uttarakhand,,,,,30.0809711,78.3408181,OpenStreetMap,node,1207679527,2026-11-26T07:32:46.882384+00:00
+Orchard Restaurant,restaurant,Uttarakhand,,"Rajpur Town, Dehradun","3-D, Dak Patti, Near MDDA Park, 248009",,30.3894893,78.0947391,OpenStreetMap,node,1219134811,2026-11-26T07:32:46.882409+00:00
+Nanking Restaurant,restaurant,Uttarakhand,,Dehradun,"361/1, Ballupur Road",+91 8126711001,30.333637,78.0163405,OpenStreetMap,node,1231819755,2026-11-26T07:32:46.882415+00:00
+Rice Bowl,restaurant,Uttarakhand,,,,,30.4561218,78.0782441,OpenStreetMap,node,1239501557,2026-11-26T07:32:46.882420+00:00
+Café Coffee Day,cafe,Uttarakhand,,,,,30.4560849,78.0783857,OpenStreetMap,node,1239501558,2026-11-26T07:32:46.882424+00:00
+Bhateliya,restaurant,Uttarakhand,,,,,29.4364021,79.6493554,OpenStreetMap,node,1347465929,2026-11-26T07:32:46.882428+00:00
+Chandni Chowk,restaurant,Uttarakhand,,,,,29.3828879,79.4637171,OpenStreetMap,node,1808387706,2026-11-26T07:32:46.882438+00:00
+Sagar,fast_food,Uttarakhand,,,,,30.2808089,77.9745065,OpenStreetMap,node,2525342151,2026-11-26T07:32:46.882442+00:00
+Freedom Cafe,restaurant,Uttarakhand,,,,,30.1239924,78.3292004,OpenStreetMap,node,2528145667,2026-11-26T07:32:46.882447+00:00
+Chick Chocolate,fast_food,Uttarakhand,,,,,30.4554513,78.0786744,OpenStreetMap,node,2579178299,2026-11-26T07:32:46.882451+00:00
+Little Buddha Café,restaurant,Uttarakhand,,,,,30.1238324,78.3290235,OpenStreetMap,node,2583229951,2026-11-26T07:32:46.882455+00:00
+Pappu Lassi Corner,cafe,Uttarakhand,,,,,30.1050197,78.3002859,OpenStreetMap,node,2739417149,2026-11-26T07:32:46.882459+00:00
+Pyramid cafe & GH,restaurant,Uttarakhand,,,,,30.1217328,78.3283341,OpenStreetMap,node,2753405657,2026-11-26T07:32:46.882463+00:00
+Village Inn,restaurant,Uttarakhand,,,,,29.6510035,79.8315767,OpenStreetMap,node,2802846843,2026-11-26T07:32:46.882468+00:00
+Alpaahar,restaurant,Uttarakhand,,Roorkee,247667,,29.8611192,77.8980216,OpenStreetMap,node,3150790928,2026-11-26T07:32:46.882472+00:00
+Ravindra Bhawan Canteen,cafe,Uttarakhand,,Roorkee,247667,,29.8653819,77.8924658,OpenStreetMap,node,3151224050,2026-11-26T07:32:46.882476+00:00
+Doma's,restaurant,Uttarakhand,,,,,30.4587293,78.0927115,OpenStreetMap,node,3160898475,2026-11-26T07:32:46.882481+00:00
+McDonald's,fast_food,Uttarakhand,,,,,30.3279079,78.0460471,OpenStreetMap,node,3500421874,2026-11-26T07:32:46.882485+00:00
+Kamboj Sweet Shop,restaurant,Uttarakhand,,,,,30.3310716,78.042196,OpenStreetMap,node,3520017974,2026-11-26T07:32:46.882489+00:00
+Coffee Time,cafe,Uttarakhand,,,,,30.4145734,80.7126509,OpenStreetMap,node,3553063518,2026-11-26T07:32:46.882493+00:00
+Tattv Cafe,cafe,Uttarakhand,,,,,30.1279549,78.3222869,OpenStreetMap,node,3663758310,2026-11-26T07:32:46.882498+00:00
+Madhuban,restaurant,Uttarakhand,,,,,30.4178532,77.69163,OpenStreetMap,node,3810077661,2026-11-26T07:32:46.882502+00:00
+Tip Top,restaurant,Uttarakhand,,,,,30.120518,78.3124237,OpenStreetMap,node,3811244322,2026-11-26T07:32:46.882506+00:00
+Dhaba,restaurant,Uttarakhand,,,,,30.1166314,78.3124929,OpenStreetMap,node,3814408844,2026-11-26T07:32:46.882511+00:00
+Moon Dance,restaurant,Uttarakhand,,,,,30.1206662,78.3164601,OpenStreetMap,node,3814410082,2026-11-26T07:32:46.882515+00:00
+The Office,cafe,Uttarakhand,,,,,30.1203758,78.3123723,OpenStreetMap,node,3815423297,2026-11-26T07:32:46.882521+00:00
+Chill out Ganga cafe,restaurant,Uttarakhand,,,,,30.1240715,78.3293917,OpenStreetMap,node,3817358816,2026-11-26T07:32:46.882526+00:00
+Coffee Day,cafe,Uttarakhand,,,,,30.1252908,78.3307147,OpenStreetMap,node,3821132871,2026-11-26T07:32:46.882530+00:00
+Aum,cafe,Uttarakhand,,,,,30.1200234,78.3170237,OpenStreetMap,node,3822425467,2026-11-26T07:32:46.882534+00:00
+Hungry Yogi,restaurant,Uttarakhand,,,,,30.1190006,78.3165118,OpenStreetMap,node,3822427037,2026-11-26T07:32:46.882538+00:00
+Oasis cafe,cafe,Uttarakhand,,,,,30.120101,78.3173568,OpenStreetMap,node,3822429636,2026-11-26T07:32:46.882542+00:00
+Honey Hut,cafe,Uttarakhand,,,,,30.1203673,78.3124603,OpenStreetMap,node,3822625803,2026-11-26T07:32:46.882546+00:00
+Ganesha,restaurant,Uttarakhand,,,,,30.1211692,78.3167147,OpenStreetMap,node,3822788073,2026-11-26T07:32:46.882550+00:00
+Cafe Ivy,restaurant,Uttarakhand,,,,,30.4611402,78.0950161,OpenStreetMap,node,4063490645,2026-11-26T07:32:46.882554+00:00
+Subba's corner,restaurant,Uttarakhand,,,,,30.2792328,77.9722345,OpenStreetMap,node,4147531361,2026-11-26T07:32:46.882558+00:00
+D1,restaurant,Uttarakhand,,DEHRADUN,"BIDHOLI, 248007",,30.4157802,77.9662527,OpenStreetMap,node,4165131646,2026-11-26T07:32:46.882564+00:00
+D2,restaurant,Uttarakhand,,DEHRADUN,"BIDHOLI, 248001",,30.413902,77.9669179,OpenStreetMap,node,4165140656,2026-11-26T07:32:46.882568+00:00
+D3,restaurant,Uttarakhand,,DEHRADUN,"BIDHOLI, 248001",,30.4127547,77.9671539,OpenStreetMap,node,4165140657,2026-11-26T07:32:46.882572+00:00
+SHIKHA FOOD CORNER,restaurant,Uttarakhand,,DEHRADUN,"BIDHOLI, 248001",,30.4102194,77.9689993,OpenStreetMap,node,4165140658,2026-11-26T07:32:46.882577+00:00
+MAYANK RESTAURANT,restaurant,Uttarakhand,,DEHRADUN,"BIDHOLI, 248001",,30.4094792,77.9690958,OpenStreetMap,node,4165162864,2026-11-26T07:32:46.882581+00:00
+RAVI FOOD CORNER,restaurant,Uttarakhand,,DEHRADUN,"BIDHOLI, 248001",,30.4126621,77.970394,OpenStreetMap,node,4165162865,2026-11-26T07:32:46.882585+00:00
+PAAJI FOOD CORNER,restaurant,Uttarakhand,,DEHRADUN,"BIDHOLI, 248001",,30.4084759,77.9682061,OpenStreetMap,node,4165171468,2026-11-26T07:32:46.882590+00:00
+BHABHI CAFE,restaurant,Uttarakhand,,DEHRADUN,"BIDHOLI, 248001",,30.4084389,77.9682329,OpenStreetMap,node,4165177789,2026-11-26T07:32:46.882594+00:00
+EMOTIONS,restaurant,Uttarakhand,,DEHRADUN,"BIDHOLI, 248001",,30.4092486,77.9694882,OpenStreetMap,node,4165179422,2026-11-26T07:32:46.882598+00:00
+Cafe HEADQUARTERS,cafe,Uttarakhand,,DEHRADUN,"NANDA KI CHOWKI, 248007",,30.3448087,77.955546,OpenStreetMap,node,4165218448,2026-11-26T07:32:46.882602+00:00
+Namaste,restaurant,Uttarakhand,,,,,30.1237629,78.3292773,OpenStreetMap,node,4165999094,2026-11-26T07:32:46.882607+00:00
+Zorba Organic Restaurant and Cafe,cafe,Uttarakhand,,,Connecting Road toward Laxman jhula,,30.1236742,78.3292669,OpenStreetMap,node,4176771091,2026-11-26T07:32:46.882611+00:00
+Chalari,fast_food,Uttarakhand,,,Ramnagar Road ,,29.5517679,79.1919797,OpenStreetMap,node,4197369199,2026-11-26T07:32:46.882616+00:00
+Kalsang Ama Cafe,cafe,Uttarakhand,,,,,30.34685,78.0625597,OpenStreetMap,node,4209258115,2026-11-26T07:32:46.882620+00:00
+Kalsang Friend's Corner,restaurant,Uttarakhand,,,,,30.3469127,78.062623,OpenStreetMap,node,4209258116,2026-11-26T07:32:46.882624+00:00
+The Mudcup Cafe,cafe,Uttarakhand,,,,,30.4582048,78.0920981,OpenStreetMap,node,4211972443,2026-11-26T07:32:46.882628+00:00
+Midway Cafe,cafe,Uttarakhand,,,,,30.4592845,78.073014,OpenStreetMap,node,4212032886,2026-11-26T07:32:46.882632+00:00
+Snow View,cafe,Uttarakhand,,,,,30.4594982,78.0748384,OpenStreetMap,node,4212057864,2026-11-26T07:32:46.882636+00:00
+Cozy Corner,cafe,Uttarakhand,,,,,30.456127,78.0978705,OpenStreetMap,node,4212147289,2026-11-26T07:32:46.882641+00:00
+Rawat Restaurant,restaurant,Uttarakhand,,,,,30.1266839,78.3270384,OpenStreetMap,node,4213968389,2026-11-26T07:32:46.882645+00:00
+Nirvana Bistro,restaurant,Uttarakhand,,,,,30.1278704,78.3186422,OpenStreetMap,node,4213971795,2026-11-26T07:32:46.882649+00:00
+Big Ben,restaurant,Uttarakhand,,,,,29.9476224,78.1572001,OpenStreetMap,node,4219695562,2026-11-26T07:32:46.882654+00:00
+Tat cafe,cafe,Uttarakhand,,,Laxman Jhula,+91 96393 22090,30.1271012,78.3260591,OpenStreetMap,node,4226966191,2026-11-26T07:32:46.882658+00:00
+Dosa Plaza,restaurant,Uttarakhand,,,opp Railway station Haridwar,,29.9469111,78.1557101,OpenStreetMap,node,4226966192,2026-11-26T07:32:46.882663+00:00
+Divine cafe and bakery,cafe,Uttarakhand,,,Laxman Jhula Rd,,30.1273126,78.3247865,OpenStreetMap,node,4226967391,2026-11-26T07:32:46.882668+00:00
+Nirvana Bistro,restaurant,Uttarakhand,,,"Swami Omkarananda Saraswati Rd, Tapovan, Jonk, Uttarakhand 249137",,30.1281755,78.3189251,OpenStreetMap,node,4226994291,2026-11-26T07:32:46.882672+00:00
+Auli-D,restaurant,Uttarakhand,,,Joshimath - Auli road,,30.5551613,79.5632484,OpenStreetMap,node,4269724991,2026-11-26T07:32:46.882676+00:00
+Hotel Badrish & Restaurant,restaurant,Uttarakhand,,,Badrinath Road,9410191750,30.6192299,79.5624554,OpenStreetMap,node,4277830191,2026-11-26T07:32:46.882680+00:00
+Anna Cafe & GH,restaurant,Uttarakhand,,,,,30.1228237,78.328644,OpenStreetMap,node,4383969391,2026-11-26T07:32:46.882685+00:00
+Jawahar Bhawan Canteen,fast_food,Uttarakhand,,Roorkee,247667,,29.8629673,77.9007985,OpenStreetMap,node,4438568133,2026-11-26T07:32:46.882689+00:00
+Green Gala Cafe,cafe,Uttarakhand,,Roorkee,247667,,29.8640193,77.893998,OpenStreetMap,node,4438596897,2026-11-26T07:32:46.882695+00:00
+Kanaan cafe,cafe,Uttarakhand,,,,,30.1241437,78.3296125,OpenStreetMap,node,4439435190,2026-11-26T07:32:46.882699+00:00
+Ganga Beach cafe,restaurant,Uttarakhand,,,,,30.125978,78.3306277,OpenStreetMap,node,4451183192,2026-11-26T07:32:46.882703+00:00
+Soul Kitchen,restaurant,Uttarakhand,,,,,30.1230274,78.3277339,OpenStreetMap,node,4493963989,2026-11-26T07:32:46.882707+00:00
+Buddha Momos,restaurant,Uttarakhand,,,,,30.1237408,78.3296469,OpenStreetMap,node,4494294690,2026-11-26T07:32:46.882710+00:00
+Madras Cafe,cafe,Uttarakhand,,,,,30.1227771,78.3110822,OpenStreetMap,node,4517068296,2026-11-26T07:32:46.882714+00:00
+संगम रेस्टोरेंट,restaurant,Uttarakhand,,,,,29.29251,78.800353,OpenStreetMap,node,4529419090,2026-11-26T07:32:46.882718+00:00
+LA-SO-VA Fresh Kitchen,restaurant,Uttarakhand,,,"Laxman Jhula, 249304",,30.1251971,78.3306725,OpenStreetMap,node,4589295510,2026-11-26T07:32:46.882722+00:00
+Camp PeaceTrips,cafe,Uttarakhand,,,"1 Bhulkuna, Chopta, Gopeshwar road, 246473",7830011180,30.4784016,79.2102966,OpenStreetMap,node,4646727795,2026-11-26T07:32:46.882727+00:00
+Momoza,restaurant,Uttarakhand,,,,,30.1209499,78.3163555,OpenStreetMap,node,4729017889,2026-11-26T07:32:46.882731+00:00
+Dolma Restaurant,restaurant,Uttarakhand,,,,,29.6439592,79.6626799,OpenStreetMap,node,4759563139,2026-11-26T07:32:46.882735+00:00
+Bansal's restaurant,restaurant,Uttarakhand,,,,,29.5987259,79.6598974,OpenStreetMap,node,4770128530,2026-11-26T07:32:46.882740+00:00
+GMVN restaurant,restaurant,Uttarakhand,,,,,30.9509701,79.0518939,OpenStreetMap,node,4771338330,2026-11-26T07:32:46.882744+00:00
+Kaafal Cafe,cafe,Uttarakhand,,,,,29.6522605,79.6664975,OpenStreetMap,node,4782186522,2026-11-26T07:32:46.882748+00:00
+Rajastanee Rishkesh,restaurant,Uttarakhand,,,,,30.1055067,78.2974512,OpenStreetMap,node,4787239423,2026-11-26T07:32:46.882752+00:00
+Massala Town Fast Food,fast_food,Uttarakhand,,,,,28.9743626,79.6778603,OpenStreetMap,node,4793451124,2026-11-26T07:32:46.882756+00:00
+Neelkanth Dhaba,restaurant,Uttarakhand,,,,+918958789977,28.9225391,79.4916689,OpenStreetMap,node,4794607921,2026-11-26T07:32:46.882760+00:00
+Satkar Restaurant,restaurant,Uttarakhand,,,Near Gahlaut Petrol Pump,8057726313,29.2660679,78.8496228,OpenStreetMap,node,4800962622,2026-11-26T07:32:46.882764+00:00
+pure soul,cafe,Uttarakhand,,,,,30.1298808,78.3264186,OpenStreetMap,node,4875438521,2026-11-26T07:32:46.882768+00:00
+Lotus Cafe,restaurant,Uttarakhand,,,,,30.1268396,78.3264442,OpenStreetMap,node,4922436425,2026-11-26T07:32:46.882772+00:00
+Kumar Sweet Shop,restaurant,Uttarakhand,,,,,30.325182,78.0430935,OpenStreetMap,node,4922436621,2026-11-26T07:32:46.882776+00:00
+Rudraa,restaurant,Uttarakhand,,,Laxman Jhula,+91 82794 17146,30.1280528,78.3316864,OpenStreetMap,node,4945640122,2026-11-26T07:32:46.882780+00:00
+155 miles from Delhi,restaurant,Uttarakhand,,,,,30.1281645,78.322451,OpenStreetMap,node,4976525821,2026-11-26T07:32:46.882785+00:00
+Ganga Jamuna,fast_food,Uttarakhand,,,,,30.1267308,78.3268994,OpenStreetMap,node,4977654726,2026-11-26T07:32:46.882789+00:00
+La Pizza,restaurant,Uttarakhand,,,,,30.1315738,78.3247924,OpenStreetMap,node,4979143722,2026-11-26T07:32:46.882793+00:00
+Hill trip cafe and restaurant,cafe,Uttarakhand,,,,,30.1315795,78.324895,OpenStreetMap,node,4984042423,2026-11-26T07:32:46.882797+00:00
+Pundir Corner,restaurant,Uttarakhand,,,,,30.137131,78.3892672,OpenStreetMap,node,4984042432,2026-11-26T07:32:46.882802+00:00
+Tea and store,cafe,Uttarakhand,,,,,30.1522412,78.4127065,OpenStreetMap,node,4984049422,2026-11-26T07:32:46.882805+00:00
+Shambala,cafe,Uttarakhand,,,,,30.1270347,78.3261785,OpenStreetMap,node,4987456823,2026-11-26T07:32:46.882810+00:00
+Xpresso Live Musical Cafe,cafe,Uttarakhand,,,,,30.3797769,78.4377537,OpenStreetMap,node,4987584210,2026-11-26T07:32:46.882814+00:00
+Indira Amma Bhojnalaya,restaurant,Uttarakhand,,,,,30.3748129,78.4292707,OpenStreetMap,node,4989192287,2026-11-26T07:32:46.882819+00:00
+The Mountain Cafe,cafe,Uttarakhand,,,Mall Road,,30.4567456,78.0765321,OpenStreetMap,node,5001731229,2026-11-26T07:32:46.882823+00:00
+Domino's,restaurant,Uttarakhand,,,,,30.4559652,78.0781533,OpenStreetMap,node,5001731230,2026-11-26T07:32:46.882827+00:00
+Cafe Coffee Day,cafe,Uttarakhand,,,"Mall Road, 248179",8881206129,30.458625,78.0720513,OpenStreetMap,node,5001731234,2026-11-26T07:32:46.882831+00:00
+Imperial Square,restaurant,Uttarakhand,,,,,30.4599797,78.0646076,OpenStreetMap,node,5001731431,2026-11-26T07:32:46.882835+00:00
+Funjabi tandoorz,restaurant,Uttarakhand,,,jhulla ghar,,30.4568521,78.0755357,OpenStreetMap,node,5001731432,2026-11-26T07:32:46.882839+00:00
+Tavern Restaurant,restaurant,Uttarakhand,,,,,30.4600195,78.064681,OpenStreetMap,node,5001733223,2026-11-26T07:32:46.882843+00:00
+Hariom chinese mutton momo,fast_food,Uttarakhand,,,,,30.4590734,78.0693236,OpenStreetMap,node,5001733325,2026-11-26T07:32:46.882847+00:00
+Cafe Coffee Day,cafe,Uttarakhand,,,,,30.4602711,78.06618,OpenStreetMap,node,5001733326,2026-11-26T07:32:46.882851+00:00
+New punjab,restaurant,Uttarakhand,,,kulri bazaar,,30.4561008,78.0805274,OpenStreetMap,node,5001748324,2026-11-26T07:32:46.882855+00:00
+Captain's Cavalry,restaurant,Uttarakhand,,,,,29.9488523,78.075412,OpenStreetMap,node,5167496831,2026-11-26T07:32:46.882860+00:00
+Namaste Foods,restaurant,Uttarakhand,,,,,29.949306,78.0753933,OpenStreetMap,node,5167496832,2026-11-26T07:32:46.882864+00:00
+Ganga View Cafe Rishikesh,cafe,Uttarakhand,,,Ram Jhula,9084994565,30.1149729,78.3106644,OpenStreetMap,node,5214354221,2026-11-26T07:32:46.882868+00:00
+Manglam,restaurant,Uttarakhand,,,,+91 5944 690 021,28.9755696,79.3960559,OpenStreetMap,node,5265770521,2026-11-26T07:32:46.882872+00:00
+Cafe,cafe,Uttarakhand,,,,,29.4781191,79.4781089,OpenStreetMap,node,5295236591,2026-11-26T07:32:46.882877+00:00
+Pumpernickel German Bakery,cafe,Uttarakhand,,,Laxman Jhula,,30.1234952,78.328606,OpenStreetMap,node,5324966021,2026-11-26T07:32:46.882881+00:00
+Hideout cafe,cafe,Uttarakhand,,,,,30.0959413,78.2883229,OpenStreetMap,node,5514393721,2026-11-26T07:32:46.882885+00:00
+Subway,fast_food,Uttarakhand,,,,,30.3254223,78.0433537,OpenStreetMap,node,5552548922,2026-11-26T07:32:46.882889+00:00
+Arjun,restaurant,Uttarakhand,,,,,29.649117,79.66387,OpenStreetMap,node,5689617422,2026-11-26T07:32:46.882894+00:00
+Frog Life Cafe,cafe,Uttarakhand,,,,,30.1288781,78.3212839,OpenStreetMap,node,5819839854,2026-11-26T07:32:46.882897+00:00
+Jai Gurudev,restaurant,Uttarakhand,,,,,30.1199151,78.312155,OpenStreetMap,node,5863235597,2026-11-26T07:32:46.882902+00:00
+New Krishna café,restaurant,Uttarakhand,,,,,30.1248207,78.3305787,OpenStreetMap,node,5863244385,2026-11-26T07:32:46.882906+00:00
+Babli cooking classes,restaurant,Uttarakhand,,,,,30.1299981,78.3318136,OpenStreetMap,node,5875420685,2026-11-26T07:32:46.882910+00:00
+Amar Fast food and tiffin,restaurant,Uttarakhand,,Dehradun,"Gangotri Vihar, 248001",,30.354352,78.0740671,OpenStreetMap,node,5897122011,2026-11-26T07:32:46.882914+00:00
+Hoshiyar Puri,restaurant,Uttarakhand,,,,,29.9545288,78.1680733,OpenStreetMap,node,5984982185,2026-11-26T07:32:46.882918+00:00
+Punjab Restaurant,restaurant,Uttarakhand,,,,,30.3256076,78.0434828,OpenStreetMap,node,5989291513,2026-11-26T07:32:46.882922+00:00
+D Village,restaurant,Uttarakhand,,,By Pass Road,05948243055,28.9238368,79.711042,OpenStreetMap,node,5997977191,2026-11-26T07:32:46.882926+00:00
+Uttarkhand Food Junction,restaurant,Uttarakhand,,,,,30.3407832,78.0505209,OpenStreetMap,node,6009207493,2026-11-26T07:32:46.882930+00:00
+Rawat Fast Food,fast_food,Uttarakhand,,,,,29.1328548,79.5939741,OpenStreetMap,node,6031863187,2026-11-26T07:32:46.882934+00:00
+Sonam Fast Food,fast_food,Uttarakhand,,,Bhotia Market,,29.3896681,79.4537448,OpenStreetMap,node,6031865186,2026-11-26T07:32:46.882939+00:00
+Mohit's Momo,cafe,Uttarakhand,,,,,30.1547441,78.598513,OpenStreetMap,node,6066025085,2026-11-26T07:32:46.882943+00:00
+Mohit's Momo (real location),cafe,Uttarakhand,,,,,30.1446139,78.6015136,OpenStreetMap,node,6066030485,2026-11-26T07:32:46.882947+00:00
+Doon Dharbaar,restaurant,Uttarakhand,,,,,30.3205719,78.0406542,OpenStreetMap,node,6066341985,2026-11-26T07:32:46.882951+00:00
+The Out Laws,restaurant,Uttarakhand,,,,,30.2885211,77.9967551,OpenStreetMap,node,6066342086,2026-11-26T07:32:46.882955+00:00
+Dana Pani,restaurant,Uttarakhand,,,,,30.2879421,77.9964482,OpenStreetMap,node,6066402492,2026-11-26T07:32:46.882960+00:00
+Ganga view café,restaurant,Uttarakhand,,,,,30.1271401,78.3314236,OpenStreetMap,node,6070241185,2026-11-26T07:32:46.882964+00:00
+Rawat Rest,restaurant,Uttarakhand,,,,,30.3897041,78.4469646,OpenStreetMap,node,6070420699,2026-11-26T07:32:46.882969+00:00
+Kalsang Friends corner,restaurant,Uttarakhand,,,,,30.4562062,78.077508,OpenStreetMap,node,6073571503,2026-11-26T07:32:46.882973+00:00
+Mamta Restaurant,restaurant,Uttarakhand,,,,,30.1267825,78.3270814,OpenStreetMap,node,6089241785,2026-11-26T07:32:46.882978+00:00
+Bhandari restaurant,restaurant,Uttarakhand,,,Laxman Jhula,9536112721,30.1267078,78.3269651,OpenStreetMap,node,6089241787,2026-11-26T07:32:46.882982+00:00
+Punjab Grill,restaurant,Uttarakhand,,,,,30.36003,78.0669699,OpenStreetMap,node,6115841389,2026-11-26T07:32:46.882986+00:00
+Vue,restaurant,Uttarakhand,,,,,30.364557,78.069617,OpenStreetMap,node,6116184000,2026-11-26T07:32:46.882991+00:00
+Gulab Restaurant,restaurant,Uttarakhand,,,,,30.3616594,78.0679224,OpenStreetMap,node,6116184001,2026-11-26T07:32:46.882995+00:00
+The Black Pearl,restaurant,Uttarakhand,,,,,30.3707114,78.0756878,OpenStreetMap,node,6123644083,2026-11-26T07:32:46.882999+00:00
+Lords Barbecue,restaurant,Uttarakhand,,,,,30.3678568,78.0729709,OpenStreetMap,node,6123644084,2026-11-26T07:32:46.883003+00:00
+Bottle Kirchen & Co,cafe,Uttarakhand,,,,,30.3665716,78.0711754,OpenStreetMap,node,6123644587,2026-11-26T07:32:46.883007+00:00
+The Swings Cafe,cafe,Uttarakhand,,,,,30.369035,78.074842,OpenStreetMap,node,6123644591,2026-11-26T07:32:46.883011+00:00
+Royal Cafe,cafe,Uttarakhand,,,,,30.1238302,78.3288011,OpenStreetMap,node,6226498287,2026-11-26T07:32:46.883015+00:00
+Delhi Darbar,restaurant,Uttarakhand,,,,,30.2923174,77.9999289,OpenStreetMap,node,6268028279,2026-11-26T07:32:46.883019+00:00
+Shiv fast food,restaurant,Uttarakhand,,,,,30.2714166,77.9938313,OpenStreetMap,node,6269057483,2026-11-26T07:32:46.883023+00:00
+Amrita,cafe,Uttarakhand,,,"Swamy Ashram, Ram Jhula, 249304",,30.0993282,78.2865512,OpenStreetMap,node,6275677887,2026-11-26T07:32:46.883028+00:00
+Hotel President,restaurant,Uttarakhand,,,,,30.328058,78.0461357,OpenStreetMap,node,6276854373,2026-11-26T07:32:46.883032+00:00
+South Indian Vibes,restaurant,Uttarakhand,,,,,30.3279707,78.0461036,OpenStreetMap,node,6276862151,2026-11-26T07:32:46.883036+00:00
+The Cosmopolitan,restaurant,Uttarakhand,,,,,30.3278079,78.0459334,OpenStreetMap,node,6276864021,2026-11-26T07:32:46.883040+00:00
+Hotel Boulevard,restaurant,Uttarakhand,,,,,30.3326745,78.0499918,OpenStreetMap,node,6276867720,2026-11-26T07:32:46.883046+00:00
+Uddibaba Organic Cafe,cafe,Uttarakhand,,,,,30.153599,78.3385462,OpenStreetMap,node,6312558285,2026-11-26T07:32:46.883050+00:00
+La Tavoli Te,restaurant,Uttarakhand,,,,,30.1285871,78.3208071,OpenStreetMap,node,6320217085,2026-11-26T07:32:46.883054+00:00
+Cafe Karna,cafe,Uttarakhand,,,,,30.1307717,78.3241054,OpenStreetMap,node,6320217086,2026-11-26T07:32:46.883059+00:00
+Sunset Cafe,cafe,Uttarakhand,,,,,30.1237552,78.3292069,OpenStreetMap,node,6320217087,2026-11-26T07:32:46.883063+00:00
+Domino's,fast_food,Uttarakhand,,Dehradun,"Shop No. UG, Door no.139 Paciifc Mall, 248001",,30.3661602,78.0706392,OpenStreetMap,node,6327426949,2026-11-26T07:32:46.883068+00:00
+Subway,fast_food,Uttarakhand,,Dehradun,"Ground Pacific Mall LG-29, 248001",,30.366006,78.0705757,OpenStreetMap,node,6327426950,2026-11-26T07:32:46.883073+00:00
+KFC,fast_food,Uttarakhand,,,,,30.3662799,78.0705356,OpenStreetMap,node,6327426951,2026-11-26T07:32:46.883077+00:00
+Nazim's Kathi Roll,restaurant,Uttarakhand,,Dehradun,"142, Rajpur-Mussoorie Road, 248001",,30.3624461,78.0682295,OpenStreetMap,node,6327434934,2026-11-26T07:32:46.883082+00:00
+KC Soup Bar,restaurant,Uttarakhand,,Dehradun,"Rajpur-Mussoorie Road, 248001",089419 71945,30.3600916,78.067642,OpenStreetMap,node,6327453165,2026-11-26T07:32:46.883087+00:00
+Amrit Ganga,cafe,Uttarakhand,,,,01352440241,30.1224642,78.3166555,OpenStreetMap,node,6351361186,2026-11-26T07:32:46.883092+00:00
+Organic,cafe,Uttarakhand,,,,,30.1297999,78.3283627,OpenStreetMap,node,6358587385,2026-11-26T07:32:46.883097+00:00
+Ramana's Garden Restaurant and Café,restaurant,Uttarakhand,,,,,30.1296784,78.3284263,OpenStreetMap,node,6373590385,2026-11-26T07:32:46.883101+00:00
+Ayurpak Restaurant and Homestay,restaurant,Uttarakhand,,,,,30.1299189,78.3252008,OpenStreetMap,node,6374034785,2026-11-26T07:32:46.883105+00:00
+Jaideep,restaurant,Uttarakhand,,,,,30.3388038,78.0521161,OpenStreetMap,node,6379068458,2026-11-26T07:32:46.883109+00:00
+King's Café,cafe,Uttarakhand,,,,,30.1338798,78.319627,OpenStreetMap,node,6408833085,2026-11-26T07:32:46.883113+00:00
+Royal cafe,cafe,Uttarakhand,,,,,30.1237448,78.3293555,OpenStreetMap,node,6444603785,2026-11-26T07:32:46.883117+00:00
+Tree house,cafe,Uttarakhand,,,,,30.1284788,78.3316295,OpenStreetMap,node,6444603886,2026-11-26T07:32:46.883122+00:00
+Panaar Bugyal,restaurant,Uttarakhand,,,,,30.4702027,79.3465196,OpenStreetMap,node,6520210857,2026-11-26T07:32:46.883126+00:00
+Dhaba shop,restaurant,Uttarakhand,,,,,30.0602589,80.3636415,OpenStreetMap,node,6520223961,2026-11-26T07:32:46.883130+00:00
+Dhaba shop,restaurant,Uttarakhand,,,,,30.13875,80.2477436,OpenStreetMap,node,6520232706,2026-11-26T07:32:46.883134+00:00
+Dhaba,restaurant,Uttarakhand,,,,,30.1288212,80.6086918,OpenStreetMap,node,6520255733,2026-11-26T07:32:46.883149+00:00
+Dhaba,restaurant,Uttarakhand,,,,,30.1457993,80.6025575,OpenStreetMap,node,6520258742,2026-11-26T07:32:46.883153+00:00
+Small restaurant,restaurant,Uttarakhand,,,,,29.8323962,79.7714382,OpenStreetMap,node,6567537185,2026-11-26T07:32:46.883157+00:00
+Shivam,restaurant,Uttarakhand,,,,,30.2288375,78.5366686,OpenStreetMap,node,6576661565,2026-11-26T07:32:46.883162+00:00
+"Maggi Point, Cafe & Restaurant",restaurant,Uttarakhand,,,,,29.6021354,80.1904509,OpenStreetMap,node,6602314985,2026-11-26T07:32:46.883166+00:00
+Jai bardri vishal,restaurant,Uttarakhand,,,,,29.6406934,79.6280909,OpenStreetMap,node,6602934120,2026-11-26T07:32:46.883170+00:00
+Indralok Restaurant,restaurant,Uttarakhand,,,,,30.4332861,79.4282793,OpenStreetMap,node,6648622507,2026-11-26T07:32:46.883175+00:00
+Cafe nirvana,cafe,Uttarakhand,,,"007, Sari main road, 246469",+919991999398,30.5173373,79.1359328,OpenStreetMap,node,6831047586,2026-11-26T07:32:46.883180+00:00
+Rolls Junction,fast_food,Uttarakhand,,,,,30.3373767,78.0565939,OpenStreetMap,node,6871862251,2026-11-26T07:32:46.883185+00:00
+Hill Trip Cafe,restaurant,Uttarakhand,,,,+919675225155,30.1315405,78.3246804,OpenStreetMap,node,6917891386,2026-11-26T07:32:46.883189+00:00
+MINISTRY OF CLUB,cafe,Uttarakhand,,Dehradun,"1st & 2nd Floor, Canal Road, 248001",+91 8344122224,30.3429696,78.0627298,OpenStreetMap,node,7012272745,2026-11-26T07:32:46.883194+00:00
+Auli chai cafe,cafe,Uttarakhand,,,,,30.3737032,78.4305236,OpenStreetMap,node,7131673085,2026-11-26T07:32:46.883198+00:00
+Kamlu Mala restaurant,cafe,Uttarakhand,,,,,30.372835,78.4314131,OpenStreetMap,node,7131673285,2026-11-26T07:32:46.883202+00:00
+Chatsang Cafe,cafe,Uttarakhand,,,"Laxman Jhula, 249302",+919997183888,30.1236671,78.3293124,OpenStreetMap,node,7247267787,2026-11-26T07:32:46.883207+00:00
+Harry Cafe,cafe,Uttarakhand,,,Laxman Jhula,+919837020382,30.1240699,78.3295535,OpenStreetMap,node,7247323485,2026-11-26T07:32:46.883211+00:00
+Cafe Commune,cafe,Uttarakhand,,Dehradun,"Dehradun-Mussoorie Road, 248001",,30.3828256,78.074451,OpenStreetMap,node,7281036620,2026-11-26T07:32:46.883216+00:00
+Cafe omkar,restaurant,Uttarakhand,,,,,30.1227633,78.32561,OpenStreetMap,node,7296140786,2026-11-26T07:32:46.883220+00:00
+Sitaram ji best samosas tasty tiffins chai,fast_food,Uttarakhand,,,,,29.9249272,78.1469595,OpenStreetMap,node,7668577685,2026-11-26T07:32:46.883225+00:00
+Secret Garden Cafe,restaurant,Uttarakhand,,,,,30.1302748,78.3193745,OpenStreetMap,node,7814425585,2026-11-26T07:32:46.883229+00:00
+punjabi dhaba,restaurant,Uttarakhand,,,,,29.1570534,79.1485987,OpenStreetMap,node,8134069268,2026-11-26T07:32:46.883233+00:00
+Haryana misthan bhandar,restaurant,Uttarakhand,,,,,29.1583594,79.1502514,OpenStreetMap,node,8134092555,2026-11-26T07:32:46.883237+00:00
+chandra chicken corner,restaurant,Uttarakhand,,,,,29.1578601,79.1512343,OpenStreetMap,node,8137006404,2026-11-26T07:32:46.883241+00:00
+Karan De Cafe,restaurant,Uttarakhand,,,Gas Godam Road,+919997378966,29.2072176,79.4939027,OpenStreetMap,node,8172650786,2026-11-26T07:32:46.883245+00:00
+On9 Bistro & Kitchen,restaurant,Uttarakhand,,Kichha,"On9 Bistro & Kitchen, On9 Road, 263148",+918565885652,28.9119356,79.5139384,OpenStreetMap,node,8187592992,2026-11-26T07:32:46.883250+00:00
+Kalra Sweet Shop,restaurant,Uttarakhand,,Dehradun,"57, Tyag Market, Premnagar, 248007",+919897866728,30.3360176,77.9625541,OpenStreetMap,node,8244669103,2026-11-26T07:32:46.883254+00:00
+Laskh Fast Food,fast_food,Uttarakhand,,,Birla School Road,,29.2056039,79.4985717,OpenStreetMap,node,8244775254,2026-11-26T07:32:46.883259+00:00
+Dhaba,restaurant,Uttarakhand,,,,,30.1530364,80.2520916,OpenStreetMap,node,8324655861,2026-11-26T07:32:46.883263+00:00
+Masters' Dining Room,restaurant,Uttarakhand,,,,,30.3339958,78.0321075,OpenStreetMap,node,8344261764,2026-11-26T07:32:46.883267+00:00
+Unity Veg Momo's Corner,fast_food,Uttarakhand,,,,,29.4749335,79.6431773,OpenStreetMap,node,8367669596,2026-11-26T07:32:46.883270+00:00
+KFC,fast_food,Uttarakhand,,,,,29.2425229,79.5347736,OpenStreetMap,node,8384320705,2026-11-26T07:32:46.883274+00:00
+Dhabas,restaurant,Uttarakhand,,,,,30.2406406,79.1052844,OpenStreetMap,node,8418283654,2026-11-26T07:32:46.883278+00:00
+Dhaba,restaurant,Uttarakhand,,,,,30.4052626,78.1378115,OpenStreetMap,node,8442071493,2026-11-26T07:32:46.883283+00:00
+Arhan,cafe,Uttarakhand,,,,,30.4498068,78.0864742,OpenStreetMap,node,8591321085,2026-11-26T07:32:46.883287+00:00
+Aranyam Cafe and Resort,cafe,Uttarakhand,,,263136,,29.3641256,79.5335479,OpenStreetMap,node,9140903117,2026-11-26T07:32:46.883292+00:00
+Haldwani Food,restaurant,Uttarakhand,,,RTO Road,,29.2109283,79.4912582,OpenStreetMap,node,9173603701,2026-11-26T07:32:46.883296+00:00
+Galaxy Farms Resturant,restaurant,Uttarakhand,,,,,29.1459464,79.4708433,OpenStreetMap,node,9175996351,2026-11-26T07:32:46.883300+00:00
+Bagicha Lawn & restaurant,restaurant,Uttarakhand,,,,,29.2299738,79.4155082,OpenStreetMap,node,9201930804,2026-11-26T07:32:46.883304+00:00
+The Pahadi House,restaurant,Uttarakhand,,Dehradun,"The Pahadi House, Dehradun-Mussoorie Road, 248009",+91 8126044314,30.3979632,78.0780711,OpenStreetMap,node,9204642529,2026-11-26T07:32:46.883308+00:00
+Madrasi Masala Dosa,restaurant,Uttarakhand,,,,,29.2125655,79.5277872,OpenStreetMap,node,9229264141,2026-11-26T07:32:46.883312+00:00
+Woodpecker,restaurant,Uttarakhand,,,,,29.246069,79.5377992,OpenStreetMap,node,9232001856,2026-11-26T07:32:46.883317+00:00
+LemonTree,fast_food,Uttarakhand,,,,,30.0809937,78.3423607,OpenStreetMap,node,9235593217,2026-11-26T07:32:46.883320+00:00
+Mohanji Puri Vale,restaurant,Uttarakhand,,,,,29.9309884,78.129373,OpenStreetMap,node,9248396517,2026-11-26T07:32:46.883325+00:00
+Daju Meals,restaurant,Uttarakhand,,Pithoragarh,"Near Kala Darpan, bus stand, 262501",+918859942202,29.5838374,80.2113185,OpenStreetMap,node,9360362789,2026-11-26T07:32:46.883329+00:00
+Purple Dhaba,cafe,Uttarakhand,,,Laxman Jhula,,30.1256792,78.3307348,OpenStreetMap,node,9366420817,2026-11-26T07:32:46.883333+00:00
+Lee's Kitchen,restaurant,Uttarakhand,,,,,29.2805178,79.5452548,OpenStreetMap,node,9378271634,2026-11-26T07:32:46.883337+00:00
+Belpatra,restaurant,Uttarakhand,,,,,29.3709571,79.542183,OpenStreetMap,node,9452025641,2026-11-26T07:32:46.883342+00:00
+HIGHH FLY CAFE AND RESTRO,restaurant,Uttarakhand,,mussorrie,"1, Suwakholi Mussoori-Chamba Road, 249180",+918979756005,30.4456996,78.1615429,OpenStreetMap,node,9527343321,2026-11-26T07:32:46.883346+00:00
+Annapoorna Fast Food,restaurant,Uttarakhand,,,Gas Godam Road,,29.211046,79.4953933,OpenStreetMap,node,9631551497,2026-11-26T07:32:46.883350+00:00
+Bani Resturant,restaurant,Uttarakhand,,,Birla School Road,,29.208113,79.5004351,OpenStreetMap,node,9633825586,2026-11-26T07:32:46.883354+00:00
+Priya Resturant And Fast Food,fast_food,Uttarakhand,,,Birla School Road,,29.2077572,79.4995041,OpenStreetMap,node,9633825598,2026-11-26T07:32:46.883359+00:00
+Jai Balaji Sweets,fast_food,Uttarakhand,,,Birla School Road,,29.2071278,79.5021647,OpenStreetMap,node,9633825603,2026-11-26T07:32:46.883362+00:00
+Star Kangna Bhojanalay,restaurant,Uttarakhand,,,Pili Khoti Road,,29.2070841,79.5029109,OpenStreetMap,node,9633825610,2026-11-26T07:32:46.883366+00:00
+Maggi Adda,restaurant,Uttarakhand,,,,,29.2081882,79.503653,OpenStreetMap,node,9633835722,2026-11-26T07:32:46.883370+00:00
+Harshit Fast Food,fast_food,Uttarakhand,,,,,29.2087149,79.5039841,OpenStreetMap,node,9633835725,2026-11-26T07:32:46.883374+00:00
+Café La Casa | The Continental Cafe,cafe,Uttarakhand,,,,,29.2248449,79.4994979,OpenStreetMap,node,9634904134,2026-11-26T07:32:46.883378+00:00
+Shivan Fast Food,fast_food,Uttarakhand,,,Gas Godam Road,,29.203165,79.4893118,OpenStreetMap,node,9651851867,2026-11-26T07:32:46.883383+00:00
+Bisht Bhojanalay,restaurant,Uttarakhand,,,"Jeena Bhavan, Gas Godam Road",,29.2034784,79.4897722,OpenStreetMap,node,9651885876,2026-11-26T07:32:46.883387+00:00
+GRD Resturant And Cafe,restaurant,Uttarakhand,,,Gas Godam Road,,29.2008491,79.4869913,OpenStreetMap,node,9651936266,2026-11-26T07:32:46.883392+00:00
+Vansh Kinshuk Resturant,fast_food,Uttarakhand,,,Gas Godam Road,,29.2002523,79.487076,OpenStreetMap,node,9651936274,2026-11-26T07:32:46.883396+00:00
+Bisht Fast Food And Resturant,fast_food,Uttarakhand,,,Gas Godam Road,,29.1998231,79.4869307,OpenStreetMap,node,9651936281,2026-11-26T07:32:46.883401+00:00
+Green Hut Alpine Resturant,restaurant,Uttarakhand,,,Gas Godam Road,,29.1977934,79.4858974,OpenStreetMap,node,9660408131,2026-11-26T07:32:46.883405+00:00
+Bisht Ji Fast Food,fast_food,Uttarakhand,,,Devalchor Road,7895311543,29.1969701,79.4864617,OpenStreetMap,node,9660408158,2026-11-26T07:32:46.883410+00:00
+Dolma Fast Food,fast_food,Uttarakhand,,,Birla School Road,,29.1978066,79.4927645,OpenStreetMap,node,9660408251,2026-11-26T07:32:46.883413+00:00
+Chaudhary Fast Food,fast_food,Uttarakhand,,,Gas Godam Road,,29.2074885,79.4942128,OpenStreetMap,node,9665271588,2026-11-26T07:32:46.883418+00:00
+Moon Space,restaurant,Uttarakhand,,,Gas Godam Road,,29.2064377,79.4930508,OpenStreetMap,node,9665401154,2026-11-26T07:32:46.883423+00:00
+Work To Oven,fast_food,Uttarakhand,,,Gas Godam Road,,29.2049463,79.4916984,OpenStreetMap,node,9665401171,2026-11-26T07:32:46.883427+00:00
+The Second Home,restaurant,Uttarakhand,,,Radha Krishna Puram,07409029874,29.2033736,79.4903878,OpenStreetMap,node,9665547528,2026-11-26T07:32:46.883431+00:00
+Jai Maa Restaurant,restaurant,Uttarakhand,,,Gas Godam Road,,29.2007515,79.4873365,OpenStreetMap,node,9665547545,2026-11-26T07:32:46.883435+00:00
+Heera Chicken Corner,fast_food,Uttarakhand,,,Gas Godam Road,,29.200486,79.4872153,OpenStreetMap,node,9665596083,2026-11-26T07:32:46.883439+00:00
+SLB Moradabadi Sahi Chicken Biryani,fast_food,Uttarakhand,,,Shiv Shakti Vihar,,29.200367,79.4801028,OpenStreetMap,node,9665662309,2026-11-26T07:32:46.883444+00:00
+Joshi Restaurant,restaurant,Uttarakhand,,,Shiv Shakti Vihar,,29.2014211,79.4788643,OpenStreetMap,node,9665748606,2026-11-26T07:32:46.883448+00:00
+Bhatt Resturant,restaurant,Uttarakhand,,,RTO Road,,29.2018933,79.4785396,OpenStreetMap,node,9665748612,2026-11-26T07:32:46.883452+00:00
+Delhi Cafe,fast_food,Uttarakhand,,,RTO Road,,29.2019535,79.478657,OpenStreetMap,node,9665748614,2026-11-26T07:32:46.883456+00:00
+Mehta Bhojanalay,restaurant,Uttarakhand,,,RTO Road,,29.202684,79.4797749,OpenStreetMap,node,9665796331,2026-11-26T07:32:46.883461+00:00
+Sunny's Kitrchen,restaurant,Uttarakhand,,,RTO Road,,29.2032108,79.4803884,OpenStreetMap,node,9665796334,2026-11-26T07:32:46.883465+00:00
+Heaven's A family Resturant,restaurant,Uttarakhand,,,RTO Road,,29.2042733,79.4826137,OpenStreetMap,node,9665796378,2026-11-26T07:32:46.883470+00:00
+The Canteen,fast_food,Uttarakhand,,,RTO Road,,29.2043934,79.4825093,OpenStreetMap,node,9665796382,2026-11-26T07:32:46.883474+00:00
+Anshika Sweet And Fast Food,fast_food,Uttarakhand,,,RTO Road,,29.205467,79.4844096,OpenStreetMap,node,9665813400,2026-11-26T07:32:46.883478+00:00
+Tandoori Flame,restaurant,Uttarakhand,,,Gas Godam Road,,29.2084998,79.4942404,OpenStreetMap,node,9667345245,2026-11-26T07:32:46.883483+00:00
+Sizzling Chinese Resturant,restaurant,Uttarakhand,,,RTO Road,,29.2092902,79.4897635,OpenStreetMap,node,9667732376,2026-11-26T07:32:46.883487+00:00
+Pahadin Family Resturant,restaurant,Uttarakhand,,,"Virk Complex, RTO Road",,29.2072426,79.4866056,OpenStreetMap,node,9667779988,2026-11-26T07:32:46.883491+00:00
+Shivani's Cafe,cafe,Uttarakhand,,rishikesh,"opposite govt. hospital, laxman jhula, 249302",+91 7456899637,30.128764,78.331822,OpenStreetMap,node,9691327266,2026-11-26T07:32:46.883496+00:00
+Aryan Maggi Point,restaurant,Uttarakhand,,,,,29.4221701,79.138635,OpenStreetMap,node,9763714563,2026-11-26T07:32:46.883500+00:00
+Green View,restaurant,Uttarakhand,,,,,30.4774435,79.2107734,OpenStreetMap,node,9778654018,2026-11-26T07:32:46.883504+00:00
+Sonu da Dhaba and Restaurant,restaurant,Uttarakhand,,,,,30.2564724,78.9187484,OpenStreetMap,node,9810274217,2026-11-26T07:32:46.883508+00:00
+Domino's,fast_food,Uttarakhand,,,Kamalwaganja Road,,29.2231615,79.5028002,OpenStreetMap,node,9906900595,2026-11-26T07:32:46.883513+00:00
+Domino's,fast_food,Uttarakhand,,,,,29.219593,79.5300671,OpenStreetMap,node,9906900596,2026-11-26T07:32:46.883517+00:00
+New Delhi Juice,fast_food,Uttarakhand,,,Guru Nanak Tower,,29.2287825,79.5304143,OpenStreetMap,node,9935731177,2026-11-26T07:32:46.883521+00:00
+Subway,fast_food,Uttarakhand,,,,,29.2434348,79.534946,OpenStreetMap,node,9946389612,2026-11-26T07:32:46.883525+00:00
+Domino's,fast_food,Uttarakhand,,,,,29.2434083,79.5350665,OpenStreetMap,node,9946389613,2026-11-26T07:32:46.883529+00:00
+Delhi Cafe,restaurant,Uttarakhand,,,,,29.1858515,79.4766943,OpenStreetMap,node,9994760997,2026-11-26T07:32:46.883533+00:00
+Bahuguna Bhojanaalay,restaurant,Uttarakhand,,,,,29.1858782,79.5014567,OpenStreetMap,node,9994904134,2026-11-26T07:32:46.883537+00:00
+Joshi Fast Food and Bhojanaalay,fast_food,Uttarakhand,,,,,29.1940982,79.5078959,OpenStreetMap,node,9994904225,2026-11-26T07:32:46.883541+00:00
+Kanya's Cafe,fast_food,Uttarakhand,,,,,29.1944185,79.5020775,OpenStreetMap,node,9995010337,2026-11-26T07:32:46.883544+00:00
+Shri Jwala Bhojanaalay,restaurant,Uttarakhand,,,,,29.1943663,79.5034018,OpenStreetMap,node,9995010351,2026-11-26T07:32:46.883549+00:00
+Sarovar Fastfood,fast_food,Uttarakhand,,,,,29.1943523,79.5039302,OpenStreetMap,node,9995010359,2026-11-26T07:32:46.883553+00:00
+Ginger Bites,fast_food,Uttarakhand,,,,,29.1943429,79.5042716,OpenStreetMap,node,9995010360,2026-11-26T07:32:46.883557+00:00
+Prakash Sweets And Snacks,fast_food,Uttarakhand,,,,,29.1943396,79.5043797,OpenStreetMap,node,9995010362,2026-11-26T07:32:46.883561+00:00
+Mumbai Juice And Shakes,fast_food,Uttarakhand,,,,,29.1934014,79.5090664,OpenStreetMap,node,9995010392,2026-11-26T07:32:46.883565+00:00
+Gulaiti's,fast_food,Uttarakhand,,,,,29.194607,79.5100502,OpenStreetMap,node,9995010400,2026-11-26T07:32:46.883570+00:00
+Machan Resturant,restaurant,Uttarakhand,,,,,29.1948931,79.5102601,OpenStreetMap,node,9995010405,2026-11-26T07:32:46.883574+00:00
+My Choice Restaurant,restaurant,Uttarakhand,,,,,29.7436726,78.5185637,OpenStreetMap,node,10119215768,2026-11-26T07:32:46.883578+00:00
+Vigyan Kunj Canteen,fast_food,Uttarakhand,,,,,29.8621497,77.9003034,OpenStreetMap,node,10155416038,2026-11-26T07:32:46.883582+00:00
+Kasturba Bhawan Canteen,fast_food,Uttarakhand,,,,,29.8671322,77.9010639,OpenStreetMap,node,10155416040,2026-11-26T07:32:46.883586+00:00
+Rajiv Bhawan Canteen,fast_food,Uttarakhand,,,,,29.8697272,77.8948608,OpenStreetMap,node,10155416041,2026-11-26T07:32:46.883590+00:00
+Govind Bhawan Canteen,fast_food,Uttarakhand,,,,,29.8620251,77.8937627,OpenStreetMap,node,10155622200,2026-11-26T07:32:46.883595+00:00
+CBRI Canteen,restaurant,Uttarakhand,,,,,29.8634301,77.902943,OpenStreetMap,node,10155643419,2026-11-26T07:32:46.883599+00:00
+Cafe Coffee Day,cafe,Uttarakhand,,,,,29.8703322,77.89646,OpenStreetMap,node,10155643420,2026-11-26T07:32:46.883603+00:00
+Amul,cafe,Uttarakhand,,,,,29.8701518,77.896742,OpenStreetMap,node,10155643421,2026-11-26T07:32:46.883607+00:00
+Aroma,restaurant,Uttarakhand,,,,,29.8702974,77.8964107,OpenStreetMap,node,10155643422,2026-11-26T07:32:46.883611+00:00
+Utopia,restaurant,Uttarakhand,,,,,29.8703055,77.8964369,OpenStreetMap,node,10155643423,2026-11-26T07:32:46.883615+00:00
+Subway,fast_food,Uttarakhand,,,,,29.8703113,77.896415,OpenStreetMap,node,10155643424,2026-11-26T07:32:46.883619+00:00
+Rajendra Bhawan Canteen,fast_food,Uttarakhand,,,,,29.8703498,77.8940392,OpenStreetMap,node,10173182546,2026-11-26T07:32:46.883623+00:00
+Radha Krishnan Bhawan Canteen,fast_food,Uttarakhand,,,,,29.8714216,77.8955671,OpenStreetMap,node,10173182548,2026-11-26T07:32:46.883627+00:00
+Rajiv Bhawan Night canteen,fast_food,Uttarakhand,,,,,29.8696565,77.8955009,OpenStreetMap,node,10173182549,2026-11-26T07:32:46.883631+00:00
+Kasturba Bhawan Night Canteen,fast_food,Uttarakhand,,,,,29.8673415,77.9002429,OpenStreetMap,node,10173182550,2026-11-26T07:32:46.883635+00:00
+Sarojni Bhawan Canteen,fast_food,Uttarakhand,,,,,29.8647841,77.899841,OpenStreetMap,node,10173182551,2026-11-26T07:32:46.883639+00:00
+Ganga Bhawan Canteen,fast_food,Uttarakhand,,,,,29.8716973,77.8944982,OpenStreetMap,node,10173739672,2026-11-26T07:32:46.883643+00:00
+Beatles Cafe,restaurant,Uttarakhand,,,,,30.1270535,78.3261184,OpenStreetMap,node,10250787520,2026-11-26T07:32:46.883647+00:00
+White Orchid,cafe,Uttarakhand,,Haldwani,"Caltex, Canal Road, Kathgodam, 263126",9068902848,29.2616892,79.5428557,OpenStreetMap,node,10562277384,2026-11-26T07:32:46.883652+00:00
+Himanshu Momos Point,cafe,Uttarakhand,,,,,29.4239007,79.4272152,OpenStreetMap,node,10594589086,2026-11-26T07:32:46.883656+00:00
+Rocky's Cafe,cafe,Uttarakhand,,,,,29.4240209,79.4271,OpenStreetMap,node,10594601422,2026-11-26T07:32:46.883660+00:00
+Chauhan,restaurant,Uttarakhand,,,,,30.1215908,78.3182936,OpenStreetMap,node,10678542705,2026-11-26T07:32:46.883664+00:00
+Travel Cafe,restaurant,Uttarakhand,,,,,29.8477765,78.6817246,OpenStreetMap,node,10708680207,2026-11-26T07:32:46.883668+00:00
+T bistro,restaurant,Uttarakhand,,,,,30.3326215,78.0541703,OpenStreetMap,node,10712357577,2026-11-26T07:32:46.883672+00:00
+Cafe de Piccolo,restaurant,Uttarakhand,,,,,30.3635338,78.0687431,OpenStreetMap,node,10734850746,2026-11-26T07:32:46.883675+00:00
+BabaGz,restaurant,Uttarakhand,,,,7302576312,30.3993388,78.0789725,OpenStreetMap,node,10736828277,2026-11-26T07:32:46.883679+00:00
+Magpie Cafe,cafe,Uttarakhand,,Haldwani,"Bhoomiya Vihar Pahse A 3, 263139",+917428150555,29.2200891,79.5023502,OpenStreetMap,node,10807857872,2026-11-26T07:32:46.883684+00:00
+Pizza Hut,restaurant,Uttarakhand,,,,,30.2891033,78.0433428,OpenStreetMap,node,10845005284,2026-11-26T07:32:46.883688+00:00
+The Free Spirit Cafe & Hostel,cafe,Uttarakhand,,Rishikesh,"Laxman Jhula, 249302",+91 7206515121,30.1235194,78.3290523,OpenStreetMap,node,10873432075,2026-11-26T07:32:46.883693+00:00
+Janta Restaurant,restaurant,Uttarakhand,,,,,30.6879864,77.8737705,OpenStreetMap,node,10873482489,2026-11-26T07:32:46.883696+00:00
+Flavours Of India,restaurant,Uttarakhand,,Dehradun,"Balliwala Chowk, 248001",08979953078,30.3234078,78.0130356,OpenStreetMap,node,10875843957,2026-11-26T07:32:46.883700+00:00
+Countdown restruanut,restaurant,Uttarakhand,,Dehradun,"Subhash Road, 248001",09997700788,30.326829,78.0475465,OpenStreetMap,node,10875904393,2026-11-26T07:32:46.883705+00:00
+Domino's Pizza,restaurant,Uttarakhand,,Dehradun,"Saharanpur Road, 248171",18002081234,30.2994369,78.0074533,OpenStreetMap,node,10875904401,2026-11-26T07:32:46.883709+00:00
+New Mamu Family Restaurant,restaurant,Uttarakhand,,,,,29.3112772,79.5578112,OpenStreetMap,node,10930740805,2026-11-26T07:32:46.883713+00:00
+Vishal restorent,restaurant,Uttarakhand,,"Bageshwar, Uttarakhand","Vikas Bhawan Rd, near hydel office, 263642",,29.8297656,79.7695789,OpenStreetMap,node,10958924520,2026-11-26T07:32:46.883718+00:00
+Mota Show,restaurant,Uttarakhand,,,"General Mahadev Singh (GMS) Road, 248001",,30.3081031,78.0075895,OpenStreetMap,node,10967460505,2026-11-26T07:32:46.883722+00:00
+The Chocolate Room,cafe,Uttarakhand,,,,,28.9792109,79.3952513,OpenStreetMap,node,11064381502,2026-11-26T07:32:46.883726+00:00
+Tiny House Café,restaurant,Uttarakhand,,,,,30.133905,78.3202842,OpenStreetMap,node,11148478780,2026-11-26T07:32:46.883730+00:00
+Bodhi Cafe,restaurant,Uttarakhand,,,,,30.1305226,78.3222317,OpenStreetMap,node,11150629808,2026-11-26T07:32:46.883736+00:00
+Langar Hall (community kitchen),restaurant,Uttarakhand,,,,,30.7020694,79.5940968,OpenStreetMap,node,11163376029,2026-11-26T07:32:46.883740+00:00
+Langar Hall (community kitchen),restaurant,Uttarakhand,,,,,30.556098,79.5626598,OpenStreetMap,node,11165152181,2026-11-26T07:32:46.883743+00:00
+The Coffee Tales - Café & Library,cafe,Uttarakhand,,,,,29.3185659,79.5229078,OpenStreetMap,node,11169695196,2026-11-26T07:32:46.883747+00:00
+Mr. Lee's Authentic Chinese Wooden Vibes Restaurant,restaurant,Uttarakhand,,,,,29.3177528,79.5201633,OpenStreetMap,node,11169718286,2026-11-26T07:32:46.883750+00:00
+UK Hills,restaurant,Uttarakhand,,,,,29.3162389,79.5199045,OpenStreetMap,node,11169718287,2026-11-26T07:32:46.883753+00:00
+The Nainital Golden,restaurant,Uttarakhand,,,,+91 750077821,29.3200768,79.5214226,OpenStreetMap,node,11169719135,2026-11-26T07:32:46.883756+00:00
+Bamboo Valley - Motel & Restaurant,restaurant,Uttarakhand,,,,+91 9837021318,29.3203176,79.5229423,OpenStreetMap,node,11169779161,2026-11-26T07:32:46.883760+00:00
+Chillz & Toast - Restos & Café,restaurant,Uttarakhand,,,,,29.3199678,79.522202,OpenStreetMap,node,11169785440,2026-11-26T07:32:46.883764+00:00
+Bisht Restaurant & Fast Food Center,fast_food,Uttarakhand,,,,,29.3180684,79.5232079,OpenStreetMap,node,11169788153,2026-11-26T07:32:46.883767+00:00
+Bisht Maggi Point,fast_food,Uttarakhand,,,,,29.3191659,79.5226057,OpenStreetMap,node,11169789450,2026-11-26T07:32:46.883771+00:00
+The Lake Hill,restaurant,Uttarakhand,,,,,29.3162608,79.5196311,OpenStreetMap,node,11169792757,2026-11-26T07:32:46.883788+00:00
+Bubu @ Bistro,restaurant,Uttarakhand,,,,,29.3208825,79.5230738,OpenStreetMap,node,11169793972,2026-11-26T07:32:46.883792+00:00
+Dev's Kitchen,restaurant,Uttarakhand,,,,,29.3442244,79.4821417,OpenStreetMap,node,11174257869,2026-11-26T07:32:46.883797+00:00
+Foodies Corner,fast_food,Uttarakhand,,,,,29.3406032,79.4871214,OpenStreetMap,node,11174260185,2026-11-26T07:32:46.883800+00:00
+Hut-K Café,restaurant,Uttarakhand,,,,,29.3389745,79.4844024,OpenStreetMap,node,11174260602,2026-11-26T07:32:46.883804+00:00
+The Studs Bar & Grill,restaurant,Uttarakhand,,Haldwani,Kaladhungi Road,,29.2360265,79.477409,OpenStreetMap,node,11225105590,2026-11-26T07:32:46.883808+00:00
+Domino's Pizza,restaurant,Uttarakhand,Nainital,Haldwani,"Near Shushila Tiwari Hospital, 263139",,29.2027425,79.5159527,OpenStreetMap,node,11281204411,2026-11-26T07:32:46.883813+00:00
+हंशदी रिजॉर्ट,restaurant,Uttarakhand,,,,,30.4423123,78.1948072,OpenStreetMap,node,11283091169,2026-11-26T07:32:46.883817+00:00
+जय बद्री केदार आर्युवेद की दुकान,fast_food,Uttarakhand,,,,,30.4235904,78.2481384,OpenStreetMap,node,11283406769,2026-11-26T07:32:46.883822+00:00
+Mateshwari Kadi Chawal and Rajma,fast_food,Uttarakhand,,,,,29.8749668,77.8884118,OpenStreetMap,node,11335231611,2026-11-26T07:32:46.883826+00:00
+Shri Balaji Juice Corner,fast_food,Uttarakhand,,,,,29.2143321,79.5279697,OpenStreetMap,node,11350658922,2026-11-26T07:32:46.883829+00:00
+Tiwari Juice Centre,fast_food,Uttarakhand,,,,,29.2143885,79.5278799,OpenStreetMap,node,11350658935,2026-11-26T07:32:46.883834+00:00
+Joshi Jalpan Greh,restaurant,Uttarakhand,,,,,29.2143679,79.527922,OpenStreetMap,node,11350658936,2026-11-26T07:32:46.883838+00:00
+Bikanerwala,restaurant,Uttarakhand,,,,,29.2152216,79.5283189,OpenStreetMap,node,11350775874,2026-11-26T07:32:46.883841+00:00
+Moti Mahal,restaurant,Uttarakhand,,,,,29.2178473,79.5298794,OpenStreetMap,node,11350775901,2026-11-26T07:32:46.883845+00:00
+Gulati's,fast_food,Uttarakhand,,,,,29.2187274,79.5151199,OpenStreetMap,node,11351259763,2026-11-26T07:32:46.883850+00:00
+KFC,fast_food,Uttarakhand,,,,,29.2198113,79.5127449,OpenStreetMap,node,11351305994,2026-11-26T07:32:46.883855+00:00
+Blue Night Resturant,restaurant,Uttarakhand,,,,,29.219959,79.5115247,OpenStreetMap,node,11351306001,2026-11-26T07:32:46.883858+00:00
+Brownies,cafe,Uttarakhand,,,,,29.222469,79.5056532,OpenStreetMap,node,11351306023,2026-11-26T07:32:46.883862+00:00
+Magic Resturant,restaurant,Uttarakhand,,,,,29.2227038,79.5050913,OpenStreetMap,node,11351306027,2026-11-26T07:32:46.883866+00:00
+Gagan Sweets & Resturant,restaurant,Uttarakhand,,,,,29.2317381,79.4847719,OpenStreetMap,node,11353757700,2026-11-26T07:32:46.883870+00:00
+Shama Deluxe Resturant,restaurant,Uttarakhand,,,,,29.1986708,79.5256516,OpenStreetMap,node,11358344538,2026-11-26T07:32:46.883874+00:00
+Pizza Hut,restaurant,Uttarakhand,,,,,29.2456875,79.5365799,OpenStreetMap,node,11360199821,2026-11-26T07:32:46.883878+00:00
+Hut Garden,restaurant,Uttarakhand,,,,,29.2485065,79.5385708,OpenStreetMap,node,11360199844,2026-11-26T07:32:46.883882+00:00
+Jungle Lore Ganga Cafe,cafe,Uttarakhand,,,,,30.066263,78.2806712,OpenStreetMap,node,11389266869,2026-11-26T07:32:46.883886+00:00
+Omkar,cafe,Uttarakhand,,,,+918449373833,30.1201484,78.319208,OpenStreetMap,node,11434939569,2026-11-26T07:32:46.883890+00:00
+The Juice House,cafe,Uttarakhand,,,,9927636247,30.1212425,78.3132829,OpenStreetMap,node,11451777869,2026-11-26T07:32:46.883894+00:00
+Darjeeling Momo,cafe,Uttarakhand,,,,,30.1233611,78.3284369,OpenStreetMap,node,11510636169,2026-11-26T07:32:46.883898+00:00
+19th Century UK,restaurant,Uttarakhand,Mussoorie,Mussoorie,"9/1, Jharipani Rd, 248179",7669911008,30.4254646,78.08452,OpenStreetMap,node,11626179136,2026-11-26T07:32:46.883902+00:00
+KC Hotel,restaurant,Uttarakhand,Rudraprayag,Rudraprayag,"Vill Shivanandi, 246171",,30.295485,79.0718416,OpenStreetMap,node,11637502737,2026-11-26T07:32:46.883906+00:00
+Dilli Tandoor,restaurant,Uttarakhand,,,,,29.1902834,79.505025,OpenStreetMap,node,11691527583,2026-11-26T07:32:46.883910+00:00
+Gangwar Rasoi,restaurant,Uttarakhand,,,,,29.1876341,79.5025863,OpenStreetMap,node,11691572771,2026-11-26T07:32:46.883914+00:00
+kumar sweet shop,restaurant,Uttarakhand,,,,,30.3289587,78.0665508,OpenStreetMap,node,11691647048,2026-11-26T07:32:46.883918+00:00
+sunset bistro CAFE,cafe,Uttarakhand,,,,,30.3326575,78.0543715,OpenStreetMap,node,11691647049,2026-11-26T07:32:46.883923+00:00
+Maggie Point,restaurant,Uttarakhand,,,,,29.2172797,79.5281001,OpenStreetMap,node,11691747392,2026-11-26T07:32:46.883927+00:00
+Restaurant,restaurant,Uttarakhand,,,,,29.2097531,79.5279264,OpenStreetMap,node,11691752035,2026-11-26T07:32:46.883932+00:00
+Biryani Guru,restaurant,Uttarakhand,,,,,29.2118081,79.528323,OpenStreetMap,node,11691789130,2026-11-26T07:32:46.883935+00:00
+Shama Deluxe Restauran,restaurant,Uttarakhand,,,,,29.2113046,79.5278055,OpenStreetMap,node,11691790232,2026-11-26T07:32:46.883939+00:00
+The Beverage Store,cafe,Uttarakhand,,Haldwani,"Teen Pani, 263139",,29.1791238,79.5128132,OpenStreetMap,node,11716244716,2026-11-26T07:32:46.883943+00:00
+NANYS BAKERY,cafe,Uttarakhand,,,,,30.332265,78.0539857,OpenStreetMap,node,11718274227,2026-11-26T07:32:46.883947+00:00
+Gaylord Xpress,restaurant,Uttarakhand,,,,,30.3239977,78.0415703,OpenStreetMap,node,11733088828,2026-11-26T07:32:46.883951+00:00
+Publique Bistro,restaurant,Uttarakhand,Dehradun,Dehradun,"3rd Floor, Sajwan High Rise, Kamla Palace Chowk, General Mahadev Singh (GMS) Road, 248001",+919760000080,30.309257,78.0069619,OpenStreetMap,node,11764218199,2026-11-26T07:32:46.883956+00:00
+The Rishikesh Bites Restaurant & Cafe,restaurant,Uttarakhand,,,,,30.1286286,78.3215462,OpenStreetMap,node,11774972969,2026-11-26T07:32:46.883960+00:00
+Basil Cafe & Restaurant,restaurant,Uttarakhand,Dehradun,Dehradun,"Shop No. 1& 2, Ground Floor, 48 New Road, Race Course, Opposite MKP College Entrance, 248001",+917300776850,30.3187992,78.0442251,OpenStreetMap,node,11813424354,2026-11-26T07:32:46.883970+00:00
+Hindi Restaurant,restaurant,Uttarakhand,,,,,30.1235198,78.3799223,OpenStreetMap,node,11843142770,2026-11-26T07:32:46.883974+00:00
+House of UK Bar & Kitchen,restaurant,Uttarakhand,Bhogpurkashipur,Pratappur,"near HIGHLANDER CRICKET ACADEMY, Ramnagar Rd, 244715",+917895188867,29.2659366,79.0101943,OpenStreetMap,node,11851611961,2026-11-26T07:32:46.883978+00:00
+Koyal Grand,restaurant,Uttarakhand,,,,,30.0963638,78.2865461,OpenStreetMap,node,11860368266,2026-11-26T07:32:46.883982+00:00
+La Tavola con Te,restaurant,Uttarakhand,,,,,30.1284086,78.3209246,OpenStreetMap,node,11860370611,2026-11-26T07:32:46.883986+00:00
+Jungle Fiesta,restaurant,Uttarakhand,,,,,29.2220118,79.506272,OpenStreetMap,node,11951323319,2026-11-26T07:32:46.883990+00:00
+Nescafe,cafe,Uttarakhand,,,,,29.3753103,79.5298813,OpenStreetMap,node,11951331119,2026-11-26T07:32:46.883994+00:00
+Devna Restaurant,restaurant,Uttarakhand,DEHARADUN,CHAKRATA,"Chakrata - Lakhamandal Road, 248123",7807703188,30.7227612,77.8794927,OpenStreetMap,node,12000027490,2026-11-26T07:32:46.883998+00:00
+Uttar Dakshin,restaurant,Uttarakhand,,,,,30.1283677,78.3238638,OpenStreetMap,node,12026544561,2026-11-26T07:32:46.884000+00:00
+Goa Beach Cafe,restaurant,Uttarakhand,,,,,30.1305935,78.3317916,OpenStreetMap,node,12029430722,2026-11-26T07:32:46.884004+00:00
+Namaste UK,restaurant,Uttarakhand,,,,,30.130779,78.3238189,OpenStreetMap,node,12029976696,2026-11-26T07:32:46.884008+00:00
+The 60s Cafe,cafe,Uttarakhand,,,,,30.1310913,78.3237651,OpenStreetMap,node,12029976704,2026-11-26T07:32:46.884011+00:00
+Tasty Spoon Unplugged 3.0,restaurant,Uttarakhand,,Rishikesh,Tapovan,,30.1307499,78.3238383,OpenStreetMap,node,12029976715,2026-11-26T07:32:46.884016+00:00
+Guru Nanak Vaishno Hotel,restaurant,Uttarakhand,,,,,29.9459365,78.154258,OpenStreetMap,node,12030965858,2026-11-26T07:32:46.884019+00:00
+Pawanputra,restaurant,Uttarakhand,,,,,30.2998881,79.1036214,OpenStreetMap,node,12049302497,2026-11-26T07:32:46.884022+00:00
+Rudra Maggi Point,restaurant,Uttarakhand,,,,,30.1257574,78.3526503,OpenStreetMap,node,12057808744,2026-11-26T07:32:46.884025+00:00
+Himlalayan Monk,restaurant,Uttarakhand,Nainital,Bhimtal,"Handloom Mallital, Near, Gorakhpur Chowraha, Haldwani - Bhimtal Highway, 263136",94563 56383,29.3609926,79.5546652,OpenStreetMap,node,12099978371,2026-11-26T07:32:46.884028+00:00
+FARMLAND THE PIZZA HOUSE,restaurant,Uttarakhand,,,,,28.9950767,80.0718665,OpenStreetMap,node,12253476093,2026-11-26T07:32:46.884032+00:00
+Sharda Misthan Bhandar,restaurant,Uttarakhand,,,,,28.9953548,80.0719823,OpenStreetMap,node,12254137395,2026-11-26T07:32:46.884035+00:00
+RAM,restaurant,Uttarakhand,,,,,29.9560942,78.1694246,OpenStreetMap,node,12334330113,2026-11-26T07:32:46.884038+00:00
+Bhagat Ji Bhojanalya,restaurant,Uttarakhand,,,,,29.9526215,78.1665156,OpenStreetMap,node,12334330116,2026-11-26T07:32:46.884042+00:00
+Amrit Ganga,cafe,Uttarakhand,,,,,30.1229771,78.3172547,OpenStreetMap,node,12334330124,2026-11-26T07:32:46.884045+00:00
+Gaurav,restaurant,Uttarakhand,,,,,29.9561217,78.1699836,OpenStreetMap,node,12334330204,2026-11-26T07:32:46.884049+00:00
+Bhagirathi,restaurant,Uttarakhand,,,,,29.9559311,78.1693019,OpenStreetMap,node,12334330205,2026-11-26T07:32:46.884052+00:00
+Food Palace,restaurant,Uttarakhand,,,,,29.9537789,78.1687731,OpenStreetMap,node,12334330306,2026-11-26T07:32:46.884056+00:00
+Maska Chaska,restaurant,Uttarakhand,,,,,30.1303207,78.3241135,OpenStreetMap,node,12337457002,2026-11-26T07:32:46.884059+00:00
+Brewtale Cafe,restaurant,Uttarakhand,,,,,30.1280463,78.3221712,OpenStreetMap,node,12337457003,2026-11-26T07:32:46.884063+00:00
+The Kailasa,restaurant,Uttarakhand,,,,,30.1172376,78.3062052,OpenStreetMap,node,12337457006,2026-11-26T07:32:46.884067+00:00
+Jai Hind Cafe,restaurant,Uttarakhand,,,,,30.1280807,78.3225951,OpenStreetMap,node,12337457012,2026-11-26T07:32:46.884071+00:00
+Chai Sutta Bar,fast_food,Uttarakhand,,,,,30.1285379,78.3236614,OpenStreetMap,node,12337457015,2026-11-26T07:32:46.884075+00:00
+Khana Khazana,restaurant,Uttarakhand,,,,,30.128418,78.3238296,OpenStreetMap,node,12337457016,2026-11-26T07:32:46.884079+00:00
+Indian Curry,restaurant,Uttarakhand,,,,,30.1301986,78.3240328,OpenStreetMap,node,12337457018,2026-11-26T07:32:46.884083+00:00
+Annpurna,restaurant,Uttarakhand,,,,,30.1307145,78.3238555,OpenStreetMap,node,12337457019,2026-11-26T07:32:46.884087+00:00
+Swaad,restaurant,Uttarakhand,,,,,30.1300442,78.3243454,OpenStreetMap,node,12337457101,2026-11-26T07:32:46.884091+00:00
+House of Amritsar,restaurant,Uttarakhand,,,,,30.1305903,78.3240969,OpenStreetMap,node,12337457107,2026-11-26T07:32:46.884095+00:00
+Govindam,restaurant,Uttarakhand,,,,,30.1173498,78.305893,OpenStreetMap,node,12337457302,2026-11-26T07:32:46.884099+00:00
+Naivedjam Bhog,restaurant,Uttarakhand,,,,,30.1215573,78.3092142,OpenStreetMap,node,12337457304,2026-11-26T07:32:46.884103+00:00
+155 Miled From Delhi,restaurant,Uttarakhand,,,,,30.128162,78.3226169,OpenStreetMap,node,12337457305,2026-11-26T07:32:46.884106+00:00
+Hotel Sivanta Restaurant,fast_food,Uttarakhand,,,,,30.128238,78.3231309,OpenStreetMap,node,12337457502,2026-11-26T07:32:46.884111+00:00
+Punjabi Dhaba,restaurant,Uttarakhand,,,,,30.1289673,78.3240231,OpenStreetMap,node,12337457607,2026-11-26T07:32:46.884115+00:00
+Punjabi,restaurant,Uttarakhand,,,,,30.1285928,78.3237469,OpenStreetMap,node,12337459201,2026-11-26T07:32:46.884119+00:00
+RA Bakery,cafe,Uttarakhand,,,,,30.1336339,78.3188877,OpenStreetMap,node,12343504402,2026-11-26T07:32:46.884123+00:00
+The Rock,cafe,Uttarakhand,,,,,30.1339201,78.3189067,OpenStreetMap,node,12343507203,2026-11-26T07:32:46.884127+00:00
+Arcana,restaurant,Uttarakhand,,,,,30.1344382,78.3183974,OpenStreetMap,node,12343507204,2026-11-26T07:32:46.884131+00:00
+Jungle Calling,cafe,Uttarakhand,,,,,30.1430448,78.3152326,OpenStreetMap,node,12343507206,2026-11-26T07:32:46.884135+00:00
+Shiv Dhara,restaurant,Uttarakhand,,,,,30.1489004,78.3156664,OpenStreetMap,node,12343507207,2026-11-26T07:32:46.884139+00:00
+ShivShakti,cafe,Uttarakhand,,,,,30.1500747,78.3151925,OpenStreetMap,node,12343507501,2026-11-26T07:32:46.884142+00:00
+River Sound,cafe,Uttarakhand,,,,,30.1337756,78.3197878,OpenStreetMap,node,12343507602,2026-11-26T07:32:46.884146+00:00
+Maa Gange Darshan,restaurant,Uttarakhand,,,,,29.9603811,78.1740867,OpenStreetMap,node,12347026002,2026-11-26T07:32:46.884150+00:00
+Shankar Tea Stall,cafe,Uttarakhand,,,,,29.960045,78.1744426,OpenStreetMap,node,12347026003,2026-11-26T07:32:46.884154+00:00
+Aanchal,cafe,Uttarakhand,,,,,29.9612494,78.1745019,OpenStreetMap,node,12347026004,2026-11-26T07:32:46.884158+00:00
+Babu Lal Tea Stall,cafe,Uttarakhand,,,,,29.9613077,78.1745866,OpenStreetMap,node,12347026005,2026-11-26T07:32:46.884162+00:00
+Ravi Tea Stall,cafe,Uttarakhand,,,,,29.9605893,78.1735733,OpenStreetMap,node,12347026007,2026-11-26T07:32:46.884166+00:00
+Nanak Da Dhaba,restaurant,Uttarakhand,,,,,29.9599668,78.1732381,OpenStreetMap,node,12347034402,2026-11-26T07:32:46.884170+00:00
+Agarwal Vaishno Shudh Bhojnalaya,restaurant,Uttarakhand,,,,,29.9597017,78.1730357,OpenStreetMap,node,12347034403,2026-11-26T07:32:46.884174+00:00
+Rinku Tea Stall,cafe,Uttarakhand,,,,,29.9602574,78.1733592,OpenStreetMap,node,12347034406,2026-11-26T07:32:46.884178+00:00
+Amritsari Vaishno Punjabi Dhaba,restaurant,Uttarakhand,,,,,29.9594678,78.1734437,OpenStreetMap,node,12347037501,2026-11-26T07:32:46.884181+00:00
+Bharat ki Pratham Chai KI Dukan,cafe,Uttarakhand,,,,,30.7742719,79.4928918,OpenStreetMap,node,12384473591,2026-11-26T07:32:46.884185+00:00
+Barthwal Canteen,fast_food,Uttarakhand,,,,,30.225745,78.802225,OpenStreetMap,node,12520415158,2026-11-26T07:32:46.884190+00:00
+JMS fast food,fast_food,Uttarakhand,,,,,28.9630466,79.4256601,OpenStreetMap,node,12595860447,2026-11-26T07:32:46.884193+00:00
+momos uk06,fast_food,Uttarakhand,,,,,28.9658354,79.4258044,OpenStreetMap,node,12595897565,2026-11-26T07:32:46.884197+00:00
+SUDAMA COTTAGE,cafe,Uttarakhand,,,,,30.413853,79.3163082,OpenStreetMap,node,12595989052,2026-11-26T07:32:46.884201+00:00
+fulauri restaurant,restaurant,Uttarakhand,,,,,28.9748997,79.4268016,OpenStreetMap,node,12595989299,2026-11-26T07:32:46.884205+00:00
+subway,restaurant,Uttarakhand,,,,,28.979289,79.3979539,OpenStreetMap,node,12596027892,2026-11-26T07:32:46.884209+00:00
+arvind restaurant,restaurant,Uttarakhand,,,,,28.9787651,79.3987233,OpenStreetMap,node,12596056613,2026-11-26T07:32:46.884213+00:00
+the pintos restaurant,restaurant,Uttarakhand,,,,,28.9786002,79.3976308,OpenStreetMap,node,12596061585,2026-11-26T07:32:46.884217+00:00
+pizza,restaurant,Uttarakhand,,,,,28.9787018,79.3990778,OpenStreetMap,node,12596139006,2026-11-26T07:32:46.884221+00:00
+Shree Durga family restaurant,restaurant,Uttarakhand,,,,,28.9787634,79.3991766,OpenStreetMap,node,12596147671,2026-11-26T07:32:46.884224+00:00
+Domino's,fast_food,Uttarakhand,,,,,28.9813495,79.39937,OpenStreetMap,node,12596150648,2026-11-26T07:32:46.884228+00:00
+hungry point,restaurant,Uttarakhand,,,,,28.9810098,79.3992554,OpenStreetMap,node,12596157283,2026-11-26T07:32:46.884232+00:00
+Mangalam sweets restaurants bakery,restaurant,Uttarakhand,,,,,28.9869128,79.4006888,OpenStreetMap,node,12596172134,2026-11-26T07:32:46.884236+00:00
+Burger King,fast_food,Uttarakhand,,,,,29.0013858,79.3996169,OpenStreetMap,node,12596191436,2026-11-26T07:32:46.884240+00:00
+Burger King,fast_food,Uttarakhand,,,,,30.1328488,78.3251427,OpenStreetMap,node,12669818404,2026-11-26T07:32:46.884244+00:00
+Friends food & fast food center,restaurant,Uttarakhand,,,"Palkot Range, Uttarakhand Palkot range, uttrakhand, Sendhikhal, Uttarakhand 246155, 246155",,29.8007239,78.6578994,OpenStreetMap,node,12750035501,2026-11-26T07:32:46.884248+00:00
+Chota Bheem Point,restaurant,Uttarakhand,,,"Dogadda Range, Uttarakhand 244715",,29.5040881,79.1187347,OpenStreetMap,node,12752925401,2026-11-26T07:32:46.884252+00:00
+Baithak Kulhad Chai,cafe,Uttarakhand,Dehradun,doiwala Dehradun,"w.no 2, arya nagar, 248140",+919317022213,30.1808302,78.1381609,OpenStreetMap,node,12788195108,2026-11-26T07:32:46.884257+00:00
+Ananta Prana cafe in Mussoorie,restaurant,Uttarakhand,Dehradun,Mussoorie,"Ananta Prana Glamping Resort Hotel, kempty Road , Ananta Prana Bend, 248179",+91 8007000085,30.4673529,78.0619732,OpenStreetMap,node,12901814577,2026-11-26T07:32:46.884262+00:00
+Tuckshop agriculture,cafe,Uttarakhand,,,,,30.2721617,78.0012259,OpenStreetMap,node,12921038202,2026-11-26T07:32:46.884265+00:00
+Kumar Vegetarian,restaurant,Uttarakhand,,,,,30.3272748,78.0450608,OpenStreetMap,node,13073807036,2026-11-26T07:32:46.884269+00:00
+The Yogic Bowl,restaurant,Uttarakhand,,,,,30.1307084,78.3222761,OpenStreetMap,node,13146751478,2026-11-26T07:32:46.884273+00:00
+Chakra House,cafe,Uttarakhand,,,,,30.1309283,78.3226952,OpenStreetMap,node,13146847100,2026-11-26T07:32:46.884277+00:00
+Ira's kitchen,restaurant,Uttarakhand,,,,,30.1301567,78.3228775,OpenStreetMap,node,13146989296,2026-11-26T07:32:46.884281+00:00
+Green Yogi detox,restaurant,Uttarakhand,,,,,30.1302896,78.3229618,OpenStreetMap,node,13147001237,2026-11-26T07:32:46.884285+00:00
+MVT Restaurant,restaurant,Uttarakhand,,,,,30.1303758,78.3225545,OpenStreetMap,node,13147011730,2026-11-26T07:32:46.884289+00:00
+MVT Resort,restaurant,Uttarakhand,,,,,30.1301906,78.3226914,OpenStreetMap,node,13147013685,2026-11-26T07:32:46.884293+00:00
+The loft house,cafe,Uttarakhand,,,,,30.1305767,78.3225095,OpenStreetMap,node,13147015808,2026-11-26T07:32:46.884297+00:00
+Seva Table Indian Speciality Coffee,cafe,Uttarakhand,,,,,30.1304965,78.3226019,OpenStreetMap,node,13148883122,2026-11-26T07:32:46.884301+00:00
+King's Café,restaurant,Uttarakhand,,,,,30.1319213,78.320341,OpenStreetMap,node,13148915091,2026-11-26T07:32:46.884305+00:00
+Pizza mail,restaurant,Uttarakhand,,,,,30.130868,78.3219516,OpenStreetMap,node,13148918354,2026-11-26T07:32:46.884309+00:00
+French bakery,cafe,Uttarakhand,,,,,30.1310297,78.3217147,OpenStreetMap,node,13148934401,2026-11-26T07:32:46.884312+00:00
+Raha cafe,restaurant,Uttarakhand,,,,,30.1310393,78.3214865,OpenStreetMap,node,13148935215,2026-11-26T07:32:46.884316+00:00
+Sutra,cafe,Uttarakhand,,,,,30.1312,78.321483,OpenStreetMap,node,13148935401,2026-11-26T07:32:46.884320+00:00
+Prakriti cafe,restaurant,Uttarakhand,,,,,30.132953,78.3192968,OpenStreetMap,node,13148937724,2026-11-26T07:32:46.884324+00:00
+Gopi Home,cafe,Uttarakhand,,,,,30.1321976,78.3201752,OpenStreetMap,node,13148945608,2026-11-26T07:32:46.884328+00:00
+Kala cafe,cafe,Uttarakhand,,,,,30.1314754,78.3209369,OpenStreetMap,node,13149028370,2026-11-26T07:32:46.884333+00:00
+Open field,restaurant,Uttarakhand,,,,,30.1313716,78.3210227,OpenStreetMap,node,13152150439,2026-11-26T07:32:46.884337+00:00
+Yogi Cafe,restaurant,Uttarakhand,,,,,30.1321797,78.3207644,OpenStreetMap,node,13152166443,2026-11-26T07:32:46.884341+00:00
+Boho Brew,cafe,Uttarakhand,,,,,30.1315858,78.320794,OpenStreetMap,node,13152168048,2026-11-26T07:32:46.884345+00:00
+Boho Brew,cafe,Uttarakhand,,,,,30.1315858,78.320794,OpenStreetMap,node,13152174523,2026-11-26T07:32:46.884348+00:00
+Thrill cafe,restaurant,Uttarakhand,,,,,30.1301244,78.3242396,OpenStreetMap,node,13153024481,2026-11-26T07:32:46.884352+00:00
+Soul Cafe,cafe,Uttarakhand,,,,,30.129775,78.3244078,OpenStreetMap,node,13153036275,2026-11-26T07:32:46.884362+00:00
+Anna's mess,restaurant,Uttarakhand,,,,,30.1296207,78.3255259,OpenStreetMap,node,13153074934,2026-11-26T07:32:46.884366+00:00
+Vegan Shala,restaurant,Uttarakhand,,,,,30.1294963,78.3258725,OpenStreetMap,node,13153088855,2026-11-26T07:32:46.884370+00:00
+Bhumi Cafe,restaurant,Uttarakhand,,,,,30.1292867,78.3259139,OpenStreetMap,node,13153097226,2026-11-26T07:32:46.884374+00:00
+Valluvar,restaurant,Uttarakhand,,,,,30.1291201,78.3270064,OpenStreetMap,node,13158980435,2026-11-26T07:32:46.884378+00:00
+The blue art cafe,restaurant,Uttarakhand,,,,,30.1313421,78.3215596,OpenStreetMap,node,13159342222,2026-11-26T07:32:46.884382+00:00
+Cafe cascades,cafe,Uttarakhand,,,,,30.1478081,78.314675,OpenStreetMap,node,13161154286,2026-11-26T07:32:46.884385+00:00
+Shiva's paradise,cafe,Uttarakhand,,,,,30.1491375,78.3156989,OpenStreetMap,node,13161169274,2026-11-26T07:32:46.884389+00:00
+Delhi Chaat Wala,fast_food,Uttarakhand,,,,,30.12853,78.3235623,OpenStreetMap,node,13162338475,2026-11-26T07:32:46.884393+00:00
+Jai Hind Dhaba,restaurant,Uttarakhand,,,,,30.1280155,78.3222241,OpenStreetMap,node,13164336085,2026-11-26T07:32:46.884397+00:00
+Anandam,restaurant,Uttarakhand,,,,01352746061,30.3352561,78.0532508,OpenStreetMap,node,13208465374,2026-11-26T07:32:46.884401+00:00
+Segel Dabha,fast_food,Uttarakhand,,,,,31.0777618,78.1838872,OpenStreetMap,node,13254280901,2026-11-26T07:32:46.884405+00:00
+Vishal Bhojnalaya (Punjabi),restaurant,Uttarakhand,,,,9837058192,30.10658,78.2985422,OpenStreetMap,node,13264630202,2026-11-26T07:32:46.884409+00:00
+The Flavour Bite,restaurant,Uttarakhand,,,,,30.3324393,78.079387,OpenStreetMap,node,13269926301,2026-11-26T07:32:46.884414+00:00
+Tandoori Kitchen,restaurant,Uttarakhand,,,,,30.3321731,78.0786507,OpenStreetMap,node,13269926401,2026-11-26T07:32:46.884418+00:00
+Marigold Cafe,cafe,Uttarakhand,,,,,30.3209365,78.0464193,OpenStreetMap,node,13269927501,2026-11-26T07:32:46.884422+00:00
+Chauhan restaurant,restaurant,Uttarakhand,,,,,30.6492947,78.0159718,OpenStreetMap,node,13272413074,2026-11-26T07:32:46.884426+00:00
+La-Jawab,restaurant,Uttarakhand,,,,,30.122715,78.3111407,OpenStreetMap,node,13273763101,2026-11-26T07:32:46.884430+00:00
+Gita Bhawan (Yatri Sewa),fast_food,Uttarakhand,,,,,30.1219104,78.3145932,OpenStreetMap,node,13275205301,2026-11-26T07:32:46.884434+00:00
+Mahaveer restaurant & rooms,restaurant,Uttarakhand,,,,,30.1147328,78.3030575,OpenStreetMap,node,13287041992,2026-11-26T07:32:46.884438+00:00
+Kapassa,restaurant,Uttarakhand,,,,,29.946811,78.1549746,OpenStreetMap,node,13287173791,2026-11-26T07:32:46.884442+00:00
+The Archers,cafe,Uttarakhand,,,,,30.1262429,78.3289249,OpenStreetMap,node,13338897901,2026-11-26T07:32:46.884446+00:00
+Hari om,fast_food,Uttarakhand,,,,,30.1262899,78.330954,OpenStreetMap,node,13338898101,2026-11-26T07:32:46.884450+00:00
+Bhumi,cafe,Uttarakhand,,,,,30.1291993,78.3258905,OpenStreetMap,node,13338898201,2026-11-26T07:32:46.884454+00:00
+Anna's Mess,cafe,Uttarakhand,,,,,30.1296372,78.3254322,OpenStreetMap,node,13338957601,2026-11-26T07:32:46.884458+00:00
+Tat,cafe,Uttarakhand,,,,,30.12698,78.326188,OpenStreetMap,node,13338957701,2026-11-26T07:32:46.884461+00:00
+Art Cafe,cafe,Uttarakhand,,,,,30.1314662,78.3216689,OpenStreetMap,node,13359132903,2026-11-26T07:32:46.884465+00:00
+Momos Point,fast_food,Uttarakhand,,,,,30.1238892,78.3297445,OpenStreetMap,node,13359133202,2026-11-26T07:32:46.884468+00:00
+Lhasa Restaurant,restaurant,Uttarakhand,,,,+91 87550 34839,30.3936019,78.0953979,OpenStreetMap,node,13375886010,2026-11-26T07:32:46.884472+00:00
+Gita Bhawan,restaurant,Uttarakhand,,,,,30.1218314,78.3144658,OpenStreetMap,node,13397503601,2026-11-26T07:32:46.884476+00:00
+Maharani Shri,restaurant,Uttarakhand,,,,,30.1297015,78.3189801,OpenStreetMap,node,13432976303,2026-11-26T07:32:46.884480+00:00
+Ram Jhula Restaurant,restaurant,Uttarakhand,,,Swargashram,+918447706830,30.1230357,78.3171564,OpenStreetMap,node,13604905702,2026-11-26T07:32:46.884484+00:00
+Cafiesta | Tea and Coffee Shop in Halduchaur,cafe,Uttarakhand,Nainital,Haldwani,"gola road, Halduchaur, 263139",8958359277,29.1270038,79.5220222,OpenStreetMap,node,13657585084,2026-11-26T07:32:46.884489+00:00
+Rawat Restaurant,restaurant,Uttarakhand,,,,,30.4653567,78.1721554,OpenStreetMap,node,13762360069,2026-11-26T07:32:46.884492+00:00
+Kaafal Hotel And Restaurant,restaurant,Uttarakhand,,,,,30.4652198,78.1723615,OpenStreetMap,node,13762360070,2026-11-26T07:32:46.884496+00:00
+Rawat Restaurant,restaurant,Uttarakhand,,,,,30.4653567,78.1721554,OpenStreetMap,node,13762360940,2026-11-26T07:32:46.884500+00:00
+Kaafal Hotel And Restaurant,restaurant,Uttarakhand,,,,,30.4652198,78.1723615,OpenStreetMap,node,13762360941,2026-11-26T07:32:46.884504+00:00
+Mohit Restaurant,restaurant,Uttarakhand,,,,,30.4651964,78.1720693,OpenStreetMap,node,13762360942,2026-11-26T07:32:46.884508+00:00
+Astika Fast Food,fast_food,Uttarakhand,,,,,30.4653271,78.1723801,OpenStreetMap,node,13762360943,2026-11-26T07:32:46.884512+00:00
+Nautiyal Restaurant,restaurant,Uttarakhand,,,,,30.4655602,78.1725431,OpenStreetMap,node,13762360944,2026-11-26T07:32:46.884516+00:00
+Pokhariyal Restaurant,restaurant,Uttarakhand,,,,,30.4656762,78.1727448,OpenStreetMap,node,13762360945,2026-11-26T07:32:46.884521+00:00
+The Green Palace,restaurant,Uttarakhand,,,,,30.6470138,78.3303332,OpenStreetMap,node,13784058709,2026-11-26T07:32:46.884525+00:00
+Mexico Lindo,restaurant,Uttarakhand,,,,,30.3772331,78.0850111,OpenStreetMap,node,13784739321,2026-11-26T07:32:46.884529+00:00
+Shivika Hotel & Restaurant,restaurant,Uttarakhand,,,National Highway 7,,30.2300327,78.8245032,OpenStreetMap,node,13930888902,2026-11-26T07:32:46.884533+00:00
+Veda's Cafe,cafe,Uttarakhand,,,Kuldevi Temple Road,,30.7733745,79.4915405,OpenStreetMap,node,13939625401,2026-11-26T07:32:46.884537+00:00
+Alpenrose,restaurant,Uttarakhand,,,National Highway 7,,30.555495,79.567921,OpenStreetMap,node,13941742501,2026-11-26T07:32:46.884541+00:00
+Shiv Shakti,restaurant,Uttarakhand,,,,,30.5273034,79.5083023,OpenStreetMap,node,13942246001,2026-11-26T07:32:46.884545+00:00
+Hotel Shri Krishna Palace,restaurant,Uttarakhand,,,,,30.2625754,79.2154643,OpenStreetMap,node,13953478001,2026-11-26T07:32:46.884549+00:00
+Lapinozpizzasudhowala,restaurant,Uttarakhand,dehradun,dehradun,"NH 72, 248007",8238081102,30.3444422,77.9233772,OpenStreetMap,node,13953813936,2026-11-26T07:32:46.884554+00:00
+Robber's Cave Canteen,fast_food,Uttarakhand,,,,,30.3788516,78.0635157,OpenStreetMap,node,13975215897,2026-11-26T07:32:46.884558+00:00
+Just Cafe,cafe,Uttarakhand,,,Rajpur-Mussoorie Road,,30.3245967,78.0423758,OpenStreetMap,node,14006524401,2026-11-26T07:32:46.884562+00:00
+Chinese Wok,fast_food,Uttarakhand,,,Ballupur Road,,30.3336049,78.0168441,OpenStreetMap,node,14040649601,2026-11-26T07:32:46.884566+00:00
+Vandana Tea Stall,restaurant,Uttarakhand,,,,,29.216019,79.4958271,OpenStreetMap,node,14051816624,2026-11-26T07:32:46.884570+00:00
+Banta Shop,fast_food,Uttarakhand,,,,,30.2484548,78.0955898,OpenStreetMap,node,14066515982,2026-11-26T07:32:46.884575+00:00
+Dominos,restaurant,Uttarakhand,,,,,30.322337,78.0030137,OpenStreetMap,node,14071812101,2026-11-26T07:32:46.884579+00:00
+namste Srinagar A multi cuisine restaurant,restaurant,Uttarakhand,,,,,30.2222031,78.7813448,OpenStreetMap,node,14212388224,2026-11-26T07:32:46.884583+00:00
+Skyline,restaurant,Uttarakhand,,,,,29.4162039,79.5445713,OpenStreetMap,node,14238813394,2026-11-26T07:32:46.884587+00:00
+Wow Momos,cafe,Uttarakhand,,,,,29.41817,79.5482505,OpenStreetMap,node,14239091643,2026-11-26T07:32:46.884591+00:00
+Bhatt Ji Ka Dhaba,restaurant,Uttarakhand,,,,,29.4228263,79.5518598,OpenStreetMap,node,14239293445,2026-11-26T07:32:46.884598+00:00
+Wildfire Restraunt,restaurant,Uttarakhand,,,,,29.4164586,79.5451057,OpenStreetMap,node,14244890349,2026-11-26T07:32:46.884603+00:00
+Kirola Restaurant,restaurant,Uttarakhand,,,,9599858703,29.3657505,79.5511074,OpenStreetMap,node,14251487643,2026-11-26T07:32:46.884607+00:00
+Glass house,restaurant,Uttarakhand,,,,,30.2210299,78.7853806,OpenStreetMap,node,14252260632,2026-11-26T07:32:46.884612+00:00
+Himdarshan Restaurant,restaurant,Uttarakhand,,,,,29.5053057,79.615971,OpenStreetMap,node,14254403796,2026-11-26T07:32:46.884616+00:00
+Jagdish Tea Stall,restaurant,Uttarakhand,,,,,29.5123606,79.6219284,OpenStreetMap,node,14255210670,2026-11-26T07:32:46.884620+00:00
+Dhara Kumaoni Cafe,restaurant,Uttarakhand,,,,,29.4957593,79.6235552,OpenStreetMap,node,14257861660,2026-11-26T07:32:46.884624+00:00
+Cafe Chandi Mati,restaurant,Uttarakhand,,,,,29.4443187,79.6506906,OpenStreetMap,node,14276221536,2026-11-26T07:32:46.884628+00:00
+The Biriyani House,restaurant,Uttarakhand,,,,,29.597425,79.6576204,OpenStreetMap,node,14293550498,2026-11-26T07:32:46.884632+00:00
+Shai Cafe,cafe,Uttarakhand,,,,,30.7278484,78.4399994,OpenStreetMap,node,14296798302,2026-11-26T07:32:46.884636+00:00
+Siddhu Bhojnalay,restaurant,Uttarakhand,,,,,29.8488188,80.543769,OpenStreetMap,node,14297000118,2026-11-26T07:32:46.884640+00:00
+Harsil Delight Multi Cuisine,restaurant,Uttarakhand,,,,,31.0363582,78.7502408,OpenStreetMap,node,14298971202,2026-11-26T07:32:46.884645+00:00
+"Cheap MoMo, only 100 rupees",restaurant,Uttarakhand,,,,,31.0363879,78.750433,OpenStreetMap,node,14301604301,2026-11-26T07:32:46.884648+00:00
+Mahadev Sweets & Restaurant,restaurant,Uttarakhand,,,,,29.3059505,80.1014614,OpenStreetMap,node,14307864546,2026-11-26T07:32:46.884652+00:00
+Barasingha Cafe,restaurant,Uttarakhand,,,"25, Astapath, 249201",+917251898697,30.1033357,78.2979322,OpenStreetMap,node,14405568801,2026-11-26T07:32:46.884657+00:00
+Langar (community kitchen),restaurant,Uttarakhand,,,,,30.6993164,79.6148125,OpenStreetMap,way,229586715,2026-11-26T07:32:46.884662+00:00
+Devaraj Cafe,restaurant,Uttarakhand,,,,,30.1267895,78.3292407,OpenStreetMap,way,276382656,2026-11-26T07:32:46.884667+00:00
+Farmville Restaurant,restaurant,Uttarakhand,,Shaktifarm Bazar,"Farmville Restaurant Rd, 263151",+918881947457,29.0085214,79.6458292,OpenStreetMap,way,343149283,2026-11-26T07:32:46.884671+00:00
+Green Lounge,cafe,Uttarakhand,,Dehradun,248001,,30.283996,77.9741054,OpenStreetMap,way,413431871,2026-11-26T07:32:46.884676+00:00
+Chotiwala,restaurant,Uttarakhand,,,,,30.1218195,78.3151186,OpenStreetMap,way,425936983,2026-11-26T07:32:46.884680+00:00
+India Hotel,restaurant,Uttarakhand,,,,,30.4608321,78.0654892,OpenStreetMap,way,594817422,2026-11-26T07:32:46.884685+00:00
+Punjabi Dhaba,restaurant,Uttarakhand,,,,,29.1570645,79.1485803,OpenStreetMap,way,871215939,2026-11-26T07:32:46.884689+00:00
+haryana misthan bhandar,restaurant,Uttarakhand,,,,,29.1583721,79.1502637,OpenStreetMap,way,871371476,2026-11-26T07:32:46.884693+00:00
+Sosha Garden Cafe,cafe,Uttarakhand,,Dehradun,"205/2, Rajpur-Mussoorie Road opposite GRD Institute, 248009",097607 95947,30.3853244,78.0904915,OpenStreetMap,way,914724638,2026-11-26T07:32:46.884697+00:00
+The Pahadi House,restaurant,Uttarakhand,,Dehradun,"The Pahadi House, Dehradun-Mussoorie Road, 248009",+918126044314,30.3981737,78.0780147,OpenStreetMap,way,996858739,2026-11-26T07:32:46.884702+00:00
+Farmgrill,restaurant,Uttarakhand,,,,,29.2384834,79.4449599,OpenStreetMap,way,1001008581,2026-11-26T07:32:46.884705+00:00
+Atithi,restaurant,Uttarakhand,,,Rampur Road,,29.1955534,79.5104734,OpenStreetMap,way,1051993244,2026-11-26T07:32:46.884709+00:00
+Shivani's Cafe,cafe,Uttarakhand,,,,,30.1287438,78.3318457,OpenStreetMap,way,1054616977,2026-11-26T07:32:46.884713+00:00
+Kwality Resturant And Bar,restaurant,Uttarakhand,,,,,29.2059079,79.5149088,OpenStreetMap,way,1056565282,2026-11-26T07:32:46.884716+00:00
+shah hotel,restaurant,Uttarakhand,,,,,30.0038794,79.5691882,OpenStreetMap,way,1066877487,2026-11-26T07:32:46.884719+00:00
+Virus Bistro And Kitchen,restaurant,Uttarakhand,,,,,29.1885846,79.5027386,OpenStreetMap,way,1091240074,2026-11-26T07:32:46.884723+00:00
+foodies family restaurant,restaurant,Uttarakhand,,"Bageshwar,Uttarakhand","RQHC+3MR, Vikas Bhawan Rd, Namtichetabagar, 263642",,29.827748,79.7716299,OpenStreetMap,way,1179905855,2026-11-26T07:32:46.884727+00:00
+Standards Sweets Fast Food and Resturant,restaurant,Uttarakhand,,,,,29.2125878,79.5274352,OpenStreetMap,way,1188859457,2026-11-26T07:32:46.884730+00:00
+Seven Stones,restaurant,Uttarakhand,,,,,29.1960988,79.5117373,OpenStreetMap,way,1188876813,2026-11-26T07:32:46.884734+00:00
+Langar Hall (community kitchen),restaurant,Uttarakhand,,,,,30.112728,78.3037896,OpenStreetMap,way,1203023990,2026-11-26T07:32:46.884738+00:00
+Madogiri Pizzeria,cafe,Uttarakhand,Dehradun,Dehradun,"9, Old survey road, 248001",,30.3349974,78.0568904,OpenStreetMap,way,1217733052,2026-11-26T07:32:46.884742+00:00
+University Canteen,restaurant,Uttarakhand,,,,,29.9171404,78.0631273,OpenStreetMap,way,1236089384,2026-11-26T07:32:46.884746+00:00
+Canteen,fast_food,Uttarakhand,,,,,29.3826349,79.4583613,OpenStreetMap,way,1242229744,2026-11-26T07:32:46.884750+00:00
+Namaste Tapovan,restaurant,Uttarakhand,,,,,30.1289636,78.3237818,OpenStreetMap,way,1298590128,2026-11-26T07:32:46.884754+00:00
+zorko,restaurant,Uttarakhand,dehradun,vikasnagar,"By pass road, 248198",,30.4627083,77.7688676,OpenStreetMap,way,1360402941,2026-11-26T07:32:46.884758+00:00
+zorko,restaurant,Uttarakhand,dehradun,vikasnagar,"By pass road, 248198",,30.462939,77.7694447,OpenStreetMap,way,1360403301,2026-11-26T07:32:46.884761+00:00
+shivan fast foad corner,restaurant,Uttarakhand,dehradun,vikasnagar,"by pass road, 248198",,30.4637366,77.7708928,OpenStreetMap,way,1360406676,2026-11-26T07:32:46.884765+00:00
+shivan fast foad corner,restaurant,Uttarakhand,dehradun,vikasnagar,"by pass road, 248198",,30.4638009,77.770985,OpenStreetMap,way,1360407317,2026-11-26T07:32:46.884769+00:00
+chai sutta bar,restaurant,Uttarakhand,,,,,30.4638469,77.7710733,OpenStreetMap,way,1360407769,2026-11-26T07:32:46.884774+00:00
+3 way cafe,cafe,Uttarakhand,dehradun,vikasnagar,"by pass road, 248198",,30.4659577,77.7747263,OpenStreetMap,way,1360413593,2026-11-26T07:32:46.884778+00:00
+HUNGRY POINT,restaurant,Uttarakhand,,,,,30.4095831,79.3169669,OpenStreetMap,way,1360650583,2026-11-26T07:32:46.884782+00:00
+PADIYAR HOTEL,restaurant,Uttarakhand,,,,,30.4094683,79.317817,OpenStreetMap,way,1360652955,2026-11-26T07:32:46.884786+00:00
+ZILA PANCHAYAT CANTEEN,restaurant,Uttarakhand,,,,,30.409681,79.3180281,OpenStreetMap,way,1360653091,2026-11-26T07:32:46.884790+00:00
+YUMMY CAFE,cafe,Uttarakhand,,,,,30.4109759,79.3171593,OpenStreetMap,way,1360660237,2026-11-26T07:32:46.884794+00:00
+Pagdandi - Way to the Himalayas,restaurant,Uttarakhand,,,,,30.4181585,78.0851836,OpenStreetMap,way,1414701357,2026-11-26T07:32:46.884798+00:00
+Cafe De Bistro,cafe,Uttarakhand,Dehradhun,DEHRADUN,"Opposite Boys Hostel, Kandoli, 248007",,30.4180089,77.9673063,OpenStreetMap,way,1427743659,2026-11-26T07:32:46.884803+00:00
+Food Mood,restaurant,Uttarakhand,,,,,29.0612388,79.5282839,OpenStreetMap,way,1451074015,2026-11-26T07:32:46.884807+00:00
+Asli Pappu Dhaba,restaurant,Uttarakhand,,,,,30.3849534,78.0739657,OpenStreetMap,way,1503808781,2026-11-26T07:32:46.884811+00:00
+Mukesh Rana Homestay and restaurant,restaurant,Uttarakhand,,,,,30.7403505,78.5364986,OpenStreetMap,way,1503949297,2026-11-26T07:32:46.884815+00:00
+Canteen,fast_food,Uttarakhand,,,,,29.2439709,79.5371499,OpenStreetMap,way,1526669068,2026-11-26T07:32:46.884820+00:00
+highway heven,restaurant,Uttarakhand,,,,,30.4199946,77.6836342,OpenStreetMap,way,1530851248,2026-11-26T07:32:46.884824+00:00

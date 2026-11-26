@@ -1,0 +1,1106 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+No Name Cafe,cafe,Himachal Pradesh,,,,,32.2455835,76.3362033,OpenStreetMap,node,513003842,2026-11-26T07:44:32.056072+00:00
+Chinar Cafe,cafe,Himachal Pradesh,,,,,32.2449496,76.3364588,OpenStreetMap,node,513003846,2026-11-26T07:44:32.056089+00:00
+Café Bhagsu,cafe,Himachal Pradesh,,,,,32.2438877,76.3338964,OpenStreetMap,node,513003884,2026-11-26T07:44:32.056094+00:00
+Rangoli Cafe & Restaurant,restaurant,Himachal Pradesh,,,,,32.2676207,77.1870793,OpenStreetMap,node,527745622,2026-11-26T07:44:32.056097+00:00
+Magic View Café,cafe,Himachal Pradesh,,,,,32.2558247,76.3427529,OpenStreetMap,node,539994191,2026-11-26T07:44:32.056100+00:00
+Praveen Tea Stall,cafe,Himachal Pradesh,,Dharamsala,"Triund, Galu Devi Temple to - Trail to Triund Hill, 176216",,32.2622946,76.3486921,OpenStreetMap,node,539994192,2026-11-26T07:44:32.056105+00:00
+Snowline Cafe,cafe,Himachal Pradesh,,Dharamsala,Galu Temple - Lahesh Caves Trail,,32.2741416,76.361572,OpenStreetMap,node,539994861,2026-11-26T07:44:32.056109+00:00
+Hilling Tea Shop,cafe,Himachal Pradesh,,,,,32.3594135,76.4900794,OpenStreetMap,node,540021090,2026-11-26T07:44:32.056113+00:00
+Bela wali mata tea shop,cafe,Himachal Pradesh,,,,,32.2649401,76.6827845,OpenStreetMap,node,540060025,2026-11-26T07:44:32.056116+00:00
+Yada Goth Tea Shop,cafe,Himachal Pradesh,,,,,32.2270039,76.681787,OpenStreetMap,node,540060619,2026-11-26T07:44:32.056119+00:00
+Unknown Tea Shop,cafe,Himachal Pradesh,,,,,32.176123,76.6980857,OpenStreetMap,node,540123818,2026-11-26T07:44:32.056122+00:00
+Parai Tea Shop,cafe,Himachal Pradesh,,,,,32.1586344,76.6882763,OpenStreetMap,node,540128810,2026-11-26T07:44:32.056125+00:00
+Khodtru Dhar Tea and Meals shop,cafe,Himachal Pradesh,,,,,32.146329,76.6832888,OpenStreetMap,node,540130747,2026-11-26T07:44:32.056128+00:00
+Bakluddu Tea Shop,cafe,Himachal Pradesh,,,,,32.1246486,76.666656,OpenStreetMap,node,540133341,2026-11-26T07:44:32.056131+00:00
+HPSEB Canteen,cafe,Himachal Pradesh,,,,,32.1077654,76.6539534,OpenStreetMap,node,540137972,2026-11-26T07:44:32.056134+00:00
+Friends Corner,restaurant,Himachal Pradesh,,,,,32.2222133,76.3178329,OpenStreetMap,node,553960645,2026-11-26T07:44:32.056136+00:00
+Lhamo's Croissant,cafe,Himachal Pradesh,,,,,32.238852,76.324813,OpenStreetMap,node,559940607,2026-11-26T07:44:32.056139+00:00
+Hotel Nirvana,restaurant,Himachal Pradesh,,,,,32.2350778,76.3281155,OpenStreetMap,node,559945133,2026-11-26T07:44:32.056143+00:00
+Neugal Cafe,cafe,Himachal Pradesh,,Palampur,"Bindraban - Neugal Link, 176061",,32.125704,76.5317992,OpenStreetMap,node,560414258,2026-11-26T07:44:32.056146+00:00
+Fauji Dhaba,restaurant,Himachal Pradesh,,,,,32.1507781,76.4184608,OpenStreetMap,node,560433412,2026-11-26T07:44:32.056150+00:00
+Paras,restaurant,Himachal Pradesh,,,,,32.1555292,76.4153482,OpenStreetMap,node,560433499,2026-11-26T07:44:32.056153+00:00
+Aashiana,restaurant,Himachal Pradesh,,,,,31.5374948,76.893232,OpenStreetMap,node,583543260,2026-11-26T07:44:32.056156+00:00
+Cafe Sutlej,cafe,Himachal Pradesh,,,,,31.4408018,77.6281589,OpenStreetMap,node,627280235,2026-11-26T07:44:32.056158+00:00
+Café and Restro,restaurant,Himachal Pradesh,,,,,32.2371714,76.3241288,OpenStreetMap,node,695054909,2026-11-26T07:44:32.056161+00:00
+Himalaya Tea Shop,cafe,Himachal Pradesh,,,,,32.2452177,76.3258918,OpenStreetMap,node,708985293,2026-11-26T07:44:32.056164+00:00
+Evergreen,restaurant,Himachal Pradesh,,,,,32.0107149,77.3179138,OpenStreetMap,node,773553498,2026-11-26T07:44:32.056168+00:00
+Sharma Dhaba,fast_food,Himachal Pradesh,,,,,32.0007087,77.4406529,OpenStreetMap,node,773601755,2026-11-26T07:44:32.056170+00:00
+New Punjabi Dhaba,restaurant,Himachal Pradesh,,Udaipur,,,32.7270852,76.661278,OpenStreetMap,node,809962297,2026-11-26T07:44:32.056174+00:00
+Sonam,restaurant,Himachal Pradesh,,Udaipur,,,32.7271243,76.6613122,OpenStreetMap,node,809962301,2026-11-26T07:44:32.056176+00:00
+Chinab Restaurant,restaurant,Himachal Pradesh,,Udaipur,,,32.7255668,76.664676,OpenStreetMap,node,809962557,2026-11-26T07:44:32.056179+00:00
+Taj River View Restaurant,restaurant,Himachal Pradesh,,,,,32.0420785,76.8411934,OpenStreetMap,node,847677299,2026-11-26T07:44:32.056182+00:00
+Panhartoo Cafe,cafe,Himachal Pradesh,,,Panhartoo Bhedpal Trail,,32.199798,76.7882891,OpenStreetMap,node,847715967,2026-11-26T07:44:32.056185+00:00
+Palamo Tea Tent,restaurant,Himachal Pradesh,,,,,32.7367698,77.1475194,OpenStreetMap,node,927639782,2026-11-26T07:44:32.056188+00:00
+Casa Bella Vista,restaurant,Himachal Pradesh,,,,,32.2522728,77.180156,OpenStreetMap,node,927669901,2026-11-26T07:44:32.056191+00:00
+Drifters Cafe and Guest House,cafe,Himachal Pradesh,,,,,32.2549804,77.1770244,OpenStreetMap,node,928848394,2026-11-26T07:44:32.056194+00:00
+Hot Spot Restaurant,cafe,Himachal Pradesh,,,,,32.2386974,76.3237676,OpenStreetMap,node,968448587,2026-11-26T07:44:32.056197+00:00
+Nechung Cafe,cafe,Himachal Pradesh,,,,,32.2261225,76.3256658,OpenStreetMap,node,994331128,2026-11-26T07:44:32.056200+00:00
+Cafe Sol,restaurant,Himachal Pradesh,,,,,31.1021875,77.1773851,OpenStreetMap,node,1012095648,2026-11-26T07:44:32.056203+00:00
+Indian Coffee House,restaurant,Himachal Pradesh,,Shimla,"Mall Road, 171001",,31.1053541,77.1708591,OpenStreetMap,node,1012095678,2026-11-26T07:44:32.056206+00:00
+Hotel Tibet,restaurant,Himachal Pradesh,,,,,32.238668,76.324162,OpenStreetMap,node,1187219165,2026-11-26T07:44:32.056209+00:00
+Topchen Restaurant,restaurant,Himachal Pradesh,,,,,31.6326963,76.8329161,OpenStreetMap,node,1187660897,2026-11-26T07:44:32.056212+00:00
+Common Ground,restaurant,Himachal Pradesh,,,,,32.2392826,76.3242235,OpenStreetMap,node,1227290525,2026-11-26T07:44:32.056216+00:00
+Moonpeak Espresso,cafe,Himachal Pradesh,,"Mcleodganj, Dharamshala","Shop 4, Temple Road, 176219",,32.2361202,76.3238401,OpenStreetMap,node,1227378176,2026-11-26T07:44:32.056219+00:00
+Norling Restaurant,restaurant,Himachal Pradesh,,,,,32.2372363,76.3242365,OpenStreetMap,node,1227378288,2026-11-26T07:44:32.056223+00:00
+Lungta Japanese Restaurant,restaurant,Himachal Pradesh,,,,,32.235603,76.3270237,OpenStreetMap,node,1227502940,2026-11-26T07:44:32.056226+00:00
+Cafe Budan,cafe,Himachal Pradesh,,"Mcleodganj, Dharamshala","Jogiwara Road, 176219",,32.236313,76.326353,OpenStreetMap,node,1230141042,2026-11-26T07:44:32.056230+00:00
+Ashoka Restaurant,restaurant,Himachal Pradesh,,,,,32.2373867,76.3243067,OpenStreetMap,node,1237961511,2026-11-26T07:44:32.056233+00:00
+Dokebi Restaurant,restaurant,Himachal Pradesh,,,,,32.2357688,76.3272627,OpenStreetMap,node,1237971934,2026-11-26T07:44:32.056236+00:00
+Rogpa Cafe,cafe,Himachal Pradesh,,,,,32.2367486,76.3256157,OpenStreetMap,node,1237971936,2026-11-26T07:44:32.056239+00:00
+Woeser Cafe & Bakery,restaurant,Himachal Pradesh,,,,,32.2368374,76.325369,OpenStreetMap,node,1237972468,2026-11-26T07:44:32.056242+00:00
+CITY POINT,fast_food,Himachal Pradesh,,,,,31.1056254,77.1702466,OpenStreetMap,node,1329310450,2026-11-26T07:44:32.056245+00:00
+Luxmi Dhaba,restaurant,Himachal Pradesh,,,,,31.4810125,76.8692671,OpenStreetMap,node,1426477082,2026-11-26T07:44:32.056248+00:00
+The Little Chef,restaurant,Himachal Pradesh,,,,,31.4545014,77.6540879,OpenStreetMap,node,1427337469,2026-11-26T07:44:32.056251+00:00
+Sun & Moon Cafe,cafe,Himachal Pradesh,,,,+919805831447,32.2551395,76.3266596,OpenStreetMap,node,1437190946,2026-11-26T07:44:32.056254+00:00
+Rest a while,cafe,Himachal Pradesh,,,,,32.2544375,76.3258321,OpenStreetMap,node,1439127914,2026-11-26T07:44:32.056258+00:00
+Bhim Sen Punjabi Dhaba,restaurant,Himachal Pradesh,,,,,32.2368672,76.3250033,OpenStreetMap,node,1444856417,2026-11-26T07:44:32.056261+00:00
+Raku's Restaurant and German Bakery,restaurant,Himachal Pradesh,,,"314, Upper Bhagsunag,near Vaishno temple, 176219",+919882627536,32.2452645,76.3325746,OpenStreetMap,node,1444856419,2026-11-26T07:44:32.056264+00:00
+Kunga Cafe,fast_food,Himachal Pradesh,,,,,32.03622,76.7146274,OpenStreetMap,node,1446931046,2026-11-26T07:44:32.056268+00:00
+Chachu Tea stall,cafe,Himachal Pradesh,,,,,32.058867,76.74427,OpenStreetMap,node,1446931049,2026-11-26T07:44:32.056271+00:00
+Zomsa Cafe,cafe,Himachal Pradesh,,,,,32.2388209,76.324201,OpenStreetMap,node,1451405561,2026-11-26T07:44:32.056274+00:00
+Nicks Italian Kitchen,restaurant,Himachal Pradesh,,,,,32.2389104,76.3250964,OpenStreetMap,node,1456841692,2026-11-26T07:44:32.056276+00:00
+Flourishing Flora,cafe,Himachal Pradesh,,,,,32.2406154,76.3299563,OpenStreetMap,node,1456887018,2026-11-26T07:44:32.056279+00:00
+Rose Garden Restaurant,restaurant,Himachal Pradesh,,,"Village Vashisht, 175131",,32.2619048,77.1897709,OpenStreetMap,node,1500999117,2026-11-26T07:44:32.056282+00:00
+Martins' (Himalayan Sports Club),restaurant,Himachal Pradesh,,,,,32.2872884,77.1752696,OpenStreetMap,node,1700928754,2026-11-26T07:44:32.056286+00:00
+Hotel Hamir,restaurant,Himachal Pradesh,,,,,31.689976,76.5147842,OpenStreetMap,node,1804370618,2026-11-26T07:44:32.056288+00:00
+Hotel Paradise,restaurant,Himachal Pradesh,,,,,31.6820676,76.5240771,OpenStreetMap,node,1804370620,2026-11-26T07:44:32.056292+00:00
+Raj mahal,restaurant,Himachal Pradesh,,,,,31.708687,76.9339381,OpenStreetMap,node,1833428164,2026-11-26T07:44:32.056295+00:00
+The Treat,restaurant,Himachal Pradesh,,,,,31.7095778,76.9321436,OpenStreetMap,node,1833434198,2026-11-26T07:44:32.056298+00:00
+Aashiyana Restaurant,restaurant,Himachal Pradesh,,,,,31.1045815,77.1742858,OpenStreetMap,node,1838496914,2026-11-26T07:44:32.056301+00:00
+Sher-e-Punjab,restaurant,Himachal Pradesh,,,,,31.103322,77.1767895,OpenStreetMap,node,1919728787,2026-11-26T07:44:32.056304+00:00
+Sharma Dhaba,restaurant,Himachal Pradesh,,,,,31.1055648,77.1641573,OpenStreetMap,node,1919728858,2026-11-26T07:44:32.056307+00:00
+Chai Shop,cafe,Himachal Pradesh,,,,,31.6174382,78.0221383,OpenStreetMap,node,1919924422,2026-11-26T07:44:32.056309+00:00
+Tara Café,restaurant,Himachal Pradesh,,,,,31.9591462,78.0320163,OpenStreetMap,node,1930537741,2026-11-26T07:44:32.056312+00:00
+Amit Restaurant,restaurant,Himachal Pradesh,,,,,32.093872,78.3829275,OpenStreetMap,node,1931835938,2026-11-26T07:44:32.056315+00:00
+Anjali Dhaba,restaurant,Himachal Pradesh,,,,,32.093289,78.3835625,OpenStreetMap,node,1931835939,2026-11-26T07:44:32.056318+00:00
+German Bakery,cafe,Himachal Pradesh,,,,,32.2241359,78.0732416,OpenStreetMap,node,1934751079,2026-11-26T07:44:32.056321+00:00
+Raangyul Dhaba,restaurant,Himachal Pradesh,,,,,32.2247415,78.0725702,OpenStreetMap,node,1934751366,2026-11-26T07:44:32.056324+00:00
+Sanju Sweet Corner,cafe,Himachal Pradesh,,,,,32.223636,78.0735719,OpenStreetMap,node,1934751368,2026-11-26T07:44:32.056327+00:00
+Tashi Homestay,restaurant,Himachal Pradesh,,,,,32.0913001,78.213271,OpenStreetMap,node,1934751372,2026-11-26T07:44:32.056330+00:00
+German Bakery,cafe,Himachal Pradesh,,,,,32.2649358,77.1877723,OpenStreetMap,node,1940337596,2026-11-26T07:44:32.056333+00:00
+German Bakery,cafe,Himachal Pradesh,,,,,32.2657495,77.1876769,OpenStreetMap,node,1940337605,2026-11-26T07:44:32.056336+00:00
+Sharma Chaat Bhandar,restaurant,Himachal Pradesh,,,,,32.2649149,77.1877675,OpenStreetMap,node,1940337623,2026-11-26T07:44:32.056339+00:00
+Verka,fast_food,Himachal Pradesh,,,,,31.7067822,76.5290166,OpenStreetMap,node,2087121301,2026-11-26T07:44:32.056342+00:00
+Canteen,cafe,Himachal Pradesh,,,,,31.7754492,76.9862977,OpenStreetMap,node,2199929463,2026-11-26T07:44:32.056345+00:00
+Radha Krishna Cafe,restaurant,Himachal Pradesh,,,,,32.2461611,76.3258826,OpenStreetMap,node,2360257678,2026-11-26T07:44:32.056348+00:00
+Heena Cafe,restaurant,Himachal Pradesh,,,,,32.2511986,76.3290727,OpenStreetMap,node,2377302994,2026-11-26T07:44:32.056351+00:00
+(Not so) German Bakery,restaurant,Himachal Pradesh,,,,,32.2436685,76.332925,OpenStreetMap,node,2377359269,2026-11-26T07:44:32.056353+00:00
+Baba Café,restaurant,Himachal Pradesh,,,,,32.2459839,76.3317839,OpenStreetMap,node,2377359275,2026-11-26T07:44:32.056356+00:00
+Trimurti Garden Cafe,restaurant,Himachal Pradesh,,,,,32.2464217,76.329648,OpenStreetMap,node,2377359279,2026-11-26T07:44:32.056359+00:00
+Norling Cafe,cafe,Himachal Pradesh,,,,,32.1976787,76.3586328,OpenStreetMap,node,2378804066,2026-11-26T07:44:32.056362+00:00
+Gold Star,restaurant,Himachal Pradesh,,,,,31.9939437,77.5100864,OpenStreetMap,node,2380563859,2026-11-26T07:44:32.056365+00:00
+Shica Cafe,restaurant,Himachal Pradesh,,,,,31.9937793,77.5104773,OpenStreetMap,node,2380563862,2026-11-26T07:44:32.056367+00:00
+Majnona,restaurant,Himachal Pradesh,,,,,32.2541492,77.1776183,OpenStreetMap,node,2380691258,2026-11-26T07:44:32.056370+00:00
+Blue Elephant Cafe,cafe,Himachal Pradesh,,,,,32.2528947,77.1796708,OpenStreetMap,node,2380691260,2026-11-26T07:44:32.056373+00:00
+Cafe 1947,cafe,Himachal Pradesh,,,,,32.2527346,77.1793947,OpenStreetMap,node,2380691264,2026-11-26T07:44:32.056376+00:00
+Cafe Amigos,cafe,Himachal Pradesh,,,,,32.2463157,77.1891661,OpenStreetMap,node,2380691265,2026-11-26T07:44:32.056380+00:00
+Cafe Spicy Salsa,cafe,Himachal Pradesh,,,,,32.2525618,77.1800353,OpenStreetMap,node,2380691266,2026-11-26T07:44:32.056383+00:00
+Chai Shop,cafe,Himachal Pradesh,,,,,32.245755,77.1848856,OpenStreetMap,node,2380691267,2026-11-26T07:44:32.056386+00:00
+Ever Green Cafe,cafe,Himachal Pradesh,,,,,32.2540778,77.1773704,OpenStreetMap,node,2380691277,2026-11-26T07:44:32.056389+00:00
+Rendez-Vous,restaurant,Himachal Pradesh,,,,+919049127936,32.253749,77.1769142,OpenStreetMap,node,2380691283,2026-11-26T07:44:32.056392+00:00
+Green Forest Cafe,restaurant,Himachal Pradesh,,,,,32.24969,77.1801207,OpenStreetMap,node,2380691284,2026-11-26T07:44:32.056395+00:00
+Il Forno,restaurant,Himachal Pradesh,,,,,32.2461644,77.183023,OpenStreetMap,node,2380691303,2026-11-26T07:44:32.056398+00:00
+Cafe melange,cafe,Himachal Pradesh,,,,,32.2526563,77.1792555,OpenStreetMap,node,2380691308,2026-11-26T07:44:32.056400+00:00
+The Lazy Dog Lounge,restaurant,Himachal Pradesh,,,Manu Temple Rd,+91 70182 28644,32.253045,77.1767053,OpenStreetMap,node,2380691317,2026-11-26T07:44:32.056404+00:00
+Moms Kitchen,restaurant,Himachal Pradesh,,,,,32.2465443,77.1892054,OpenStreetMap,node,2380691319,2026-11-26T07:44:32.056407+00:00
+Moon Dance Cafe,cafe,Himachal Pradesh,,,,,32.2527217,77.1781457,OpenStreetMap,node,2380691321,2026-11-26T07:44:32.056410+00:00
+Negi's King Cafe,cafe,Himachal Pradesh,,,,,32.2530317,77.1767157,OpenStreetMap,node,2380691326,2026-11-26T07:44:32.056413+00:00
+Olive Garden,restaurant,Himachal Pradesh,,,,,32.2539432,77.1770857,OpenStreetMap,node,2380691329,2026-11-26T07:44:32.056416+00:00
+Art Cafe,cafe,Himachal Pradesh,,,,,32.2547147,77.1769506,OpenStreetMap,node,2380691332,2026-11-26T07:44:32.056418+00:00
+Raj Cafe,cafe,Himachal Pradesh,,,,,32.2540082,77.1779897,OpenStreetMap,node,2380691338,2026-11-26T07:44:32.056422+00:00
+Raj Food Corner,restaurant,Himachal Pradesh,,,,,32.2552998,77.1769009,OpenStreetMap,node,2380691339,2026-11-26T07:44:32.056425+00:00
+River Music,restaurant,Himachal Pradesh,,,,,32.2530104,77.1799085,OpenStreetMap,node,2380691342,2026-11-26T07:44:32.056428+00:00
+Rock Top Cottage Cafe,cafe,Himachal Pradesh,,,,,32.2533586,77.1763876,OpenStreetMap,node,2380691343,2026-11-26T07:44:32.056431+00:00
+Satkar,restaurant,Himachal Pradesh,,,,,32.2532446,77.1799558,OpenStreetMap,node,2380691346,2026-11-26T07:44:32.056434+00:00
+Shanti Cafe,cafe,Himachal Pradesh,,old manali,175131,8091233933,32.2528781,77.1771746,OpenStreetMap,node,2380691347,2026-11-26T07:44:32.056437+00:00
+Shesh Besh,restaurant,Himachal Pradesh,,,,,32.252891,77.1770404,OpenStreetMap,node,2380691349,2026-11-26T07:44:32.056440+00:00
+Shiva Garden Cafe,cafe,Himachal Pradesh,,,,,32.253649,77.1771256,OpenStreetMap,node,2380691351,2026-11-26T07:44:32.056443+00:00
+Shiva Cafe,restaurant,Himachal Pradesh,,,,,32.2482546,76.3393708,OpenStreetMap,node,2386629020,2026-11-26T07:44:32.056446+00:00
+Water fall café,fast_food,Himachal Pradesh,,,,,32.2681141,76.3295043,OpenStreetMap,node,2386629125,2026-11-26T07:44:32.056448+00:00
+Athithi,restaurant,Himachal Pradesh,,,,,32.2202953,76.3184605,OpenStreetMap,node,2488655804,2026-11-26T07:44:32.056451+00:00
+Hotel Midtown,restaurant,Himachal Pradesh,,,,,32.2195875,76.3186553,OpenStreetMap,node,2488655807,2026-11-26T07:44:32.056454+00:00
+Rajinder Vaishnav Dhaba,restaurant,Himachal Pradesh,,,,+91-94180-89191;+91-98163-97917,32.2207619,76.3190954,OpenStreetMap,node,2488656439,2026-11-26T07:44:32.056457+00:00
+Shree Ram,restaurant,Himachal Pradesh,,,,,32.2201528,76.3183998,OpenStreetMap,node,2506336316,2026-11-26T07:44:32.056460+00:00
+Shangri-la,restaurant,Himachal Pradesh,,,,,32.1856389,76.366854,OpenStreetMap,node,2713504952,2026-11-26T07:44:32.056463+00:00
+Yangzom,restaurant,Himachal Pradesh,,,,,32.1971318,76.3584533,OpenStreetMap,node,2798948810,2026-11-26T07:44:32.056466+00:00
+Chab Do,restaurant,Himachal Pradesh,,,,,32.1970898,76.3583259,OpenStreetMap,node,2798948811,2026-11-26T07:44:32.056469+00:00
+Gobind Sweets,restaurant,Himachal Pradesh,,Palampur,"Main Market, Palampur Dharamshala Road, 176061",,32.1093069,76.5357204,OpenStreetMap,node,2841405578,2026-11-26T07:44:32.056473+00:00
+Sunil Tea Stall,cafe,Himachal Pradesh,,Dharamsala,"Triund, 176216",,32.259753,76.3551706,OpenStreetMap,node,2902195163,2026-11-26T07:44:32.056476+00:00
+Neugal Shopping Complex,cafe,Himachal Pradesh,,Palampur,"Palampur Kandi Road, 176061",,32.1333555,76.5346445,OpenStreetMap,node,2907071162,2026-11-26T07:44:32.056480+00:00
+Cafe Coffee Day,cafe,Himachal Pradesh,,Palampur,"NH 20, 176061",,32.1086866,76.5395106,OpenStreetMap,node,2946011700,2026-11-26T07:44:32.056484+00:00
+Lallu Tea Stall & Guest House,cafe,Himachal Pradesh,,Dharamsala,"Triund Campsite, Triund Trail, 176216",,32.2630502,76.3537504,OpenStreetMap,node,2959614058,2026-11-26T07:44:32.056488+00:00
+shiva shakti shop,restaurant,Himachal Pradesh,,,,,31.3022327,77.0271606,OpenStreetMap,node,2972385997,2026-11-26T07:44:32.056491+00:00
+Kangdol Tibetan Restaurant,restaurant,Himachal Pradesh,,,,,32.2005511,76.3611733,OpenStreetMap,node,3006769720,2026-11-26T07:44:32.056494+00:00
+Sumdo Cafe,cafe,Himachal Pradesh,,,,,32.1991298,76.3592274,OpenStreetMap,node,3006769722,2026-11-26T07:44:32.056497+00:00
+Three Brothers Cafe,cafe,Himachal Pradesh,,,,,32.199079,76.359401,OpenStreetMap,node,3006769723,2026-11-26T07:44:32.056500+00:00
+21 Tara Cafe,cafe,Himachal Pradesh,,,,,32.1998883,76.3579108,OpenStreetMap,node,3006771954,2026-11-26T07:44:32.056503+00:00
+Pran Chicken Rice,fast_food,Himachal Pradesh,,,,,32.1973853,76.3587426,OpenStreetMap,node,3006989746,2026-11-26T07:44:32.056506+00:00
+Shideling Cafe,cafe,Himachal Pradesh,,,,,32.1988401,76.3593375,OpenStreetMap,node,3007004058,2026-11-26T07:44:32.056508+00:00
+Shanti Dhaba,restaurant,Himachal Pradesh,,Manali,"Towards Old Manali, Circuit House Road",,32.2520904,77.1838636,OpenStreetMap,node,3077901293,2026-11-26T07:44:32.056512+00:00
+Lakshmi Chai Shop,cafe,Himachal Pradesh,,Old Manali,,,32.25335,77.1800996,OpenStreetMap,node,3077906595,2026-11-26T07:44:32.056515+00:00
+Rama's Dhaba,restaurant,Himachal Pradesh,,Old Manali,Manu Temple Road,,32.2561118,77.1758283,OpenStreetMap,node,3077910155,2026-11-26T07:44:32.056518+00:00
+River View Valley Cafe- Chai Shop,cafe,Himachal Pradesh,,Old Manali,,,32.2549675,77.1706005,OpenStreetMap,node,3077930426,2026-11-26T07:44:32.056521+00:00
+Nescafe,cafe,Himachal Pradesh,,,,,31.7073218,76.5281954,OpenStreetMap,node,3096011983,2026-11-26T07:44:32.056524+00:00
+Chirag's Kitchen,cafe,Himachal Pradesh,,,,,32.2571963,77.176145,OpenStreetMap,node,3105154775,2026-11-26T07:44:32.056526+00:00
+Tibet Kitchen,restaurant,Himachal Pradesh,,,,,32.258588,77.1771034,OpenStreetMap,node,3105787622,2026-11-26T07:44:32.056530+00:00
+Prakash Chicken Corner,fast_food,Himachal Pradesh,,,,,32.2165366,76.3208896,OpenStreetMap,node,3138681984,2026-11-26T07:44:32.056532+00:00
+Gol Gappa Shop,fast_food,Himachal Pradesh,,,,,32.216096,76.3223214,OpenStreetMap,node,3143602014,2026-11-26T07:44:32.056535+00:00
+Chinese Dish,restaurant,Himachal Pradesh,,,,,32.1116231,77.1679585,OpenStreetMap,node,3154172806,2026-11-26T07:44:32.056538+00:00
+Nescafe,cafe,Himachal Pradesh,,,,,31.7116008,76.5249132,OpenStreetMap,node,3385867199,2026-11-26T07:44:32.056541+00:00
+Ekta Cafe,cafe,Himachal Pradesh,,,,,31.7120518,76.5243844,OpenStreetMap,node,3387148208,2026-11-26T07:44:32.056545+00:00
+Juice Bar,cafe,Himachal Pradesh,,,,,31.7053336,76.5276555,OpenStreetMap,node,3387479519,2026-11-26T07:44:32.056548+00:00
+Sansu Cafe,cafe,Himachal Pradesh,,,,,32.2464706,76.3320608,OpenStreetMap,node,3512712997,2026-11-26T07:44:32.056551+00:00
+Kibbutz,cafe,Himachal Pradesh,,,,,32.2461657,76.3322569,OpenStreetMap,node,3514932552,2026-11-26T07:44:32.056554+00:00
+Ri:,cafe,Himachal Pradesh,,,,,32.2394362,76.3261132,OpenStreetMap,node,3525036987,2026-11-26T07:44:32.056557+00:00
+Shambu fast food,cafe,Himachal Pradesh,,,,,32.2396242,76.3286552,OpenStreetMap,node,3527611885,2026-11-26T07:44:32.056560+00:00
+Last chance,cafe,Himachal Pradesh,,,,,32.2391543,76.3310897,OpenStreetMap,node,3527615100,2026-11-26T07:44:32.056562+00:00
+Domino's,restaurant,Himachal Pradesh,,,,,31.959208,77.1097694,OpenStreetMap,node,3542912880,2026-11-26T07:44:32.056566+00:00
+Mamu's Dhaba,restaurant,Himachal Pradesh,,,,,31.8807528,77.1509532,OpenStreetMap,node,3549510790,2026-11-26T07:44:32.056568+00:00
+Bushman Cafe & Grill,restaurant,Himachal Pradesh,,,,,32.0412589,76.7092025,OpenStreetMap,node,3554366976,2026-11-26T07:44:32.056571+00:00
+Janta Dhaba,restaurant,Himachal Pradesh,,,,,31.9908804,76.789078,OpenStreetMap,node,3555752746,2026-11-26T07:44:32.056574+00:00
+New Punjabi Dhaba,restaurant,Himachal Pradesh,,,,,31.2352535,76.7478615,OpenStreetMap,node,3595688366,2026-11-26T07:44:32.056577+00:00
+Annapurna Deluxe Dhaba,restaurant,Himachal Pradesh,,,,,31.2352653,76.7478077,OpenStreetMap,node,3595688367,2026-11-26T07:44:32.056580+00:00
+New Punjabi Dhaba,restaurant,Himachal Pradesh,,,,,31.2352653,76.7477349,OpenStreetMap,node,3595688368,2026-11-26T07:44:32.056583+00:00
+Chotu,restaurant,Himachal Pradesh,,,,,31.2352264,76.7476655,OpenStreetMap,node,3595688369,2026-11-26T07:44:32.056585+00:00
+Cafe Tibet,cafe,Himachal Pradesh,,,,,32.236023,76.326382,OpenStreetMap,node,3770508560,2026-11-26T07:44:32.056588+00:00
+Garden Cafe,restaurant,Himachal Pradesh,,,,+919882577305,32.0337785,76.7184007,OpenStreetMap,node,4096750689,2026-11-26T07:44:32.056592+00:00
+La Pino's Pizza,restaurant,Himachal Pradesh,,,,,32.3077397,77.1782179,OpenStreetMap,node,4135407289,2026-11-26T07:44:32.056594+00:00
+Break time,fast_food,Himachal Pradesh,,,,,32.2502478,77.189999,OpenStreetMap,node,4135407291,2026-11-26T07:44:32.056597+00:00
+Rama Fast Food,fast_food,Himachal Pradesh,,,,,32.2779883,77.1800827,OpenStreetMap,node,4135407789,2026-11-26T07:44:32.056600+00:00
+Himalayan Dhaba,restaurant,Himachal Pradesh,,,,,32.3148888,77.1574417,OpenStreetMap,node,4135792989,2026-11-26T07:44:32.056603+00:00
+Food Junction,restaurant,Himachal Pradesh,,,,,32.3135931,77.1564832,OpenStreetMap,node,4135792990,2026-11-26T07:44:32.056606+00:00
+Sanggel Dhaba,restaurant,Himachal Pradesh,,,,,32.3149791,77.1574978,OpenStreetMap,node,4135800489,2026-11-26T07:44:32.056608+00:00
+Emaho Cafe,cafe,Himachal Pradesh,,,,,31.6337688,76.8344197,OpenStreetMap,node,4144993857,2026-11-26T07:44:32.056611+00:00
+Cafe,cafe,Himachal Pradesh,,,,,32.0012145,77.4855587,OpenStreetMap,node,4198121589,2026-11-26T07:44:32.056614+00:00
+Crepe Pancake,restaurant,Himachal Pradesh,,,,,32.2366559,76.3254498,OpenStreetMap,node,4201669289,2026-11-26T07:44:32.056617+00:00
+Aghanjar Chai & Pakoda,cafe,Himachal Pradesh,,,,,32.2116859,76.3718611,OpenStreetMap,node,4207692219,2026-11-26T07:44:32.056620+00:00
+Satyam Restaurant,restaurant,Himachal Pradesh,,,,,32.2057738,76.3696153,OpenStreetMap,node,4207692221,2026-11-26T07:44:32.056623+00:00
+Moonlight Cafe,restaurant,Himachal Pradesh,,,,,32.2472789,76.3261655,OpenStreetMap,node,4229447516,2026-11-26T07:44:32.056626+00:00
+Malka Cafe,restaurant,Himachal Pradesh,,,,,32.2485144,76.3285054,OpenStreetMap,node,4229452501,2026-11-26T07:44:32.056628+00:00
+Buddha Delight Cafe,restaurant,Himachal Pradesh,,,,,32.2482833,76.3293086,OpenStreetMap,node,4229489710,2026-11-26T07:44:32.056631+00:00
+Peace Restaurant,restaurant,Himachal Pradesh,,,Norbulingka Road,+918351871377,32.1986983,76.3593479,OpenStreetMap,node,4232066168,2026-11-26T07:44:32.056635+00:00
+Taste of Tibet,restaurant,Himachal Pradesh,,,,,32.198672,76.3594366,OpenStreetMap,node,4232066290,2026-11-26T07:44:32.056638+00:00
+Once in nature,restaurant,Himachal Pradesh,,,,,32.2475644,76.3305484,OpenStreetMap,node,4234175330,2026-11-26T07:44:32.056641+00:00
+Taste 2 Taste,restaurant,Himachal Pradesh,,,,+91 9882590119,32.185297,76.3676522,OpenStreetMap,node,4235258746,2026-11-26T07:44:32.056644+00:00
+Cool talk cafe,cafe,Himachal Pradesh,,,,,32.2478228,76.3258343,OpenStreetMap,node,4235656190,2026-11-26T07:44:32.056647+00:00
+Paper Planes,restaurant,Himachal Pradesh,,,,,32.0434237,76.7083021,OpenStreetMap,node,4242547980,2026-11-26T07:44:32.056650+00:00
+skyward cafe,cafe,Himachal Pradesh,,,jalal,,32.0125267,77.3031327,OpenStreetMap,node,4248542501,2026-11-26T07:44:32.056653+00:00
+Moon Light Cafe,restaurant,Himachal Pradesh,,,,,31.6371376,77.4314855,OpenStreetMap,node,4252286706,2026-11-26T07:44:32.056656+00:00
+Markanda Mishthan Bhandar,fast_food,Himachal Pradesh,,,,,31.7430361,77.208108,OpenStreetMap,node,4252335589,2026-11-26T07:44:32.056659+00:00
+Nightingale,restaurant,Himachal Pradesh,,,,,32.1109999,77.1639495,OpenStreetMap,node,4258250790,2026-11-26T07:44:32.056662+00:00
+People cafe,restaurant,Himachal Pradesh,,,,,32.2530815,77.1767138,OpenStreetMap,node,4295562796,2026-11-26T07:44:32.056665+00:00
+Hide out cafe,cafe,Himachal Pradesh,,,,,31.1047098,77.1730959,OpenStreetMap,node,4299435290,2026-11-26T07:44:32.056667+00:00
+Himalaya hotel (restaurant),cafe,Himachal Pradesh,,,,,31.9797588,78.5892493,OpenStreetMap,node,4303626892,2026-11-26T07:44:32.056670+00:00
+Chawla's Cafe,restaurant,Himachal Pradesh,,,,,32.2021303,76.3678077,OpenStreetMap,node,4321328151,2026-11-26T07:44:32.056673+00:00
+Food Paradise,restaurant,Himachal Pradesh,,,Yol Road,,32.1883598,76.3595669,OpenStreetMap,node,4330721132,2026-11-26T07:44:32.056676+00:00
+VJ Dhaba,restaurant,Himachal Pradesh,,,,,32.1854283,76.3672437,OpenStreetMap,node,4335554179,2026-11-26T07:44:32.056679+00:00
+Space Out,cafe,Himachal Pradesh,,,,,32.2485985,76.3281246,OpenStreetMap,node,4341074794,2026-11-26T07:44:32.056682+00:00
+Trek & Dine,restaurant,Himachal Pradesh,,,,,32.2468373,76.3259319,OpenStreetMap,node,4341167596,2026-11-26T07:44:32.056685+00:00
+The friendly planet,restaurant,Himachal Pradesh,,,,,32.2470649,76.3264194,OpenStreetMap,node,4345397990,2026-11-26T07:44:32.056688+00:00
+Morgans place,restaurant,Himachal Pradesh,,,,,32.2456569,76.3262421,OpenStreetMap,node,4345397991,2026-11-26T07:44:32.056691+00:00
+Punjabi tadka pure veg,restaurant,Himachal Pradesh,,,,,32.2440412,76.3347017,OpenStreetMap,node,4345398091,2026-11-26T07:44:32.056694+00:00
+Dudu's falafel,fast_food,Himachal Pradesh,,,,,32.2448811,76.3328211,OpenStreetMap,node,4345398190,2026-11-26T07:44:32.056698+00:00
+The nepali coffee time,fast_food,Himachal Pradesh,,,,,32.2542002,77.1771928,OpenStreetMap,node,4345898994,2026-11-26T07:44:32.056701+00:00
+Lily,restaurant,Himachal Pradesh,,,,,32.2539584,77.1766414,OpenStreetMap,node,4346009695,2026-11-26T07:44:32.056704+00:00
+Hot pot,restaurant,Himachal Pradesh,,,,,32.2530512,77.1767626,OpenStreetMap,node,4346039690,2026-11-26T07:44:32.056707+00:00
+The Spanish,restaurant,Himachal Pradesh,,,,,32.2539467,77.1779906,OpenStreetMap,node,4346041292,2026-11-26T07:44:32.056710+00:00
+Hangout 2020 Cafe,cafe,Himachal Pradesh,,,,,32.2544029,77.1770263,OpenStreetMap,node,4346061491,2026-11-26T07:44:32.056712+00:00
+Green Garden Café,restaurant,Himachal Pradesh,,,,+91 90162 47616,32.2655434,77.188125,OpenStreetMap,node,4346073589,2026-11-26T07:44:32.056716+00:00
+Dhaba,restaurant,Himachal Pradesh,,,,,32.0136307,76.7529135,OpenStreetMap,node,4346273199,2026-11-26T07:44:32.056718+00:00
+Cafe Coffee Day,cafe,Himachal Pradesh,,,Kulu Highway,,32.241332,77.188698,OpenStreetMap,node,4346739891,2026-11-26T07:44:32.056722+00:00
+Haveli,restaurant,Himachal Pradesh,,,Kulu Highway,,32.2411605,77.1886511,OpenStreetMap,node,4346743089,2026-11-26T07:44:32.056725+00:00
+Adarsh Restaurant,restaurant,Himachal Pradesh,,,The Mall,,32.2452183,77.1895625,OpenStreetMap,node,4346769396,2026-11-26T07:44:32.056728+00:00
+dhaba,fast_food,Himachal Pradesh,,,Old Kulu Highway,,32.2402895,77.1923859,OpenStreetMap,node,4346802089,2026-11-26T07:44:32.056731+00:00
+Spoon Feed,restaurant,Himachal Pradesh,,,Circuit House Road,,32.2490703,77.1860847,OpenStreetMap,node,4346905195,2026-11-26T07:44:32.056734+00:00
+Parvati Daily Grind Coffee,cafe,Himachal Pradesh,,,,,32.0107993,77.3159503,OpenStreetMap,node,4347123089,2026-11-26T07:44:32.056738+00:00
+Lovely little café,cafe,Himachal Pradesh,,,,,32.2491092,77.1840699,OpenStreetMap,node,4347468790,2026-11-26T07:44:32.056741+00:00
+Wabi Sabi & Tin Tin,restaurant,Himachal Pradesh,,,,,32.0097841,77.3120973,OpenStreetMap,node,4347537689,2026-11-26T07:44:32.056744+00:00
+Valley View Kothi,restaurant,Himachal Pradesh,,,Manali-Leh,,32.3138621,77.1825151,OpenStreetMap,node,4348074794,2026-11-26T07:44:32.056746+00:00
+Rohtang Top Café,restaurant,Himachal Pradesh,,,Manali-Leh,,32.3136866,77.1821196,OpenStreetMap,node,4348076490,2026-11-26T07:44:32.056750+00:00
+Dariya hummus,restaurant,Himachal Pradesh,,,,,32.0103177,77.2935949,OpenStreetMap,node,4348335892,2026-11-26T07:44:32.056753+00:00
+Poonam dhaba,fast_food,Himachal Pradesh,,,,,32.2244596,78.0728965,OpenStreetMap,node,4349434298,2026-11-26T07:44:32.056755+00:00
+dhaba,restaurant,Himachal Pradesh,,,,,32.349002,77.217638,OpenStreetMap,node,4349441898,2026-11-26T07:44:32.056758+00:00
+Kesa-Ling Fast Food,fast_food,Himachal Pradesh,,,Kaza-Grampoo Road,,32.4378445,77.7502862,OpenStreetMap,node,4349444995,2026-11-26T07:44:32.056761+00:00
+The Himalayan Café,cafe,Himachal Pradesh,,,,,32.2238421,78.0723886,OpenStreetMap,node,4349452995,2026-11-26T07:44:32.056764+00:00
+Chandar Taal Dhaba,restaurant,Himachal Pradesh,,,,,32.2246386,78.0727474,OpenStreetMap,node,4349464892,2026-11-26T07:44:32.056767+00:00
+Sol Café,cafe,Himachal Pradesh,,,,,32.2251712,78.0723873,OpenStreetMap,node,4349464895,2026-11-26T07:44:32.056770+00:00
+Singaling Restaurant,restaurant,Himachal Pradesh,,,Kaza-Grampoo Road,,32.4374343,77.7504793,OpenStreetMap,node,4349472890,2026-11-26T07:44:32.056772+00:00
+Hotel Samsong,restaurant,Himachal Pradesh,,,Kaza-Grampoo Road,,32.4377199,77.7501466,OpenStreetMap,node,4349481189,2026-11-26T07:44:32.056776+00:00
+Dragon Restaurant,restaurant,Himachal Pradesh,,,,,32.2246401,78.0725933,OpenStreetMap,node,4349481989,2026-11-26T07:44:32.056779+00:00
+Café Kunzom Top,cafe,Himachal Pradesh,,,,,32.0941799,78.3827866,OpenStreetMap,node,4356750289,2026-11-26T07:44:32.056782+00:00
+Pizzera,fast_food,Himachal Pradesh,,Palampur,"NH 20, 176061",,32.1091901,76.5379192,OpenStreetMap,node,4377218063,2026-11-26T07:44:32.056785+00:00
+Domino's,fast_food,Himachal Pradesh,,Palampur,"Palampur - Dharamsala Road, 176061",,32.1141462,76.5348931,OpenStreetMap,node,4377221751,2026-11-26T07:44:32.056788+00:00
+Amritsari Rasoi,restaurant,Himachal Pradesh,,Palampur,"NH 20, 176061",,32.1102895,76.5397359,OpenStreetMap,node,4377225855,2026-11-26T07:44:32.056792+00:00
+Cafe Coffee Day,cafe,Himachal Pradesh,,Palampur,"NH 20, 176061",,32.1086203,76.5396098,OpenStreetMap,node,4377255012,2026-11-26T07:44:32.056796+00:00
+Nirmala Tea Stall,cafe,Himachal Pradesh,,Palampur,"NH 20, 176062",,32.1081733,76.5424725,OpenStreetMap,node,4377294190,2026-11-26T07:44:32.056799+00:00
+Darjeeling Fast Food,fast_food,Himachal Pradesh,,Palampur,"Palampur Kandi Road, 176061",,32.1154506,76.5375153,OpenStreetMap,node,4377311161,2026-11-26T07:44:32.056802+00:00
+Sood Agency;Sood Agencies,restaurant,Himachal Pradesh,,Palampur,"Palampur Kandi Road, 176061",,32.1207799,76.5390041,OpenStreetMap,node,4377349874,2026-11-26T07:44:32.056805+00:00
+Sood Fast Food,fast_food,Himachal Pradesh,,Palampur,"Palampur Kandi Road, 176061",,32.120477,76.5395815,OpenStreetMap,node,4377354960,2026-11-26T07:44:32.056808+00:00
+Sharma Fast Food,fast_food,Himachal Pradesh,,Palampur,"Lohna Surad Road, 176061",,32.1209184,76.5409923,OpenStreetMap,node,4382006550,2026-11-26T07:44:32.056811+00:00
+Baba Ji,cafe,Himachal Pradesh,,,,,31.9733549,77.5812916,OpenStreetMap,node,4383792892,2026-11-26T07:44:32.056814+00:00
+Dr Shaksuka Cafe,restaurant,Himachal Pradesh,,,,,31.8823205,78.6274264,OpenStreetMap,node,4384093890,2026-11-26T07:44:32.056817+00:00
+Dudu Welcome restaurant-cafe,cafe,Himachal Pradesh,,,,,32.2472091,76.3316946,OpenStreetMap,node,4386458989,2026-11-26T07:44:32.056820+00:00
+Dhaba,restaurant,Himachal Pradesh,,,,,32.5098637,77.0240373,OpenStreetMap,node,4394775165,2026-11-26T07:44:32.056823+00:00
+Wake & Bake Café,restaurant,Himachal Pradesh,,,,,31.1046518,77.1731921,OpenStreetMap,node,4409043993,2026-11-26T07:44:32.056826+00:00
+Kathmandu Cafe,cafe,Himachal Pradesh,,,,,32.2527565,77.1793771,OpenStreetMap,node,4411036489,2026-11-26T07:44:32.056829+00:00
+Karma Café,restaurant,Himachal Pradesh,,,,,32.2471952,76.3303503,OpenStreetMap,node,4416453792,2026-11-26T07:44:32.056832+00:00
+Mana Café,cafe,Himachal Pradesh,,,,,32.2408877,76.3541413,OpenStreetMap,node,4416453891,2026-11-26T07:44:32.056835+00:00
+Rocky's cafe,restaurant,Himachal Pradesh,,,,+919816491374,32.258811,77.1774201,OpenStreetMap,node,4417134890,2026-11-26T07:44:32.056838+00:00
+River view restaurant,restaurant,Himachal Pradesh,,,,,32.0111382,77.3120009,OpenStreetMap,node,4421612494,2026-11-26T07:44:32.056841+00:00
+Little Italy,restaurant,Himachal Pradesh,,,,,32.2538329,77.1795123,OpenStreetMap,node,4424706794,2026-11-26T07:44:32.056844+00:00
+Mountain View,restaurant,Himachal Pradesh,,,,,31.9938583,77.440235,OpenStreetMap,node,4428528989,2026-11-26T07:44:32.056846+00:00
+Taste of Spiti,restaurant,Himachal Pradesh,,,,,32.2236293,78.0720472,OpenStreetMap,node,4435650189,2026-11-26T07:44:32.056850+00:00
+Himalayan Organics - juice bar &a cafe,restaurant,Himachal Pradesh,,,,,32.2533846,77.1770998,OpenStreetMap,node,4458706693,2026-11-26T07:44:32.056852+00:00
+Gazal Bar And Restaurant,restaurant,Himachal Pradesh,,,,,31.3523423,77.4888902,OpenStreetMap,node,4461155988,2026-11-26T07:44:32.056855+00:00
+Mitran Da Dhaba,restaurant,Himachal Pradesh,,,,,31.5521657,77.8243677,OpenStreetMap,node,4461159189,2026-11-26T07:44:32.056858+00:00
+Musical Cafe,cafe,Himachal Pradesh,,,,,31.4543537,77.6542852,OpenStreetMap,node,4462855349,2026-11-26T07:44:32.056861+00:00
+Dhaba,cafe,Himachal Pradesh,,,,,31.5105881,78.170287,OpenStreetMap,node,4472327133,2026-11-26T07:44:32.056864+00:00
+Gyan bhojonalaya,restaurant,Himachal Pradesh,,,"RO kharapathhar , PO Deem, Tehsil Jubbal dist-Shimla, 171205",,31.1200761,77.6278446,OpenStreetMap,node,4491639489,2026-11-26T07:44:32.056867+00:00
+Noryang Restaurant,restaurant,Himachal Pradesh,,,,,32.2984944,78.0121967,OpenStreetMap,node,4515361062,2026-11-26T07:44:32.056870+00:00
+Sharma Dhaba,restaurant,Himachal Pradesh,,,,,31.6696785,77.0555731,OpenStreetMap,node,4531492491,2026-11-26T07:44:32.056873+00:00
+Sanjana Dhaba,restaurant,Himachal Pradesh,,,,+91 98053 99618,32.0005452,77.4410946,OpenStreetMap,node,4534001294,2026-11-26T07:44:32.056876+00:00
+Babloo,restaurant,Himachal Pradesh,,,,,31.9950785,77.4385834,OpenStreetMap,node,4534129889,2026-11-26T07:44:32.056879+00:00
+Manu Dhaba,restaurant,Himachal Pradesh,,,,,32.000589,77.4409553,OpenStreetMap,node,4537150489,2026-11-26T07:44:32.056882+00:00
+Karan,restaurant,Himachal Pradesh,,,,98825-15242,31.8814217,77.1497414,OpenStreetMap,node,4537150589,2026-11-26T07:44:32.056885+00:00
+The Birdhouse Cakery,restaurant,Himachal Pradesh,,,,,32.2506722,76.3294654,OpenStreetMap,node,4540801795,2026-11-26T07:44:32.056888+00:00
+भोजनालय,restaurant,Himachal Pradesh,,,,,32.1886334,76.3579915,OpenStreetMap,node,4548869642,2026-11-26T07:44:32.056891+00:00
+Bakes and Brews,cafe,Himachal Pradesh,,,,,32.1911394,76.3510912,OpenStreetMap,node,4560258189,2026-11-26T07:44:32.056894+00:00
+HPTDC Restaurant & Cafe,restaurant,Himachal Pradesh,,,,,31.0964213,77.2631961,OpenStreetMap,node,4561241489,2026-11-26T07:44:32.056897+00:00
+Kallimpong Momo,fast_food,Himachal Pradesh,,,,,32.2388237,76.3243999,OpenStreetMap,node,4571525983,2026-11-26T07:44:32.056899+00:00
+Moonpeak Thali,restaurant,Himachal Pradesh,,"Mcleodganj, Dharamshala","Shop 3, Temple Road, 176219",,32.2361041,76.3238373,OpenStreetMap,node,4586710619,2026-11-26T07:44:32.056903+00:00
+Our Cafe,cafe,Himachal Pradesh,,,,,32.2471469,76.3376989,OpenStreetMap,node,4597629593,2026-11-26T07:44:32.056906+00:00
+JJI Exile Brothers Mothers cafe,cafe,Himachal Pradesh,,,,,32.2390536,76.3252651,OpenStreetMap,node,4728704594,2026-11-26T07:44:32.056909+00:00
+Sharma restaurant,restaurant,Himachal Pradesh,,,"sharai, 175123",9816604567,31.651895,77.3327911,OpenStreetMap,node,4748216636,2026-11-26T07:44:32.056912+00:00
+Silver Linings,cafe,Himachal Pradesh,,,,+91 98059 91915,32.0445734,76.7084482,OpenStreetMap,node,4761526563,2026-11-26T07:44:32.056916+00:00
+Japanese Restraunt Lung Ta,restaurant,Himachal Pradesh,,,,,32.2356716,76.326768,OpenStreetMap,node,4763502723,2026-11-26T07:44:32.056919+00:00
+Chabad house Bhagsu,restaurant,Himachal Pradesh,,,,,32.2445973,76.3332568,OpenStreetMap,node,4766304230,2026-11-26T07:44:32.056922+00:00
+Momo Dhaba,fast_food,Himachal Pradesh,,,,,32.2392292,76.3316727,OpenStreetMap,node,4766906825,2026-11-26T07:44:32.056925+00:00
+Black Tent Café,cafe,Himachal Pradesh,,,,,32.2368871,76.3250567,OpenStreetMap,node,4775822524,2026-11-26T07:44:32.056928+00:00
+Tibet Kitchen,restaurant,Himachal Pradesh,,,,,32.2385738,76.3238425,OpenStreetMap,node,4775830821,2026-11-26T07:44:32.056931+00:00
+Restaurant,restaurant,Himachal Pradesh,,,,,31.5413829,78.2671208,OpenStreetMap,node,4780365011,2026-11-26T07:44:32.056934+00:00
+Adventure café,cafe,Himachal Pradesh,,,,,32.2600188,76.3197152,OpenStreetMap,node,4787000523,2026-11-26T07:44:32.056937+00:00
+Sunrise café,cafe,Himachal Pradesh,,,,,32.2793842,76.2787929,OpenStreetMap,node,4787002221,2026-11-26T07:44:32.056940+00:00
+Café Galu,cafe,Himachal Pradesh,,,,,32.2548298,76.3260949,OpenStreetMap,node,4790764823,2026-11-26T07:44:32.056942+00:00
+Sangam Cafe,restaurant,Himachal Pradesh,,,,,32.2480342,76.330134,OpenStreetMap,node,4790773823,2026-11-26T07:44:32.056946+00:00
+High Spirits Cafe and Restaurant,restaurant,Himachal Pradesh,,Mateura,"High Spirits Cafe and Restaurant, Bhuntar Manikaran Highway, 175105",+919137877835,31.9970965,77.2506499,OpenStreetMap,node,4795312630,2026-11-26T07:44:32.056949+00:00
+jaree,restaurant,Himachal Pradesh,,,,,31.9966203,77.2451742,OpenStreetMap,node,4795314791,2026-11-26T07:44:32.056952+00:00
+Divine Nature,restaurant,Himachal Pradesh,,,,,32.246783,76.3293668,OpenStreetMap,node,4796578021,2026-11-26T07:44:32.056955+00:00
+Coffee Talk,cafe,Himachal Pradesh,,,,,32.2336524,76.3247116,OpenStreetMap,node,4854819621,2026-11-26T07:44:32.056958+00:00
+Charlie's Cafe,restaurant,Himachal Pradesh,,,,,32.042573,76.7088229,OpenStreetMap,node,4864145722,2026-11-26T07:44:32.056961+00:00
+Cafe Cloud Door,restaurant,Himachal Pradesh,,,,,32.0320106,76.721631,OpenStreetMap,node,4869935722,2026-11-26T07:44:32.056964+00:00
+Zenwich,restaurant,Himachal Pradesh,,,,,32.0385553,76.7135387,OpenStreetMap,node,4870021921,2026-11-26T07:44:32.056967+00:00
+pizzeria and home stay,restaurant,Himachal Pradesh,,,"Museum - Art Gallery Road, 175130",,32.1116908,77.16588,OpenStreetMap,node,4885259521,2026-11-26T07:44:32.056970+00:00
+Delek Lodge,restaurant,Himachal Pradesh,,,,9816476559,32.0361543,76.7144033,OpenStreetMap,node,4890039924,2026-11-26T07:44:32.056973+00:00
+Green,restaurant,Himachal Pradesh,,,,,32.2396603,76.3260908,OpenStreetMap,node,4903800930,2026-11-26T07:44:32.056976+00:00
+Hungry Birds,restaurant,Himachal Pradesh,,,,,32.2387939,76.3239389,OpenStreetMap,node,4903801223,2026-11-26T07:44:32.056979+00:00
+Sambhala Coffee Talk,cafe,Himachal Pradesh,,,,,32.2384042,76.3239622,OpenStreetMap,node,4903806322,2026-11-26T07:44:32.056982+00:00
+Cafe Civet Cat,cafe,Himachal Pradesh,,,,,32.2656622,77.1876048,OpenStreetMap,node,4910981922,2026-11-26T07:44:32.056985+00:00
+Gopal jee,restaurant,Himachal Pradesh,,,,,30.4440388,77.606431,OpenStreetMap,node,4922432822,2026-11-26T07:44:32.056988+00:00
+Gautam Vaishno Dhaba,restaurant,Himachal Pradesh,,,,,31.6497554,76.1199916,OpenStreetMap,node,4922436422,2026-11-26T07:44:32.056991+00:00
+Snowland Hotel and Restaurant,restaurant,Himachal Pradesh,,,,,32.5714421,77.0325404,OpenStreetMap,node,4928677722,2026-11-26T07:44:32.056994+00:00
+Israeli house,cafe,Himachal Pradesh,,,,,32.2525762,77.1778394,OpenStreetMap,node,4934210323,2026-11-26T07:44:32.056997+00:00
+Rana @ 32 Mile,restaurant,Himachal Pradesh,,,,,32.2282329,76.082203,OpenStreetMap,node,4997896622,2026-11-26T07:44:32.057000+00:00
+Alfa restaurant;Tourist information,restaurant,Himachal Pradesh,,,,,31.1051656,77.172788,OpenStreetMap,node,5001731239,2026-11-26T07:44:32.057003+00:00
+Book Cafe,cafe,Himachal Pradesh,,,,,31.1050423,77.1759018,OpenStreetMap,node,5001731243,2026-11-26T07:44:32.057006+00:00
+Domino's,restaurant,Himachal Pradesh,,,,,31.1049625,77.1726476,OpenStreetMap,node,5001733330,2026-11-26T07:44:32.057008+00:00
+Amrit Dhaba,restaurant,Himachal Pradesh,,,,,31.1037284,77.1695325,OpenStreetMap,node,5001743225,2026-11-26T07:44:32.057012+00:00
+The hideout cafe,restaurant,Himachal Pradesh,,,,,32.2529971,77.1773045,OpenStreetMap,node,5001743226,2026-11-26T07:44:32.057014+00:00
+Aryan fastfood,fast_food,Himachal Pradesh,,,,,32.2589181,77.187466,OpenStreetMap,node,5001743228,2026-11-26T07:44:32.057017+00:00
+Himchi bar and kitchen,restaurant,Himachal Pradesh,,,,,31.1063073,77.1780575,OpenStreetMap,node,5001748327,2026-11-26T07:44:32.057020+00:00
+Sunshine Cafe&Restaurant,restaurant,Himachal Pradesh,,,,,32.2528566,77.1771903,OpenStreetMap,node,5001756324,2026-11-26T07:44:32.057024+00:00
+Sher-e Punjab,restaurant,Himachal Pradesh,,,khoksar,,32.4134485,77.2359548,OpenStreetMap,node,5001756328,2026-11-26T07:44:32.057027+00:00
+Waterfall cafe,cafe,Himachal Pradesh,,,,,31.997693,77.4859917,OpenStreetMap,node,5002419221,2026-11-26T07:44:32.057030+00:00
+Domino's,restaurant,Himachal Pradesh,,,,01892226475,32.2210033,76.3200152,OpenStreetMap,node,5021690492,2026-11-26T07:44:32.057033+00:00
+Cafe Coffee Day,cafe,Himachal Pradesh,,,,,32.2209431,76.319873,OpenStreetMap,node,5021690493,2026-11-26T07:44:32.057036+00:00
+Dhaba (food and bed),restaurant,Himachal Pradesh,,,,,32.8067397,77.4449322,OpenStreetMap,node,5022310824,2026-11-26T07:44:32.057039+00:00
+Utsav dhaba,restaurant,Himachal Pradesh,,,,,32.5710834,77.0309532,OpenStreetMap,node,5022316126,2026-11-26T07:44:32.057042+00:00
+Punjabi dhaba,restaurant,Himachal Pradesh,,,,,32.4135662,77.2358951,OpenStreetMap,node,5022316131,2026-11-26T07:44:32.057044+00:00
+Sunny dhaba,restaurant,Himachal Pradesh,,,,,32.4132171,77.2357599,OpenStreetMap,node,5022316132,2026-11-26T07:44:32.057047+00:00
+SL restaurant,restaurant,Himachal Pradesh,,,,,32.2679453,77.1838788,OpenStreetMap,node,5022331921,2026-11-26T07:44:32.057050+00:00
+Tara Dhaba,fast_food,Himachal Pradesh,,,,,32.264041,77.1877221,OpenStreetMap,node,5025003222,2026-11-26T07:44:32.057053+00:00
+Ice & Spice,restaurant,Himachal Pradesh,,,,,32.2545997,77.1768062,OpenStreetMap,node,5029922121,2026-11-26T07:44:32.057056+00:00
+Lungta restaurant,restaurant,Himachal Pradesh,,,,,32.2355881,76.3269454,OpenStreetMap,node,5030459322,2026-11-26T07:44:32.057059+00:00
+Manu restaurant,restaurant,Himachal Pradesh,,,,,32.2562261,77.1761609,OpenStreetMap,node,5032752227,2026-11-26T07:44:32.057061+00:00
+Desi Street siddu corner,fast_food,Himachal Pradesh,,,,,32.256164,77.1756867,OpenStreetMap,node,5032752228,2026-11-26T07:44:32.057064+00:00
+Manaslu Dhaba,restaurant,Himachal Pradesh,,,,,32.2525329,77.1798353,OpenStreetMap,node,5032752233,2026-11-26T07:44:32.057067+00:00
+Cue cups cafe,cafe,Himachal Pradesh,,,,,32.2525198,77.1799507,OpenStreetMap,node,5032752234,2026-11-26T07:44:32.057070+00:00
+Cafe evergreen,cafe,Himachal Pradesh,,,,,32.2525616,77.1792137,OpenStreetMap,node,5032775926,2026-11-26T07:44:32.057073+00:00
+Maa hadimba dhaba,restaurant,Himachal Pradesh,,,,,32.2515433,77.1806362,OpenStreetMap,node,5032776024,2026-11-26T07:44:32.057075+00:00
+Suraj dhaba,restaurant,Himachal Pradesh,,,,,32.2512998,77.1808022,OpenStreetMap,node,5032776025,2026-11-26T07:44:32.057078+00:00
+Richik's Cafe,cafe,Himachal Pradesh,,,,,32.2527928,77.1795076,OpenStreetMap,node,5032776026,2026-11-26T07:44:32.057081+00:00
+Bites and booze,cafe,Himachal Pradesh,,,,,32.254146,77.177397,OpenStreetMap,node,5033887221,2026-11-26T07:44:32.057084+00:00
+Aggarwal's Bal Gopal Restaurant,restaurant,Himachal Pradesh,,,,,32.2443935,77.1896231,OpenStreetMap,node,5034943523,2026-11-26T07:44:32.057087+00:00
+Dim sum Chinese restaurant,restaurant,Himachal Pradesh,,,,,31.1048801,77.1727356,OpenStreetMap,node,5038648322,2026-11-26T07:44:32.057090+00:00
+Thakur Dhaba,restaurant,Himachal Pradesh,,,,,32.2539816,77.1769161,OpenStreetMap,node,5041247522,2026-11-26T07:44:32.057092+00:00
+Raj tea house by the river,cafe,Himachal Pradesh,,,,,32.008793,77.3169704,OpenStreetMap,node,5042442423,2026-11-26T07:44:32.057096+00:00
+Abu Dhaba,fast_food,Himachal Pradesh,,,,,32.2029207,76.3681401,OpenStreetMap,node,5051736226,2026-11-26T07:44:32.057098+00:00
+Atithi,fast_food,Himachal Pradesh,,,,,32.2026076,76.3679434,OpenStreetMap,node,5051737383,2026-11-26T07:44:32.057101+00:00
+Karma Restaurant,restaurant,Himachal Pradesh,,,,,32.2018653,76.3673475,OpenStreetMap,node,5051737422,2026-11-26T07:44:32.057104+00:00
+The Cafe,cafe,Himachal Pradesh,,,,,32.2351802,76.324262,OpenStreetMap,node,5059830729,2026-11-26T07:44:32.057107+00:00
+Balas homely south cuisine,restaurant,Himachal Pradesh,,,,,32.2342271,76.3247631,OpenStreetMap,node,5059830730,2026-11-26T07:44:32.057110+00:00
+Ashu's Kitchen,restaurant,Himachal Pradesh,,,,,32.2414631,76.3324847,OpenStreetMap,node,5059830731,2026-11-26T07:44:32.057113+00:00
+Nature twins cafe,cafe,Himachal Pradesh,,,,,32.2457674,76.33207,OpenStreetMap,node,5059830736,2026-11-26T07:44:32.057116+00:00
+Kuber fast meals,fast_food,Himachal Pradesh,,,,,31.9600937,77.1088872,OpenStreetMap,node,5059843723,2026-11-26T07:44:32.057118+00:00
+Onder food corner,fast_food,Himachal Pradesh,,,,,31.9590119,77.1092382,OpenStreetMap,node,5059843724,2026-11-26T07:44:32.057121+00:00
+Cafe coffee day,cafe,Himachal Pradesh,,,Dharamshala Road,,32.2140264,76.3171887,OpenStreetMap,node,5059843727,2026-11-26T07:44:32.057124+00:00
+Sandy's kitchen,restaurant,Himachal Pradesh,,,,,32.2442662,76.3349607,OpenStreetMap,node,5059843829,2026-11-26T07:44:32.057127+00:00
+Loop Cafe,cafe,Himachal Pradesh,,,,,32.2463713,76.3320848,OpenStreetMap,node,5059843830,2026-11-26T07:44:32.057130+00:00
+Evergreen Cafe,restaurant,Himachal Pradesh,,,,,32.2485837,76.3290839,OpenStreetMap,node,5059843831,2026-11-26T07:44:32.057133+00:00
+Abhinandan,restaurant,Himachal Pradesh,,,,,32.243195,76.3321431,OpenStreetMap,node,5059843832,2026-11-26T07:44:32.057136+00:00
+Many restaurants!!!,restaurant,Himachal Pradesh,,,,,31.9870525,77.1278471,OpenStreetMap,node,5059844021,2026-11-26T07:44:32.057139+00:00
+Hanging Hut Café,restaurant,Himachal Pradesh,,,,,32.2418158,76.3323787,OpenStreetMap,node,5059844030,2026-11-26T07:44:32.057142+00:00
+Unity Bistro,restaurant,Himachal Pradesh,,,,,32.2460964,76.3318442,OpenStreetMap,node,5059844032,2026-11-26T07:44:32.057144+00:00
+Valentinos cooking with herbs,restaurant,Himachal Pradesh,,,,,31.9452959,77.1098719,OpenStreetMap,node,5059845622,2026-11-26T07:44:32.057148+00:00
+Good Eats,restaurant,Himachal Pradesh,,,,,32.1949667,76.3445857,OpenStreetMap,node,5059845624,2026-11-26T07:44:32.057152+00:00
+Beet Root Café,cafe,Himachal Pradesh,,,,,32.246296,76.3321385,OpenStreetMap,node,5059848922,2026-11-26T07:44:32.057154+00:00
+Tibetan Baby Restaurant,restaurant,Himachal Pradesh,,,,,32.1853955,76.3673692,OpenStreetMap,node,5060216727,2026-11-26T07:44:32.057157+00:00
+Tashi Delek Cafe,restaurant,Himachal Pradesh,,,,,32.2400609,76.3265294,OpenStreetMap,node,5061931722,2026-11-26T07:44:32.057160+00:00
+Tea Shop,fast_food,Himachal Pradesh,,,,,32.2397926,76.3301292,OpenStreetMap,node,5061942421,2026-11-26T07:44:32.057163+00:00
+Snow Lion,cafe,Himachal Pradesh,,,,,32.2383556,76.3239239,OpenStreetMap,node,5074567723,2026-11-26T07:44:32.057166+00:00
+Jyoti Hotel and Restaurant,restaurant,Himachal Pradesh,,,,,32.283295,75.7706079,OpenStreetMap,node,5074567725,2026-11-26T07:44:32.057169+00:00
+Food eating point,restaurant,Himachal Pradesh,,,,,32.2400907,76.3267488,OpenStreetMap,node,5076811523,2026-11-26T07:44:32.057172+00:00
+Sharma store,cafe,Himachal Pradesh,,,,,32.2557564,76.3397817,OpenStreetMap,node,5082082626,2026-11-26T07:44:32.057175+00:00
+Habibis cafe,cafe,Himachal Pradesh,,,,+91 9816999928,32.236438,76.3276759,OpenStreetMap,node,5082089723,2026-11-26T07:44:32.057178+00:00
+Poetry tea cafe,cafe,Himachal Pradesh,,,,,32.2365533,76.3257026,OpenStreetMap,node,5082089725,2026-11-26T07:44:32.057181+00:00
+Kailash restaurant,restaurant,Himachal Pradesh,,,,,32.2383297,76.3241018,OpenStreetMap,node,5082089726,2026-11-26T07:44:32.057184+00:00
+Himalayan Kitchen,restaurant,Himachal Pradesh,,,,,32.2388874,76.3240444,OpenStreetMap,node,5082089727,2026-11-26T07:44:32.057187+00:00
+Vaishno punjabi Dhaba,restaurant,Himachal Pradesh,,,,,32.2389128,76.3240899,OpenStreetMap,node,5082089728,2026-11-26T07:44:32.057190+00:00
+Taste of India,cafe,Himachal Pradesh,,,,,32.2407565,76.3296317,OpenStreetMap,node,5082089729,2026-11-26T07:44:32.057192+00:00
+Raku's bar and cafe,cafe,Himachal Pradesh,,,,,32.2454095,76.3324497,OpenStreetMap,node,5082090124,2026-11-26T07:44:32.057195+00:00
+Cafe moon peak & store,cafe,Himachal Pradesh,,,,,32.2525266,76.3388955,OpenStreetMap,node,5082090126,2026-11-26T07:44:32.057198+00:00
+Anil's Store,cafe,Himachal Pradesh,,,,,32.2614105,76.3547582,OpenStreetMap,node,5082092121,2026-11-26T07:44:32.057201+00:00
+Red Cafe,cafe,Himachal Pradesh,,Palampur,"Bindraban - Neugal Link, 176061",,32.1255396,76.5300211,OpenStreetMap,node,5086148635,2026-11-26T07:44:32.057204+00:00
+Rogue Gliders Pizzeria,restaurant,Himachal Pradesh,,,Chogan Bhattu Link Road,+91 98166 46555,32.0442549,76.7087734,OpenStreetMap,node,5115309440,2026-11-26T07:44:32.057207+00:00
+Café Coffee Day,cafe,Himachal Pradesh,,Palampur,"Palampur - Dharamsala Road, 176061",,32.114046,76.5346479,OpenStreetMap,node,5117032754,2026-11-26T07:44:32.057210+00:00
+Café Jungle Valley,restaurant,Himachal Pradesh,,,,,31.5922073,77.3518433,OpenStreetMap,node,5118633025,2026-11-26T07:44:32.057213+00:00
+Taj Restaurant,restaurant,Himachal Pradesh,,,,,32.1106461,76.536029,OpenStreetMap,node,5126002111,2026-11-26T07:44:32.057216+00:00
+Rana Tea Stall,cafe,Himachal Pradesh,,,,,31.4915753,77.0945939,OpenStreetMap,node,5142976324,2026-11-26T07:44:32.057219+00:00
+Highway Treat,restaurant,Himachal Pradesh,,,,,31.4534212,76.8581279,OpenStreetMap,node,5143411623,2026-11-26T07:44:32.057222+00:00
+Dhauladhar Cafe,cafe,Himachal Pradesh,,,,,32.2827196,76.3645307,OpenStreetMap,node,5150217121,2026-11-26T07:44:32.057225+00:00
+kora,restaurant,Himachal Pradesh,,,,,31.6333039,76.833759,OpenStreetMap,node,5153532040,2026-11-26T07:44:32.057228+00:00
+Food Corner,cafe,Himachal Pradesh,,,,,31.1302781,77.1699892,OpenStreetMap,node,5162759569,2026-11-26T07:44:32.057230+00:00
+paragliding takeoff,restaurant,Himachal Pradesh,,,,,32.2561342,76.3431689,OpenStreetMap,node,5185978723,2026-11-26T07:44:32.057233+00:00
+Sk Food Point,restaurant,Himachal Pradesh,,,,,32.0369919,76.7142293,OpenStreetMap,node,5187524621,2026-11-26T07:44:32.057236+00:00
+The canteen,restaurant,Himachal Pradesh,,,,,32.2263874,76.3256925,OpenStreetMap,node,5190546488,2026-11-26T07:44:32.057239+00:00
+Illiterati Cafe,restaurant,Himachal Pradesh,,,,,32.2310709,76.3268002,OpenStreetMap,node,5190651835,2026-11-26T07:44:32.057242+00:00
+Punjabi tadka,cafe,Himachal Pradesh,,,,,32.2442044,76.3349138,OpenStreetMap,node,5212500221,2026-11-26T07:44:32.057245+00:00
+Delight Tandoori Dhaba,cafe,Himachal Pradesh,,,,,32.2444931,76.3104367,OpenStreetMap,node,5217517522,2026-11-26T07:44:32.057248+00:00
+Shahi Tadka,cafe,Himachal Pradesh,,,,,32.2437202,76.3338673,OpenStreetMap,node,5217517523,2026-11-26T07:44:32.057251+00:00
+View cafe restaurant,restaurant,Himachal Pradesh,,,,,32.2458722,76.3328694,OpenStreetMap,node,5232071721,2026-11-26T07:44:32.057254+00:00
+Saggu Valley Cafe,cafe,Himachal Pradesh,,,,,32.3488916,77.2176942,OpenStreetMap,node,5234747598,2026-11-26T07:44:32.057256+00:00
+Food & bed (Dhaba),restaurant,Himachal Pradesh,,,,,32.7874469,77.3486413,OpenStreetMap,node,5236121150,2026-11-26T07:44:32.057259+00:00
+Blue Sky Restaurant & Guesthouse,cafe,Himachal Pradesh,,,,+919816127571,31.9957853,77.4540405,OpenStreetMap,node,5243074921,2026-11-26T07:44:32.057262+00:00
+Nature View Café,cafe,Himachal Pradesh,,,,,31.9979635,77.4543199,OpenStreetMap,node,5243088922,2026-11-26T07:44:32.057265+00:00
+Himalaya Cafe,fast_food,Himachal Pradesh,,,,,32.0361764,76.7145394,OpenStreetMap,node,5248532727,2026-11-26T07:44:32.057268+00:00
+Tibetan Family Kitchen,restaurant,Himachal Pradesh,,,,,32.0358019,76.7150043,OpenStreetMap,node,5248533945,2026-11-26T07:44:32.057271+00:00
+Tenzin Jamdol Cafe,fast_food,Himachal Pradesh,,,,,32.0362861,76.7142399,OpenStreetMap,node,5248533946,2026-11-26T07:44:32.057274+00:00
+Arduk Cafe,restaurant,Himachal Pradesh,,,,,32.0368757,76.7140332,OpenStreetMap,node,5248533947,2026-11-26T07:44:32.057276+00:00
+Musafir Cafe,cafe,Himachal Pradesh,,,,,32.0369653,76.7224078,OpenStreetMap,node,5248533948,2026-11-26T07:44:32.057279+00:00
+Vairagi Cafe,cafe,Himachal Pradesh,,,,,32.0372541,76.7135167,OpenStreetMap,node,5248534025,2026-11-26T07:44:32.057282+00:00
+Old Monastery Restaurant,restaurant,Himachal Pradesh,,,,9418719839,32.0896764,78.2126088,OpenStreetMap,node,5250637026,2026-11-26T07:44:32.057285+00:00
+Prem Cafe Barshaini,cafe,Himachal Pradesh,,,,,32.000811,77.4426388,OpenStreetMap,node,5261685522,2026-11-26T07:44:32.057288+00:00
+Yogi Cafe,cafe,Himachal Pradesh,,,,,32.0161015,77.3756425,OpenStreetMap,node,5261688922,2026-11-26T07:44:32.057292+00:00
+Chirag Moon Cafe,cafe,Himachal Pradesh,,,,,32.010204,77.3162372,OpenStreetMap,node,5264837126,2026-11-26T07:44:32.057296+00:00
+Tibetan Kitchen,restaurant,Himachal Pradesh,,,,,32.0107569,77.3162097,OpenStreetMap,node,5264837127,2026-11-26T07:44:32.057298+00:00
+Deshu place Highlands Cafe,cafe,Himachal Pradesh,,,,,32.0111358,77.3095744,OpenStreetMap,node,5264853821,2026-11-26T07:44:32.057301+00:00
+Devicos Restaurant & Bar,restaurant,Himachal Pradesh,,,,,31.1053536,77.1707206,OpenStreetMap,node,5265917821,2026-11-26T07:44:32.057304+00:00
+Local thali samosas and chai,fast_food,Himachal Pradesh,,,,,31.2097772,77.4025864,OpenStreetMap,node,5271889524,2026-11-26T07:44:32.057308+00:00
+The tribe cafe,cafe,Himachal Pradesh,,,,,31.1002145,77.2654611,OpenStreetMap,node,5271890025,2026-11-26T07:44:32.057310+00:00
+Local restaurants,fast_food,Himachal Pradesh,,,,,31.9262074,77.1498096,OpenStreetMap,node,5271890027,2026-11-26T07:44:32.057313+00:00
+Restaurant Tibetan,restaurant,Himachal Pradesh,,,,,32.0745639,76.6249792,OpenStreetMap,node,5281543623,2026-11-26T07:44:32.057316+00:00
+Local good dhaba (Sansaru),fast_food,Himachal Pradesh,,,Bhagsu road,,32.2387632,76.3243262,OpenStreetMap,node,5295275634,2026-11-26T07:44:32.057319+00:00
+Malabar restaurant,restaurant,Himachal Pradesh,,,,,32.2385044,76.3238397,OpenStreetMap,node,5482981324,2026-11-26T07:44:32.057322+00:00
+Four Seasons Cafe,restaurant,Himachal Pradesh,,,"405, Jogiwara Road, 176219",+91 98181 02989,32.237564,76.3242268,OpenStreetMap,node,5503328721,2026-11-26T07:44:32.057325+00:00
+Chopsticks,restaurant,Himachal Pradesh,,,,,32.24376,77.1892318,OpenStreetMap,node,5511322838,2026-11-26T07:44:32.057329+00:00
+Bikaner Sweets,restaurant,Himachal Pradesh,,Palampur,"Thakurdwara - Ghuggar Link, 176061",,32.1118696,76.530761,OpenStreetMap,node,5542958953,2026-11-26T07:44:32.057332+00:00
+Fairies cafe,restaurant,Himachal Pradesh,,,,,31.9945069,77.4399172,OpenStreetMap,node,5547546921,2026-11-26T07:44:32.057335+00:00
+Sharma Tea Stall,cafe,Himachal Pradesh,,,,,31.701943,76.9449951,OpenStreetMap,node,5577786691,2026-11-26T07:44:32.057338+00:00
+Delhi Darbar,fast_food,Himachal Pradesh,,,,,31.7008341,76.9427798,OpenStreetMap,node,5577827155,2026-11-26T07:44:32.057340+00:00
+Sharvan Tea Stall,fast_food,Himachal Pradesh,,,,,31.7016819,76.9427703,OpenStreetMap,node,5578016037,2026-11-26T07:44:32.057343+00:00
+Lakxmi Naraim,fast_food,Himachal Pradesh,,,,,31.7044481,76.9399932,OpenStreetMap,node,5578016043,2026-11-26T07:44:32.057346+00:00
+Thakur Dhaba,fast_food,Himachal Pradesh,,,,,31.7052485,76.9383355,OpenStreetMap,node,5578038098,2026-11-26T07:44:32.057349+00:00
+Dawat Bhojnalaya,fast_food,Himachal Pradesh,,,,,31.7052539,76.9383067,OpenStreetMap,node,5578038099,2026-11-26T07:44:32.057352+00:00
+Thakur Juice Corner,fast_food,Himachal Pradesh,,,,,31.7052784,76.9377769,OpenStreetMap,node,5578038103,2026-11-26T07:44:32.057355+00:00
+P.K. Tea Corner,fast_food,Himachal Pradesh,,,,,31.7052731,76.9375152,OpenStreetMap,node,5578038106,2026-11-26T07:44:32.057358+00:00
+Thabu Dhaba,fast_food,Himachal Pradesh,,,,,31.7052731,76.9372568,OpenStreetMap,node,5578084167,2026-11-26T07:44:32.057361+00:00
+Sharma Dhaba,fast_food,Himachal Pradesh,,,,,31.7052708,76.9372705,OpenStreetMap,node,5578084168,2026-11-26T07:44:32.057364+00:00
+Babu Bashnu Dhaba,fast_food,Himachal Pradesh,,,,,31.7052702,76.9372954,OpenStreetMap,node,5578084169,2026-11-26T07:44:32.057367+00:00
+Sher-e-Punjab Dhaba,fast_food,Himachal Pradesh,,,,,31.7052928,76.9371218,OpenStreetMap,node,5578084172,2026-11-26T07:44:32.057370+00:00
+Apana Dhaba,fast_food,Himachal Pradesh,,,,,31.7052955,76.9371609,OpenStreetMap,node,5578084177,2026-11-26T07:44:32.057373+00:00
+Thakur Prashri Dhaba,fast_food,Himachal Pradesh,,,,,31.7053533,76.9369336,OpenStreetMap,node,5578084178,2026-11-26T07:44:32.057375+00:00
+Mandayali Dham-sharma Dhaba,fast_food,Himachal Pradesh,,,,,31.7054692,76.9366222,OpenStreetMap,node,5578084183,2026-11-26T07:44:32.057378+00:00
+Sharma Internet Activity Center,cafe,Himachal Pradesh,,,,,31.7069673,76.9361149,OpenStreetMap,node,5579738041,2026-11-26T07:44:32.057381+00:00
+Saini Fast Food Corner,fast_food,Himachal Pradesh,,,,,31.7069262,76.9361122,OpenStreetMap,node,5579738044,2026-11-26T07:44:32.057384+00:00
+Shivansh Fast Food,fast_food,Himachal Pradesh,,,,,31.7072083,76.9361134,OpenStreetMap,node,5579794482,2026-11-26T07:44:32.057387+00:00
+Fast Food & Vishnu Dhaba,fast_food,Himachal Pradesh,,,,,31.7060031,76.935988,OpenStreetMap,node,5579794488,2026-11-26T07:44:32.057390+00:00
+Suresh Sharma Dhaba,fast_food,Himachal Pradesh,,,,,31.7065913,76.9355684,OpenStreetMap,node,5579794490,2026-11-26T07:44:32.057393+00:00
+Papiua,fast_food,Himachal Pradesh,,,,,31.7064592,76.9346371,OpenStreetMap,node,5579809231,2026-11-26T07:44:32.057396+00:00
+Samirdh 20/20 Fast Food,fast_food,Himachal Pradesh,,,,,31.7068681,76.9333184,OpenStreetMap,node,5579809237,2026-11-26T07:44:32.057399+00:00
+The New Sujan Dhaba Mandi,fast_food,Himachal Pradesh,,,,,31.707189,76.932854,OpenStreetMap,node,5579825207,2026-11-26T07:44:32.057402+00:00
+Deepak Bhojnlaya Dhaba,fast_food,Himachal Pradesh,,,,,31.7071991,76.9328247,OpenStreetMap,node,5579825208,2026-11-26T07:44:32.057405+00:00
+House of Ming Resturant,restaurant,Himachal Pradesh,,,,,31.7084184,76.933505,OpenStreetMap,node,5579850856,2026-11-26T07:44:32.057407+00:00
+Copacabana Bar & Resturant,restaurant,Himachal Pradesh,,,,,31.7084886,76.9335581,OpenStreetMap,node,5579850857,2026-11-26T07:44:32.057410+00:00
+Gupta Tea Stall,fast_food,Himachal Pradesh,,"Mandi, HP",Hospital Road,,31.7083466,76.9285564,OpenStreetMap,node,5580075216,2026-11-26T07:44:32.057413+00:00
+Mahamaya,fast_food,Himachal Pradesh,,"Mandi, HP",Hospital Road,,31.7083016,76.9286614,OpenStreetMap,node,5580075924,2026-11-26T07:44:32.057416+00:00
+Vipan Fast Food Corner,fast_food,Himachal Pradesh,,,,,31.7080457,76.9288867,OpenStreetMap,node,5580075926,2026-11-26T07:44:32.057419+00:00
+Nanhu Chicken,fast_food,Himachal Pradesh,,,,,31.7082972,76.9316168,OpenStreetMap,node,5580141891,2026-11-26T07:44:32.057422+00:00
+Food Point,fast_food,Himachal Pradesh,,,,,31.7077191,76.9304481,OpenStreetMap,node,5581074086,2026-11-26T07:44:32.057425+00:00
+Hunny Tea Stall,fast_food,Himachal Pradesh,,,,,31.7076635,76.9302143,OpenStreetMap,node,5581074087,2026-11-26T07:44:32.057428+00:00
+Mohak Juice Corner,fast_food,Himachal Pradesh,,,,,31.7075922,76.9300247,OpenStreetMap,node,5581074092,2026-11-26T07:44:32.057431+00:00
+Thakur Juice Corner,fast_food,Himachal Pradesh,,,,,31.7075778,76.9299888,OpenStreetMap,node,5581074093,2026-11-26T07:44:32.057434+00:00
+Nuhari Kitchen,fast_food,Himachal Pradesh,,,,,31.7075748,76.9297131,OpenStreetMap,node,5581074100,2026-11-26T07:44:32.057437+00:00
+The Treat Kamand,restaurant,Himachal Pradesh,,,Road to IIT Mandi Kamand Campus,,31.7755979,76.9867114,OpenStreetMap,node,5618601125,2026-11-26T07:44:32.057440+00:00
+Jungle calling,restaurant,Himachal Pradesh,,,,,32.2476755,76.3335108,OpenStreetMap,node,5635303884,2026-11-26T07:44:32.057443+00:00
+Sonam Fast Food,restaurant,Himachal Pradesh,,,,,32.0360314,76.7148327,OpenStreetMap,node,5639720827,2026-11-26T07:44:32.057446+00:00
+June 16 Cafe,restaurant,Himachal Pradesh,,,,,32.0405541,76.7112281,OpenStreetMap,node,5639769036,2026-11-26T07:44:32.057449+00:00
+Ram Bahadur Tea Stall,cafe,Himachal Pradesh,,,"Link Road to Chogan, 176077",,32.0356535,76.7153852,OpenStreetMap,node,5655176321,2026-11-26T07:44:32.057452+00:00
+Sunset Cafe,restaurant,Himachal Pradesh,,,,,32.2584494,76.3245611,OpenStreetMap,node,5660115470,2026-11-26T07:44:32.057455+00:00
+Tibetan resturant,restaurant,Himachal Pradesh,,Dalhousie,176304,,32.5373656,75.982173,OpenStreetMap,node,5666532792,2026-11-26T07:44:32.057459+00:00
+The Manoor,restaurant,Himachal Pradesh,,,,,32.2311848,76.0555859,OpenStreetMap,node,5677605423,2026-11-26T07:44:32.057462+00:00
+Mani ram dhaba,cafe,Himachal Pradesh,,,Naggar Jana road,,32.0546701,77.1723128,OpenStreetMap,node,5701363522,2026-11-26T07:44:32.057465+00:00
+Royal Dhaba,fast_food,Himachal Pradesh,,,,,31.3628003,76.7705201,OpenStreetMap,node,5763464291,2026-11-26T07:44:32.057468+00:00
+Yatindra Dhaba,fast_food,Himachal Pradesh,,,,,31.2836426,76.7578992,OpenStreetMap,node,5763474891,2026-11-26T07:44:32.057470+00:00
+Rama's Eating Point,fast_food,Himachal Pradesh,,,,,31.3646399,76.7687483,OpenStreetMap,node,5763476513,2026-11-26T07:44:32.057473+00:00
+Viraj Dhaba,fast_food,Himachal Pradesh,,,,,31.3618519,76.7688905,OpenStreetMap,node,5763476514,2026-11-26T07:44:32.057476+00:00
+Punjabi Ekant Dhaba,fast_food,Himachal Pradesh,,,,,31.3821008,76.809767,OpenStreetMap,node,5763476516,2026-11-26T07:44:32.057479+00:00
+Tanu Dhaba,fast_food,Himachal Pradesh,,,,,31.4119572,76.8282838,OpenStreetMap,node,5763476520,2026-11-26T07:44:32.057481+00:00
+Golden Dhaba,fast_food,Himachal Pradesh,,,,,31.2854574,76.7589803,OpenStreetMap,node,5763476976,2026-11-26T07:44:32.057484+00:00
+New Shere Punjab,fast_food,Himachal Pradesh,,,,,31.307297,76.7652093,OpenStreetMap,node,5763477035,2026-11-26T07:44:32.057487+00:00
+Rana Dhaba,fast_food,Himachal Pradesh,,,,,31.2791619,76.7602995,OpenStreetMap,node,5763477092,2026-11-26T07:44:32.057490+00:00
+Mehak Bhojanalay,restaurant,Himachal Pradesh,,,,,31.4202234,76.8515482,OpenStreetMap,node,5763479084,2026-11-26T07:44:32.057493+00:00
+The Ashiyana Bar and Restaurant,restaurant,Himachal Pradesh,,,,+91-94180-74981;+91-19-07263981,31.5480347,76.8990887,OpenStreetMap,node,5763479089,2026-11-26T07:44:32.057496+00:00
+Mount View,restaurant,Himachal Pradesh,,,,,31.5117198,77.2193941,OpenStreetMap,node,5766355536,2026-11-26T07:44:32.057498+00:00
+Royal Lush Kitchen,restaurant,Himachal Pradesh,,,,,31.6896951,76.9351071,OpenStreetMap,node,5768020730,2026-11-26T07:44:32.057501+00:00
+Domino's,fast_food,Himachal Pradesh,,,,,31.707563,76.9328511,OpenStreetMap,node,5768020733,2026-11-26T07:44:32.057504+00:00
+Sartaj Bhojanalaya,restaurant,Himachal Pradesh,,,,,31.5874075,76.9226211,OpenStreetMap,node,5770205818,2026-11-26T07:44:32.057507+00:00
+Ashu Tourist Dhaba,restaurant,Himachal Pradesh,,,,,31.2348049,76.7022124,OpenStreetMap,node,5770205836,2026-11-26T07:44:32.057510+00:00
+Jagdambe Tourist Dhaba,restaurant,Himachal Pradesh,,,,,31.234539,76.6996126,OpenStreetMap,node,5770205837,2026-11-26T07:44:32.057513+00:00
+Sharma Dhaba,restaurant,Himachal Pradesh,,,,,31.3745792,76.7923074,OpenStreetMap,node,5770207183,2026-11-26T07:44:32.057516+00:00
+Yellow Chillies,restaurant,Himachal Pradesh,,,,,31.3727921,76.7917576,OpenStreetMap,node,5770207184,2026-11-26T07:44:32.057519+00:00
+Shivansh Bhojanalaya,restaurant,Himachal Pradesh,,,,,31.6407385,76.9450356,OpenStreetMap,node,5770208241,2026-11-26T07:44:32.057522+00:00
+Shiv Shakti Dhaba,restaurant,Himachal Pradesh,,,,,31.2424699,76.7334301,OpenStreetMap,node,5770208519,2026-11-26T07:44:32.057524+00:00
+Satluj Dhaba,restaurant,Himachal Pradesh,,,,,31.4126056,76.8526197,OpenStreetMap,node,5770208554,2026-11-26T07:44:32.057527+00:00
+Royal Dhaba,restaurant,Himachal Pradesh,,,,,31.2284691,76.7773294,OpenStreetMap,node,5770208589,2026-11-26T07:44:32.057530+00:00
+Jyoti Eating Corner,restaurant,Himachal Pradesh,,,,,31.5323225,78.2512085,OpenStreetMap,node,5820177153,2026-11-26T07:44:32.057532+00:00
+Baralacha Cafe,cafe,Himachal Pradesh,,,,,32.7873058,77.3485253,OpenStreetMap,node,5824930255,2026-11-26T07:44:32.057535+00:00
+breakfast lunch dinner,restaurant,Himachal Pradesh,,,,,31.2560113,77.4592685,OpenStreetMap,node,5839437190,2026-11-26T07:44:32.057538+00:00
+"ANNI big city hotel, etc",restaurant,Himachal Pradesh,,,,,31.4347305,77.4183896,OpenStreetMap,node,5841873785,2026-11-26T07:44:32.057540+00:00
+dhaba breakfast lunch,fast_food,Himachal Pradesh,,,,,31.646982,77.3453309,OpenStreetMap,node,5844086187,2026-11-26T07:44:32.057543+00:00
+Funchok Cafe,cafe,Himachal Pradesh,,,,,32.2476482,78.0990908,OpenStreetMap,node,5860718885,2026-11-26T07:44:32.057546+00:00
+Spiti Organic Kitchen - 'World Highest Restaurant (connected by road)',restaurant,Himachal Pradesh,,,,,32.2346519,78.1105426,OpenStreetMap,node,5860719285,2026-11-26T07:44:32.057549+00:00
+Hikkim Himalayan Cafe,cafe,Himachal Pradesh,,,,,32.2473801,78.1003403,OpenStreetMap,node,5860719385,2026-11-26T07:44:32.057552+00:00
+MOMO stand,fast_food,Himachal Pradesh,,,,,32.0106142,77.3160242,OpenStreetMap,node,5863236187,2026-11-26T07:44:32.057554+00:00
+Raj restaurant,restaurant,Himachal Pradesh,,,,,31.9946979,77.4505073,OpenStreetMap,node,5863243985,2026-11-26T07:44:32.057557+00:00
+Kunzom Dhaba,cafe,Himachal Pradesh,,,,,32.4374514,77.7506346,OpenStreetMap,node,5868890586,2026-11-26T07:44:32.057560+00:00
+Sunrise Dhaba,restaurant,Himachal Pradesh,,,,,32.7946946,77.4319742,OpenStreetMap,node,5870983388,2026-11-26T07:44:32.057563+00:00
+Durga Ram Cafe,cafe,Himachal Pradesh,,,Bara Bhanghal Sunni Thach Trail,,32.3225451,76.8130768,OpenStreetMap,node,5871088424,2026-11-26T07:44:32.057566+00:00
+Angithi,restaurant,Himachal Pradesh,,Palampur,"Palampur Kandi Road, 176061",,32.1203873,76.5396521,OpenStreetMap,node,5898435473,2026-11-26T07:44:32.057570+00:00
+North View Dhaba,cafe,Himachal Pradesh,,,,,31.3268375,77.4408844,OpenStreetMap,node,5971545485,2026-11-26T07:44:32.057583+00:00
+Tunna's Book Café,cafe,Himachal Pradesh,,,"Sokni Da Kot, Khanyara, Near H.P. Regional College, Dharamshala, Kangra (HP)",7011307350,32.2051373,76.3696795,OpenStreetMap,node,5982936999,2026-11-26T07:44:32.057586+00:00
+Paloma Bistro,cafe,Himachal Pradesh,,,176077,,32.0411432,76.7106213,OpenStreetMap,node,5999496487,2026-11-26T07:44:32.057590+00:00
+God Valley Cafe,cafe,Himachal Pradesh,,,,,32.0113061,77.3013647,OpenStreetMap,node,6012613685,2026-11-26T07:44:32.057592+00:00
+Blue Umbrella,cafe,Himachal Pradesh,,,,,32.0409999,76.7092289,OpenStreetMap,node,6054124787,2026-11-26T07:44:32.057595+00:00
+Manali Sweets & Bakers,restaurant,Himachal Pradesh,,,"Siyali Mahadev Market, 175 131",,32.2440576,77.1888296,OpenStreetMap,node,6066153686,2026-11-26T07:44:32.057599+00:00
+Himalayan Dhaba,restaurant,Himachal Pradesh,,,,,32.2437191,77.1892149,OpenStreetMap,node,6067870385,2026-11-26T07:44:32.057602+00:00
+Shiva Food Corner,restaurant,Himachal Pradesh,,,,9816319682,31.9965499,77.2447546,OpenStreetMap,node,6072312886,2026-11-26T07:44:32.057605+00:00
+Annie Hotel and Restaurant,restaurant,Himachal Pradesh,,,174013,,31.411634,76.8281452,OpenStreetMap,node,6073225483,2026-11-26T07:44:32.057608+00:00
+Cafe Under Tree,restaurant,Himachal Pradesh,,,,,31.1009448,77.1848558,OpenStreetMap,node,6078167585,2026-11-26T07:44:32.057611+00:00
+Aunty's Chinese Food,restaurant,Himachal Pradesh,,,,,31.104746,77.1724888,OpenStreetMap,node,6078379785,2026-11-26T07:44:32.057614+00:00
+Jalori pass chai stands,fast_food,Himachal Pradesh,,,,,31.5372743,77.3729399,OpenStreetMap,node,6089252390,2026-11-26T07:44:32.057617+00:00
+chai shops & dhaba,fast_food,Himachal Pradesh,,,,,31.6063089,78.4348705,OpenStreetMap,node,6089252992,2026-11-26T07:44:32.057619+00:00
+"Sangham ""hotel""",restaurant,Himachal Pradesh,,,,,31.8042429,78.642624,OpenStreetMap,node,6089252993,2026-11-26T07:44:32.057622+00:00
+roadside dhaba,restaurant,Himachal Pradesh,,,,,31.8396985,78.6314067,OpenStreetMap,node,6089252994,2026-11-26T07:44:32.057625+00:00
+Punjabi Dhaba,restaurant,Himachal Pradesh,,,,,32.0952888,78.3863234,OpenStreetMap,node,6089252998,2026-11-26T07:44:32.057628+00:00
+AM-PM restaurant,cafe,Himachal Pradesh,,,,,32.1614102,76.4068825,OpenStreetMap,node,6089269485,2026-11-26T07:44:32.057631+00:00
+roadside dhaba,restaurant,Himachal Pradesh,,,,,31.7531428,78.6237288,OpenStreetMap,node,6089269487,2026-11-26T07:44:32.057633+00:00
+Dhabi behind cement shop,fast_food,Himachal Pradesh,,,,,32.118298,78.175676,OpenStreetMap,node,6089269489,2026-11-26T07:44:32.057636+00:00
+the pine tree,cafe,Himachal Pradesh,,,,,31.9444877,76.8669011,OpenStreetMap,node,6089269685,2026-11-26T07:44:32.057639+00:00
+Krishan Sweet Shop,restaurant,Himachal Pradesh,,Baijnath,,,32.0498565,76.6462807,OpenStreetMap,node,6121686483,2026-11-26T07:44:32.057642+00:00
+Shri Nangli Sweets,restaurant,Himachal Pradesh,,Palampur,176061,98183 08998,32.1101039,76.5399839,OpenStreetMap,node,6140241846,2026-11-26T07:44:32.057645+00:00
+Gurung Fast Food,fast_food,Himachal Pradesh,,Palampur,"Lohna Surad Road, 176061",,32.1253759,76.5409146,OpenStreetMap,node,6149244732,2026-11-26T07:44:32.057648+00:00
+Tea stall,cafe,Himachal Pradesh,,,,,32.2210442,76.3191387,OpenStreetMap,node,6151494785,2026-11-26T07:44:32.057651+00:00
+Avva- South Indian,restaurant,Himachal Pradesh,,,,,32.0443855,76.7088033,OpenStreetMap,node,6220350585,2026-11-26T07:44:32.057656+00:00
+Thakur Dhaba,restaurant,Himachal Pradesh,,,,,31.6318007,76.8330465,OpenStreetMap,node,6231779285,2026-11-26T07:44:32.057658+00:00
+Dhaba,restaurant,Himachal Pradesh,,,,,32.0355995,76.7153218,OpenStreetMap,node,6239206982,2026-11-26T07:44:32.057661+00:00
+Cafe Buransh,restaurant,Himachal Pradesh,,,,,32.0430804,76.70775,OpenStreetMap,node,6243815448,2026-11-26T07:44:32.057664+00:00
+Mangla Café & Shop,cafe,Himachal Pradesh,,,,,32.0328066,76.7205275,OpenStreetMap,node,6255246607,2026-11-26T07:44:32.057667+00:00
+One two cafe,cafe,Himachal Pradesh,,,,,32.2331509,76.3247025,OpenStreetMap,node,6314630185,2026-11-26T07:44:32.057670+00:00
+Amazing view,cafe,Himachal Pradesh,,,,,32.2553486,76.3261645,OpenStreetMap,node,6317865186,2026-11-26T07:44:32.057672+00:00
+Kalingpong restaurant,restaurant,Himachal Pradesh,,,,,32.2387933,76.3244876,OpenStreetMap,node,6325393485,2026-11-26T07:44:32.057675+00:00
+Seven Hills Of Do-Kkae-Bi,restaurant,Himachal Pradesh,,,,,32.2355787,76.327225,OpenStreetMap,node,6364354205,2026-11-26T07:44:32.057678+00:00
+Boti Dhaba,restaurant,Himachal Pradesh,,,,,32.1854985,76.3669753,OpenStreetMap,node,6393258082,2026-11-26T07:44:32.057681+00:00
+The lodge restaurant,restaurant,Himachal Pradesh,,,,,32.2459555,76.3267835,OpenStreetMap,node,6395357385,2026-11-26T07:44:32.057684+00:00
+Little Chai shop,cafe,Himachal Pradesh,,,,,32.2525102,76.3248305,OpenStreetMap,node,6401885685,2026-11-26T07:44:32.057687+00:00
+Tasty Bite Mandiwala,restaurant,Himachal Pradesh,,,,,31.9560704,77.1089097,OpenStreetMap,node,6403786786,2026-11-26T07:44:32.057690+00:00
+Café Friends Corner,cafe,Himachal Pradesh,,,,,32.2508936,76.3303826,OpenStreetMap,node,6424859587,2026-11-26T07:44:32.057693+00:00
+Vimla Dhaba,restaurant,Himachal Pradesh,,,,,32.0362031,76.7142543,OpenStreetMap,node,6428904365,2026-11-26T07:44:32.057696+00:00
+B&B ॐTara Café,cafe,Himachal Pradesh,,,,+919816879749,32.2466272,76.3294416,OpenStreetMap,node,6440081186,2026-11-26T07:44:32.057699+00:00
+The Flipsyde cafe,cafe,Himachal Pradesh,,,,,32.0184666,77.3266879,OpenStreetMap,node,6447160435,2026-11-26T07:44:32.057702+00:00
+Rana Ji - No. 1 chole,fast_food,Himachal Pradesh,,,,,32.2582296,77.1877909,OpenStreetMap,node,6463706694,2026-11-26T07:44:32.057705+00:00
+Lokeshwar Fast Food,fast_food,Himachal Pradesh,,Bakloh,"Kakira to Ghatasani, 176301",,32.4664336,75.9316647,OpenStreetMap,node,6464428657,2026-11-26T07:44:32.057708+00:00
+The Clay Oven,restaurant,Himachal Pradesh,,,,,32.2385701,76.3243511,OpenStreetMap,node,6467100123,2026-11-26T07:44:32.057711+00:00
+Peace Cafe,cafe,Himachal Pradesh,,,,,32.2479364,76.3388027,OpenStreetMap,node,6467100556,2026-11-26T07:44:32.057713+00:00
+OM Cafe,cafe,Himachal Pradesh,,,,,32.2462554,76.3364965,OpenStreetMap,node,6467101605,2026-11-26T07:44:32.057716+00:00
+Adventure Cafe,cafe,Himachal Pradesh,,,,,32.2451139,76.3351235,OpenStreetMap,node,6467102037,2026-11-26T07:44:32.057719+00:00
+The Corner House,restaurant,Himachal Pradesh,,,,,32.2455593,77.1896022,OpenStreetMap,node,6474788885,2026-11-26T07:44:32.057722+00:00
+O,restaurant,Himachal Pradesh,,,,,32.2530837,77.1767492,OpenStreetMap,node,6475501186,2026-11-26T07:44:32.057725+00:00
+Munchies,restaurant,Himachal Pradesh,,,,,32.2460036,76.331967,OpenStreetMap,node,6485189185,2026-11-26T07:44:32.057728+00:00
+Boom Shiva Cafe,cafe,Himachal Pradesh,,,,,32.0123147,77.4501393,OpenStreetMap,node,6488145885,2026-11-26T07:44:32.057731+00:00
+Pink Floyd Cafe,cafe,Himachal Pradesh,,,,,32.0163904,77.4525357,OpenStreetMap,node,6488146085,2026-11-26T07:44:32.057734+00:00
+Jashan,restaurant,Himachal Pradesh,,,,,31.1040385,77.1754578,OpenStreetMap,node,6499784515,2026-11-26T07:44:32.057736+00:00
+pizza pinos,restaurant,Himachal Pradesh,,,,,31.1040587,77.1755014,OpenStreetMap,node,6499793264,2026-11-26T07:44:32.057739+00:00
+Jain's Haveli,restaurant,Himachal Pradesh,,,,,31.7334024,76.0954656,OpenStreetMap,node,6499802370,2026-11-26T07:44:32.057742+00:00
+Aarti Punjabi Vaishno Dhaba,restaurant,Himachal Pradesh,,,,,31.7195685,76.0909774,OpenStreetMap,node,6499802374,2026-11-26T07:44:32.057745+00:00
+Kangrawala,restaurant,Himachal Pradesh,,,,,31.8241542,76.158623,OpenStreetMap,node,6499968613,2026-11-26T07:44:32.057747+00:00
+Udupiwala,restaurant,Himachal Pradesh,,,,,31.8239884,76.1585889,OpenStreetMap,node,6499968614,2026-11-26T07:44:32.057750+00:00
+Sharma Punjabi Dhaba,restaurant,Himachal Pradesh,,,,+91-98161-80583;+91-85447-31799,32.0190281,76.229295,OpenStreetMap,node,6500559457,2026-11-26T07:44:32.057753+00:00
+The Willow Tree,restaurant,Himachal Pradesh,,,,,32.1853085,76.3668904,OpenStreetMap,node,6502326421,2026-11-26T07:44:32.057756+00:00
+Mangat Ram Fast Food Corner,fast_food,Himachal Pradesh,,,,+91-82628-03171,32.2540358,76.3028477,OpenStreetMap,node,6503326546,2026-11-26T07:44:32.057759+00:00
+Naddi Mountain Cafe,cafe,Himachal Pradesh,,,,+91-97361-97472,32.2527372,76.3025022,OpenStreetMap,node,6503326548,2026-11-26T07:44:32.057762+00:00
+Mountain Cafe,fast_food,Himachal Pradesh,,,,,32.2552268,76.3027453,OpenStreetMap,node,6503326549,2026-11-26T07:44:32.057765+00:00
+Naddi Bakery and Coffee,cafe,Himachal Pradesh,,,,,32.252772,76.3025272,OpenStreetMap,node,6503326564,2026-11-26T07:44:32.057768+00:00
+Kikar Singh Tea Stall,cafe,Himachal Pradesh,,Bakloh,"Kamladi, SH 28, 176301",,32.4684314,75.9189948,OpenStreetMap,node,6505797653,2026-11-26T07:44:32.057771+00:00
+Cafe Funky Town,cafe,Himachal Pradesh,,Chowari,"Chamba Via Chowari Jot, 176302",,32.4364021,76.0098216,OpenStreetMap,node,6505817153,2026-11-26T07:44:32.057774+00:00
+Pathankotia da Dhaba,restaurant,Himachal Pradesh,,,,,32.2208321,76.1180532,OpenStreetMap,node,6506250696,2026-11-26T07:44:32.057777+00:00
+Manerang Fast food corner,fast_food,Himachal Pradesh,,,,,32.0605601,78.2194709,OpenStreetMap,node,6512527385,2026-11-26T07:44:32.057780+00:00
+Nyingma Cafe,cafe,Himachal Pradesh,,,,,32.0350975,76.7146489,OpenStreetMap,node,6518278343,2026-11-26T07:44:32.057782+00:00
+Food and fun,fast_food,Himachal Pradesh,,,,,31.9790195,77.1271848,OpenStreetMap,node,6520731685,2026-11-26T07:44:32.057785+00:00
+Maa Hadimba Dhaba,restaurant,Himachal Pradesh,,,,,32.2551622,77.176884,OpenStreetMap,node,6521362486,2026-11-26T07:44:32.057788+00:00
+Pindi Kitchen,restaurant,Himachal Pradesh,,,,,32.0413382,76.7101224,OpenStreetMap,node,6535628074,2026-11-26T07:44:32.057791+00:00
+Magic Mountain,restaurant,Himachal Pradesh,,,,,32.2475319,76.3318894,OpenStreetMap,node,6536464685,2026-11-26T07:44:32.057794+00:00
+Southern Souls,restaurant,Himachal Pradesh,,,"Hadimba Road, 175131",+919885210212,32.2467576,77.1796275,OpenStreetMap,node,6536909885,2026-11-26T07:44:32.057797+00:00
+Maya Café,cafe,Himachal Pradesh,,,,+919816897518,32.0128045,77.2981567,OpenStreetMap,node,6551329485,2026-11-26T07:44:32.057800+00:00
+Jeewan Restaurant,restaurant,Himachal Pradesh,,,,,32.0989722,76.1458544,OpenStreetMap,node,6563079782,2026-11-26T07:44:32.057803+00:00
+Mukesh Fast Food,fast_food,Himachal Pradesh,,,,,32.0730567,76.1365172,OpenStreetMap,node,6563087244,2026-11-26T07:44:32.057806+00:00
+Local dhabba,restaurant,Himachal Pradesh,,,,,32.2303,77.2176078,OpenStreetMap,node,6564283787,2026-11-26T07:44:32.057808+00:00
+4H Canteen,restaurant,Himachal Pradesh,,,,,31.7107641,76.5269231,OpenStreetMap,node,6583761380,2026-11-26T07:44:32.057811+00:00
+Kala Momo Shop,fast_food,Himachal Pradesh,,,,,32.219478,76.3187408,OpenStreetMap,node,6591544828,2026-11-26T07:44:32.057814+00:00
+Monal Restaurant,restaurant,Himachal Pradesh,,,,,32.2196693,76.3183614,OpenStreetMap,node,6591606124,2026-11-26T07:44:32.057817+00:00
+La pizzeria,restaurant,Himachal Pradesh,,,,,31.8817555,78.6282078,OpenStreetMap,node,6603308585,2026-11-26T07:44:32.057820+00:00
+R Rudra Cafe,fast_food,Himachal Pradesh,,,,,32.185505,76.3664907,OpenStreetMap,node,6606096933,2026-11-26T07:44:32.057822+00:00
+Melted Cheese Cafe,cafe,Himachal Pradesh,,,,,32.2003817,76.3212677,OpenStreetMap,node,6610278291,2026-11-26T07:44:32.057825+00:00
+Tandoori Bites,cafe,Himachal Pradesh,,,,,32.2003218,76.3212481,OpenStreetMap,node,6610278300,2026-11-26T07:44:32.057828+00:00
+Hiway Hunger,fast_food,Himachal Pradesh,,,,+91-98168-70273;+91-83518-70273,32.096014,76.2749803,OpenStreetMap,node,6611356236,2026-11-26T07:44:32.057831+00:00
+RK Restaurant,restaurant,Himachal Pradesh,,,,,32.1747546,76.3594303,OpenStreetMap,node,6611683664,2026-11-26T07:44:32.057834+00:00
+Gatheround - Lebanese,restaurant,Himachal Pradesh,,,,,32.2514323,76.3309234,OpenStreetMap,node,6621967285,2026-11-26T07:44:32.057837+00:00
+Embassy cafe,restaurant,Himachal Pradesh,,,,,31.1015152,77.1769095,OpenStreetMap,node,6644313513,2026-11-26T07:44:32.057840+00:00
+Kora Restaurant,restaurant,Himachal Pradesh,,,,,32.2327188,76.3247448,OpenStreetMap,node,6648435986,2026-11-26T07:44:32.057843+00:00
+Hope Café,restaurant,Himachal Pradesh,,,,,31.5915703,77.3510326,OpenStreetMap,node,6652676994,2026-11-26T07:44:32.057845+00:00
+Trekkers Cafe,restaurant,Himachal Pradesh,,,,,32.2394671,76.325649,OpenStreetMap,node,6660602386,2026-11-26T07:44:32.057848+00:00
+Night Owl Cafe,cafe,Himachal Pradesh,,,,,32.2388191,76.3247246,OpenStreetMap,node,6673771485,2026-11-26T07:44:32.057851+00:00
+Cafe 5060,cafe,Himachal Pradesh,,,,,32.2548773,76.3262126,OpenStreetMap,node,6681596825,2026-11-26T07:44:32.057854+00:00
+Tibet Cafe,restaurant,Himachal Pradesh,,,,,32.2581345,77.1764008,OpenStreetMap,node,6683442586,2026-11-26T07:44:32.057857+00:00
+Krishna Dhaba,restaurant,Himachal Pradesh,,,,,32.2563734,77.1758411,OpenStreetMap,node,6696659286,2026-11-26T07:44:32.057860+00:00
+Khyber,restaurant,Himachal Pradesh,,,The Mall Road,+911902251972,32.2457107,77.18965,OpenStreetMap,node,6698833007,2026-11-26T07:44:32.057864+00:00
+Sukha  art and cafe,restaurant,Himachal Pradesh,,,,,32.2525368,77.1789553,OpenStreetMap,node,6698870139,2026-11-26T07:44:32.057867+00:00
+Organic Thali,restaurant,Himachal Pradesh,,,,+919530516039,32.2477633,76.3261112,OpenStreetMap,node,6737844985,2026-11-26T07:44:32.057870+00:00
+1947,cafe,Himachal Pradesh,,,,,31.5374763,77.409965,OpenStreetMap,node,6763377287,2026-11-26T07:44:32.057873+00:00
+Night stay,cafe,Himachal Pradesh,,,,,31.5371398,77.4129262,OpenStreetMap,node,6763426285,2026-11-26T07:44:32.057875+00:00
+Rockstar,cafe,Himachal Pradesh,,,,,31.5380544,77.4143513,OpenStreetMap,node,6763637085,2026-11-26T07:44:32.057878+00:00
+Barista,cafe,Himachal Pradesh,,,,,32.2441968,77.1869576,OpenStreetMap,node,6765844087,2026-11-26T07:44:32.057881+00:00
+Vee,cafe,Himachal Pradesh,,,,,32.0238046,77.4635653,OpenStreetMap,node,6768797702,2026-11-26T07:44:32.057884+00:00
+Paras,cafe,Himachal Pradesh,,,,,32.0237633,77.4635047,OpenStreetMap,node,6768797703,2026-11-26T07:44:32.057887+00:00
+Nirvana deluxe dhaba,restaurant,Himachal Pradesh,,,,,32.2645721,77.1878658,OpenStreetMap,node,6771974685,2026-11-26T07:44:32.057890+00:00
+Naresh Dhaba,restaurant,Himachal Pradesh,,,,,32.0377092,76.8452447,OpenStreetMap,node,6782059045,2026-11-26T07:44:32.057892+00:00
+Café Kunzom Top,restaurant,Himachal Pradesh,,,,,32.072487,78.2160103,OpenStreetMap,node,6794910287,2026-11-26T07:44:32.057896+00:00
+Sun flower cafe,cafe,Himachal Pradesh,,,,,31.9972866,77.4942629,OpenStreetMap,node,6807606397,2026-11-26T07:44:32.057898+00:00
+Sunshine,restaurant,Himachal Pradesh,,,,,32.0099867,77.3123782,OpenStreetMap,node,6832259327,2026-11-26T07:44:32.057901+00:00
+In the way,restaurant,Himachal Pradesh,,,,,32.3316448,77.3440323,OpenStreetMap,node,6839471885,2026-11-26T07:44:32.057904+00:00
+Tandon Dhaba,restaurant,Himachal Pradesh,,,,,32.4807306,76.0454364,OpenStreetMap,node,6856538175,2026-11-26T07:44:32.057907+00:00
+Rajput Punjabi Dhaba,restaurant,Himachal Pradesh,,,,,32.4807306,76.0454364,OpenStreetMap,node,6856586327,2026-11-26T07:44:32.057909+00:00
+Tilak Tea Stall,cafe,Himachal Pradesh,,,,,32.4692625,76.7040369,OpenStreetMap,node,6860142973,2026-11-26T07:44:32.057912+00:00
+Theti Ram Tea Stall,cafe,Himachal Pradesh,,,,,32.472529,76.6890859,OpenStreetMap,node,6860142988,2026-11-26T07:44:32.057915+00:00
+Moti Ka Dhaba,restaurant,Himachal Pradesh,,,Bharmour Hadsar Road,,32.454136,76.6136157,OpenStreetMap,node,6872666103,2026-11-26T07:44:32.057918+00:00
+Pappu Dhaba and Stay,restaurant,Himachal Pradesh,,,Dhanchho Hadsar Path,,32.4249705,76.606244,OpenStreetMap,node,6873095030,2026-11-26T07:44:32.057921+00:00
+The Angle,fast_food,Himachal Pradesh,,,,,32.2456897,76.3105023,OpenStreetMap,node,6884539185,2026-11-26T07:44:32.057924+00:00
+Altitude Canvas Cafe,restaurant,Himachal Pradesh,,,,,32.0315138,76.7211554,OpenStreetMap,node,6950165745,2026-11-26T07:44:32.057927+00:00
+Slothy's,restaurant,Himachal Pradesh,,,,,32.0375355,76.717715,OpenStreetMap,node,6950191121,2026-11-26T07:44:32.057930+00:00
+Good cheap easy,restaurant,Himachal Pradesh,,,,,32.2255454,76.1542162,OpenStreetMap,node,6987626373,2026-11-26T07:44:32.057933+00:00
+Simple Fast Food,fast_food,Himachal Pradesh,,,,,32.0410915,76.7105876,OpenStreetMap,node,7053861446,2026-11-26T07:44:32.057935+00:00
+Cho Cho's,fast_food,Himachal Pradesh,,,,,32.04106,76.7105869,OpenStreetMap,node,7053871260,2026-11-26T07:44:32.057938+00:00
+Zojila Cafe,restaurant,Himachal Pradesh,,,,,32.2670376,77.1806053,OpenStreetMap,node,7055880986,2026-11-26T07:44:32.057941+00:00
+Maa Hadimba Dhaba,restaurant,Himachal Pradesh,,,,,32.2528221,77.17947,OpenStreetMap,node,7055881086,2026-11-26T07:44:32.057944+00:00
+Bhoomi Cafe & Bakery,restaurant,Himachal Pradesh,,,,,32.037419,76.7126785,OpenStreetMap,node,7062658439,2026-11-26T07:44:32.057947+00:00
+Nyingma Restaurant,restaurant,Himachal Pradesh,,,,,32.0353578,76.7148122,OpenStreetMap,node,7066426987,2026-11-26T07:44:32.057949+00:00
+Bir Bakehouse,restaurant,Himachal Pradesh,,,,,32.041239,76.7101475,OpenStreetMap,node,7066452102,2026-11-26T07:44:32.057952+00:00
+Lucknow Foods,cafe,Himachal Pradesh,,,,,31.7841114,76.9979447,OpenStreetMap,node,7123093770,2026-11-26T07:44:32.057955+00:00
+The Treat Kamand,cafe,Himachal Pradesh,,,,,31.7765491,76.988428,OpenStreetMap,node,7123104026,2026-11-26T07:44:32.057958+00:00
+Saggu Cafe,cafe,Himachal Pradesh,,,,,32.3183425,77.1924031,OpenStreetMap,node,7628627067,2026-11-26T07:44:32.057960+00:00
+Cafe Kothi Haveli,cafe,Himachal Pradesh,,,,,32.3166942,77.1888683,OpenStreetMap,node,7628627068,2026-11-26T07:44:32.057963+00:00
+Aapno Rajasthan,cafe,Himachal Pradesh,,,,,32.3167151,77.1891797,OpenStreetMap,node,7628627069,2026-11-26T07:44:32.057966+00:00
+Yash Cafe,cafe,Himachal Pradesh,,,,,32.3170422,77.187581,OpenStreetMap,node,7628627070,2026-11-26T07:44:32.057968+00:00
+Rothang Manali Cafe,cafe,Himachal Pradesh,,,,,32.3171558,77.18722,OpenStreetMap,node,7628627071,2026-11-26T07:44:32.057971+00:00
+Snow View,restaurant,Himachal Pradesh,,,,,32.3169734,77.1869793,OpenStreetMap,node,7628627072,2026-11-26T07:44:32.057974+00:00
+Stupa Restaurant,restaurant,Himachal Pradesh,,,,,32.0522014,76.6864988,OpenStreetMap,node,7682463211,2026-11-26T07:44:32.057977+00:00
+Rodeway Inn,restaurant,Himachal Pradesh,,,,,32.1106323,76.3061906,OpenStreetMap,node,8046772868,2026-11-26T07:44:32.057979+00:00
+COCOSTAY,cafe,Himachal Pradesh,,himachal pradesh,"kh1339, Hurludhar, kasol, 175105",9654857525,32.0077225,77.2912087,OpenStreetMap,node,8329609129,2026-11-26T07:44:32.057982+00:00
+Off-Road Cafe & Pizzeria;Himalayan Adrenaline,cafe,Himachal Pradesh,,Palampur,"Raipur Tea Estate, PO Thakurdwara, 176102",+919769947009,32.073627,76.5060403,OpenStreetMap,node,8780679265,2026-11-26T07:44:32.057986+00:00
+Beej,cafe,Himachal Pradesh,,,"009, Manu Mandir Road, 175131",+91 78911 10004,32.2575219,77.1785333,OpenStreetMap,node,8855179517,2026-11-26T07:44:32.057989+00:00
+Dhaba,restaurant,Himachal Pradesh,,,,,32.8344491,77.1568453,OpenStreetMap,node,8893634496,2026-11-26T07:44:32.057992+00:00
+Sachin Dhaba,restaurant,Himachal Pradesh,,,,,31.6563206,78.3808934,OpenStreetMap,node,9041014275,2026-11-26T07:44:32.057995+00:00
+Jivan Dhaba,restaurant,Himachal Pradesh,,,,,31.595144,78.3623698,OpenStreetMap,node,9041014277,2026-11-26T07:44:32.057998+00:00
+The Mystic Garden Cafe Jibhi,cafe,Himachal Pradesh,,Jibhi,"opposite SBI bank, Main Market, 175123",07973536596,31.5917236,77.3511149,OpenStreetMap,node,9078878546,2026-11-26T07:44:32.058000+00:00
+Cafe,restaurant,Himachal Pradesh,,,,,32.0893512,77.2835529,OpenStreetMap,node,9117100455,2026-11-26T07:44:32.058003+00:00
+Cafe,restaurant,Himachal Pradesh,,,,,32.0914724,77.2857634,OpenStreetMap,node,9117109308,2026-11-26T07:44:32.058006+00:00
+Dhaba,restaurant,Himachal Pradesh,,,,,32.0649179,77.2697911,OpenStreetMap,node,9117117208,2026-11-26T07:44:32.058009+00:00
+Cafe,restaurant,Himachal Pradesh,,,,,31.9140387,77.0636718,OpenStreetMap,node,9220823383,2026-11-26T07:44:32.058012+00:00
+Ankit Dhaba,restaurant,Himachal Pradesh,,,,,32.248502,77.183587,OpenStreetMap,node,9220855078,2026-11-26T07:44:32.058014+00:00
+Paramount Cafe,cafe,Himachal Pradesh,,,,9805526021,31.5378823,77.4187101,OpenStreetMap,node,9260966739,2026-11-26T07:44:32.058017+00:00
+The Deox Cafe,cafe,Himachal Pradesh,,manali,"Temple rd, Vashisth, Opposite Bhrigu Hotel, Manali-Leh, 175103",+91 639 403 5761,32.262919,77.1883382,OpenStreetMap,node,9332032241,2026-11-26T07:44:32.058021+00:00
+The Chill Village Cafe,cafe,Himachal Pradesh,,,"Chaltuni Village, 176305",,32.5057539,75.9711492,OpenStreetMap,node,9340241117,2026-11-26T07:44:32.058024+00:00
+Mud House,cafe,Himachal Pradesh,,,"Chhatiara, Panchpulla, 176304",,32.524342,75.9869954,OpenStreetMap,node,9348740217,2026-11-26T07:44:32.058028+00:00
+Royal Camping & Cafe,cafe,Himachal Pradesh,,Manali,"bhanu Pul Street, Hotel Sun & Snow Road, 175143",+919310616842,32.2097789,77.1922815,OpenStreetMap,node,9360847477,2026-11-26T07:44:32.058031+00:00
+Shivalingam Cafe,cafe,Himachal Pradesh,,,"Dhurehr Road, 176061",,32.1295896,76.5218886,OpenStreetMap,node,9385506917,2026-11-26T07:44:32.058035+00:00
+Negi Dhaba,restaurant,Himachal Pradesh,,,,,31.1978452,78.0564808,OpenStreetMap,node,9457861559,2026-11-26T07:44:32.058038+00:00
+Sundowner Café,cafe,Himachal Pradesh,,,,,32.2577317,76.324808,OpenStreetMap,node,9698304638,2026-11-26T07:44:32.058040+00:00
+Home of tribes,cafe,Himachal Pradesh,,,,,31.9950854,77.4371842,OpenStreetMap,node,9700276287,2026-11-26T07:44:32.058044+00:00
+Radha Krishna Vaishno Dhaba,restaurant,Himachal Pradesh,,,174302,,31.5566274,76.2003955,OpenStreetMap,node,9722233217,2026-11-26T07:44:32.058047+00:00
+Dadu‘s cafe,cafe,Himachal Pradesh,,,,,31.7657435,77.341534,OpenStreetMap,node,9725690341,2026-11-26T07:44:32.058050+00:00
+SLV,fast_food,Himachal Pradesh,,,,,32.5719428,77.0253345,OpenStreetMap,node,9754369226,2026-11-26T07:44:32.058053+00:00
+Climbers cafe,cafe,Himachal Pradesh,,,,,32.5714355,77.0296315,OpenStreetMap,node,9754555066,2026-11-26T07:44:32.058056+00:00
+cafe 420 kasol,cafe,Himachal Pradesh,,kullu,"kasol, private road to cafe 420, 175105",8847282420,32.0098549,77.3109584,OpenStreetMap,node,9773355029,2026-11-26T07:44:32.058059+00:00
+Morgan's Place,restaurant,Himachal Pradesh,,,,919736087955,32.2511736,76.3285486,OpenStreetMap,node,9796243120,2026-11-26T07:44:32.058062+00:00
+Rains Coffee House,cafe,Himachal Pradesh,,,,9805037035,32.2514735,76.3290759,OpenStreetMap,node,9802962617,2026-11-26T07:44:32.058065+00:00
+Dhabha,restaurant,Himachal Pradesh,,,,,32.6740865,77.2062861,OpenStreetMap,node,9825595675,2026-11-26T07:44:32.058068+00:00
+The Chai Trail,cafe,Himachal Pradesh,,,,,32.1156317,77.1680346,OpenStreetMap,node,9872141617,2026-11-26T07:44:32.058071+00:00
+Serchu Cafe,cafe,Himachal Pradesh,,,,,32.4378976,77.7499431,OpenStreetMap,node,9901636117,2026-11-26T07:44:32.058074+00:00
+Rishi's Cafe,cafe,Himachal Pradesh,,,,,32.254188,77.1775648,OpenStreetMap,node,9901912217,2026-11-26T07:44:32.058076+00:00
+Rahul Bodh,restaurant,Himachal Pradesh,,,,,32.5033856,77.0517624,OpenStreetMap,node,9914807618,2026-11-26T07:44:32.058080+00:00
+Cafe Kullvi,cafe,Himachal Pradesh,,,,,32.097351,77.128886,OpenStreetMap,node,9950511317,2026-11-26T07:44:32.058082+00:00
+Pappu Cafe,restaurant,Himachal Pradesh,,,,,32.2671027,77.1870048,OpenStreetMap,node,9953060817,2026-11-26T07:44:32.058085+00:00
+Hill Valley Family Dhaba,restaurant,Himachal Pradesh,,,,,31.7608244,76.2128544,OpenStreetMap,node,9954205507,2026-11-26T07:44:32.058088+00:00
+Anku Da Dhaba,restaurant,Himachal Pradesh,,,,,31.7448622,76.1934135,OpenStreetMap,node,9954212879,2026-11-26T07:44:32.058091+00:00
+Dylan’s Toasted & Roasted Coffee House,cafe,Himachal Pradesh,,,,,32.2527942,77.1782382,OpenStreetMap,node,9956316417,2026-11-26T07:44:32.058094+00:00
+Noodles,restaurant,Himachal Pradesh,,,,,32.2438202,77.1892389,OpenStreetMap,node,9959557217,2026-11-26T07:44:32.058098+00:00
+Rustic Wood | Bar & Grill,restaurant,Himachal Pradesh,,Kullu,"Behind Kala Kendra Road, 175101",+91 9882238000,31.9558355,77.1087044,OpenStreetMap,node,9961258880,2026-11-26T07:44:32.058101+00:00
+Sol the brew house,restaurant,Himachal Pradesh,,Shimla,"5th Floor, Hotel Combermere, Mall Road, 171001",,31.1020798,77.177218,OpenStreetMap,node,9969228474,2026-11-26T07:44:32.058104+00:00
+Zomsa Cafe,restaurant,Himachal Pradesh,,,,,32.2246058,78.0728939,OpenStreetMap,node,9971731517,2026-11-26T07:44:32.058108+00:00
+K2 Dhaba,restaurant,Himachal Pradesh,,,,,32.9071021,77.5824112,OpenStreetMap,node,9980092068,2026-11-26T07:44:32.058110+00:00
+Tiger Den Restaurant,restaurant,Himachal Pradesh,,,,,32.0934046,78.3835207,OpenStreetMap,node,9994215917,2026-11-26T07:44:32.058113+00:00
+Little Chef,restaurant,Himachal Pradesh,,,,,31.5410328,78.2708036,OpenStreetMap,node,9999854417,2026-11-26T07:44:32.058116+00:00
+Yoga Cafe & Sauna,cafe,Himachal Pradesh,,,,,32.2651583,77.1799603,OpenStreetMap,node,10008859058,2026-11-26T07:44:32.058119+00:00
+Pin valley dhaba,restaurant,Himachal Pradesh,,,,,32.0439255,78.0901096,OpenStreetMap,node,10019207387,2026-11-26T07:44:32.058122+00:00
+Tea stall,cafe,Himachal Pradesh,,,,,31.7647686,77.3310295,OpenStreetMap,node,10038974423,2026-11-26T07:44:32.058125+00:00
+Shanti Cafe,cafe,Himachal Pradesh,,,,,32.0116817,77.3048928,OpenStreetMap,node,10053221503,2026-11-26T07:44:32.058128+00:00
+Gravity Cafe,cafe,Himachal Pradesh,,,,,32.009637,77.2907743,OpenStreetMap,node,10053400517,2026-11-26T07:44:32.058131+00:00
+Moon Light Cafe,cafe,Himachal Pradesh,,,,,32.0135494,77.3002376,OpenStreetMap,node,10053812679,2026-11-26T07:44:32.058133+00:00
+Food Junction,cafe,Himachal Pradesh,,,,,32.0125147,77.3027729,OpenStreetMap,node,10053885913,2026-11-26T07:44:32.058136+00:00
+Buddha Place,cafe,Himachal Pradesh,,,,,32.0091738,77.3167593,OpenStreetMap,node,10055950314,2026-11-26T07:44:32.058139+00:00
+Dev Raj,restaurant,Himachal Pradesh,,,,,31.9951992,77.4384995,OpenStreetMap,node,10097428417,2026-11-26T07:44:32.058142+00:00
+Yetis Cafe,cafe,Himachal Pradesh,,,,,31.2934475,77.5018443,OpenStreetMap,node,10099602851,2026-11-26T07:44:32.058145+00:00
+Amar Vaishno Dhaba,restaurant,Himachal Pradesh,,,,,31.7185941,76.0933028,OpenStreetMap,node,10129449387,2026-11-26T07:44:32.058147+00:00
+Dhaba,cafe,Himachal Pradesh,,,,,32.9919845,76.2116513,OpenStreetMap,node,10222681282,2026-11-26T07:44:32.058150+00:00
+Thadi Hills,restaurant,Himachal Pradesh,,Narag,"Thadi Hills, 173024",,30.8348442,77.1871772,OpenStreetMap,node,10294969963,2026-11-26T07:44:32.058153+00:00
+Molly’s cafe,cafe,Himachal Pradesh,,,,,32.2523889,76.329604,OpenStreetMap,node,10561935525,2026-11-26T07:44:32.058156+00:00
+Himalayan musfair Cafe and Stay,cafe,Himachal Pradesh,,,,,32.2803509,76.2816003,OpenStreetMap,node,10574302488,2026-11-26T07:44:32.058159+00:00
+Crossover cafe,cafe,Himachal Pradesh,,,,,32.2484304,76.3293738,OpenStreetMap,node,10578901775,2026-11-26T07:44:32.058162+00:00
+Astral Cafe,cafe,Himachal Pradesh,,,,,32.2457108,76.3328274,OpenStreetMap,node,10578955070,2026-11-26T07:44:32.058165+00:00
+Himalayan Monk,restaurant,Himachal Pradesh,,,,,32.0440199,76.7124385,OpenStreetMap,node,10753338922,2026-11-26T07:44:32.058168+00:00
+Northern Cafe,restaurant,Himachal Pradesh,,,,,32.0429512,76.7121436,OpenStreetMap,node,10753338923,2026-11-26T07:44:32.058171+00:00
+Side Café,fast_food,Himachal Pradesh,,,,,32.2711635,76.2996969,OpenStreetMap,node,10768456406,2026-11-26T07:44:32.058174+00:00
+Meating Point - Cheap Food,fast_food,Himachal Pradesh,,,,,32.2451822,76.3327002,OpenStreetMap,node,10773438705,2026-11-26T07:44:32.058176+00:00
+Bir High,restaurant,Himachal Pradesh,,,,+917807450011,32.0433503,76.7081791,OpenStreetMap,node,10781475640,2026-11-26T07:44:32.058179+00:00
+Old School Cafe,cafe,Himachal Pradesh,,,,,32.0396683,76.710774,OpenStreetMap,node,10821741001,2026-11-26T07:44:32.058182+00:00
+Hungry Point,fast_food,Himachal Pradesh,,,,,30.439551,77.6226723,OpenStreetMap,node,10845006845,2026-11-26T07:44:32.058185+00:00
+Ivory Kitchen,restaurant,Himachal Pradesh,,,,,32.2653697,77.1877302,OpenStreetMap,node,10893746005,2026-11-26T07:44:32.058188+00:00
+Coftales and Dreams,cafe,Himachal Pradesh,,,,,32.2552472,77.1768822,OpenStreetMap,node,10901325706,2026-11-26T07:44:32.058191+00:00
+Halfway food point,cafe,Himachal Pradesh,,,,,32.2557268,76.3430782,OpenStreetMap,node,10907106629,2026-11-26T07:44:32.058194+00:00
+Shiva Shanti Cafe,cafe,Himachal Pradesh,,,,,32.2729629,77.1863513,OpenStreetMap,node,10907667106,2026-11-26T07:44:32.058196+00:00
+Manali Hideaway,cafe,Himachal Pradesh,,,,,32.2713695,77.1865356,OpenStreetMap,node,10907692705,2026-11-26T07:44:32.058199+00:00
+en Café,cafe,Himachal Pradesh,,,,,32.2472558,76.3317265,OpenStreetMap,node,10916466505,2026-11-26T07:44:32.058202+00:00
+Himalayan heights,restaurant,Himachal Pradesh,,,,,31.7088914,77.0292578,OpenStreetMap,node,10934142417,2026-11-26T07:44:32.058205+00:00
+The Garg Bhojanalaya,restaurant,Himachal Pradesh,,,,,31.7100173,77.0268654,OpenStreetMap,node,10934181638,2026-11-26T07:44:32.058208+00:00
+Mysore Cafe,cafe,Himachal Pradesh,,,,,32.2513223,76.3290356,OpenStreetMap,node,10936220499,2026-11-26T07:44:32.058210+00:00
+Roja Cafe,cafe,Himachal Pradesh,,,,,32.2514022,76.3290545,OpenStreetMap,node,10936237740,2026-11-26T07:44:32.058213+00:00
+Dhabha,fast_food,Himachal Pradesh,,,,,32.0386765,76.9970669,OpenStreetMap,node,10937185212,2026-11-26T07:44:32.058216+00:00
+Dzen Den,restaurant,Himachal Pradesh,,,,,32.2480383,76.3332484,OpenStreetMap,node,10947673305,2026-11-26T07:44:32.058219+00:00
+Shankar Dhaba,restaurant,Himachal Pradesh,,,,,31.6884116,77.2792191,OpenStreetMap,node,10955923270,2026-11-26T07:44:32.058221+00:00
+Shnati Palace,fast_food,Himachal Pradesh,,,,,31.6914967,77.2784857,OpenStreetMap,node,10955954180,2026-11-26T07:44:32.058224+00:00
+Amit Bhojnalya,restaurant,Himachal Pradesh,,,Link Road to Chogan,,32.0272259,76.7115663,OpenStreetMap,node,10984727005,2026-11-26T07:44:32.058228+00:00
+Pahadi Zayka,restaurant,Himachal Pradesh,,,chayal Kufri marg,,30.9907169,77.2093081,OpenStreetMap,node,11022630598,2026-11-26T07:44:32.058231+00:00
+Laphing shop,fast_food,Himachal Pradesh,,,,,32.037108,76.7137298,OpenStreetMap,node,11031925085,2026-11-26T07:44:32.058234+00:00
+Dreamwoods - Restaurant & Café,restaurant,Himachal Pradesh,,,,+91 8628077716,32.1951771,76.2868368,OpenStreetMap,node,11083183583,2026-11-26T07:44:32.058237+00:00
+Tin Tin Café,restaurant,Himachal Pradesh,,,,8219671072,32.2508847,76.3292644,OpenStreetMap,node,11099335229,2026-11-26T07:44:32.058239+00:00
+Sood Chai Bar,cafe,Himachal Pradesh,,,,,31.7121265,76.9299673,OpenStreetMap,node,11112117163,2026-11-26T07:44:32.058242+00:00
+Zigar Café,cafe,Himachal Pradesh,,,,,31.6331135,76.8307988,OpenStreetMap,node,11119296122,2026-11-26T07:44:32.058245+00:00
+Community Kitchen,restaurant,Himachal Pradesh,,,,,31.6349866,76.835525,OpenStreetMap,node,11119456803,2026-11-26T07:44:32.058248+00:00
+Pandav - Meditation & Tourist Palace,restaurant,Himachal Pradesh,,,,,31.6274761,76.8142736,OpenStreetMap,node,11123436361,2026-11-26T07:44:32.058250+00:00
+Urban Monk,cafe,Himachal Pradesh,,,,,32.2425466,77.1755931,OpenStreetMap,node,11176417873,2026-11-26T07:44:32.058253+00:00
+Samy Food - Junction,restaurant,Himachal Pradesh,,,,,31.9714083,77.3479715,OpenStreetMap,node,11207108137,2026-11-26T07:44:32.058256+00:00
+Dhaba (food and bed),restaurant,Himachal Pradesh,,,,,32.8065092,77.4447978,OpenStreetMap,node,11209434104,2026-11-26T07:44:32.058259+00:00
+Dhaba (food and bed),restaurant,Himachal Pradesh,,,,,32.8066656,77.4448874,OpenStreetMap,node,11209434128,2026-11-26T07:44:32.058262+00:00
+Dhaba (food and bed),restaurant,Himachal Pradesh,,,,,32.8064395,77.4447526,OpenStreetMap,node,11209484347,2026-11-26T07:44:32.058264+00:00
+Dhaba (food and bed),restaurant,Himachal Pradesh,,,,,32.8065881,77.4448422,OpenStreetMap,node,11209484358,2026-11-26T07:44:32.058267+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9085516,77.582064,OpenStreetMap,node,11209517194,2026-11-26T07:44:32.058270+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9067621,77.582453,OpenStreetMap,node,11209517195,2026-11-26T07:44:32.058273+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9087258,77.5824837,OpenStreetMap,node,11209517200,2026-11-26T07:44:32.058275+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9076604,77.5820644,OpenStreetMap,node,11209517201,2026-11-26T07:44:32.058278+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.908377,77.5824645,OpenStreetMap,node,11209517202,2026-11-26T07:44:32.058281+00:00
+Dhaba (bed & food),restaurant,Himachal Pradesh,,,,,32.6715698,77.1972204,OpenStreetMap,node,11209517206,2026-11-26T07:44:32.058284+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9085614,77.5824352,OpenStreetMap,node,11209517207,2026-11-26T07:44:32.058286+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9066618,77.5824542,OpenStreetMap,node,11209517209,2026-11-26T07:44:32.058289+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.906927,77.5824622,OpenStreetMap,node,11209517211,2026-11-26T07:44:32.058292+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9076349,77.5824109,OpenStreetMap,node,11209517212,2026-11-26T07:44:32.058295+00:00
+Dhaba (bed & food),restaurant,Himachal Pradesh,,,,,32.671681,77.1972428,OpenStreetMap,node,11209517214,2026-11-26T07:44:32.058297+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.907807,77.5820656,OpenStreetMap,node,11209517216,2026-11-26T07:44:32.058300+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9082014,77.5820346,OpenStreetMap,node,11209517218,2026-11-26T07:44:32.058303+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9086829,77.5820754,OpenStreetMap,node,11209517219,2026-11-26T07:44:32.058306+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9080112,77.5824286,OpenStreetMap,node,11209517220,2026-11-26T07:44:32.058308+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9073519,77.5824089,OpenStreetMap,node,11209517222,2026-11-26T07:44:32.058311+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9074862,77.5823917,OpenStreetMap,node,11209517225,2026-11-26T07:44:32.058314+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9080968,77.5820467,OpenStreetMap,node,11209517226,2026-11-26T07:44:32.058316+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9074586,77.582093,OpenStreetMap,node,11209517227,2026-11-26T07:44:32.058319+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9082231,77.5824485,OpenStreetMap,node,11209517230,2026-11-26T07:44:32.058322+00:00
+Dhaba (bed & food),restaurant,Himachal Pradesh,,,,,32.6746192,77.2077896,OpenStreetMap,node,11209517233,2026-11-26T07:44:32.058325+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9077825,77.5824195,OpenStreetMap,node,11209517234,2026-11-26T07:44:32.058328+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9084096,77.582055,OpenStreetMap,node,11209517235,2026-11-26T07:44:32.058330+00:00
+Dhaba (bed & food),restaurant,Himachal Pradesh,,,,,32.6714515,77.1972023,OpenStreetMap,node,11209528037,2026-11-26T07:44:32.058333+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9084955,77.5824406,OpenStreetMap,node,11209528038,2026-11-26T07:44:32.058336+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9086455,77.5824487,OpenStreetMap,node,11209528040,2026-11-26T07:44:32.058339+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9083017,77.5820302,OpenStreetMap,node,11209528042,2026-11-26T07:44:32.058342+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9079405,77.5820587,OpenStreetMap,node,11209528043,2026-11-26T07:44:32.058345+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9081195,77.5824303,OpenStreetMap,node,11209528044,2026-11-26T07:44:32.058352+00:00
+Dhaba (bed & food),restaurant,Himachal Pradesh,,,,,32.6745704,77.2070556,OpenStreetMap,node,11209528049,2026-11-26T07:44:32.058355+00:00
+Dhaba (bed & food),restaurant,Himachal Pradesh,,,,,32.6717867,77.1972191,OpenStreetMap,node,11209528052,2026-11-26T07:44:32.058357+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9063689,77.5824825,OpenStreetMap,node,11209528053,2026-11-26T07:44:32.058360+00:00
+Dhaba (bed & food),restaurant,Himachal Pradesh,,,,,32.6746045,77.2074612,OpenStreetMap,node,11209528054,2026-11-26T07:44:32.058363+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9062027,77.5825119,OpenStreetMap,node,11209528056,2026-11-26T07:44:32.058366+00:00
+Bed & food,restaurant,Himachal Pradesh,,,,,32.9077412,77.5820585,OpenStreetMap,node,11209528058,2026-11-26T07:44:32.058368+00:00
+Food & bed (Dhaba),restaurant,Himachal Pradesh,,,,,32.7868972,77.3489906,OpenStreetMap,node,11209547576,2026-11-26T07:44:32.058371+00:00
+Food & bed (Dhaba),restaurant,Himachal Pradesh,,,,,32.78711,77.3483333,OpenStreetMap,node,11209547577,2026-11-26T07:44:32.058374+00:00
+Food & bed (Dhaba),restaurant,Himachal Pradesh,,,,,32.7865369,77.3489038,OpenStreetMap,node,11209547578,2026-11-26T07:44:32.058377+00:00
+Food & bed (Dhaba),restaurant,Himachal Pradesh,,,,,32.7870406,77.3488456,OpenStreetMap,node,11209547579,2026-11-26T07:44:32.058380+00:00
+Food & bed (Dhaba),restaurant,Himachal Pradesh,,,,,32.7869669,77.3484321,OpenStreetMap,node,11209547580,2026-11-26T07:44:32.058382+00:00
+Food & bed (Dhaba),restaurant,Himachal Pradesh,,,,,32.786781,77.3486463,OpenStreetMap,node,11209547581,2026-11-26T07:44:32.058385+00:00
+Food & bed (Dhaba),restaurant,Himachal Pradesh,,,,,32.7866344,77.3488253,OpenStreetMap,node,11209547582,2026-11-26T07:44:32.058388+00:00
+Dhaba,fast_food,Himachal Pradesh,,,,,32.1082423,77.150785,OpenStreetMap,node,11217490849,2026-11-26T07:44:32.058391+00:00
+The village cafe,cafe,Himachal Pradesh,,,,,32.2360234,77.2224302,OpenStreetMap,node,11235046337,2026-11-26T07:44:32.058394+00:00
+Himalayan Pizza,restaurant,Himachal Pradesh,,,,,32.0411481,76.7101412,OpenStreetMap,node,11288557874,2026-11-26T07:44:32.058397+00:00
+HP 11 Restaurant,restaurant,Himachal Pradesh,Solan,Darlaghat,"Syar, Simla Kangra Ghumarwin Road, 171102",8988270008,31.2357753,76.929243,OpenStreetMap,node,11304040144,2026-11-26T07:44:32.058400+00:00
+Ashwani Dhaba,restaurant,Himachal Pradesh,,,,,31.6942221,76.1550687,OpenStreetMap,node,11342707620,2026-11-26T07:44:32.058403+00:00
+Kangrawala,restaurant,Himachal Pradesh,,,,,31.7922515,76.1246459,OpenStreetMap,node,11343151701,2026-11-26T07:44:32.058406+00:00
+Udupiwala,restaurant,Himachal Pradesh,,,,,31.7922098,76.1245259,OpenStreetMap,node,11343151733,2026-11-26T07:44:32.058409+00:00
+Jai Maa Chintpurni Dhaba,fast_food,Himachal Pradesh,,,,,31.8283938,76.1664422,OpenStreetMap,node,11343151791,2026-11-26T07:44:32.058412+00:00
+Suraj Fast Food,fast_food,Himachal Pradesh,,,,,32.2051032,76.3272267,OpenStreetMap,node,11346812471,2026-11-26T07:44:32.058415+00:00
+Retreat Restaurant and Bar,restaurant,Himachal Pradesh,,,,,32.207207,76.3218724,OpenStreetMap,node,11348070158,2026-11-26T07:44:32.058418+00:00
+Dhogru Sweets,fast_food,Himachal Pradesh,,,,,32.2070197,76.3219649,OpenStreetMap,node,11348102296,2026-11-26T07:44:32.058421+00:00
+The Fat Teapot,cafe,Himachal Pradesh,,,,,32.1985964,76.3670953,OpenStreetMap,node,11350340262,2026-11-26T07:44:32.058424+00:00
+Bitterbean Cafe,cafe,Himachal Pradesh,,,,,32.2157038,76.3610775,OpenStreetMap,node,11350411289,2026-11-26T07:44:32.058426+00:00
+Kosen Rofu Cafe,cafe,Himachal Pradesh,,,,,32.2320537,76.3640089,OpenStreetMap,node,11351008398,2026-11-26T07:44:32.058429+00:00
+Karan Fast Food,fast_food,Himachal Pradesh,,,,,32.2053071,76.3276259,OpenStreetMap,node,11351365518,2026-11-26T07:44:32.058432+00:00
+Dritto Hub Restaurant,fast_food,Himachal Pradesh,,,,,32.2065169,76.3272576,OpenStreetMap,node,11351365562,2026-11-26T07:44:32.058434+00:00
+The Burger Company,fast_food,Himachal Pradesh,,,,,32.2049613,76.3224658,OpenStreetMap,node,11358228674,2026-11-26T07:44:32.058437+00:00
+Food Safari Cafe,fast_food,Himachal Pradesh,,,,,32.1996809,76.3210048,OpenStreetMap,node,11358228675,2026-11-26T07:44:32.058440+00:00
+You We Cafe,fast_food,Himachal Pradesh,,,,,32.1656605,76.3281104,OpenStreetMap,node,11359766859,2026-11-26T07:44:32.058442+00:00
+Domino's,fast_food,Himachal Pradesh,,,,,32.1117674,76.2794938,OpenStreetMap,node,11359766861,2026-11-26T07:44:32.058445+00:00
+Momo Magic Cafe,fast_food,Himachal Pradesh,,,,,32.1911292,76.350663,OpenStreetMap,node,11359809981,2026-11-26T07:44:32.058448+00:00
+Side River Cafe,fast_food,Himachal Pradesh,,,,,32.2058621,76.3283755,OpenStreetMap,node,11361461203,2026-11-26T07:44:32.058451+00:00
+Pizza Hut,restaurant,Himachal Pradesh,,,,,32.2140888,76.3171964,OpenStreetMap,node,11361489745,2026-11-26T07:44:32.058454+00:00
+Bhagsu Fast Food and Bakers,restaurant,Himachal Pradesh,,,,,32.2045181,76.3232647,OpenStreetMap,node,11363036487,2026-11-26T07:44:32.058457+00:00
+Sanjay Dhaba,fast_food,Himachal Pradesh,,,,,32.1620798,76.2912763,OpenStreetMap,node,11363321438,2026-11-26T07:44:32.058459+00:00
+Vijay Punjabi Family Dhaba,fast_food,Himachal Pradesh,,,,,32.0188752,76.2294811,OpenStreetMap,node,11363321450,2026-11-26T07:44:32.058462+00:00
+Jayanti Sweets,fast_food,Himachal Pradesh,,,,,32.0545371,76.2563756,OpenStreetMap,node,11363346383,2026-11-26T07:44:32.058465+00:00
+Pardhan Fast Food Corner,fast_food,Himachal Pradesh,,,,,32.0503128,76.2541977,OpenStreetMap,node,11363346401,2026-11-26T07:44:32.058468+00:00
+Sharma Sweet Shop,fast_food,Himachal Pradesh,,,,,31.8478727,76.1880239,OpenStreetMap,node,11363454351,2026-11-26T07:44:32.058470+00:00
+Janta Family Dhaba,restaurant,Himachal Pradesh,,,,,31.8478121,76.1948593,OpenStreetMap,node,11363454368,2026-11-26T07:44:32.058473+00:00
+Dion's Pizza,restaurant,Himachal Pradesh,,,,,31.8487286,76.2024884,OpenStreetMap,node,11363469670,2026-11-26T07:44:32.058476+00:00
+Deluxe Dhaba,fast_food,Himachal Pradesh,,,,,31.8660571,76.2282491,OpenStreetMap,node,11363469704,2026-11-26T07:44:32.058478+00:00
+Dogra Vaishno Dhaba,fast_food,Himachal Pradesh,,,,,31.8670545,76.2276754,OpenStreetMap,node,11363469720,2026-11-26T07:44:32.058481+00:00
+Gofu Vaishno Dhaba,restaurant,Himachal Pradesh,,,,,31.8434643,76.1839982,OpenStreetMap,node,11363469722,2026-11-26T07:44:32.058484+00:00
+The Punjabi Dhaba,restaurant,Himachal Pradesh,,,,,32.2354556,76.3240763,OpenStreetMap,node,11377229976,2026-11-26T07:44:32.058487+00:00
+Moonpeak,cafe,Himachal Pradesh,,,,,32.2360879,76.3239339,OpenStreetMap,node,11377238777,2026-11-26T07:44:32.058490+00:00
+Govinda Dhaba,restaurant,Himachal Pradesh,,,,,32.2369857,76.3248614,OpenStreetMap,node,11380857509,2026-11-26T07:44:32.058493+00:00
+Ananda Dhaba,restaurant,Himachal Pradesh,,,,,32.2368033,76.3250937,OpenStreetMap,node,11380866023,2026-11-26T07:44:32.058496+00:00
+Jaitu Dhaba,restaurant,Himachal Pradesh,,,,,32.2391774,76.3237972,OpenStreetMap,node,11380924235,2026-11-26T07:44:32.058498+00:00
+Ajju Tea Shop,cafe,Himachal Pradesh,,,,,32.2391502,76.3237744,OpenStreetMap,node,11380926954,2026-11-26T07:44:32.058501+00:00
+Zom Zom Tea Point,cafe,Himachal Pradesh,,,,,32.2390964,76.3237237,OpenStreetMap,node,11380986679,2026-11-26T07:44:32.058504+00:00
+Tara Café,cafe,Himachal Pradesh,,,,,32.2469272,76.3317705,OpenStreetMap,node,11381033861,2026-11-26T07:44:32.058506+00:00
+Punjabi Dhaba,restaurant,Himachal Pradesh,,,,,32.2367846,76.3254845,OpenStreetMap,node,11397302162,2026-11-26T07:44:32.058509+00:00
+Nomad Kitchen,restaurant,Himachal Pradesh,,,,,32.2388574,76.3243374,OpenStreetMap,node,11402441368,2026-11-26T07:44:32.058512+00:00
+Juniper Café,cafe,Himachal Pradesh,,,,,32.2388394,76.3242789,OpenStreetMap,node,11402472698,2026-11-26T07:44:32.058515+00:00
+Tsampa Café,cafe,Himachal Pradesh,,,,,32.2388866,76.3241108,OpenStreetMap,node,11402484391,2026-11-26T07:44:32.058518+00:00
+Welcome Café,cafe,Himachal Pradesh,,,,,32.2368534,76.3249012,OpenStreetMap,node,11402590615,2026-11-26T07:44:32.058520+00:00
+Sai Pure Veg Dhaba,restaurant,Himachal Pradesh,,,,,32.2381731,76.3239123,OpenStreetMap,node,11402611731,2026-11-26T07:44:32.058523+00:00
+Desi Tadka,restaurant,Himachal Pradesh,,,,,32.2432835,76.3319629,OpenStreetMap,node,11402631018,2026-11-26T07:44:32.058526+00:00
+Milaan Café,cafe,Himachal Pradesh,,,,,32.2465934,76.3311677,OpenStreetMap,node,11402652388,2026-11-26T07:44:32.058528+00:00
+Astral Café,cafe,Himachal Pradesh,,,,,32.2484929,76.332215,OpenStreetMap,node,11402682939,2026-11-26T07:44:32.058531+00:00
+Himachali Dham,restaurant,Himachal Pradesh,,,,,32.2393956,76.3255273,OpenStreetMap,node,11404947166,2026-11-26T07:44:32.058534+00:00
+Mowgli Café,cafe,Himachal Pradesh,,,,,32.2508686,76.329849,OpenStreetMap,node,11406942511,2026-11-26T07:44:32.058537+00:00
+Butterfly Mandala,cafe,Himachal Pradesh,,,,,32.2508114,76.3300666,OpenStreetMap,node,11406951684,2026-11-26T07:44:32.058540+00:00
+Canteen,fast_food,Himachal Pradesh,,,,,31.7074186,76.5268687,OpenStreetMap,node,11409381102,2026-11-26T07:44:32.058542+00:00
+Canteen,fast_food,Himachal Pradesh,,,,,31.7013671,76.5232703,OpenStreetMap,node,11409387983,2026-11-26T07:44:32.058545+00:00
+The Mud Cafe,cafe,Himachal Pradesh,,,,,32.03554,76.7242975,OpenStreetMap,node,11455453253,2026-11-26T07:44:32.058548+00:00
+Pahadee Coffee Roasters,cafe,Himachal Pradesh,,,,,32.0331939,76.7186792,OpenStreetMap,node,11455497692,2026-11-26T07:44:32.058551+00:00
+Raju Tea Stall,cafe,Himachal Pradesh,,Mandi,"Head Post Office Road, 175001",,31.7096669,76.93247,OpenStreetMap,node,11576589825,2026-11-26T07:44:32.058554+00:00
+Deluxe Dhaba,restaurant,Himachal Pradesh,Sirmour,Nahan,173001,,30.5609858,77.2958767,OpenStreetMap,node,11672445252,2026-11-26T07:44:32.058558+00:00
+Sally,restaurant,Himachal Pradesh,,"pandoh, mandi","Sally street, 175124",01905282009,31.6724966,77.0522232,OpenStreetMap,node,11672675768,2026-11-26T07:44:32.058561+00:00
+Agyat Xafe,cafe,Himachal Pradesh,,,Kandbari,,32.1121537,76.5759625,OpenStreetMap,node,11726854049,2026-11-26T07:44:32.058564+00:00
+Cafe Jungle Vibes,cafe,Himachal Pradesh,,,,,32.0111775,77.2978891,OpenStreetMap,node,11809524340,2026-11-26T07:44:32.058567+00:00
+Asher Woods,cafe,Himachal Pradesh,,,,,32.010062,77.292531,OpenStreetMap,node,11809537019,2026-11-26T07:44:32.058570+00:00
+Moon Dance,cafe,Himachal Pradesh,,,,,32.0100833,77.3152879,OpenStreetMap,node,11813783973,2026-11-26T07:44:32.058573+00:00
+Fresco,cafe,Himachal Pradesh,,,,,32.2451898,77.1765696,OpenStreetMap,node,11816260779,2026-11-26T07:44:32.058576+00:00
+Dhaba,restaurant,Himachal Pradesh,,,,,32.2449482,77.176664,OpenStreetMap,node,11816265568,2026-11-26T07:44:32.058578+00:00
+Fresco,restaurant,Himachal Pradesh,,,,,32.2454572,77.1765456,OpenStreetMap,node,11816269938,2026-11-26T07:44:32.058581+00:00
+Hill top beauty,restaurant,Himachal Pradesh,,,,,32.2450214,77.1793363,OpenStreetMap,node,11816273902,2026-11-26T07:44:32.058584+00:00
+Jim Morrison Cafe,cafe,Himachal Pradesh,,,,,32.0123018,77.3221099,OpenStreetMap,node,11816798380,2026-11-26T07:44:32.058587+00:00
+The Rishi Muni Cafe and Stays,cafe,Himachal Pradesh,,,,,32.0107255,77.3007128,OpenStreetMap,node,11818317479,2026-11-26T07:44:32.058590+00:00
+Pandora Cafe and Stays,cafe,Himachal Pradesh,,,,,32.010881,77.3000367,OpenStreetMap,node,11818317480,2026-11-26T07:44:32.058592+00:00
+Green Olive,cafe,Himachal Pradesh,,,,,32.2454249,77.1870431,OpenStreetMap,node,11836997469,2026-11-26T07:44:32.058595+00:00
+Dhaba,restaurant,Himachal Pradesh,,,,,32.287077,77.1774296,OpenStreetMap,node,11841025290,2026-11-26T07:44:32.058598+00:00
+Green Olive,cafe,Himachal Pradesh,,,,,32.2454093,77.1869834,OpenStreetMap,node,11843602269,2026-11-26T07:44:32.058601+00:00
+PizzaLand and Cake Shop,restaurant,Himachal Pradesh,,,,,31.8196933,76.2138991,OpenStreetMap,node,11878595797,2026-11-26T07:44:32.058604+00:00
+Cafe Foresta,cafe,Himachal Pradesh,,,,,32.2426072,76.3301568,OpenStreetMap,node,11922460670,2026-11-26T07:44:32.058606+00:00
+Doljam Kitchen,restaurant,Himachal Pradesh,,,,,32.2390661,76.3249572,OpenStreetMap,node,11942715269,2026-11-26T07:44:32.058609+00:00
+Hotel Kapital,restaurant,Himachal Pradesh,,,,,31.1061808,77.1657626,OpenStreetMap,node,11949593431,2026-11-26T07:44:32.058612+00:00
+Labh Coffee House,cafe,Himachal Pradesh,,,,,31.0998823,77.139667,OpenStreetMap,node,11949685512,2026-11-26T07:44:32.058615+00:00
+Kamal Bar & Restaurant,restaurant,Himachal Pradesh,,,,,31.1016318,77.1214121,OpenStreetMap,node,11950187512,2026-11-26T07:44:32.058617+00:00
+Cafe 366,restaurant,Himachal Pradesh,,,,,32.0373704,76.7133068,OpenStreetMap,node,11951905185,2026-11-26T07:44:32.058620+00:00
+Maa Hadimba Dhaba,restaurant,Himachal Pradesh,,,,,32.2528083,77.1794347,OpenStreetMap,node,11955990670,2026-11-26T07:44:32.058623+00:00
+Vishnu Family Dhaba,restaurant,Himachal Pradesh,,,,,32.2539565,77.1807702,OpenStreetMap,node,11959457569,2026-11-26T07:44:32.058626+00:00
+Basho,restaurant,Himachal Pradesh,,,,,32.2686555,77.1868269,OpenStreetMap,node,11962984469,2026-11-26T07:44:32.058629+00:00
+Safal Dhaba,restaurant,Himachal Pradesh,,,,,32.244086,77.1891027,OpenStreetMap,node,11962984470,2026-11-26T07:44:32.058632+00:00
+Mama B,restaurant,Himachal Pradesh,,,,,32.2447102,77.1901902,OpenStreetMap,node,11972305369,2026-11-26T07:44:32.058635+00:00
+Temple Way Cafe,restaurant,Himachal Pradesh,,,,,32.2565166,77.1762482,OpenStreetMap,node,11976022269,2026-11-26T07:44:32.058638+00:00
+Noname,restaurant,Himachal Pradesh,,,,,32.2253497,78.0727425,OpenStreetMap,node,11989900569,2026-11-26T07:44:32.058641+00:00
+Sagar Thakur Dhaba,fast_food,Himachal Pradesh,,,,,32.0545634,77.1726022,OpenStreetMap,node,12003411966,2026-11-26T07:44:32.058644+00:00
+Khana Khazana Food Court,restaurant,Himachal Pradesh,,Dilwan,,,31.6003547,76.1748383,OpenStreetMap,node,12055536157,2026-11-26T07:44:32.058647+00:00
+BraaiCraft Smokehouse - Manali,restaurant,Himachal Pradesh,Kullu,"Shanag, Manali","Chalet Shanag, Shanag Road, 175103",+919740302277,32.2852733,77.1744826,OpenStreetMap,node,12071929070,2026-11-26T07:44:32.058650+00:00
+R K Food Point,restaurant,Himachal Pradesh,,,,,32.3319895,76.0665931,OpenStreetMap,node,12082178390,2026-11-26T07:44:32.058653+00:00
+Yalakhom,restaurant,Himachal Pradesh,kullu,kullu,"kalga village, 175105",9882323938,31.9968655,77.4553751,OpenStreetMap,node,12196500829,2026-11-26T07:44:32.058656+00:00
+Lost & Found (Galactic Friends House),restaurant,Himachal Pradesh,kullu,kullu,"kalga village, 175105",+91 95996 30922,31.9967024,77.4549757,OpenStreetMap,node,12196544446,2026-11-26T07:44:32.058659+00:00
+Parvati Kutir,cafe,Himachal Pradesh,,,,,32.0090772,77.2958671,OpenStreetMap,node,12196931130,2026-11-26T07:44:32.058662+00:00
+Agyat Cafe,cafe,Himachal Pradesh,,,Kandbari,,32.1120252,76.5758434,OpenStreetMap,node,12252445824,2026-11-26T07:44:32.058665+00:00
+Yalakhom,restaurant,Himachal Pradesh,,,"Kalgha Village, Sosan, HP, 175105",9882323938,31.9968953,77.4553287,OpenStreetMap,node,12258067701,2026-11-26T07:44:32.058668+00:00
+Lost & Found (Galactic Friends House),restaurant,Himachal Pradesh,,,"kagha village, sosan, HP, 175105",+91 95996 30922,31.9966959,77.4549556,OpenStreetMap,node,12258068702,2026-11-26T07:44:32.058671+00:00
+Sage Cabins (Riverside),restaurant,Himachal Pradesh,,,"Manikaran Barshaini Road, 175105",9816479920,32.0002899,77.4261129,OpenStreetMap,node,12258132601,2026-11-26T07:44:32.058674+00:00
+Sharma Fast Food,cafe,Himachal Pradesh,,,,,32.5202892,76.0352162,OpenStreetMap,node,12266044641,2026-11-26T07:44:32.058677+00:00
+Viren 24 YAL,cafe,Himachal Pradesh,,,,,32.5201796,76.03526,OpenStreetMap,node,12266173078,2026-11-26T07:44:32.058680+00:00
+Verma Tea Stall,cafe,Himachal Pradesh,,,,,32.5201563,76.0353049,OpenStreetMap,node,12266804601,2026-11-26T07:44:32.058682+00:00
+Verma Fast Food,cafe,Himachal Pradesh,,,,,32.5202261,76.0352622,OpenStreetMap,node,12266804602,2026-11-26T07:44:32.058686+00:00
+Sharma Confectionery Tea Stall,cafe,Himachal Pradesh,,,Khajjiar Chamba Road,,32.5490867,76.0599179,OpenStreetMap,node,12270436930,2026-11-26T07:44:32.058688+00:00
+Tibetan Streetfood,fast_food,Himachal Pradesh,,,,,32.2372416,76.3240712,OpenStreetMap,node,12320771615,2026-11-26T07:44:32.058691+00:00
+The Old German Bakery,restaurant,Himachal Pradesh,,,,,32.2450129,76.3326895,OpenStreetMap,node,12320771616,2026-11-26T07:44:32.058694+00:00
+Drumstick,restaurant,Himachal Pradesh,,,,,32.2365882,76.3259334,OpenStreetMap,node,12320771713,2026-11-26T07:44:32.058697+00:00
+Yangsel,restaurant,Himachal Pradesh,,,,,32.2401674,76.3262094,OpenStreetMap,node,12320771714,2026-11-26T07:44:32.058700+00:00
+Chicken,fast_food,Himachal Pradesh,,,,,32.2434561,76.3324846,OpenStreetMap,node,12320771715,2026-11-26T07:44:32.058703+00:00
+Annapurna,restaurant,Himachal Pradesh,,,,,32.2442197,76.3331798,OpenStreetMap,node,12320771716,2026-11-26T07:44:32.058705+00:00
+3 Trees Cafe,restaurant,Himachal Pradesh,,,,,32.249387,76.3294796,OpenStreetMap,node,12324262701,2026-11-26T07:44:32.058708+00:00
+YiYi Cafe,restaurant,Himachal Pradesh,,,,,32.2382743,76.3240659,OpenStreetMap,node,12324262703,2026-11-26T07:44:32.058711+00:00
+Tashi Delek Cafe,restaurant,Himachal Pradesh,,,,,32.2397382,76.3261967,OpenStreetMap,node,12324345319,2026-11-26T07:44:32.058714+00:00
+ZomZom,restaurant,Himachal Pradesh,,,,,32.2401291,76.3267888,OpenStreetMap,node,12324345320,2026-11-26T07:44:32.058716+00:00
+Dolma's Kitchen,restaurant,Himachal Pradesh,,,,,32.2400991,76.3260009,OpenStreetMap,node,12324352802,2026-11-26T07:44:32.058719+00:00
+Jimmys Italian Kitchen,restaurant,Himachal Pradesh,,,,,32.2391214,76.3254804,OpenStreetMap,node,12324355514,2026-11-26T07:44:32.058722+00:00
+Usmani Halal Chicken Fry,fast_food,Himachal Pradesh,,,,,32.2401998,76.3265236,OpenStreetMap,node,12324382801,2026-11-26T07:44:32.058725+00:00
+Sher-E-Punjab,restaurant,Himachal Pradesh,,,,,32.2441557,76.3342653,OpenStreetMap,node,12324382901,2026-11-26T07:44:32.058727+00:00
+MO-NGA Bakery and Cafe,cafe,Himachal Pradesh,,,,,32.2255423,76.323501,OpenStreetMap,node,12334330101,2026-11-26T07:44:32.058730+00:00
+Dawat,restaurant,Himachal Pradesh,,,,,32.2159354,76.3175712,OpenStreetMap,node,12334330502,2026-11-26T07:44:32.058733+00:00
+Radha Dhaba,restaurant,Himachal Pradesh,,,,+91 86290 94535; +91 78078 61589,32.0356042,76.7157322,OpenStreetMap,node,12707778630,2026-11-26T07:44:32.058736+00:00
+ilika estates,restaurant,Himachal Pradesh,,,,,30.8296354,77.1228233,OpenStreetMap,node,12728859904,2026-11-26T07:44:32.058739+00:00
+Ragini Sweet House,restaurant,Himachal Pradesh,,,,,32.0963654,77.1268845,OpenStreetMap,node,12749842865,2026-11-26T07:44:32.058742+00:00
+Cafe Nook,restaurant,Himachal Pradesh,Shimla,Shimla,"Ridge to the US Club, 171001",,31.1038265,77.1768301,OpenStreetMap,node,12753972144,2026-11-26T07:44:32.058745+00:00
+Hang Out Cafe,cafe,Himachal Pradesh,,,,,32.2485222,76.3292081,OpenStreetMap,node,12813500946,2026-11-26T07:44:32.058748+00:00
+Cafe Pedro,cafe,Himachal Pradesh,,,,,32.2466148,76.3316811,OpenStreetMap,node,12813515396,2026-11-26T07:44:32.058750+00:00
+Da' wiara cafe,cafe,Himachal Pradesh,,,,,32.2482361,76.3283478,OpenStreetMap,node,12813527568,2026-11-26T07:44:32.058754+00:00
+Tashi Delek,cafe,Himachal Pradesh,,,,,32.2458288,76.3318786,OpenStreetMap,node,12813719160,2026-11-26T07:44:32.058756+00:00
+Crêpes & love,cafe,Himachal Pradesh,,,,,32.2467246,76.331855,OpenStreetMap,node,12813826321,2026-11-26T07:44:32.058759+00:00
+Maya's cafe,cafe,Himachal Pradesh,,,,,32.2456653,76.3322793,OpenStreetMap,node,12814099913,2026-11-26T07:44:32.058762+00:00
+Center point cafe,cafe,Himachal Pradesh,,,,,32.2486752,76.3289971,OpenStreetMap,node,12815919765,2026-11-26T07:44:32.058764+00:00
+Homie's Cafe,cafe,Himachal Pradesh,,,,,32.249355,76.3292848,OpenStreetMap,node,12815921245,2026-11-26T07:44:32.058767+00:00
+Backwoods Bakery,cafe,Himachal Pradesh,,,,,32.2478322,76.3298328,OpenStreetMap,node,12815929897,2026-11-26T07:44:32.058770+00:00
+Young Monk Cafe,cafe,Himachal Pradesh,,,,,32.2508204,76.3301563,OpenStreetMap,node,12815939910,2026-11-26T07:44:32.058773+00:00
+Forest view Café,cafe,Himachal Pradesh,,,,,32.2513238,76.3288242,OpenStreetMap,node,12815951507,2026-11-26T07:44:32.058776+00:00
+Charli's place,restaurant,Himachal Pradesh,,,,,32.2510223,76.3292103,OpenStreetMap,node,12815954372,2026-11-26T07:44:32.058778+00:00
+Dream Catcher,restaurant,Himachal Pradesh,,,,,32.2510883,76.3307895,OpenStreetMap,node,12815957350,2026-11-26T07:44:32.058781+00:00
+Honey's Falafel,restaurant,Himachal Pradesh,,,,,32.2513914,76.3291428,OpenStreetMap,node,12815973571,2026-11-26T07:44:32.058784+00:00
+Family pizzeria,restaurant,Himachal Pradesh,,,,,32.248563,76.329337,OpenStreetMap,node,12816021574,2026-11-26T07:44:32.058787+00:00
+Lockdown Cafe,cafe,Himachal Pradesh,,,,,32.2452251,76.3349809,OpenStreetMap,node,12816496483,2026-11-26T07:44:32.058789+00:00
+Sunny's Cafe,cafe,Himachal Pradesh,,,,,32.2455398,76.3323307,OpenStreetMap,node,12816499192,2026-11-26T07:44:32.058792+00:00
+The Coy's Café,restaurant,Himachal Pradesh,,,,,32.2441187,76.3337958,OpenStreetMap,node,12816516804,2026-11-26T07:44:32.058795+00:00
+Flight mode cafe,cafe,Himachal Pradesh,,,,,32.2453895,76.3350936,OpenStreetMap,node,12816523033,2026-11-26T07:44:32.058798+00:00
+Meeting point Dhaba,restaurant,Himachal Pradesh,,,,,32.2453019,76.3328046,OpenStreetMap,node,12816529380,2026-11-26T07:44:32.058800+00:00
+Eevolve Cafe,cafe,Himachal Pradesh,,,,,32.245814,76.327951,OpenStreetMap,node,12818912400,2026-11-26T07:44:32.058803+00:00
+Nature Cafe Best Sunset Point,cafe,Himachal Pradesh,,,,,32.2507595,76.33539,OpenStreetMap,node,12825393550,2026-11-26T07:44:32.058806+00:00
+Rana Tea Shop,restaurant,Himachal Pradesh,,,,,32.2505834,76.3294494,OpenStreetMap,node,12825529065,2026-11-26T07:44:32.058809+00:00
+Nukkad,cafe,Himachal Pradesh,,,,,32.2491238,76.3291944,OpenStreetMap,node,12828028890,2026-11-26T07:44:32.058811+00:00
+Lhasa Tibetan kitchen,restaurant,Himachal Pradesh,,,,,32.2485327,76.3276598,OpenStreetMap,node,12828066471,2026-11-26T07:44:32.058814+00:00
+Chillax Café,cafe,Himachal Pradesh,,,,,32.2494401,76.3284545,OpenStreetMap,node,12828136489,2026-11-26T07:44:32.058817+00:00
+Bodhi Greens,restaurant,Himachal Pradesh,Kangra,Dharamshala,"Dharamkot - Haini Road, 176219",,32.2484574,76.3273893,OpenStreetMap,node,12828138858,2026-11-26T07:44:32.058820+00:00
+Tapri Cafe,cafe,Himachal Pradesh,,,,,32.2494045,76.3293022,OpenStreetMap,node,12833596579,2026-11-26T07:44:32.058823+00:00
+Open Heart Cafe,cafe,Himachal Pradesh,,,,,32.248674,76.3284919,OpenStreetMap,node,12835212312,2026-11-26T07:44:32.058826+00:00
+Salvation,restaurant,Himachal Pradesh,,,,,32.2513504,76.3289799,OpenStreetMap,node,12839210963,2026-11-26T07:44:32.058828+00:00
+Sapna's Kitchen,fast_food,Himachal Pradesh,,,,,32.03577,76.7147355,OpenStreetMap,node,12839833954,2026-11-26T07:44:32.058831+00:00
+Dorjee Rooftop Cafe & Restaurant,restaurant,Himachal Pradesh,,,,,32.0341958,76.7183239,OpenStreetMap,node,12855068515,2026-11-26T07:44:32.058834+00:00
+Simla Times,cafe,Himachal Pradesh,,,,,31.1007587,77.176289,OpenStreetMap,node,12857643031,2026-11-26T07:44:32.058837+00:00
+Amar Bhojnalaya,restaurant,Himachal Pradesh,,,,,31.101297,77.1767813,OpenStreetMap,node,12857643035,2026-11-26T07:44:32.058840+00:00
+Ajay Dhaba,restaurant,Himachal Pradesh,,,,,31.1013162,77.1768054,OpenStreetMap,node,12857643036,2026-11-26T07:44:32.058843+00:00
+Tripti Restaurant,restaurant,Himachal Pradesh,,,,,31.1014283,77.1768585,OpenStreetMap,node,12857643039,2026-11-26T07:44:32.058845+00:00
+Brews And Books Cafe,cafe,Himachal Pradesh,,,,,31.1020981,77.1777702,OpenStreetMap,node,12857643051,2026-11-26T07:44:32.058848+00:00
+Lord's,fast_food,Himachal Pradesh,,,,,31.1021448,77.1777623,OpenStreetMap,node,12857643053,2026-11-26T07:44:32.058851+00:00
+Domino's,fast_food,Himachal Pradesh,,,,,31.1022568,77.1776185,OpenStreetMap,node,12857813852,2026-11-26T07:44:32.058855+00:00
+Dalotu Dhar Cafe,cafe,Himachal Pradesh,,,,,32.4573524,76.7116069,OpenStreetMap,node,12879944850,2026-11-26T07:44:32.058858+00:00
+Paradise cafe,cafe,Himachal Pradesh,,,,,32.2490422,76.3325659,OpenStreetMap,node,12891895668,2026-11-26T07:44:32.058860+00:00
+Pinku family place,restaurant,Himachal Pradesh,,,,,32.2508033,76.3297011,OpenStreetMap,node,12891946894,2026-11-26T07:44:32.058863+00:00
+China Town Fast Food Corner,fast_food,Himachal Pradesh,,,,,31.1285714,77.2273746,OpenStreetMap,node,12903199757,2026-11-26T07:44:32.058866+00:00
+Dechen Himalayan Kitchen,restaurant,Himachal Pradesh,,,,,32.2467113,76.3105591,OpenStreetMap,node,12903894153,2026-11-26T07:44:32.058869+00:00
+View sunrise cafe,cafe,Himachal Pradesh,,,,,32.2526695,76.3026057,OpenStreetMap,node,12903972699,2026-11-26T07:44:32.058871+00:00
+Udgam Cafe,restaurant,Himachal Pradesh,,,,,32.2501118,76.327395,OpenStreetMap,node,12904060076,2026-11-26T07:44:32.058874+00:00
+Om nom greens,restaurant,Himachal Pradesh,,,,,32.2447281,76.3294717,OpenStreetMap,node,12912272078,2026-11-26T07:44:32.058877+00:00
+Zula Cafe,cafe,Himachal Pradesh,,,,,32.2472326,76.3270846,OpenStreetMap,node,12913603850,2026-11-26T07:44:32.058879+00:00
+Sanjay fast food & Dhaba,fast_food,Himachal Pradesh,,,,,32.2397783,76.3236099,OpenStreetMap,node,12917648153,2026-11-26T07:44:32.058882+00:00
+The yogi and the chef,restaurant,Himachal Pradesh,,,,,32.2672676,77.1868032,OpenStreetMap,node,12920619575,2026-11-26T07:44:32.058885+00:00
+Biscoff bakery and cafe,cafe,Himachal Pradesh,,,,,32.2549561,77.1769048,OpenStreetMap,node,12920826051,2026-11-26T07:44:32.058888+00:00
+Renaissance,restaurant,Himachal Pradesh,,,,,32.255315,77.1769957,OpenStreetMap,node,12920848036,2026-11-26T07:44:32.058890+00:00
+Cafe Kaapi,cafe,Himachal Pradesh,,,,,32.2551432,77.1770087,OpenStreetMap,node,12920858309,2026-11-26T07:44:32.058893+00:00
+Moon child,cafe,Himachal Pradesh,,,,,32.2554008,77.1769882,OpenStreetMap,node,12920862648,2026-11-26T07:44:32.058896+00:00
+Omik Grill and Cafe,restaurant,Himachal Pradesh,,,,,32.2545691,77.1769553,OpenStreetMap,node,12920863992,2026-11-26T07:44:32.058899+00:00
+Mingma's,cafe,Himachal Pradesh,,,,,32.2543535,77.1769252,OpenStreetMap,node,12920888048,2026-11-26T07:44:32.058901+00:00
+The yellow teapot,cafe,Himachal Pradesh,,,,,32.2556332,77.1770052,OpenStreetMap,node,12921378942,2026-11-26T07:44:32.058904+00:00
+Purple hey z,cafe,Himachal Pradesh,,,,,32.255692,77.1770166,OpenStreetMap,node,12921380546,2026-11-26T07:44:32.058907+00:00
+Komal Dhaba,restaurant,Himachal Pradesh,,,,,32.2559122,77.1770931,OpenStreetMap,node,12921382277,2026-11-26T07:44:32.058910+00:00
+Vashisht Bhojnalaya,restaurant,Himachal Pradesh,,,,,32.264869,77.1878536,OpenStreetMap,node,12922478049,2026-11-26T07:44:32.058912+00:00
+Blue heaven,restaurant,Himachal Pradesh,,,,,32.2639639,77.1877196,OpenStreetMap,node,12922482079,2026-11-26T07:44:32.058915+00:00
+Vaishno dhaba,restaurant,Himachal Pradesh,,,,,32.2636875,77.1878626,OpenStreetMap,node,12922490492,2026-11-26T07:44:32.058918+00:00
+Sujan Cafe,restaurant,Himachal Pradesh,,,,,32.2649149,77.1878489,OpenStreetMap,node,12922492653,2026-11-26T07:44:32.058920+00:00
+Taste maker,restaurant,Himachal Pradesh,,,,,32.2643214,77.1878565,OpenStreetMap,node,12922502593,2026-11-26T07:44:32.058923+00:00
+Shiva Moon Cafe,restaurant,Himachal Pradesh,,,,,32.2650759,77.1877626,OpenStreetMap,node,12922504383,2026-11-26T07:44:32.058926+00:00
+Pachamama,restaurant,Himachal Pradesh,,,,,32.2657581,77.1880951,OpenStreetMap,node,12922589364,2026-11-26T07:44:32.058929+00:00
+Street sweat cafe,cafe,Himachal Pradesh,,,,,32.2695997,77.1863594,OpenStreetMap,node,12922710225,2026-11-26T07:44:32.058932+00:00
+Karma valley,restaurant,Himachal Pradesh,,,,,32.2680994,77.1870227,OpenStreetMap,node,12922716503,2026-11-26T07:44:32.058934+00:00
+Into the wild adventures,cafe,Himachal Pradesh,,,,,32.2678182,77.188128,OpenStreetMap,node,12922824996,2026-11-26T07:44:32.058937+00:00
+Deep Dhaba Pure Veg,restaurant,Himachal Pradesh,,,,,32.5706735,77.0319119,OpenStreetMap,node,12946058665,2026-11-26T07:44:32.058940+00:00
+Dhaba,restaurant,Himachal Pradesh,,,,,32.5711983,77.0339262,OpenStreetMap,node,12946077574,2026-11-26T07:44:32.058943+00:00
+Lha Boor,restaurant,Himachal Pradesh,,,,,32.5731158,77.0229787,OpenStreetMap,node,12947714179,2026-11-26T07:44:32.058946+00:00
+Snow valley dhaba,restaurant,Himachal Pradesh,,,,,32.5722335,77.0273175,OpenStreetMap,node,12947745281,2026-11-26T07:44:32.058949+00:00
+Everest dhaba,restaurant,Himachal Pradesh,,,,,32.5722961,77.0282435,OpenStreetMap,node,12947746239,2026-11-26T07:44:32.058954+00:00
+Mento Dhaba,restaurant,Himachal Pradesh,,,,,32.5720263,77.0274867,OpenStreetMap,node,12947757071,2026-11-26T07:44:32.058957+00:00
+Maya Dhaba,restaurant,Himachal Pradesh,,,,,32.5724476,77.0266878,OpenStreetMap,node,12947767522,2026-11-26T07:44:32.058960+00:00
+Himalayan greenland pure veg,restaurant,Himachal Pradesh,,,,,32.5723225,77.0281011,OpenStreetMap,node,12947784889,2026-11-26T07:44:32.058963+00:00
+Tenzin Dhaba (Good Chai),cafe,Himachal Pradesh,,,,,32.2526751,77.1801368,OpenStreetMap,node,12948685301,2026-11-26T07:44:32.058966+00:00
+Tego Bubble Tea shop,cafe,Himachal Pradesh,Kangra,"Dharmsala, Macleod Ganj","Bhagsu Road, 176216",+919886329198,32.2388091,76.3245744,OpenStreetMap,node,12961194243,2026-11-26T07:44:32.058969+00:00
+home guard chai shop,cafe,Himachal Pradesh,,,,,32.1941561,76.2273663,OpenStreetMap,node,12998486973,2026-11-26T07:44:32.058972+00:00
+Juniper Terrace,cafe,Himachal Pradesh,,,Bhagsu road,,32.2385995,76.3245066,OpenStreetMap,node,13011636512,2026-11-26T07:44:32.058974+00:00
+Khanabadosh,restaurant,Himachal Pradesh,,,"1, Main Square - Tushita Road, 176219",9769470086,32.2457425,76.3260567,OpenStreetMap,node,13015287101,2026-11-26T07:44:32.058978+00:00
+Soulkadi - a Mumbai Canteen,cafe,Himachal Pradesh,,Bir,"Bir Colony Road, 176077",+91-9930423746,32.0393653,76.7095067,OpenStreetMap,node,13033410210,2026-11-26T07:44:32.058981+00:00
+Vista Dine,restaurant,Himachal Pradesh,Bilaspur,Bilaspur,"Bharari chowk, near Bharari bridge, 174005",8544781003,31.2991149,76.7467561,OpenStreetMap,node,13162989875,2026-11-26T07:44:32.058984+00:00
+Come a Napoli Pizzeria,restaurant,Himachal Pradesh,,,,,32.2532875,77.1800332,OpenStreetMap,node,13227566001,2026-11-26T07:44:32.058987+00:00
+Joy Food,restaurant,Himachal Pradesh,Kangra,Dharamkot,"Dharamkot - Haini Road, 176219",,32.2469517,76.325975,OpenStreetMap,node,13264427909,2026-11-26T07:44:32.058990+00:00
+Om Cafe & Restaurant,fast_food,Himachal Pradesh,,,,,32.2160301,76.2758823,OpenStreetMap,node,13272085287,2026-11-26T07:44:32.058993+00:00
+Fast Food Corner,fast_food,Himachal Pradesh,,,,,32.1977594,76.3662875,OpenStreetMap,node,13277312753,2026-11-26T07:44:32.058996+00:00
+South Cliff cafe,cafe,Himachal Pradesh,,,,,32.2470827,76.3316697,OpenStreetMap,node,13325762393,2026-11-26T07:44:32.058999+00:00
+Xo Cafe,cafe,Himachal Pradesh,,,,,32.2210089,76.336099,OpenStreetMap,node,13392790016,2026-11-26T07:44:32.059002+00:00
+Bhai Chara Cafe,cafe,Himachal Pradesh,,,,,32.2421647,76.3505183,OpenStreetMap,node,13614354932,2026-11-26T07:44:32.059005+00:00
+sweet fast food,cafe,Himachal Pradesh,solan,arki,"near gdc arki, 173208",,31.1344633,76.9598109,OpenStreetMap,node,13617934739,2026-11-26T07:44:32.059008+00:00
+Burger King,fast_food,Himachal Pradesh,,,,,30.8876634,77.0042154,OpenStreetMap,node,13666372663,2026-11-26T07:44:32.059011+00:00
+Food On Wheels,fast_food,Himachal Pradesh,,,,,31.0347219,77.1201115,OpenStreetMap,node,13666376036,2026-11-26T07:44:32.059014+00:00
+Starbucks,cafe,Himachal Pradesh,,,,,30.8877805,77.0039394,OpenStreetMap,node,13666381077,2026-11-26T07:44:32.059017+00:00
+Sunrise Cafe,cafe,Himachal Pradesh,,,,,30.838369,76.9893371,OpenStreetMap,node,13666427808,2026-11-26T07:44:32.059020+00:00
+Pahadi Cafe,cafe,Himachal Pradesh,,,,,30.8391126,76.9892274,OpenStreetMap,node,13666427810,2026-11-26T07:44:32.059023+00:00
+Simla Canteen,restaurant,Himachal Pradesh,,,,,30.8384673,76.989292,OpenStreetMap,node,13666427814,2026-11-26T07:44:32.059026+00:00
+Sharma Dhaba,restaurant,Himachal Pradesh,,,,,30.8384878,76.9892838,OpenStreetMap,node,13666427828,2026-11-26T07:44:32.059029+00:00
+Maa Aanapurna Dhaba,restaurant,Himachal Pradesh,,,,,30.83916,76.9892446,OpenStreetMap,node,13666427832,2026-11-26T07:44:32.059032+00:00
+Kulcha Kulture,cafe,Himachal Pradesh,,,,,32.2075382,76.3222978,OpenStreetMap,node,13668499190,2026-11-26T07:44:32.059035+00:00
+Gopal Sweets,restaurant,Himachal Pradesh,,,,8988225300,32.2076141,76.322467,OpenStreetMap,node,13668518661,2026-11-26T07:44:32.059038+00:00
+Cafe Rua,cafe,Himachal Pradesh,,,,,31.1161225,77.2193897,OpenStreetMap,node,13668883490,2026-11-26T07:44:32.059041+00:00
+hpmc,fast_food,Himachal Pradesh,,,,,31.1046441,77.1749553,OpenStreetMap,node,13672657675,2026-11-26T07:44:32.059044+00:00
+McDonald's,fast_food,Himachal Pradesh,,,,,31.1038325,77.1767152,OpenStreetMap,node,13672668891,2026-11-26T07:44:32.059046+00:00
+Little rhino,restaurant,Himachal Pradesh,,,,,32.2816432,77.1691954,OpenStreetMap,node,13702901989,2026-11-26T07:44:32.059049+00:00
+The Cozy Kitchen,restaurant,Himachal Pradesh,Kangra,Sadarpur,"NH20 Tanda Kangra Bye Pass Road, 176002",+91-98166-53280,32.0990605,76.3164918,OpenStreetMap,node,13707156460,2026-11-26T07:44:32.059053+00:00
+Aarambh Cafe,cafe,Himachal Pradesh,,,,,32.0421755,76.7074356,OpenStreetMap,node,13713424631,2026-11-26T07:44:32.059056+00:00
+Skol Culture Cafe,cafe,Himachal Pradesh,,,,,32.231098,76.326799,OpenStreetMap,node,13716361601,2026-11-26T07:44:32.059059+00:00
+Cafe Roam Wild,cafe,Himachal Pradesh,,,,,32.0405172,76.7109328,OpenStreetMap,node,13718982619,2026-11-26T07:44:32.059062+00:00
+Strings Cafe and Bistro,cafe,Himachal Pradesh,,,,,32.2391921,76.3310345,OpenStreetMap,node,13729915701,2026-11-26T07:44:32.059065+00:00
+Bamboo Cafe,cafe,Himachal Pradesh,,,,,32.2620383,76.2863501,OpenStreetMap,node,13734469102,2026-11-26T07:44:32.059068+00:00
+Himachali Rasoi,restaurant,Himachal Pradesh,,,"54, Middle Bazaar, 171001",,31.1045979,77.1731231,OpenStreetMap,node,13752457301,2026-11-26T07:44:32.059071+00:00
+Solitaire,restaurant,Himachal Pradesh,,,,,31.1600372,77.3785375,OpenStreetMap,node,13754173601,2026-11-26T07:44:32.059074+00:00
+Cafe 1873,restaurant,Himachal Pradesh,,,"67-68, Mall Road, 171001",+917018200919,31.1043099,77.1748454,OpenStreetMap,node,13755030701,2026-11-26T07:44:32.059077+00:00
+Peace Coffee House,cafe,Himachal Pradesh,,,"Bhagsu Road, 176219",,32.2390956,76.3253522,OpenStreetMap,node,13759933901,2026-11-26T07:44:32.059080+00:00
+Dewa Fast Food,fast_food,Himachal Pradesh,,,,,32.0387357,76.7121797,OpenStreetMap,node,13769581201,2026-11-26T07:44:32.059083+00:00
+Volvo Tourist Dhaba,restaurant,Himachal Pradesh,,,,+91 70189 96757;+91 93133 02123,32.0342622,76.7171337,OpenStreetMap,node,13810147768,2026-11-26T07:44:32.059087+00:00
+Maggi Point,cafe,Himachal Pradesh,,,,,32.0487502,76.7450398,OpenStreetMap,node,13810259278,2026-11-26T07:44:32.059090+00:00
+Ankit Food Point,restaurant,Himachal Pradesh,,,,+91 98164 55240,32.0394398,76.7117668,OpenStreetMap,node,13908797853,2026-11-26T07:44:32.059093+00:00
+Emaho Cafe,fast_food,Himachal Pradesh,,,,,32.0363751,76.7144622,OpenStreetMap,node,13914862788,2026-11-26T07:44:32.059096+00:00
+Chai Sutta Bar,cafe,Himachal Pradesh,,,,,32.0353439,76.7156545,OpenStreetMap,node,13914862795,2026-11-26T07:44:32.059099+00:00
+Terra House,cafe,Himachal Pradesh,,,,,32.0341544,76.7171807,OpenStreetMap,node,13914906536,2026-11-26T07:44:32.059102+00:00
+Soul Mantra Cafe,restaurant,Himachal Pradesh,,,,,32.038742,76.7121366,OpenStreetMap,node,13917129433,2026-11-26T07:44:32.059105+00:00
+Foods4U,cafe,Himachal Pradesh,,,,,32.0392683,76.7119297,OpenStreetMap,node,13918606546,2026-11-26T07:44:32.059108+00:00
+Mafia,restaurant,Himachal Pradesh,,,,,32.0397633,76.7118243,OpenStreetMap,node,13918606559,2026-11-26T07:44:32.059111+00:00
+Palak Te Manyak da Dhaba,fast_food,Himachal Pradesh,,,,,31.3814338,77.5484321,OpenStreetMap,node,13919232501,2026-11-26T07:44:32.059114+00:00
+Pahadi Jayak,restaurant,Himachal Pradesh,,,,,31.3811218,77.5486309,OpenStreetMap,node,13919247301,2026-11-26T07:44:32.059116+00:00
+SR Food Corner,restaurant,Himachal Pradesh,,,,,31.3809637,77.5486026,OpenStreetMap,node,13919247401,2026-11-26T07:44:32.059119+00:00
+Mapango Pizza,fast_food,Himachal Pradesh,,,,,31.3911181,77.6084193,OpenStreetMap,node,13919288301,2026-11-26T07:44:32.059122+00:00
+Bhandari,restaurant,Himachal Pradesh,,,,,31.4504106,77.6309937,OpenStreetMap,node,13919322401,2026-11-26T07:44:32.059124+00:00
+The Mountain Lake View,restaurant,Himachal Pradesh,,,,,31.2785136,76.7299344,OpenStreetMap,node,13919985891,2026-11-26T07:44:32.059128+00:00
+Sushi Bir24,cafe,Himachal Pradesh,,,,+91 99302 72169,32.0370727,76.7138651,OpenStreetMap,node,13920150356,2026-11-26T07:44:32.059130+00:00
+Woe-sang Restaurant,restaurant,Himachal Pradesh,,,,+91 80912 75892,32.0376602,76.7133635,OpenStreetMap,node,13920153109,2026-11-26T07:44:32.059133+00:00
+Terra House,restaurant,Himachal Pradesh,,,,,32.0341729,76.717161,OpenStreetMap,node,13920404662,2026-11-26T07:44:32.059136+00:00
+The Tribe Osiya Cafe,cafe,Himachal Pradesh,,,,,31.3895634,78.3555391,OpenStreetMap,node,13923346249,2026-11-26T07:44:32.059139+00:00
+Anuradha Ki Rasoi,restaurant,Himachal Pradesh,,,,,32.0387449,76.7121647,OpenStreetMap,node,13926595889,2026-11-26T07:44:32.059142+00:00
+Happy Dhaba,restaurant,Himachal Pradesh,,,,,31.539848,78.2729606,OpenStreetMap,node,13929382960,2026-11-26T07:44:32.059145+00:00
+Deyar Cafe & Co,cafe,Himachal Pradesh,,,,,32.0358449,76.7164727,OpenStreetMap,node,13930514199,2026-11-26T07:44:32.059148+00:00
+Alfresco,restaurant,Himachal Pradesh,,,,,32.0410321,76.7104061,OpenStreetMap,node,13930514200,2026-11-26T07:44:32.059151+00:00
+Brother's Bhojanalay,restaurant,Himachal Pradesh,,,,,31.7000615,77.0354646,OpenStreetMap,node,13937750321,2026-11-26T07:44:32.059154+00:00
+Cafe Baysil,cafe,Himachal Pradesh,,,,+91 99201 89070,32.0345355,76.7167593,OpenStreetMap,node,13956692944,2026-11-26T07:44:32.059157+00:00
+The Local Cue and Brew,cafe,Himachal Pradesh,,,,,32.034823,76.715739,OpenStreetMap,node,13956694677,2026-11-26T07:44:32.059160+00:00
+Zayka Dhaba & Restaurant,restaurant,Himachal Pradesh,,,,,32.0344321,76.7164601,OpenStreetMap,node,13956705616,2026-11-26T07:44:32.059163+00:00
+Sip & Snacks,cafe,Himachal Pradesh,Kangra,Dharamsala,"Civil Lines Road, 176215",,32.2071442,76.3221505,OpenStreetMap,node,13973987301,2026-11-26T07:44:32.059166+00:00
+Punjabi Dhaba,restaurant,Himachal Pradesh,,,,,32.0825886,76.5875401,OpenStreetMap,node,13980873126,2026-11-26T07:44:32.059169+00:00
+Pappy dhaba,restaurant,Himachal Pradesh,,,,,32.1010095,76.533283,OpenStreetMap,node,13980906685,2026-11-26T07:44:32.059172+00:00
+The mountain lake palace view,restaurant,Himachal Pradesh,,,,+919418491094,31.278467,76.7300502,OpenStreetMap,node,13981408201,2026-11-26T07:44:32.059175+00:00
+Silverspoon Restaurant,restaurant,Himachal Pradesh,Kullu,Old Manali,"Silverspoon, Peddler Street, 175131",08894116988,32.253773,77.1769128,OpenStreetMap,node,14004833970,2026-11-26T07:44:32.059178+00:00
+Basecamp,cafe,Himachal Pradesh,,,,,30.4457696,77.6420013,OpenStreetMap,node,14049368313,2026-11-26T07:44:32.059181+00:00
+Cafe Sweet Moments,cafe,Himachal Pradesh,,,,,32.246627,76.3258951,OpenStreetMap,node,14065971606,2026-11-26T07:44:32.059184+00:00
+D.Town Restaurant,restaurant,Himachal Pradesh,,,,,32.2385334,76.3238413,OpenStreetMap,node,14175467802,2026-11-26T07:44:32.059187+00:00
+Cafe DO NTHNG - Best Mountain Cafe in Manali,cafe,Himachal Pradesh,Kullu,Manali,"Cafe DO NTHNG, Inside HOGS Panorama, Shuru traverse, 175143",+919251115478,32.2135715,77.2016529,OpenStreetMap,node,14180008962,2026-11-26T07:44:32.059191+00:00
+Ampy's Coffee,cafe,Himachal Pradesh,,,,9816279785,32.2343359,76.3268164,OpenStreetMap,node,14190995249,2026-11-26T07:44:32.059193+00:00
+Seekers Co-Work and Stay,cafe,Himachal Pradesh,,,,,32.2575349,77.1758366,OpenStreetMap,node,14201103560,2026-11-26T07:44:32.059196+00:00
+Macha's Cafe,restaurant,Himachal Pradesh,,,,,32.257529,77.1759967,OpenStreetMap,node,14201103561,2026-11-26T07:44:32.059199+00:00
+Sunbloom Cafe,cafe,Himachal Pradesh,,,Kullu - Naggar - Manali Road,+919829037474,32.152741,77.1774472,OpenStreetMap,node,14314964197,2026-11-26T07:44:32.059202+00:00
+Bir Billing Bite,restaurant,Himachal Pradesh,,,,,32.0371715,76.7197226,OpenStreetMap,node,14331105188,2026-11-26T07:44:32.059205+00:00
+Mysuru Cafe,cafe,Himachal Pradesh,,,,,32.03539,76.7233,OpenStreetMap,node,14331421707,2026-11-26T07:44:32.059208+00:00
+Jaswal Dhaba,restaurant,Himachal Pradesh,,,,,31.8685764,76.226505,OpenStreetMap,node,14356981433,2026-11-26T07:44:32.059211+00:00
+Om Sativa Cafe,cafe,Himachal Pradesh,,,,7591859244,32.2435961,77.1744686,OpenStreetMap,node,14365242201,2026-11-26T07:44:32.059214+00:00
+Mitti & Mint,restaurant,Himachal Pradesh,,,,+918219641219,32.037525,76.7190986,OpenStreetMap,node,14408749993,2026-11-26T07:44:32.059217+00:00
+Small Shop Near Prashar,fast_food,Himachal Pradesh,,,,,31.7555134,77.1008049,OpenStreetMap,way,209503857,2026-11-26T07:44:32.059221+00:00
+McDonald's,fast_food,Himachal Pradesh,,,,,30.8777858,76.9943211,OpenStreetMap,way,242232159,2026-11-26T07:44:32.059224+00:00
+Joyful Restaurant,restaurant,Himachal Pradesh,,,,,32.1991561,76.3595334,OpenStreetMap,way,296866468,2026-11-26T07:44:32.059227+00:00
+Thousand mile Restaurant,restaurant,Himachal Pradesh,,,,,32.2579969,77.1767823,OpenStreetMap,way,305832439,2026-11-26T07:44:32.059230+00:00
+Shimla QoH Food Court,restaurant,Himachal Pradesh,Shimla,Shimla,"Near Lift to the Mall, Cart Road, 171001",+919805107473,31.1021725,77.1764692,OpenStreetMap,way,321107248,2026-11-26T07:44:32.059233+00:00
+Midway Fast Food Corner,cafe,Himachal Pradesh,,,,,31.6363966,76.8222133,OpenStreetMap,way,413060406,2026-11-26T07:44:32.059236+00:00
+Krishna Cafe,cafe,Himachal Pradesh,,Palampur,"Saurabh Van Vihar, Kandi Road, 176061",,32.129266,76.5318958,OpenStreetMap,way,419976908,2026-11-26T07:44:32.059240+00:00
+Amala Cafe,cafe,Himachal Pradesh,,,,,32.2229594,78.0746065,OpenStreetMap,way,454697875,2026-11-26T07:44:32.059243+00:00
+Cedar Mess(D1),restaurant,Himachal Pradesh,,,,,31.7732807,76.9850498,OpenStreetMap,way,484541624,2026-11-26T07:44:32.059246+00:00
+Park Restaurant,restaurant,Himachal Pradesh,,dharamasala,"Dharamshala Road, 176215",,32.2109343,76.3213635,OpenStreetMap,way,521200762,2026-11-26T07:44:32.059249+00:00
+Chauhan Bhojnalaya,restaurant,Himachal Pradesh,,,Simla Kangra Ghumarwin Road,078070 50980,31.2588712,76.9139344,OpenStreetMap,way,531662542,2026-11-26T07:44:32.059253+00:00
+The Magic Hut,cafe,Himachal Pradesh,,,,,32.2888223,77.1631354,OpenStreetMap,way,571473909,2026-11-26T07:44:32.059256+00:00
+Food Junction,restaurant,Himachal Pradesh,,,,,32.3135197,77.1563575,OpenStreetMap,way,579967307,2026-11-26T07:44:32.059259+00:00
+Himalaya Dhaba,restaurant,Himachal Pradesh,,,,,32.3143879,77.1572506,OpenStreetMap,way,579967309,2026-11-26T07:44:32.059262+00:00
+Ekant Bohjkala,restaurant,Himachal Pradesh,,,,,32.3021095,77.1832184,OpenStreetMap,way,583801029,2026-11-26T07:44:32.059264+00:00
+Anjani Mahadev Cafe,cafe,Himachal Pradesh,,,,,32.3060198,77.1758996,OpenStreetMap,way,583804547,2026-11-26T07:44:32.059267+00:00
+Dallhousie Cafe,cafe,Himachal Pradesh,,dalhousie,"Gandhi chowk, 176304",,32.5361979,75.9759146,OpenStreetMap,way,594197340,2026-11-26T07:44:32.059271+00:00
+Monga's Cafe,cafe,Himachal Pradesh,,dalhousie,"Gandhi chowk, 176304",,32.5359026,75.9758371,OpenStreetMap,way,594205768,2026-11-26T07:44:32.059274+00:00
+Cafe 360,cafe,Himachal Pradesh,,,,,32.0426749,76.7102064,OpenStreetMap,way,696004534,2026-11-26T07:44:32.059277+00:00
+Sharma Dhaba,restaurant,Himachal Pradesh,,,,,31.669658,77.05556,OpenStreetMap,way,711524748,2026-11-26T07:44:32.059280+00:00
+Food Plaza and Patanjali Store,cafe,Himachal Pradesh,,,,,31.708753,76.5227127,OpenStreetMap,way,728375648,2026-11-26T07:44:32.059282+00:00
+Verka,cafe,Himachal Pradesh,,,,,31.7067481,76.5289767,OpenStreetMap,way,728375649,2026-11-26T07:44:32.059285+00:00
+Sharma Dhaba,restaurant,Himachal Pradesh,,Bharmour,Road to Chaurasi Temples,,32.4421338,76.5376563,OpenStreetMap,way,733841864,2026-11-26T07:44:32.059288+00:00
+Pine Mess,cafe,Himachal Pradesh,,,,,31.7807876,76.9966544,OpenStreetMap,way,761449991,2026-11-26T07:44:32.059291+00:00
+Oak Mess,cafe,Himachal Pradesh,,,,,31.7818168,76.9988551,OpenStreetMap,way,762330814,2026-11-26T07:44:32.059294+00:00
+Yodo Cafe,cafe,Himachal Pradesh,,Kasol,"Main Market Road, 175105",+919319137319,32.0088874,77.317249,OpenStreetMap,way,990907184,2026-11-26T07:44:32.059297+00:00
+Dhaba,cafe,Himachal Pradesh,,,,,32.7501882,76.4680338,OpenStreetMap,way,1117014409,2026-11-26T07:44:32.059300+00:00
+Barog Valley FoodPoint,restaurant,Himachal Pradesh,,,,,30.8910154,77.0660145,OpenStreetMap,way,1164856360,2026-11-26T07:44:32.059303+00:00
+Fauji Chache Da Dhaba,fast_food,Himachal Pradesh,,,,,31.8286492,76.1665919,OpenStreetMap,way,1222919521,2026-11-26T07:44:32.059306+00:00
+Toral Cafe,fast_food,Himachal Pradesh,,,,,32.2302648,76.3639132,OpenStreetMap,way,1223771295,2026-11-26T07:44:32.059309+00:00
+Shree Balaji Haveli,restaurant,Himachal Pradesh,,,,,31.8727826,76.2215072,OpenStreetMap,way,1263358103,2026-11-26T07:44:32.059312+00:00
+Mishty Bakery,restaurant,Himachal Pradesh,,,,,31.1128956,77.3210621,OpenStreetMap,way,1381328880,2026-11-26T07:44:32.059315+00:00
+Flügler Cafe,cafe,Himachal Pradesh,,,,,32.2495673,76.3293845,OpenStreetMap,way,1392701719,2026-11-26T07:44:32.059318+00:00
+Deshi Chulha,fast_food,Himachal Pradesh,,,,,32.1981028,76.3665039,OpenStreetMap,way,1447096995,2026-11-26T07:44:32.059321+00:00
+Thapa Tea Shop,cafe,Himachal Pradesh,,,,,32.2550344,76.3264291,OpenStreetMap,way,1453261380,2026-11-26T07:44:32.059324+00:00
+Thapa Tea Shop,cafe,Himachal Pradesh,,,,,32.2549156,76.326269,OpenStreetMap,way,1453261389,2026-11-26T07:44:32.059327+00:00
+Make Shift Cafe,cafe,Himachal Pradesh,,,,,32.2421743,76.3505116,OpenStreetMap,way,1472122460,2026-11-26T07:44:32.059330+00:00
+Post Office Cafe,restaurant,Himachal Pradesh,,,,,32.211172,76.3216919,OpenStreetMap,way,1510791827,2026-11-26T07:44:32.059333+00:00
+Police Tea Stall,cafe,Himachal Pradesh,,,,,32.2032205,76.3229951,OpenStreetMap,way,1510791850,2026-11-26T07:44:32.059336+00:00
+Ravi Dhaba,fast_food,Himachal Pradesh,,,,,32.032201,76.7209681,OpenStreetMap,way,1525686568,2026-11-26T07:44:32.059341+00:00
+Munna Dhaba,fast_food,Himachal Pradesh,,,,,32.0410415,76.7096804,OpenStreetMap,way,1527154542,2026-11-26T07:44:32.059344+00:00
+Juice Uncle,restaurant,Himachal Pradesh,Solan,Baddi,"130, Sai road, Housing Board Colony Phase-1, opposite to Malhotra Hospital, 173205",8091143090,30.9439485,76.8034037,OpenStreetMap,way,1544829539,2026-11-26T07:44:32.059347+00:00
+Nature's Dine In,restaurant,Himachal Pradesh,,,,,32.4587593,75.9309296,OpenStreetMap,way,1578423714,2026-11-26T07:44:32.059350+00:00

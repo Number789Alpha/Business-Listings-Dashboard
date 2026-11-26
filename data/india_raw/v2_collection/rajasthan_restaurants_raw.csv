@@ -1,0 +1,1213 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+All night canteen,cafe,Rajasthan,,,,,28.3603778,75.5894167,OpenStreetMap,node,346154870,2026-11-26T07:29:17.174233+00:00
+Natraj vegetarian Restaurant,restaurant,Rajasthan,,,,,26.9161855,75.8109776,OpenStreetMap,node,566815520,2026-11-26T07:29:17.174275+00:00
+Ambrai Restaurant,restaurant,Rajasthan,,,,,24.5781623,73.6800374,OpenStreetMap,node,655410653,2026-11-26T07:29:17.174318+00:00
+Anokhi Cafe,restaurant,Rajasthan,,,,,26.9106803,75.7985655,OpenStreetMap,node,691261875,2026-11-26T07:29:17.174332+00:00
+C'not,restaurant,Rajasthan,,,,,28.3564583,75.5913923,OpenStreetMap,node,921071255,2026-11-26T07:29:17.174344+00:00
+Rajasthan Hotel Restaurant,restaurant,Rajasthan,,,,,27.0551003,76.9497468,OpenStreetMap,node,1005789605,2026-11-26T07:29:17.174356+00:00
+Ras Brahma,cafe,Rajasthan,,,,,26.4859324,74.5549156,OpenStreetMap,node,1030663717,2026-11-26T07:29:17.174368+00:00
+Cafe Edelweiss,cafe,Rajasthan,,,,,24.5802202,73.6823586,OpenStreetMap,node,1030663736,2026-11-26T07:29:17.174379+00:00
+Sunset Cafe,cafe,Rajasthan,,,,,26.4868372,74.5562137,OpenStreetMap,node,1030664216,2026-11-26T07:29:17.174390+00:00
+Trio,restaurant,Rajasthan,,,,,26.9161389,70.9104431,OpenStreetMap,node,1030666763,2026-11-26T07:29:17.174402+00:00
+Bhang Shop,cafe,Rajasthan,,,,,26.9135552,70.9138986,OpenStreetMap,node,1030667013,2026-11-26T07:29:17.174413+00:00
+Heart Rock Cafe,restaurant,Rajasthan,,,,,26.4886223,74.5578553,OpenStreetMap,node,1465187495,2026-11-26T07:29:17.174424+00:00
+Tom and Jerry,restaurant,Rajasthan,,,,,25.447563,75.6356526,OpenStreetMap,node,1469157462,2026-11-26T07:29:17.174434+00:00
+Alpine Pizzeria,restaurant,Rajasthan,,,,,26.4879314,74.556551,OpenStreetMap,node,2199855628,2026-11-26T07:29:17.174445+00:00
+Aroma Royal,restaurant,Rajasthan,,,,,26.4890459,74.5484391,OpenStreetMap,node,2199855638,2026-11-26T07:29:17.174456+00:00
+Hotel Akash,restaurant,Rajasthan,,,,,26.4887914,74.5494041,OpenStreetMap,node,2199855656,2026-11-26T07:29:17.174466+00:00
+Mamta,restaurant,Rajasthan,,,,,26.4878389,74.5492435,OpenStreetMap,node,2199855710,2026-11-26T07:29:17.174477+00:00
+Moon Dance,restaurant,Rajasthan,,,,,26.4876191,74.5580408,OpenStreetMap,node,2199855715,2026-11-26T07:29:17.174489+00:00
+Om Shiva Garden Resaurant,restaurant,Rajasthan,,,,,26.4880942,74.5570631,OpenStreetMap,node,2199855725,2026-11-26T07:29:17.174500+00:00
+Shiva Buffet,restaurant,Rajasthan,,,,,26.4882291,74.5574607,OpenStreetMap,node,2199855747,2026-11-26T07:29:17.174510+00:00
+Krishna Softee & Softee,restaurant,Rajasthan,,,,,26.2621259,73.0038552,OpenStreetMap,node,2208339229,2026-11-26T07:29:17.174522+00:00
+Lake View,restaurant,Rajasthan,,Udaipur,"Lal Ghat, 313001",,24.5800016,73.6830934,OpenStreetMap,node,2235563686,2026-11-26T07:29:17.174537+00:00
+Neelam,restaurant,Rajasthan,,Udaipur,"18, Gangaur Ghat Marg, 313001",,24.5800999,73.6830695,OpenStreetMap,node,2235563720,2026-11-26T07:29:17.174552+00:00
+Om Sai Ram,restaurant,Rajasthan,,,,,24.5663667,73.6850341,OpenStreetMap,node,2377178388,2026-11-26T07:29:17.174563+00:00
+Little Tibet,restaurant,Rajasthan,,,,,26.9125868,70.9138515,OpenStreetMap,node,2377249227,2026-11-26T07:29:17.174574+00:00
+Bajrang Bhjnady,restaurant,Rajasthan,,,,,26.9165656,70.9083165,OpenStreetMap,node,2377249228,2026-11-26T07:29:17.174585+00:00
+Free Tibet,restaurant,Rajasthan,,,,,26.9124035,70.9143318,OpenStreetMap,node,2410165863,2026-11-26T07:29:17.174596+00:00
+Saffron Restaurant,restaurant,Rajasthan,,,,,26.9160696,70.910993,OpenStreetMap,node,2410165875,2026-11-26T07:29:17.174606+00:00
+Ganesh Restaurant,restaurant,Rajasthan,,,,,26.9168711,75.8201955,OpenStreetMap,node,2583229954,2026-11-26T07:29:17.174616+00:00
+Food & Fun,restaurant,Rajasthan,,,,,25.4469701,75.6365499,OpenStreetMap,node,2588693909,2026-11-26T07:29:17.174628+00:00
+Krishna'a Chai,cafe,Rajasthan,,,,,25.4454938,75.6378418,OpenStreetMap,node,2592749196,2026-11-26T07:29:17.174638+00:00
+Honey & Spice,restaurant,Rajasthan,,,,,26.4897864,74.5548857,OpenStreetMap,node,2592749199,2026-11-26T07:29:17.174649+00:00
+The Sixth Sense;Hotel Amar,restaurant,Rajasthan,,,,,26.4897791,74.5541598,OpenStreetMap,node,2592749201,2026-11-26T07:29:17.174659+00:00
+Jhankar,restaurant,Rajasthan,,,,,26.2965755,73.0225174,OpenStreetMap,node,2592750324,2026-11-26T07:29:17.174670+00:00
+Sheesh Mahal,cafe,Rajasthan,,,,,26.2962017,73.0240979,OpenStreetMap,node,2595261572,2026-11-26T07:29:17.174682+00:00
+Indique,restaurant,Rajasthan,,,,,26.2964113,73.0240235,OpenStreetMap,node,2595261573,2026-11-26T07:29:17.174693+00:00
+Café Namaste & Natural City View,cafe,Rajasthan,,,"339, Gangaur Ghat Marg",,24.5802766,73.6825633,OpenStreetMap,node,2595261674,2026-11-26T07:29:17.174708+00:00
+The Little Prince,cafe,Rajasthan,,,,,24.5802247,73.6791086,OpenStreetMap,node,2595261675,2026-11-26T07:29:17.174719+00:00
+Kitchen of Mewar,restaurant,Rajasthan,,,,,24.5810871,73.6802524,OpenStreetMap,node,2595261676,2026-11-26T07:29:17.174732+00:00
+Hari Garh Restaurant,restaurant,Rajasthan,,,,,24.5796738,73.6803155,OpenStreetMap,node,2601473827,2026-11-26T07:29:17.174749+00:00
+Surendra Tea Stall and Cafe,restaurant,Rajasthan,,,"N/A, Didwana Road, 341303",,27.5727725,74.6837202,OpenStreetMap,node,2601746192,2026-11-26T07:29:17.174763+00:00
+Gangour Palace,restaurant,Rajasthan,,,,,26.4766241,76.3751838,OpenStreetMap,node,2683128558,2026-11-26T07:29:17.174775+00:00
+Spice Court,restaurant,Rajasthan,,Jaipur,"Achrol House, Civil Lines",,26.9108905,75.7889678,OpenStreetMap,node,2684721077,2026-11-26T07:29:17.174787+00:00
+Laxmi Mishthan Bhandar,restaurant,Rajasthan,,,,+91 9024 609609,26.9196343,75.8254983,OpenStreetMap,node,2684968689,2026-11-26T07:29:17.174798+00:00
+McDonald's,fast_food,Rajasthan,,,,,26.2892262,73.0286876,OpenStreetMap,node,2688072308,2026-11-26T07:29:17.174809+00:00
+Rainbow Heritage Cafe,restaurant,Rajasthan,,,,,25.4475476,75.6348369,OpenStreetMap,node,2753472083,2026-11-26T07:29:17.174820+00:00
+Old Green Tandori Dhaba,restaurant,Rajasthan,,,,,26.9173942,75.8046009,OpenStreetMap,node,2777043235,2026-11-26T07:29:17.174830+00:00
+Hotel Pleasant Haveli,restaurant,Rajasthan,,,ChainPura street,+912992253253,26.9177722,70.9112716,OpenStreetMap,node,2803340399,2026-11-26T07:29:17.174842+00:00
+Badal Resort Restaurant,restaurant,Rajasthan,,,,,24.778624,73.5012931,OpenStreetMap,node,2881874719,2026-11-26T07:29:17.174852+00:00
+Arbuda Express Food,restaurant,Rajasthan,,,,,24.6912695,72.952833,OpenStreetMap,node,2881877200,2026-11-26T07:29:17.174863+00:00
+Sai Cafe,cafe,Rajasthan,,Bhilwara,"New Housing Board Road, 311001",,25.3293895,74.6433089,OpenStreetMap,node,2904774578,2026-11-26T07:29:17.174874+00:00
+Akshay Coffee House,cafe,Rajasthan,,bhilwara,"Solanki Talike Road, 311001",,25.3343561,74.6423318,OpenStreetMap,node,2904828148,2026-11-26T07:29:17.174887+00:00
+Puskar Café,cafe,Rajasthan,,,,,24.5806329,73.6825118,OpenStreetMap,node,2927263205,2026-11-26T07:29:17.174898+00:00
+marwar residency,restaurant,Rajasthan,,jodhpur,Paota C Road,,26.3060629,73.0572641,OpenStreetMap,node,2932295889,2026-11-26T07:29:17.174910+00:00
+Hotel Raj Style Inn,restaurant,Rajasthan,Jaipur,Jaipur,,,26.8499173,75.7686683,OpenStreetMap,node,3078036947,2026-11-26T07:29:17.174921+00:00
+Neelam Dhaba,restaurant,Rajasthan,Jaipur,Jaipur,,,26.8481625,75.770165,OpenStreetMap,node,3078036948,2026-11-26T07:29:17.174933+00:00
+Mahadev Dhaba,restaurant,Rajasthan,Jaipur,Jaipur,,,26.847881,75.7702746,OpenStreetMap,node,3078038139,2026-11-26T07:29:17.174948+00:00
+Saras Parlour,restaurant,Rajasthan,,Jaipur,JLN Road,,26.8624615,75.8063864,OpenStreetMap,node,3081602535,2026-11-26T07:29:17.174961+00:00
+Domino's,restaurant,Rajasthan,,,,,25.1378425,75.8554054,OpenStreetMap,node,3149504071,2026-11-26T07:29:17.174972+00:00
+The Canteen,fast_food,Rajasthan,,,,,27.1751293,75.9544883,OpenStreetMap,node,3158029762,2026-11-26T07:29:17.174983+00:00
+Chai Shop,fast_food,Rajasthan,,,,,26.9125223,70.9132377,OpenStreetMap,node,3209386495,2026-11-26T07:29:17.174994+00:00
+Chandan Shree Restaurant,restaurant,Rajasthan,,,,,26.9159172,70.9096778,OpenStreetMap,node,3209386496,2026-11-26T07:29:17.175005+00:00
+Chitra Café,cafe,Rajasthan,,,,,26.9206156,75.8041948,OpenStreetMap,node,3209386497,2026-11-26T07:29:17.175016+00:00
+Natraj Dining Hall,restaurant,Rajasthan,,,,,24.5720379,73.6996002,OpenStreetMap,node,3231569344,2026-11-26T07:29:17.175026+00:00
+Natraj,restaurant,Rajasthan,,,,,24.5838464,73.6980074,OpenStreetMap,node,3231570959,2026-11-26T07:29:17.175037+00:00
+Cafe Coffee Day,cafe,Rajasthan,,,,,24.5971211,73.6883043,OpenStreetMap,node,3233774373,2026-11-26T07:29:17.175052+00:00
+Parmeshwara,restaurant,Rajasthan,,,,,24.6099217,73.679825,OpenStreetMap,node,3234262295,2026-11-26T07:29:17.175062+00:00
+Lale View,restaurant,Rajasthan,,Bundi,323001,,25.4475781,75.6329164,OpenStreetMap,node,3269083133,2026-11-26T07:29:17.175074+00:00
+Black Pepper,restaurant,Rajasthan,,Udaipur,"24, Panduvari Gangaur Ghat, 313001",,24.5807045,73.6826333,OpenStreetMap,node,3269249896,2026-11-26T07:29:17.175086+00:00
+Jaiwana Haveli,restaurant,Rajasthan,,,,,24.5792172,73.6825615,OpenStreetMap,node,3270062578,2026-11-26T07:29:17.175096+00:00
+Gokul Roof Top,restaurant,Rajasthan,,,,,24.5807377,73.6821905,OpenStreetMap,node,3273037673,2026-11-26T07:29:17.175107+00:00
+On the Rocks,restaurant,Rajasthan,,Jodhpur,342011,+91 98 29 810376,26.2817132,73.0378539,OpenStreetMap,node,3282021036,2026-11-26T07:29:17.175118+00:00
+Jai Ambe Misthan $ Namken Shop,fast_food,Rajasthan,,,,,26.9223845,71.9200508,OpenStreetMap,node,3353630790,2026-11-26T07:29:17.175129+00:00
+Institutional Cafe,cafe,Rajasthan,,,,,28.3648254,75.5868659,OpenStreetMap,node,3381455703,2026-11-26T07:29:17.175139+00:00
+Kamals,restaurant,Rajasthan,,,,,28.356516,75.5918427,OpenStreetMap,node,3404339404,2026-11-26T07:29:17.175149+00:00
+Snacks and fast food shop,fast_food,Rajasthan,,,,,24.5669007,72.7034958,OpenStreetMap,node,3441395354,2026-11-26T07:29:17.175159+00:00
+Mishrilala Sweets and Lassi,restaurant,Rajasthan,,,,,26.2944201,73.0245241,OpenStreetMap,node,3476095719,2026-11-26T07:29:17.175169+00:00
+Shahi Samosa,restaurant,Rajasthan,,,,,26.2937794,73.0242029,OpenStreetMap,node,3476130395,2026-11-26T07:29:17.175186+00:00
+Kanha,restaurant,Rajasthan,,,,,26.8544337,75.8082444,OpenStreetMap,node,3476221910,2026-11-26T07:29:17.175198+00:00
+Yash Veer Restaurant and Resort,restaurant,Rajasthan,,,,,24.9458684,72.7961905,OpenStreetMap,node,3577976684,2026-11-26T07:29:17.175209+00:00
+Honest King's Fast Food,restaurant,Rajasthan,,,,,24.5921312,72.7078414,OpenStreetMap,node,3577976687,2026-11-26T07:29:17.175219+00:00
+"Jain Hotel, dhawaa",fast_food,Rajasthan,,,,,26.0606827,72.750934,OpenStreetMap,node,3577977137,2026-11-26T07:29:17.175229+00:00
+Redrock Resort & Restaurant,restaurant,Rajasthan,,,,,27.4283623,72.3745766,OpenStreetMap,node,3577977203,2026-11-26T07:29:17.175239+00:00
+college canteen,restaurant,Rajasthan,,,,,26.2871638,73.0345048,OpenStreetMap,node,3616998420,2026-11-26T07:29:17.175249+00:00
+Nibs,cafe,Rajasthan,,,,,26.915555,75.7949393,OpenStreetMap,node,3685074596,2026-11-26T07:29:17.175260+00:00
+Pizza Hut,restaurant,Rajasthan,,,"109, M. I. Road",,26.9194775,75.7996659,OpenStreetMap,node,3685075825,2026-11-26T07:29:17.175271+00:00
+Sunset Palace Restaurant,restaurant,Rajasthan,,,,,26.9117672,70.9112836,OpenStreetMap,node,3693308807,2026-11-26T07:29:17.175282+00:00
+Basant Mango Bar,restaurant,Rajasthan,,,,,29.9296782,73.8714063,OpenStreetMap,node,3699548283,2026-11-26T07:29:17.175292+00:00
+Gypsy,restaurant,Rajasthan,,,,,26.2755449,73.0078391,OpenStreetMap,node,3725754565,2026-11-26T07:29:17.175302+00:00
+Hanwant Mahal,restaurant,Rajasthan,,,"The Umaid Hills, Circuit House Road, Jodhpur 342006",+919829066688,26.2771952,73.0445396,OpenStreetMap,node,3736991359,2026-11-26T07:29:17.175314+00:00
+nimmu chai dukan,cafe,Rajasthan,,,,,27.0142879,75.7530237,OpenStreetMap,node,3747116986,2026-11-26T07:29:17.175324+00:00
+Kaka Gardens,restaurant,Rajasthan,,,,,25.7580286,73.3243442,OpenStreetMap,node,3763312166,2026-11-26T07:29:17.175335+00:00
+Chowpati,fast_food,Rajasthan,,,,,24.6010455,73.6905645,OpenStreetMap,node,3776176712,2026-11-26T07:29:17.175345+00:00
+1559 AD,restaurant,Rajasthan,,,,,24.5929907,73.6813862,OpenStreetMap,node,3776199883,2026-11-26T07:29:17.175357+00:00
+McDonald's,fast_food,Rajasthan,,,,,26.9159839,75.8098987,OpenStreetMap,node,3781906926,2026-11-26T07:29:17.175369+00:00
+Vitthal's Kitchen,restaurant,Rajasthan,,,,,26.8808849,75.7980181,OpenStreetMap,node,3788605554,2026-11-26T07:29:17.175379+00:00
+Mewar Motel,restaurant,Rajasthan,,Deogarh,,,25.5995079,73.9384696,OpenStreetMap,node,3799042534,2026-11-26T07:29:17.175389+00:00
+Kuber Resort,restaurant,Rajasthan,,,,,26.6188739,75.0640819,OpenStreetMap,node,3799194226,2026-11-26T07:29:17.175400+00:00
+RTDC Midway Shahpura,restaurant,Rajasthan,,,,,27.3986504,75.9755557,OpenStreetMap,node,3809460639,2026-11-26T07:29:17.175410+00:00
+Dhaba,restaurant,Rajasthan,,,,,27.3810991,76.3346682,OpenStreetMap,node,3809544435,2026-11-26T07:29:17.175420+00:00
+Jai Gurudev Hotel,restaurant,Rajasthan,,,,,26.8941267,76.2654598,OpenStreetMap,node,3823828670,2026-11-26T07:29:17.175431+00:00
+Sky Waltz,restaurant,Rajasthan,,,,,27.158614,75.9605345,OpenStreetMap,node,3828203057,2026-11-26T07:29:17.175441+00:00
+Doodh Misthan Bhandar,restaurant,Rajasthan,,Jaipur,"Meera Marg, 302016",,26.9313342,75.800266,OpenStreetMap,node,3830464220,2026-11-26T07:29:17.175453+00:00
+Shree Ganesh Namkeen Bhandar,fast_food,Rajasthan,,Jaipur,"Meera Marg, 302016",,26.9311763,75.8004455,OpenStreetMap,node,3830464221,2026-11-26T07:29:17.175465+00:00
+Shiva Oasis,restaurant,Rajasthan,,,,,27.9127275,76.3148538,OpenStreetMap,node,3832582444,2026-11-26T07:29:17.175475+00:00
+Yo China,restaurant,Rajasthan,,,"D-183, Mahesh Marg, D-Block, Sector 4, Malviya Nagar, Jaipur, Rajasthan 302017",,26.9164285,75.8094487,OpenStreetMap,node,3842344276,2026-11-26T07:29:17.175486+00:00
+Tiger Treat,restaurant,Rajasthan,,,,,26.4741146,76.3752443,OpenStreetMap,node,3848406983,2026-11-26T07:29:17.175496+00:00
+Corner 10,cafe,Rajasthan,,,,,26.9170881,75.743631,OpenStreetMap,node,3875761989,2026-11-26T07:29:17.175506+00:00
+Hotel Vijay Deep,restaurant,Rajasthan,,,,,25.7064885,74.0634121,OpenStreetMap,node,3885873380,2026-11-26T07:29:17.175516+00:00
+Dhaba,restaurant,Rajasthan,,,,,25.3012621,73.7941632,OpenStreetMap,node,3885940535,2026-11-26T07:29:17.175528+00:00
+Saras Doli Restaurant,restaurant,Rajasthan,,,,,24.7466979,73.5391415,OpenStreetMap,node,3888606357,2026-11-26T07:29:17.175538+00:00
+Hotel Deep Palace,restaurant,Rajasthan,,,,,24.7192654,72.991945,OpenStreetMap,node,3888641072,2026-11-26T07:29:17.175548+00:00
+Pizza Crust,restaurant,Rajasthan,,,,,24.5922028,72.7076151,OpenStreetMap,node,3889948266,2026-11-26T07:29:17.175559+00:00
+Food Inn,restaurant,Rajasthan,,,,,24.5921424,72.7077273,OpenStreetMap,node,3889948862,2026-11-26T07:29:17.175568+00:00
+Saraswati Restaurant,restaurant,Rajasthan,,,,,24.5883102,72.7113078,OpenStreetMap,node,3889973901,2026-11-26T07:29:17.175579+00:00
+Raj Restaurant,restaurant,Rajasthan,,,,,24.782494,73.4674996,OpenStreetMap,node,3891234317,2026-11-26T07:29:17.175589+00:00
+Kalinga Restaurant,restaurant,Rajasthan,,,,,26.2841436,73.0212814,OpenStreetMap,node,3900209096,2026-11-26T07:29:17.175599+00:00
+Tribute,restaurant,Rajasthan,,,,,24.5846843,73.6805017,OpenStreetMap,node,3900209158,2026-11-26T07:29:17.175608+00:00
+Hotel Swagat,restaurant,Rajasthan,,,,,24.5917317,72.7131359,OpenStreetMap,node,3902020977,2026-11-26T07:29:17.175618+00:00
+Kesar Heritage Restaurant,restaurant,Rajasthan,,,,,26.2971521,73.0209559,OpenStreetMap,node,3902482668,2026-11-26T07:29:17.175629+00:00
+Krishna Boulangerie,restaurant,Rajasthan,,,,,26.9119601,70.9122795,OpenStreetMap,node,3906001754,2026-11-26T07:29:17.175639+00:00
+Kanyi Restaurant,restaurant,Rajasthan,,,"Station Road, 302001",,26.9216983,75.7968445,OpenStreetMap,node,3912110531,2026-11-26T07:29:17.175650+00:00
+Tyagi's Roof top,restaurant,Rajasthan,,,,,26.4903306,74.5554376,OpenStreetMap,node,3912751511,2026-11-26T07:29:17.175660+00:00
+Cafe Coffee Day,cafe,Rajasthan,,Jaipur,"R-14, Yudhishthir Marg, 302001",+911414048647,26.9060748,75.7970467,OpenStreetMap,node,4015018939,2026-11-26T07:29:17.175672+00:00
+Nirvana restaurant,restaurant,Rajasthan,,,,,26.2940055,73.0226044,OpenStreetMap,node,4040274119,2026-11-26T07:29:17.175682+00:00
+shree krishna restaurant,restaurant,Rajasthan,,,,,26.4893107,74.5568993,OpenStreetMap,node,4040275724,2026-11-26T07:29:17.175693+00:00
+Jasmine restaurant,restaurant,Rajasthan,,,,,24.5816812,73.680952,OpenStreetMap,node,4040275725,2026-11-26T07:29:17.175703+00:00
+Restaurante Priya Niwas,restaurant,Rajasthan,,,,,26.2887769,73.0258882,OpenStreetMap,node,4041200968,2026-11-26T07:29:17.175713+00:00
+King of Omelettes,fast_food,Rajasthan,,,,,26.295825,73.0236207,OpenStreetMap,node,4045582751,2026-11-26T07:29:17.175723+00:00
+Jaisal Italy,restaurant,Rajasthan,,,,,26.9133094,70.9141705,OpenStreetMap,node,4076856390,2026-11-26T07:29:17.175735+00:00
+Govinda's cafeteria,cafe,Rajasthan,,,168,,24.57884,73.6838471,OpenStreetMap,node,4082531631,2026-11-26T07:29:17.175747+00:00
+Satori,cafe,Rajasthan,,,,,24.5809577,73.6821532,OpenStreetMap,node,4086028175,2026-11-26T07:29:17.175757+00:00
+Jheel's Ginger Coffee Bar & Bakery,cafe,Rajasthan,,,,,24.5807917,73.6818487,OpenStreetMap,node,4086293817,2026-11-26T07:29:17.175767+00:00
+Jeeman restaurant,restaurant,Rajasthan,,"Jodhpur, Rajasthan","Navchokiya, Fateh Pol Rd, Sodagaran Mohalla,, 342001",,26.2962665,73.0144626,OpenStreetMap,node,4191406856,2026-11-26T07:29:17.175778+00:00
+"Cheel Gadi, Sanganer",restaurant,Rajasthan,,,,,26.8219982,75.8109285,OpenStreetMap,node,4226406593,2026-11-26T07:29:17.175788+00:00
+Falafel Wrap Stalls,fast_food,Rajasthan,,,,,26.4896275,74.5551169,OpenStreetMap,node,4235186102,2026-11-26T07:29:17.175798+00:00
+Shree Ambika Dairy / Amul ice-cream parlour ,restaurant,Rajasthan,,,"Bus stand, beawer road, jaitaran., 306302",8104221600,26.2028383,73.9412132,OpenStreetMap,node,4286114389,2026-11-26T07:29:17.175809+00:00
+Ashirwad,cafe,Rajasthan,,,,,23.8265517,73.5217874,OpenStreetMap,node,4343018971,2026-11-26T07:29:17.175819+00:00
+Mohan Restaurant,restaurant,Rajasthan,,,,,26.9198945,75.7987261,OpenStreetMap,node,4348672497,2026-11-26T07:29:17.175829+00:00
+Rudra Mahal Midway Restaurant,restaurant,Rajasthan,,,,,27.0794356,77.0089534,OpenStreetMap,node,4350999898,2026-11-26T07:29:17.175839+00:00
+Little Italy,restaurant,Rajasthan,,,,,26.4864595,74.5625803,OpenStreetMap,node,4355663743,2026-11-26T07:29:17.175849+00:00
+Vasudev Dudh Bhandar,fast_food,Rajasthan,,,,,24.5794005,73.6946033,OpenStreetMap,node,4404101972,2026-11-26T07:29:17.175859+00:00
+Family Dhaba,restaurant,Rajasthan,,,,,24.9997568,74.7399074,OpenStreetMap,node,4450002459,2026-11-26T07:29:17.175869+00:00
+Dhaba,restaurant,Rajasthan,,,,,25.3294708,75.9457867,OpenStreetMap,node,4450199543,2026-11-26T07:29:17.175879+00:00
+Shravan Hotel And Restaurant,restaurant,Rajasthan,,,,+919929238948,27.0782842,75.9395895,OpenStreetMap,node,4456109605,2026-11-26T07:29:17.175890+00:00
+Mewar Haveli & Restaurant,restaurant,Rajasthan,,,,,24.5794688,73.6825925,OpenStreetMap,node,4464363793,2026-11-26T07:29:17.175900+00:00
+Ristorante Italian Om,restaurant,Rajasthan,,,,,26.9128544,70.9118354,OpenStreetMap,node,4464367292,2026-11-26T07:29:17.175913+00:00
+Kailash Restaurant,restaurant,Rajasthan,,,,,26.9270367,75.8281377,OpenStreetMap,node,4466075493,2026-11-26T07:29:17.175922+00:00
+Nirvana rooftop and hotel,restaurant,Rajasthan,,,,,26.4898576,74.5561032,OpenStreetMap,node,4483164723,2026-11-26T07:29:17.175932+00:00
+bella italia,restaurant,Rajasthan,,,,,26.9209213,75.8039303,OpenStreetMap,node,4486242089,2026-11-26T07:29:17.175944+00:00
+Hotel King Land,restaurant,Rajasthan,,,,,26.7600135,75.3467918,OpenStreetMap,node,4486250984,2026-11-26T07:29:17.175955+00:00
+Dhaba,restaurant,Rajasthan,,,,,25.7860939,74.0987146,OpenStreetMap,node,4486418393,2026-11-26T07:29:17.175965+00:00
+Dhaba,restaurant,Rajasthan,,,,,25.601009,73.9111888,OpenStreetMap,node,4486480585,2026-11-26T07:29:17.175975+00:00
+The Laughing Buddha,restaurant,Rajasthan,,Pushkar,बदी बस्ती,,26.4890991,74.552373,OpenStreetMap,node,4496308189,2026-11-26T07:29:17.175986+00:00
+Café Royale,cafe,Rajasthan,,,,7726823777,26.2953602,73.0240593,OpenStreetMap,node,4500039091,2026-11-26T07:29:17.175997+00:00
+Honey Dew,restaurant,Rajasthan,,,Brahma Temple Road,+91 94607 89699,26.4886542,74.552141,OpenStreetMap,node,4500296390,2026-11-26T07:29:17.176008+00:00
+Rishi Excellency Jodhpur | Multi cuisine Restro |,restaurant,Rajasthan,,Jodhpur,"01, 01, Mandore Rd, near Marwar hospital, Mandore, Jodhpur, Rajasthan 342001, 342001",+91 8560037000,26.348866,73.0377834,OpenStreetMap,node,4506128329,2026-11-26T07:29:17.176020+00:00
+Swagatam,restaurant,Rajasthan,,,,,26.9106751,70.9098784,OpenStreetMap,node,4510516394,2026-11-26T07:29:17.176030+00:00
+Gateway,restaurant,Rajasthan,,Udaipur,"51, City Palace Road, 313001",+91 98293 61640,24.5788881,73.683713,OpenStreetMap,node,4524677791,2026-11-26T07:29:17.176040+00:00
+The Little Prince,restaurant,Rajasthan,,,,,24.5815073,73.6809338,OpenStreetMap,node,4524882389,2026-11-26T07:29:17.176050+00:00
+Dehra Fort,restaurant,Rajasthan,,,,,26.5672766,72.3330073,OpenStreetMap,node,4531468794,2026-11-26T07:29:17.176060+00:00
+Jhumar Lake-View Restaurant,restaurant,Rajasthan,,,,,24.5922147,73.6718949,OpenStreetMap,node,4535330191,2026-11-26T07:29:17.176071+00:00
+Jaighar,restaurant,Rajasthan,,,,,26.983062,75.8444611,OpenStreetMap,node,4537365003,2026-11-26T07:29:17.176081+00:00
+आरोड़ा चाट भण्डार,restaurant,Rajasthan,,,,,26.2936959,73.0241558,OpenStreetMap,node,4546327889,2026-11-26T07:29:17.176092+00:00
+"Rainbow Cafe, Jaipur",cafe,Rajasthan,,,,,26.9483121,75.8404444,OpenStreetMap,node,4547443698,2026-11-26T07:29:17.176102+00:00
+janta restraunt,restaurant,Rajasthan,,,,,26.2936026,73.0246011,OpenStreetMap,node,4547501389,2026-11-26T07:29:17.176113+00:00
+Best Chai,cafe,Rajasthan,,,Nai Sarak,,26.2938721,73.0239938,OpenStreetMap,node,4552274793,2026-11-26T07:29:17.176124+00:00
+Hill View Restaurant,restaurant,Rajasthan,,,,,26.2981689,73.020727,OpenStreetMap,node,4554020681,2026-11-26T07:29:17.176134+00:00
+Bharat Juice Center and Restaurant,restaurant,Rajasthan,,,,,26.9133948,70.9157781,OpenStreetMap,node,4564541990,2026-11-26T07:29:17.176144+00:00
+Cafe Nature's Blessing,cafe,Rajasthan,,,,,26.4851418,74.5666976,OpenStreetMap,node,4571339493,2026-11-26T07:29:17.176154+00:00
+Ganga Restaurant (Laffa & Falafel),fast_food,Rajasthan,,,,,26.4895841,74.5549886,OpenStreetMap,node,4571339494,2026-11-26T07:29:17.176164+00:00
+Rainbow Restaurant,restaurant,Rajasthan,,,"27-28, Lal Ghat, 313001",00919828267234,24.5788816,73.6824168,OpenStreetMap,node,4574675090,2026-11-26T07:29:17.176176+00:00
+Flavours - Roof Top Restaurant,restaurant,Rajasthan,,,,,24.5787314,73.6825409,OpenStreetMap,node,4575802097,2026-11-26T07:29:17.176188+00:00
+Peacock rooftop restaurant,restaurant,Rajasthan,,,,,26.9163329,75.7956078,OpenStreetMap,node,4579745989,2026-11-26T07:29:17.176201+00:00
+Cafe Satori,cafe,Rajasthan,,,,09799813144,24.5808599,73.6822428,OpenStreetMap,node,4585260592,2026-11-26T07:29:17.176212+00:00
+Ringo Starr,restaurant,Rajasthan,,,,,25.4460872,75.6368646,OpenStreetMap,node,4628136489,2026-11-26T07:29:17.176223+00:00
+Shanti the Peace,restaurant,Rajasthan,,,inside fort,08890945009,26.9122232,70.9142736,OpenStreetMap,node,4643598791,2026-11-26T07:29:17.176234+00:00
+कारोडिया रेस्टोरेन्ट,restaurant,Rajasthan,,,"Near Nawalgarh Puliya, 332001",+91 95493 58620,27.6194804,75.1508099,OpenStreetMap,node,4681664891,2026-11-26T07:29:17.176246+00:00
+Lotus Cafe,restaurant,Rajasthan,,,,,24.5787919,73.684949,OpenStreetMap,node,4706274490,2026-11-26T07:29:17.176256+00:00
+Chirag Roof Top Restaurant,restaurant,Rajasthan,,,,,24.5818106,73.6817846,OpenStreetMap,node,4706661592,2026-11-26T07:29:17.176272+00:00
+Bridge Corner,restaurant,Rajasthan,,,,,24.5825655,73.681114,OpenStreetMap,node,4706665290,2026-11-26T07:29:17.176284+00:00
+The Panorama Restaurant,restaurant,Rajasthan,,,"Kotri Para, 345001",9982193701,26.9123753,70.914594,OpenStreetMap,node,4714648191,2026-11-26T07:29:17.176296+00:00
+कुल कैफे,cafe,Rajasthan,,,"28, Panduwari, Gadiya Devra Marg, 313001",,24.5805948,73.6825611,OpenStreetMap,node,4716726290,2026-11-26T07:29:17.176330+00:00
+Yummy Yoga,restaurant,Rajasthan,,,,,24.5810261,73.6799113,OpenStreetMap,node,4730164689,2026-11-26T07:29:17.176342+00:00
+India Coffe House,cafe,Rajasthan,,,Mirza Ismail Road,,26.9171606,75.8145919,OpenStreetMap,node,4744500823,2026-11-26T07:29:17.176353+00:00
+coffey Day,cafe,Rajasthan,,,,,26.9164507,75.7991333,OpenStreetMap,node,4744578221,2026-11-26T07:29:17.176363+00:00
+V2 FINE DINING,restaurant,Rajasthan,,,,,26.9078828,75.8126688,OpenStreetMap,node,4798056521,2026-11-26T07:29:17.176373+00:00
+Shekhawati,restaurant,Rajasthan,,,Pramod creek,+919314698079,28.0538906,75.1516955,OpenStreetMap,node,4809055424,2026-11-26T07:29:17.176384+00:00
+Monica,restaurant,Rajasthan,,,,,28.0540608,75.1473508,OpenStreetMap,node,4809056223,2026-11-26T07:29:17.176394+00:00
+Saffron,restaurant,Rajasthan,,,Ghandi Chowk,,26.9159601,70.909406,OpenStreetMap,node,4809056226,2026-11-26T07:29:17.176404+00:00
+Monica's Restaurant,restaurant,Rajasthan,,,Ashni road,,26.9133434,70.9149489,OpenStreetMap,node,4809056227,2026-11-26T07:29:17.176415+00:00
+Gallops,restaurant,Rajasthan,,,Junagarh Fort Road,+911513200833,28.0218626,73.3200972,OpenStreetMap,node,4809065622,2026-11-26T07:29:17.176426+00:00
+Cheap food places,restaurant,Rajasthan,,,,,26.9120381,75.7920659,OpenStreetMap,node,4826369122,2026-11-26T07:29:17.176437+00:00
+Lake Shore,restaurant,Rajasthan,,,,,24.58009,73.680422,OpenStreetMap,node,4830843929,2026-11-26T07:29:17.176447+00:00
+Midtown restaurant,restaurant,Rajasthan,,,,,26.9139331,70.9140279,OpenStreetMap,node,4830847924,2026-11-26T07:29:17.176457+00:00
+Dhaba,restaurant,Rajasthan,,,,,26.9063152,75.7966924,OpenStreetMap,node,4830934021,2026-11-26T07:29:17.176466+00:00
+Hotel Royal Resort Rashidpura,restaurant,Rajasthan,,,Rashidpura,,27.7133597,75.0821136,OpenStreetMap,node,4839782423,2026-11-26T07:29:17.176478+00:00
+Hotel Marc Inn,restaurant,Rajasthan,,jaipur,"S-5, JDA Central Market, Beside MTS office, Near Amarpali Circle, Vaishali Nagar, 302021",+91-9001094661,26.9110124,75.7421695,OpenStreetMap,node,4877294175,2026-11-26T07:29:17.176489+00:00
+La Pizzeria,restaurant,Rajasthan,,,"Route to Ranakpur, 306702",+917073867176,25.1422072,73.4666218,OpenStreetMap,node,4897073123,2026-11-26T07:29:17.176501+00:00
+Green Restaurant Pure Vegetarian,restaurant,Rajasthan,,,,,26.9170712,75.8047235,OpenStreetMap,node,4900113521,2026-11-26T07:29:17.176511+00:00
+Rajwara,restaurant,Rajasthan,,,,,27.9993577,73.3339652,OpenStreetMap,node,4936917882,2026-11-26T07:29:17.176521+00:00
+"Samode Haveli , Jaipur",restaurant,Rajasthan,,,Gangapole,,26.9331035,75.8372573,OpenStreetMap,node,4959426923,2026-11-26T07:29:17.176534+00:00
+Copper Chimney,restaurant,Rajasthan,,,Mirza Ismail Road,,26.9169731,75.80407,OpenStreetMap,node,4959496421,2026-11-26T07:29:17.176545+00:00
+"Tapri Central , JAIPUR",cafe,Rajasthan,,Jaipur,,,26.9056742,75.8111596,OpenStreetMap,node,4959540921,2026-11-26T07:29:17.176556+00:00
+Misrilal hotel Lassi,cafe,Rajasthan,,,,,26.2944084,73.0241828,OpenStreetMap,node,5002850121,2026-11-26T07:29:17.176566+00:00
+अचार्या,restaurant,Rajasthan,,,,+91 99281 44924,26.2980341,73.021117,OpenStreetMap,node,5007471221,2026-11-26T07:29:17.176576+00:00
+Parampara,restaurant,Rajasthan,,,,,26.9408543,75.8384138,OpenStreetMap,node,5016200924,2026-11-26T07:29:17.176586+00:00
+Chandra Shahi Samosa,restaurant,Rajasthan,,,,,26.2848328,73.0276851,OpenStreetMap,node,5054364994,2026-11-26T07:29:17.176596+00:00
+Raajwada,restaurant,Rajasthan,,,,0294 298 0423,24.5873903,73.7121276,OpenStreetMap,node,5068266009,2026-11-26T07:29:17.176606+00:00
+Subhdhra,restaurant,Rajasthan,,,,,26.2139375,73.0284755,OpenStreetMap,node,5068407015,2026-11-26T07:29:17.176616+00:00
+Midtown Multicuisine Restaurant,restaurant,Rajasthan,,,,,26.9237826,75.820574,OpenStreetMap,node,5074575922,2026-11-26T07:29:17.176626+00:00
+Shiva Cafe,cafe,Rajasthan,,,,,26.9136102,70.9124323,OpenStreetMap,node,5076634221,2026-11-26T07:29:17.176636+00:00
+balaji,cafe,Rajasthan,,,,,26.2686182,72.9979062,OpenStreetMap,node,5076836610,2026-11-26T07:29:17.176646+00:00
+Cafe Frespresso Coffee and Food,restaurant,Rajasthan,,,"1st floor, Sardar Dhaan Mandi, 342001",9166638023,26.296085,73.0237975,OpenStreetMap,node,5081970828,2026-11-26T07:29:17.176658+00:00
+Base Camp Sandeep,restaurant,Rajasthan,,,,+91 95296 40501,26.4827217,74.5471833,OpenStreetMap,node,5162503624,2026-11-26T07:29:17.176668+00:00
+Stepwell Café,cafe,Rajasthan,,,,,26.2972229,73.0227977,OpenStreetMap,node,5176020621,2026-11-26T07:29:17.176679+00:00
+Buddha Cafe,restaurant,Rajasthan,,,,,26.4901601,74.5567085,OpenStreetMap,node,5177308822,2026-11-26T07:29:17.176689+00:00
+Doctor Cafe,restaurant,Rajasthan,,,"12, Lal Ghat, 313001",+919929507355,24.5795616,73.6828439,OpenStreetMap,node,5177308823,2026-11-26T07:29:17.176700+00:00
+Lazy Mozo Backpackers,restaurant,Rajasthan,,Jaipur,"34-A, Shree Rampura Colony, 302006",,26.9069676,75.789381,OpenStreetMap,node,5213122428,2026-11-26T07:29:17.176711+00:00
+होटल मारवाड़ थांवला,restaurant,Rajasthan,,,नागौर रोड़,+91 94131 71375,26.5579202,74.4526074,OpenStreetMap,node,5213731722,2026-11-26T07:29:17.176722+00:00
+Shiva Cafe,cafe,Rajasthan,,,,,26.4900062,74.5564586,OpenStreetMap,node,5216467723,2026-11-26T07:29:17.176732+00:00
+Murkh Vanar,cafe,Rajasthan,,,Varah Ghat,,26.4901882,74.55692,OpenStreetMap,node,5217592922,2026-11-26T07:29:17.176743+00:00
+Highway King Restaurant,restaurant,Rajasthan,,,,,26.9305505,71.887043,OpenStreetMap,node,5219057306,2026-11-26T07:29:17.176753+00:00
+Roopmahal,restaurant,Rajasthan,,,,,26.462251,74.6277571,OpenStreetMap,node,5224609322,2026-11-26T07:29:17.176762+00:00
+"RESTAURANT , JAIPUR",restaurant,Rajasthan,,,,,26.9498381,75.8421508,OpenStreetMap,node,5227030921,2026-11-26T07:29:17.176773+00:00
+Fort Oasis Restaurant,restaurant,Rajasthan,,,,,26.9121513,70.9116111,OpenStreetMap,node,5228508336,2026-11-26T07:29:17.176783+00:00
+KB Café,restaurant,Rajasthan,,,,+912992253833,26.9166714,70.9142784,OpenStreetMap,node,5229540922,2026-11-26T07:29:17.176793+00:00
+Shri Maheshwari,restaurant,Rajasthan,,,,,26.4892845,74.5568431,OpenStreetMap,node,5235977522,2026-11-26T07:29:17.176804+00:00
+Om shiva cafe,cafe,Rajasthan,,,,,25.4467265,75.6361704,OpenStreetMap,node,5237464122,2026-11-26T07:29:17.176813+00:00
+Sunset View,restaurant,Rajasthan,,,,,24.5809393,73.6818026,OpenStreetMap,node,5237960054,2026-11-26T07:29:17.176823+00:00
+श्री विनायक रेस्टोरेन्ट,restaurant,Rajasthan,,,Pushkar Road,,26.4871539,74.560107,OpenStreetMap,node,5240696531,2026-11-26T07:29:17.176834+00:00
+श्री राम रेस्टेरोन्ट,restaurant,Rajasthan,,,Pushkar Road,,26.487146,74.5601489,OpenStreetMap,node,5244053321,2026-11-26T07:29:17.176845+00:00
+Gulab Ji Chai,cafe,Rajasthan,,Jaipur,Mirza Ismail Road,,26.9194326,75.7997638,OpenStreetMap,node,5249183922,2026-11-26T07:29:17.176855+00:00
+The Tattoo Cafe,cafe,Rajasthan,,,"30, Badi Chaupar, 302002",+919828065533,26.923806,75.827314,OpenStreetMap,node,5249299221,2026-11-26T07:29:17.176869+00:00
+Dosa Corner,restaurant,Rajasthan,,,,,26.9135881,70.9138422,OpenStreetMap,node,5253649422,2026-11-26T07:29:17.176880+00:00
+Karma Cafe,restaurant,Rajasthan,,,,,26.9130239,70.9133839,OpenStreetMap,node,5253925722,2026-11-26T07:29:17.176890+00:00
+Hawk View Roof Top Restaurant,restaurant,Rajasthan,,,,,26.9304622,75.8283513,OpenStreetMap,node,5283298222,2026-11-26T07:29:17.176900+00:00
+Kuku Coffee Shop,cafe,Rajasthan,,,,,26.9141278,70.9121729,OpenStreetMap,node,5300364721,2026-11-26T07:29:17.176910+00:00
+Ramesh Kaka,restaurant,Rajasthan,,,,,25.0510615,73.8950125,OpenStreetMap,node,5330900131,2026-11-26T07:29:17.176920+00:00
+Shri Dharamraj Restaurant,restaurant,Rajasthan,,,,,25.0510904,73.8949731,OpenStreetMap,node,5330900133,2026-11-26T07:29:17.176930+00:00
+Shri Dharamraj Restaurant,restaurant,Rajasthan,,,,,25.0511074,73.8949433,OpenStreetMap,node,5330900134,2026-11-26T07:29:17.176940+00:00
+Om Juice Corner,restaurant,Rajasthan,,,,,26.2955768,73.0237422,OpenStreetMap,node,5335461921,2026-11-26T07:29:17.176950+00:00
+Shama Bhojnyala,restaurant,Rajasthan,,,,,26.9244566,75.78773,OpenStreetMap,node,5340747922,2026-11-26T07:29:17.176960+00:00
+"Maggie rooftop restaurant , Jaipur",restaurant,Rajasthan,,,,,26.9241359,75.7897529,OpenStreetMap,node,5342932521,2026-11-26T07:29:17.176969+00:00
+Street food and chai corner,fast_food,Rajasthan,,,,,26.925004,75.8159025,OpenStreetMap,node,5344204721,2026-11-26T07:29:17.176980+00:00
+Natraj,restaurant,Rajasthan,,,,,26.9131639,70.9158576,OpenStreetMap,node,5344372221,2026-11-26T07:29:17.176990+00:00
+Wind view cafe,cafe,Rajasthan,,,,,26.9237491,75.8272853,OpenStreetMap,node,5344535321,2026-11-26T07:29:17.177001+00:00
+Shan Ed Id,restaurant,Rajasthan,,,,,28.0179845,73.310189,OpenStreetMap,node,5345195321,2026-11-26T07:29:17.177011+00:00
+Open House,restaurant,Rajasthan,,,,,26.2970955,73.0227919,OpenStreetMap,node,5354108823,2026-11-26T07:29:17.177022+00:00
+CIP Lounge Airport Jaipur,restaurant,Rajasthan,,,,,26.8279302,75.8062494,OpenStreetMap,node,5419597998,2026-11-26T07:29:17.177033+00:00
+Airr Toast,cafe,Rajasthan,,,,,26.8277778,75.8061437,OpenStreetMap,node,5419597999,2026-11-26T07:29:17.177043+00:00
+Nayaran Café & Restaurant,cafe,Rajasthan,,,,9983052502,26.4894458,74.5567516,OpenStreetMap,node,5421642422,2026-11-26T07:29:17.177053+00:00
+Coffee Temple,cafe,Rajasthan,,,,,26.4893537,74.5558718,OpenStreetMap,node,5422073321,2026-11-26T07:29:17.177063+00:00
+Curious Life Coffee Roasters,cafe,Rajasthan,,,,,26.9042168,75.7969605,OpenStreetMap,node,5422169221,2026-11-26T07:29:17.177073+00:00
+Sanwariya,restaurant,Rajasthan,,,Sadar Bazaar,+91887538995,25.4454162,75.6377879,OpenStreetMap,node,5429399821,2026-11-26T07:29:17.177084+00:00
+Chandra Niwas,restaurant,Rajasthan,,,,,28.0159877,73.3272598,OpenStreetMap,node,5438907622,2026-11-26T07:29:17.177095+00:00
+Out of the Blue,restaurant,Rajasthan,,,,,26.4888174,74.5521669,OpenStreetMap,node,5439462988,2026-11-26T07:29:17.177105+00:00
+Best Local,restaurant,Rajasthan,,,,,24.5823447,73.6796582,OpenStreetMap,node,5444455921,2026-11-26T07:29:17.177116+00:00
+Just eat corner,restaurant,Rajasthan,,,,,24.5822417,73.6795509,OpenStreetMap,node,5448317526,2026-11-26T07:29:17.177125+00:00
+Cafe Coffee Day,cafe,Rajasthan,,,,,26.9112425,75.8197191,OpenStreetMap,node,5468492121,2026-11-26T07:29:17.177136+00:00
+Shri Shiv Sagar Restaurant,restaurant,Rajasthan,,,,,28.0190231,73.3165422,OpenStreetMap,node,5470607822,2026-11-26T07:29:17.177146+00:00
+Cafebackpacker,restaurant,Rajasthan,,,"tilak chowk, 323001",9462347119,25.4456546,75.637749,OpenStreetMap,node,5514405084,2026-11-26T07:29:17.177158+00:00
+Poonam Haveli,restaurant,Rajasthan,,,,,24.579998,73.6829165,OpenStreetMap,node,5522826496,2026-11-26T07:29:17.177169+00:00
+Royal Sheritan Rooftop Bar,restaurant,Rajasthan,,,,,26.9304449,75.8284459,OpenStreetMap,node,5579686421,2026-11-26T07:29:17.177179+00:00
+"Restaurant , Jaipur",restaurant,Rajasthan,,,,,26.94956,75.837543,OpenStreetMap,node,5603023822,2026-11-26T07:29:17.177189+00:00
+The food chain,restaurant,Rajasthan,,,,,26.2879346,73.0368155,OpenStreetMap,node,5657685123,2026-11-26T07:29:17.177200+00:00
+Cafe Coffee Day,cafe,Rajasthan,,Jodhpur,"east patel nager, manerode, 342001",,26.275235,73.0394597,OpenStreetMap,node,5657701760,2026-11-26T07:29:17.177211+00:00
+Aunty's Pizza,restaurant,Rajasthan,,,,,26.2631606,73.0038861,OpenStreetMap,node,5657711003,2026-11-26T07:29:17.177222+00:00
+Babu khan tea snter,cafe,Rajasthan,,Jodhpur,"8890067443, 0291",,26.3001865,73.0321091,OpenStreetMap,node,5657875731,2026-11-26T07:29:17.177234+00:00
+suresh taelar,fast_food,Rajasthan,,,,,26.2663946,73.0415406,OpenStreetMap,node,5657933593,2026-11-26T07:29:17.177248+00:00
+Umaid Bhawan,restaurant,Rajasthan,,,,,26.9284344,75.7923832,OpenStreetMap,node,5717785320,2026-11-26T07:29:17.177259+00:00
+Cafe united,restaurant,Rajasthan,,Jodhpur,"00, Milkmen Colony Road, 342008",7014863870,26.2636468,72.9947856,OpenStreetMap,node,5745153619,2026-11-26T07:29:17.177270+00:00
+Kailash Mahawar,cafe,Rajasthan,,,,8963840837,26.7551298,77.0196138,OpenStreetMap,node,5793172153,2026-11-26T07:29:17.177282+00:00
+Restaurant Abu Safari - Rooftop,restaurant,Rajasthan,,Jaisalmer,"Near Fort, Dhigga Para, 345001",,26.9105021,70.9120987,OpenStreetMap,node,5796115402,2026-11-26T07:29:17.177293+00:00
+La Purezza,restaurant,Rajasthan,,,,8769584126,26.9126473,70.9114987,OpenStreetMap,node,5820600954,2026-11-26T07:29:17.177303+00:00
+Raju Terrace Garden,restaurant,Rajasthan,,,,,26.4891297,74.5535039,OpenStreetMap,node,5912982490,2026-11-26T07:29:17.177314+00:00
+Energy Cafe,restaurant,Rajasthan,,,,,26.4897692,74.5557485,OpenStreetMap,node,5914301085,2026-11-26T07:29:17.177324+00:00
+Melange Restro and cafe,restaurant,Rajasthan,,,Rani Road,8209934897,24.5927571,73.6655332,OpenStreetMap,node,5940536886,2026-11-26T07:29:17.177335+00:00
+Gudu Café,restaurant,Rajasthan,,,,,25.447464,75.6361713,OpenStreetMap,node,5951315986,2026-11-26T07:29:17.177345+00:00
+Jaipur modern,restaurant,Rajasthan,,,,,26.9140104,75.7987636,OpenStreetMap,node,5953407587,2026-11-26T07:29:17.177355+00:00
+Amberwalla,restaurant,Rajasthan,,,station road,01512220333,28.0145988,73.3139354,OpenStreetMap,node,5968250385,2026-11-26T07:29:17.177366+00:00
+Kami maa restaurant,restaurant,Rajasthan,,,,,26.4876684,74.5489484,OpenStreetMap,node,6027995985,2026-11-26T07:29:17.177376+00:00
+Green pigeon,restaurant,Rajasthan,,,,,26.9397188,75.8369813,OpenStreetMap,node,6029038596,2026-11-26T07:29:17.177386+00:00
+The Kagdi Resort,restaurant,Rajasthan,,,"In front of Ashok Chakra, 327001",,23.5466171,74.4673874,OpenStreetMap,node,6036424789,2026-11-26T07:29:17.177396+00:00
+Hotel Priyanka,restaurant,Rajasthan,,,,,24.6006619,72.8854308,OpenStreetMap,node,6053701990,2026-11-26T07:29:17.177407+00:00
+Palace On The Way,restaurant,Rajasthan,,,,,24.7449331,73.748186,OpenStreetMap,node,6053932304,2026-11-26T07:29:17.177417+00:00
+Hotel Raj Bhawani,restaurant,Rajasthan,,,,,25.7675877,74.0880107,OpenStreetMap,node,6054130834,2026-11-26T07:29:17.177427+00:00
+Saini Bhojanalay,restaurant,Rajasthan,,,,,26.6973962,75.2562294,OpenStreetMap,node,6054477937,2026-11-26T07:29:17.177437+00:00
+Hari Pavitra Bhojanalaya,restaurant,Rajasthan,,,,,27.6540977,76.1434799,OpenStreetMap,node,6059248504,2026-11-26T07:29:17.177447+00:00
+café la comida,cafe,Rajasthan,,,,,24.5801597,73.6831175,OpenStreetMap,node,6065654185,2026-11-26T07:29:17.177458+00:00
+Dhonk Cafe,cafe,Rajasthan,,,,,26.0256467,76.3892806,OpenStreetMap,node,6068093369,2026-11-26T07:29:17.177468+00:00
+Hotel Blue Diamond,restaurant,Rajasthan,,,,,26.0067724,73.8542742,OpenStreetMap,node,6084154025,2026-11-26T07:29:17.177478+00:00
+Padharo Sa,restaurant,Rajasthan,,,,,24.762351,73.024042,OpenStreetMap,node,6084453264,2026-11-26T07:29:17.177488+00:00
+Tibetan Camel Kitchen,restaurant,Rajasthan,,,,,26.9146426,70.9132253,OpenStreetMap,node,6094949391,2026-11-26T07:29:17.177498+00:00
+Sabor World Cuisine,restaurant,Rajasthan,,,,,24.5884532,73.6517924,OpenStreetMap,node,6097894285,2026-11-26T07:29:17.177508+00:00
+Lassiwara,fast_food,Rajasthan,,,,,26.9164866,75.8111981,OpenStreetMap,node,6132079085,2026-11-26T07:29:17.177518+00:00
+Blue Cafe,restaurant,Rajasthan,,Jodhpur,"Makrana Mohalla, Sodagaran Mohalla, Jodhpur, Rajasthan 342001, 342001",+916376472824,26.2972836,73.0217183,OpenStreetMap,node,6135466548,2026-11-26T07:29:17.177530+00:00
+Dhonk cafe,cafe,Rajasthan,,,Ranthambhore Road,,26.0256694,76.3892531,OpenStreetMap,node,6144430086,2026-11-26T07:29:17.177541+00:00
+little restaurant,restaurant,Rajasthan,,,,,25.1231092,73.5902381,OpenStreetMap,node,6157129285,2026-11-26T07:29:17.177551+00:00
+CHANMAN,restaurant,Rajasthan,,,,,26.8615784,75.7956052,OpenStreetMap,node,6158494085,2026-11-26T07:29:17.177561+00:00
+Sparrow's pizzeria,restaurant,Rajasthan,,,,,26.287429,73.0417722,OpenStreetMap,node,6180115785,2026-11-26T07:29:17.177570+00:00
+109 Cafe,cafe,Rajasthan,,,"64, Gangaur Ghat, 313001",099283 92919,24.5804676,73.6827167,OpenStreetMap,node,6239290087,2026-11-26T07:29:17.177582+00:00
+Kalyan Rooftop Restaurant,restaurant,Rajasthan,,,"59 hathroi fort, Hari Kisham Somani Marg, 302001",9314501591,26.9162022,75.7958659,OpenStreetMap,node,6249028885,2026-11-26T07:29:17.177594+00:00
+Coffee Day,cafe,Rajasthan,,,,,26.289678,73.0288053,OpenStreetMap,node,6266841785,2026-11-26T07:29:17.177604+00:00
+Kuku's Pizza,fast_food,Rajasthan,,,,,28.2984177,74.970856,OpenStreetMap,node,6310148090,2026-11-26T07:29:17.177614+00:00
+City Club Restrobar,restaurant,Rajasthan,,udaipur,"1st floor, 7a bapu bazzar, 313001",,24.5848881,73.696522,OpenStreetMap,node,6315615193,2026-11-26T07:29:17.177626+00:00
+Fatanstar Palaces,restaurant,Rajasthan,,,"On fort, Vyasa Para, 345001",+917230821380,26.9122346,70.9117091,OpenStreetMap,node,6320018785,2026-11-26T07:29:17.177636+00:00
+Funky Monkey,cafe,Rajasthan,,,,,26.4894701,74.5571219,OpenStreetMap,node,6341081685,2026-11-26T07:29:17.177647+00:00
+Puesto Callejero,fast_food,Rajasthan,,,,,26.2940092,73.0237098,OpenStreetMap,node,6353072585,2026-11-26T07:29:17.177657+00:00
+Lovely Cafe,cafe,Rajasthan,,,,,26.4902175,74.557351,OpenStreetMap,node,6357613485,2026-11-26T07:29:17.177670+00:00
+Pawna Da Dhaba,restaurant,Rajasthan,,,,,26.0406917,74.2875816,OpenStreetMap,node,6371816906,2026-11-26T07:29:17.177680+00:00
+RR Restaurant Hotel and Bar,restaurant,Rajasthan,,,"Nagour Road, 305022",,26.5030298,74.5431792,OpenStreetMap,node,6372228186,2026-11-26T07:29:17.177692+00:00
+Mewar Restaurant,restaurant,Rajasthan,,,,,24.5910659,73.6526723,OpenStreetMap,node,6412623545,2026-11-26T07:29:17.177702+00:00
+Lots of cheap local food (very local vibes),fast_food,Rajasthan,,,,,24.6005951,73.691033,OpenStreetMap,node,6414392488,2026-11-26T07:29:17.177713+00:00
+Local restaurants,fast_food,Rajasthan,,,,,26.4877036,74.5492058,OpenStreetMap,node,6442441385,2026-11-26T07:29:17.177723+00:00
+The Men Cave,restaurant,Rajasthan,,,,,26.2968713,73.022132,OpenStreetMap,node,6463716886,2026-11-26T07:29:17.177734+00:00
+dasaprakash,restaurant,Rajasthan,,,,,26.9163003,75.8080015,OpenStreetMap,node,6477759985,2026-11-26T07:29:17.177744+00:00
+Shri Krishna Restaurant,restaurant,Rajasthan,,,,,26.9242783,75.7883111,OpenStreetMap,node,6479937688,2026-11-26T07:29:17.177754+00:00
+GoodDO,fast_food,Rajasthan,,,,+91 85070 83978,24.6002136,73.6906502,OpenStreetMap,node,6509321885,2026-11-26T07:29:17.177765+00:00
+Atithiya,restaurant,Rajasthan,,,"Kabir Marg, 302016",8290405434,26.9253797,75.7909073,OpenStreetMap,node,6509321886,2026-11-26T07:29:17.177776+00:00
+Energy Cafe,restaurant,Rajasthan,,,,,25.4466595,75.6362303,OpenStreetMap,node,6647097286,2026-11-26T07:29:17.177786+00:00
+Ungles John Pizza,restaurant,Rajasthan,,,,,24.5869285,73.6860301,OpenStreetMap,node,6698608887,2026-11-26T07:29:17.177796+00:00
+Mayur Cafe,restaurant,Rajasthan,,,,,24.5796161,73.684268,OpenStreetMap,node,6698816687,2026-11-26T07:29:17.177806+00:00
+टिबेटन रसोई,restaurant,Rajasthan,,,,,26.4890896,74.5571363,OpenStreetMap,node,6700472304,2026-11-26T07:29:17.177817+00:00
+Sahu Ki Chai,cafe,Rajasthan,,,,,26.9183926,75.8213095,OpenStreetMap,node,6718124385,2026-11-26T07:29:17.177827+00:00
+Amul Cafe,cafe,Rajasthan,,Jaipur,"Amul Cafe, LNM Institute of Information Technology, 302031",,26.9347868,75.9233302,OpenStreetMap,node,6728959764,2026-11-26T07:29:17.177838+00:00
+Bazingaa,restaurant,Rajasthan,,Jaipur,"Bazingaa, LNMIIT, 302031",,26.9346954,75.9233219,OpenStreetMap,node,6728990941,2026-11-26T07:29:17.177849+00:00
+Food Barn,restaurant,Rajasthan,,Jaipur,"Food Barn, LNMIIT, 302031",,26.9347409,75.9234112,OpenStreetMap,node,6728990942,2026-11-26T07:29:17.177860+00:00
+Indigo,restaurant,Rajasthan,,,,,26.2976221,73.0217774,OpenStreetMap,node,6734342194,2026-11-26T07:29:17.177871+00:00
+The Grand Turf,restaurant,Rajasthan,,,,+91 96193 19099,26.2206233,73.0419798,OpenStreetMap,node,6759131771,2026-11-26T07:29:17.177882+00:00
+City Spicy Dosa Factory,restaurant,Rajasthan,,,,,27.2059647,77.5117891,OpenStreetMap,node,6761013085,2026-11-26T07:29:17.177893+00:00
+Nibs Restaurant Cafe,cafe,Rajasthan,,,,,26.9024904,75.7943953,OpenStreetMap,node,6766661285,2026-11-26T07:29:17.177904+00:00
+Tasty King,fast_food,Rajasthan,,,,,26.9214409,75.8192213,OpenStreetMap,node,6780596585,2026-11-26T07:29:17.177914+00:00
+Fort View Restaurant,restaurant,Rajasthan,,,,,26.9140316,70.9139626,OpenStreetMap,node,6794776685,2026-11-26T07:29:17.177924+00:00
+Amarnath Café,cafe,Rajasthan,,,,,26.8549744,75.8054398,OpenStreetMap,node,6815891298,2026-11-26T07:29:17.177933+00:00
+Cafe Indra,cafe,Rajasthan,,,,,28.0158728,73.3272931,OpenStreetMap,node,6821469186,2026-11-26T07:29:17.177943+00:00
+Brown Bites bakes and cafe,cafe,Rajasthan,,,,,26.9053917,75.7943144,OpenStreetMap,node,6908274785,2026-11-26T07:29:17.177953+00:00
+Milan,restaurant,Rajasthan,,,,,26.9111264,70.9147563,OpenStreetMap,node,6919722487,2026-11-26T07:29:17.177963+00:00
+McDonald's,fast_food,Rajasthan,,Jaipur,"Ajmer Road, 302021",,26.8949234,75.7484689,OpenStreetMap,node,6938645048,2026-11-26T07:29:17.177974+00:00
+Kanha Restaurant,restaurant,Rajasthan,,,,,26.9034635,75.7531462,OpenStreetMap,node,6968230707,2026-11-26T07:29:17.177985+00:00
+Alka Restaurant & Pizzeria,restaurant,Rajasthan,,,"Brahma Temple Road, 305022",+919460091090,26.4880373,74.5516357,OpenStreetMap,node,6975945585,2026-11-26T07:29:17.177997+00:00
+KFC,fast_food,Rajasthan,,,,,26.9112339,75.7434521,OpenStreetMap,node,6976031028,2026-11-26T07:29:17.178008+00:00
+Pizza Hut,restaurant,Rajasthan,,,,,26.9112988,75.7433748,OpenStreetMap,node,6976031029,2026-11-26T07:29:17.178018+00:00
+Domino's,fast_food,Rajasthan,,,,,26.9124759,75.7435624,OpenStreetMap,node,6976031038,2026-11-26T07:29:17.178029+00:00
+New Changan Shree,restaurant,Rajasthan,,,,,26.9133799,70.914455,OpenStreetMap,node,6998083785,2026-11-26T07:29:17.178039+00:00
+Shiva Restaurant & Juice,restaurant,Rajasthan,,,,,26.4878159,74.5514582,OpenStreetMap,node,7006171185,2026-11-26T07:29:17.178049+00:00
+Pawan Restaurant,restaurant,Rajasthan,,,,,26.4896162,74.5550675,OpenStreetMap,node,7006171285,2026-11-26T07:29:17.178060+00:00
+Surabhi,restaurant,Rajasthan,,,,,26.932025,75.8313405,OpenStreetMap,node,7007860485,2026-11-26T07:29:17.178071+00:00
+pizza Hut,fast_food,Rajasthan,,,,,26.301003,73.0386352,OpenStreetMap,node,7023548947,2026-11-26T07:29:17.178081+00:00
+Aanandam,restaurant,Rajasthan,,,,,26.9388107,75.8379353,OpenStreetMap,node,7030319490,2026-11-26T07:29:17.178091+00:00
+Grab A Coffee,cafe,Rajasthan,,,,,26.8631143,75.7916013,OpenStreetMap,node,7030319497,2026-11-26T07:29:17.178100+00:00
+Tan-Sukh,restaurant,Rajasthan,,,,,26.8645183,75.7966356,OpenStreetMap,node,7030319501,2026-11-26T07:29:17.178110+00:00
+Chanakya,restaurant,Rajasthan,,Jaipur,"Chitrakoot Marg, 302021",,26.8931734,75.7393253,OpenStreetMap,node,7041264656,2026-11-26T07:29:17.178121+00:00
+Sankalp,restaurant,Rajasthan,,Jaipur,"Prince Road, 302021",,26.8968558,75.7519657,OpenStreetMap,node,7041677429,2026-11-26T07:29:17.178137+00:00
+Virasat Heritage Restaurant,restaurant,Rajasthan,,jaipur,Sahakar Marg,,26.899449,75.7929487,OpenStreetMap,node,7046290870,2026-11-26T07:29:17.178149+00:00
+McDonald's,fast_food,Rajasthan,,Jaipur,Sahakar Marg,,26.9032872,75.7929498,OpenStreetMap,node,7046290880,2026-11-26T07:29:17.178160+00:00
+Pizza Hut Delivery,fast_food,Rajasthan,,,,,26.9033421,75.7923228,OpenStreetMap,node,7046290881,2026-11-26T07:29:17.178170+00:00
+Masala Chowk,fast_food,Rajasthan,,,,,26.9102996,75.8205896,OpenStreetMap,node,7068572485,2026-11-26T07:29:17.178181+00:00
+Chai Chaskaa,cafe,Rajasthan,,Jaipur,"A-14, Chitrakoot Stadium, Vaishali Nagar, 302021",,26.9011834,75.7342422,OpenStreetMap,node,7084199742,2026-11-26T07:29:17.178193+00:00
+Kullad - The Teafe',cafe,Rajasthan,,Jaipur,"B-43, Chitrakoot Stadium, Vaishali Nagar, 302021",,26.9011858,75.7363862,OpenStreetMap,node,7084199743,2026-11-26T07:29:17.178205+00:00
+Shree Radhe,restaurant,Rajasthan,,,,,26.9016025,75.7358029,OpenStreetMap,node,7084199746,2026-11-26T07:29:17.178216+00:00
+Tempties,cafe,Rajasthan,,Jaipur,"C5, Chitrakoot Stadium, Vaishali Nagar, 302021",,26.9004765,75.7364033,OpenStreetMap,node,7084199747,2026-11-26T07:29:17.178228+00:00
+Cafe 48,cafe,Rajasthan,,Jaipur,"C13, Chitrakoot Stadium, Vaishali Nagar, 302021",,26.9002805,75.7363985,OpenStreetMap,node,7084199748,2026-11-26T07:29:17.178239+00:00
+North West Corner,restaurant,Rajasthan,,,,+9186967 77333,26.9017683,75.7368578,OpenStreetMap,node,7084199767,2026-11-26T07:29:17.178249+00:00
+The Royal Ship,restaurant,Rajasthan,,,,,26.9209197,75.7533318,OpenStreetMap,node,7085549777,2026-11-26T07:29:17.178260+00:00
+Kebabs & Curries Company,restaurant,Rajasthan,,,Chitrakoot Marg,,26.8987716,75.7387686,OpenStreetMap,node,7085550075,2026-11-26T07:29:17.178270+00:00
+Kesar Kanha,restaurant,Rajasthan,,,,,26.8991232,75.7385392,OpenStreetMap,node,7085550081,2026-11-26T07:29:17.178281+00:00
+map Acres,restaurant,Rajasthan,,,,+91 99299 49258,26.9289947,75.8252613,OpenStreetMap,node,7086493586,2026-11-26T07:29:17.178292+00:00
+Samrat street food,restaurant,Rajasthan,,,,,26.921071,75.822143,OpenStreetMap,node,7159785285,2026-11-26T07:29:17.178302+00:00
+Chokha amer,restaurant,Rajasthan,,,,,26.9898771,75.8537705,OpenStreetMap,node,7160138285,2026-11-26T07:29:17.178332+00:00
+Molly Moo,cafe,Rajasthan,,,,,26.9113009,75.8017201,OpenStreetMap,node,7190468085,2026-11-26T07:29:17.178344+00:00
+Dhanwa Resort,restaurant,Rajasthan,,,bundi road,+9193094 14175,25.2954067,75.7458543,OpenStreetMap,node,7214193911,2026-11-26T07:29:17.178355+00:00
+Charis cafe,cafe,Rajasthan,,,"18, Ajmer pulia",+9190251 55906,26.9132795,75.7940823,OpenStreetMap,node,7232291585,2026-11-26T07:29:17.178367+00:00
+Natural View Restaurant,restaurant,Rajasthan,,,,,24.5790995,73.6824239,OpenStreetMap,node,7243883096,2026-11-26T07:29:17.178377+00:00
+Gujrat Restaurant,restaurant,Rajasthan,,,,,25.1360279,73.5746163,OpenStreetMap,node,7244835143,2026-11-26T07:29:17.178386+00:00
+Vrindavan Vasudev,restaurant,Rajasthan,,,,,25.1364321,73.5749729,OpenStreetMap,node,7244837160,2026-11-26T07:29:17.178396+00:00
+Lal Garh,restaurant,Rajasthan,,,,,26.9186457,70.9122578,OpenStreetMap,node,7250042008,2026-11-26T07:29:17.178406+00:00
+"Blue door Cafe  , Jaipur",restaurant,Rajasthan,,,"Kabutro ka chowk, 302002",+91 97841 04113,26.9266184,75.8269278,OpenStreetMap,node,7250139186,2026-11-26T07:29:17.178417+00:00
+German Bakery,cafe,Rajasthan,,,,,26.913068,70.913386,OpenStreetMap,node,7255781759,2026-11-26T07:29:17.178427+00:00
+Gabbar,restaurant,Rajasthan,,,,,28.0289803,73.3292961,OpenStreetMap,node,7258005845,2026-11-26T07:29:17.178436+00:00
+Mona Lisa,restaurant,Rajasthan,,,,,28.0546607,75.1480319,OpenStreetMap,node,7260811379,2026-11-26T07:29:17.178446+00:00
+burger singh,fast_food,Rajasthan,,,,,26.9165819,75.8096329,OpenStreetMap,node,7306107985,2026-11-26T07:29:17.178456+00:00
+Film City Cafe,cafe,Rajasthan,,,,,28.0161397,73.3271232,OpenStreetMap,node,7326008914,2026-11-26T07:29:17.178466+00:00
+Sunset Terrace,restaurant,Rajasthan,,,,,24.5754521,73.6830161,OpenStreetMap,node,7332544334,2026-11-26T07:29:17.178476+00:00
+Palki Khana,restaurant,Rajasthan,,,,,24.5763387,73.683904,OpenStreetMap,node,7332544385,2026-11-26T07:29:17.178486+00:00
+Lake View,restaurant,Rajasthan,,Pushkar,बदी बस्ती,,26.4893198,74.5540367,OpenStreetMap,node,7360184578,2026-11-26T07:29:17.178496+00:00
+Chunda Palace,restaurant,Rajasthan,,,,,24.5934926,73.6395872,OpenStreetMap,node,7360406248,2026-11-26T07:29:17.178507+00:00
+The Hungry Owl,cafe,Rajasthan,,Jaipur,"94/09, Madhyam Marg, 302020",,26.8487827,75.7691477,OpenStreetMap,node,7684763326,2026-11-26T07:29:17.178518+00:00
+Bhawana Restaurant & Sweets,restaurant,Rajasthan,,Rajgarh,"New Market Near Clock Tower, 331023",+918955444646,28.6398636,75.3871721,OpenStreetMap,node,7894238676,2026-11-26T07:29:17.178530+00:00
+Sri Motu Ram Prasadam,restaurant,Rajasthan,,,,,26.8436065,75.8024609,OpenStreetMap,node,7969344386,2026-11-26T07:29:17.178540+00:00
+Chokhi Dhani - Tonk Road,restaurant,Rajasthan,,Jaipur,"12 Miles, Tonk Road",,26.7675872,75.8361121,OpenStreetMap,node,8037689053,2026-11-26T07:29:17.178553+00:00
+Chaudhary Canteen,cafe,Rajasthan,,,IT Park Road,,26.7795829,75.8385864,OpenStreetMap,node,8044543830,2026-11-26T07:29:17.178564+00:00
+Cafe Coffee Day,cafe,Rajasthan,,,"Ground Floor, Calgiri Road",,26.8593503,75.8083773,OpenStreetMap,node,8068694159,2026-11-26T07:29:17.178576+00:00
+South Indian Dosa Corner,fast_food,Rajasthan,,,,,26.9143066,75.7379933,OpenStreetMap,node,8071848421,2026-11-26T07:29:17.178586+00:00
+Cafe Coffee Day,cafe,Rajasthan,,,Hawa sadak,,26.9016256,75.7849972,OpenStreetMap,node,8084157086,2026-11-26T07:29:17.178597+00:00
+Gulnar Juice,fast_food,Rajasthan,,,Gopalpura Bypass,,26.8735628,75.7761313,OpenStreetMap,node,8088655798,2026-11-26T07:29:17.178608+00:00
+Coffee Break,cafe,Rajasthan,,,,+916376615428,26.9091075,75.738462,OpenStreetMap,node,8119003843,2026-11-26T07:29:17.178619+00:00
+Mumal Restaurant,restaurant,Rajasthan,,,,,25.2719711,75.759296,OpenStreetMap,node,8124349938,2026-11-26T07:29:17.178629+00:00
+Shekhawati Dhaba,restaurant,Rajasthan,,,,,25.2723041,75.7592377,OpenStreetMap,node,8124349955,2026-11-26T07:29:17.178640+00:00
+Cafe Coffee Day,cafe,Rajasthan,,,,,26.9031,75.8365725,OpenStreetMap,node,8125607613,2026-11-26T07:29:17.178650+00:00
+Juicy Fruity,fast_food,Rajasthan,,,,,26.9031105,75.8366548,OpenStreetMap,node,8125618821,2026-11-26T07:29:17.178660+00:00
+Domino's,fast_food,Rajasthan,,,,,26.9033096,75.8368752,OpenStreetMap,node,8125618824,2026-11-26T07:29:17.178673+00:00
+American Grill,fast_food,Rajasthan,,,,,26.9033299,75.836829,OpenStreetMap,node,8125618825,2026-11-26T07:29:17.178684+00:00
+Dengri's - The Restro Lounge,restaurant,Rajasthan,,,,,26.9102046,75.7434242,OpenStreetMap,node,8140978704,2026-11-26T07:29:17.178694+00:00
+Canteen,cafe,Rajasthan,,,,,27.2272714,75.9304523,OpenStreetMap,node,8171528584,2026-11-26T07:29:17.178704+00:00
+Harmeen's,restaurant,Rajasthan,,,,,29.9171434,73.8864718,OpenStreetMap,node,8179235049,2026-11-26T07:29:17.178713+00:00
+Rajputana Midway/Resort,restaurant,Rajasthan,,,,,27.0095836,76.8549143,OpenStreetMap,node,8202654316,2026-11-26T07:29:17.178723+00:00
+Coffee America,cafe,Rajasthan,,Jaipur,"76\9, Shipra Path, 302020",+917737034113,26.8613782,75.7735375,OpenStreetMap,node,8379213954,2026-11-26T07:29:17.178735+00:00
+Foodiezzz Cafe & Restaurant,restaurant,Rajasthan,,Partapur,"Banswara Dungerpur Main Road, Hotel Deependra, 327024",,23.5914429,74.168526,OpenStreetMap,node,8422257129,2026-11-26T07:29:17.178747+00:00
+"Taj Aravali Resort & Spa, Udaipur",restaurant,Rajasthan,Udaipur,Udaipur,"1,, Kheemach Kheda, Village: Bhujra, Tehsil: Girwa Near Kodiyat,, 313031",,24.5790706,73.6119489,OpenStreetMap,node,8530781296,2026-11-26T07:29:17.178759+00:00
+Ganesha Bhojnalay,cafe,Rajasthan,,,,,24.575335,73.6999094,OpenStreetMap,node,8581643556,2026-11-26T07:29:17.178770+00:00
+Mehta Pustak Bhandar,restaurant,Rajasthan,,,333,,26.9194619,75.8216071,OpenStreetMap,node,8624888435,2026-11-26T07:29:17.178780+00:00
+Black Pizza,restaurant,Rajasthan,,,,,26.9061335,75.822165,OpenStreetMap,node,8624888436,2026-11-26T07:29:17.178790+00:00
+Herbs On Pizza,fast_food,Rajasthan,,Jaipur,"16/17, Pravasi Nagar, Murlipura, 302039",+919783011116,26.9700049,75.7623864,OpenStreetMap,node,8632333092,2026-11-26T07:29:17.178802+00:00
+Sanjay Restaurant,restaurant,Rajasthan,,,,,27.6250421,75.1695836,OpenStreetMap,node,8844205098,2026-11-26T07:29:17.178812+00:00
+Fast Food Sikar,fast_food,Rajasthan,,,,,27.6271814,75.1767445,OpenStreetMap,node,8844243561,2026-11-26T07:29:17.178822+00:00
+Juice Centre,fast_food,Rajasthan,,,,,27.6223642,75.1602259,OpenStreetMap,node,8844243668,2026-11-26T07:29:17.178832+00:00
+Landlord Cafe,cafe,Rajasthan,,,,,27.6277459,75.1775532,OpenStreetMap,node,8844269831,2026-11-26T07:29:17.178842+00:00
+Rangmahal Restaurant,restaurant,Rajasthan,,,,,27.5951269,75.164055,OpenStreetMap,node,8850108659,2026-11-26T07:29:17.178852+00:00
+Laxmii Sweets,restaurant,Rajasthan,,,,,27.6022327,75.1522375,OpenStreetMap,node,8850199544,2026-11-26T07:29:17.178862+00:00
+ARORA NAMKEEN,fast_food,Rajasthan,,,,,25.8288797,72.2448123,OpenStreetMap,node,8858868263,2026-11-26T07:29:17.178872+00:00
+Blendz Cafe,cafe,Rajasthan,,,,,24.6014971,73.6873852,OpenStreetMap,node,8879476868,2026-11-26T07:29:17.178882+00:00
+bablu tea stall,cafe,Rajasthan,,jaipur,302017,,26.8465067,75.8940019,OpenStreetMap,node,8887611105,2026-11-26T07:29:17.178893+00:00
+omji tea stole,cafe,Rajasthan,,jaipur,302017,,26.8414227,75.8922946,OpenStreetMap,node,8887645034,2026-11-26T07:29:17.178903+00:00
+braj tea stall,cafe,Rajasthan,,,,,26.8413945,75.8919855,OpenStreetMap,node,8887995501,2026-11-26T07:29:17.178914+00:00
+BAba Hotel,restaurant,Rajasthan,,gangapur city,322201,,26.4691173,76.7267622,OpenStreetMap,node,8889991230,2026-11-26T07:29:17.178924+00:00
+"Chungi Naka Kotra Dhahar, Hindaun city",cafe,Rajasthan,,,phaili ka pura,,26.6111006,77.0652521,OpenStreetMap,node,8894234642,2026-11-26T07:29:17.178936+00:00
+banavari thadi,cafe,Rajasthan,,,,,26.8358975,75.8769066,OpenStreetMap,node,8900651448,2026-11-26T07:29:17.178946+00:00
+Tan-Sukh,restaurant,Rajasthan,,,,,26.9035157,75.7530934,OpenStreetMap,node,8903968898,2026-11-26T07:29:17.178957+00:00
+Cafe Coffee Day,cafe,Rajasthan,,,,,25.1801036,75.8346423,OpenStreetMap,node,8909346718,2026-11-26T07:29:17.178967+00:00
+Café Amazon,cafe,Rajasthan,,,,,25.1797041,75.8364095,OpenStreetMap,node,8909376014,2026-11-26T07:29:17.178978+00:00
+R 1,restaurant,Rajasthan,,,,,25.1799638,75.8348525,OpenStreetMap,node,8909376750,2026-11-26T07:29:17.178988+00:00
+Five Guys,fast_food,Rajasthan,,,,,25.1798434,75.8339148,OpenStreetMap,node,8909376751,2026-11-26T07:29:17.178999+00:00
+China Town,fast_food,Rajasthan,,,,,27.8942098,76.2814912,OpenStreetMap,node,8909383950,2026-11-26T07:29:17.179009+00:00
+R 6,restaurant,Rajasthan,,,,,25.1804977,75.8355867,OpenStreetMap,node,8909394517,2026-11-26T07:29:17.179020+00:00
+Red Lobster,restaurant,Rajasthan,,,,,25.1813895,75.8351248,OpenStreetMap,node,8909417109,2026-11-26T07:29:17.179030+00:00
+Denny's,restaurant,Rajasthan,,,,,25.1739258,75.8541826,OpenStreetMap,node,8909420077,2026-11-26T07:29:17.179040+00:00
+Fuddruckers,restaurant,Rajasthan,,,,,25.1743123,75.8543371,OpenStreetMap,node,8909422540,2026-11-26T07:29:17.179050+00:00
+Nando's,restaurant,Rajasthan,,,,,25.1741124,75.8539133,OpenStreetMap,node,8909425541,2026-11-26T07:29:17.179060+00:00
+Sheetal Juice Food Store,fast_food,Rajasthan,,,,,27.6248356,75.1686937,OpenStreetMap,node,8909912283,2026-11-26T07:29:17.179070+00:00
+Coffy House,cafe,Rajasthan,,,,,27.6221659,75.1603217,OpenStreetMap,node,8909916336,2026-11-26T07:29:17.179080+00:00
+Pizza Store-1,restaurant,Rajasthan,,,,,27.6223451,75.1607906,OpenStreetMap,node,8909943164,2026-11-26T07:29:17.179090+00:00
+Shanti German Restaurant,restaurant,Rajasthan,,,,,27.6241485,75.1643789,OpenStreetMap,node,8909989305,2026-11-26T07:29:17.179101+00:00
+Naveen Restaurant,restaurant,Rajasthan,,,,,27.6258036,75.1673605,OpenStreetMap,node,8909992893,2026-11-26T07:29:17.179110+00:00
+Fast Food Store,fast_food,Rajasthan,,,,,27.6279311,75.1791362,OpenStreetMap,node,8910024665,2026-11-26T07:29:17.179120+00:00
+Juice & Cafe,cafe,Rajasthan,,,,,27.6276653,75.1793903,OpenStreetMap,node,8910026545,2026-11-26T07:29:17.179130+00:00
+Sarmathura Mishthan Bhandar,fast_food,Rajasthan,,,,,26.5046663,77.0258538,OpenStreetMap,node,8911088597,2026-11-26T07:29:17.179140+00:00
+Bikaneri Sweet Home,fast_food,Rajasthan,,,,,26.5046792,77.0259841,OpenStreetMap,node,8911115630,2026-11-26T07:29:17.179150+00:00
+samosa,fast_food,Rajasthan,,,,,27.8934919,76.2882666,OpenStreetMap,node,8911318380,2026-11-26T07:29:17.179160+00:00
+fulchand restorent,restaurant,Rajasthan,,,,,25.0960248,76.5077553,OpenStreetMap,node,8913875646,2026-11-26T07:29:17.179170+00:00
+ashapura bhojnalya,restaurant,Rajasthan,,,,,24.6566056,72.927285,OpenStreetMap,node,8917344934,2026-11-26T07:29:17.179180+00:00
+Cafe Cave cc,cafe,Rajasthan,,,,,26.4664304,74.6055071,OpenStreetMap,node,8917777024,2026-11-26T07:29:17.179190+00:00
+Atlantica restaurant and hotel,restaurant,Rajasthan,,,,,26.4671504,74.6059209,OpenStreetMap,node,8917798256,2026-11-26T07:29:17.179202+00:00
+Star Town Cafe,cafe,Rajasthan,,,,,26.4695589,74.6068666,OpenStreetMap,node,8917807881,2026-11-26T07:29:17.179212+00:00
+Tamasha The cafe,cafe,Rajasthan,,,,,26.4663402,74.6058543,OpenStreetMap,node,8917813898,2026-11-26T07:29:17.179223+00:00
+Balaji Fast Food & Pizza Point,fast_food,Rajasthan,,,,,26.466997,74.6053008,OpenStreetMap,node,8917822603,2026-11-26T07:29:17.179233+00:00
+Chaisalmer,cafe,Rajasthan,,Jaisalmer,"Dhibba para, near fort, Old city, Jaisalmer, 345001",+91 9672730954,26.9102625,70.9124813,OpenStreetMap,node,9002996954,2026-11-26T07:29:17.179245+00:00
+JODHPUR NAMKEEN AND FOODS,fast_food,Rajasthan,,kota,"b-302, Talwandi Circle, 324005",+918118829961,25.1484492,75.8405431,OpenStreetMap,node,9136939340,2026-11-26T07:29:17.179266+00:00
+Shankara Café & Restro,cafe,Rajasthan,,Ajmer,"shop no. 2, Gyan Marg, 305004",7976638052,26.5112362,74.6329324,OpenStreetMap,node,9240147759,2026-11-26T07:29:17.179279+00:00
+Hotel Radhe Krishna palace,restaurant,Rajasthan,,,,,27.9935141,73.3224662,OpenStreetMap,node,9248123511,2026-11-26T07:29:17.179290+00:00
+Al-Karim,restaurant,Rajasthan,,Bikaner,"5, Rani bazar industrial area",,27.9918513,73.3212966,OpenStreetMap,node,9248198228,2026-11-26T07:29:17.179302+00:00
+Kai Kabila Restaurant,restaurant,Rajasthan,,,,,27.9940964,73.3223518,OpenStreetMap,node,9248210795,2026-11-26T07:29:17.179313+00:00
+Starbucks,cafe,Rajasthan,,Jaipur,"A-5, Suryavanshi Pearl, Chomu House Circle, 302007",,26.9108631,75.7952607,OpenStreetMap,node,9249525420,2026-11-26T07:29:17.179324+00:00
+प्रजापत मिष्ठान भंडार,restaurant,Rajasthan,,Jodhpur,"Sigma Minerals, 342601",,26.3403848,73.6978468,OpenStreetMap,node,9306358562,2026-11-26T07:29:17.179335+00:00
+Indiana Cafe & Restaurant,restaurant,Rajasthan,,Jhalawar,"52,Saket Nagar Extension, Near Kanchan City Residency, 326001",+917414055666,24.5868261,76.1769835,OpenStreetMap,node,9401965876,2026-11-26T07:29:17.179347+00:00
+Café BAE,cafe,Rajasthan,,,"A/1, 21, Sahkar Marg, Near 22 Godown Circle, C Scheme, Jaipur, Rajasthan 302006",,26.899789,75.7929507,OpenStreetMap,node,9495760718,2026-11-26T07:29:17.179358+00:00
+RockYard Cafe,cafe,Rajasthan,,Ajmer,"RockYard Cafe Near Vinayak Complex B Block Panchsheel, 305001",+919413508120,26.5104128,74.6308594,OpenStreetMap,node,9523866698,2026-11-26T07:29:17.179370+00:00
+जोधपुर मिष्ठान भंडार,restaurant,Rajasthan,,Khejarla,342601,,26.3334751,73.6842019,OpenStreetMap,node,9551337088,2026-11-26T07:29:17.179380+00:00
+Netaji tea corner,fast_food,Rajasthan,,,,,25.1235286,75.8540941,OpenStreetMap,node,9876496919,2026-11-26T07:29:17.179391+00:00
+Anand shekhawati dhaba,restaurant,Rajasthan,,,,,25.1287849,75.8528905,OpenStreetMap,node,9876503717,2026-11-26T07:29:17.179401+00:00
+Israel egg stall,fast_food,Rajasthan,,,,,25.123635,75.8564654,OpenStreetMap,node,9876513417,2026-11-26T07:29:17.179412+00:00
+A to Z Rolls,fast_food,Rajasthan,,,,,25.1249308,75.8527781,OpenStreetMap,node,9876513418,2026-11-26T07:29:17.179422+00:00
+Banwari tea stall,fast_food,Rajasthan,,,,,25.1270413,75.8515937,OpenStreetMap,node,9876522320,2026-11-26T07:29:17.179432+00:00
+PUBG Juice center,fast_food,Rajasthan,,,,,25.1256234,75.8463116,OpenStreetMap,node,9876578518,2026-11-26T07:29:17.179442+00:00
+Uncle panipuri stall,fast_food,Rajasthan,,,,,25.1238537,75.8539087,OpenStreetMap,node,9876695817,2026-11-26T07:29:17.179451+00:00
+Aradhna mess,restaurant,Rajasthan,,,,,25.122045,75.8537504,OpenStreetMap,node,9930216525,2026-11-26T07:29:17.179460+00:00
+Kabuleewala,restaurant,Rajasthan,,,,,26.2707134,72.9997402,OpenStreetMap,node,9949585442,2026-11-26T07:29:17.179470+00:00
+thali and more,restaurant,Rajasthan,,,"1st floor plot no, C 46, Sarojini Marg, Panch Batti, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",,26.9109569,75.805667,OpenStreetMap,node,10013473818,2026-11-26T07:29:17.179481+00:00
+Punjabi Plaza,restaurant,Rajasthan,,,,,26.5893668,74.8700213,OpenStreetMap,node,10052842340,2026-11-26T07:29:17.179491+00:00
+Sam’s Art Café,cafe,Rajasthan,,,,+91 70143 43978,26.2969048,73.0227955,OpenStreetMap,node,10083765917,2026-11-26T07:29:17.179502+00:00
+Udaipur Traditional restaurant,restaurant,Rajasthan,,Udaipur,"Rani Road, Near Jain farms, 313001",+91 9636762622,24.6015358,73.6639779,OpenStreetMap,node,10214436014,2026-11-26T07:29:17.179513+00:00
+beli chicken,restaurant,Rajasthan,,,,,26.2917467,73.0291937,OpenStreetMap,node,10225625720,2026-11-26T07:29:17.179524+00:00
+Vinay Restaurant,restaurant,Rajasthan,,,"B19, Shiv Marg",,26.9280901,75.7970653,OpenStreetMap,node,10259447809,2026-11-26T07:29:17.179535+00:00
+Kim Mohan's Restaurant,restaurant,Rajasthan,,,Surya Colony,9983335449,26.2968153,73.0203308,OpenStreetMap,node,10261562486,2026-11-26T07:29:17.179547+00:00
+Restaurant,restaurant,Rajasthan,,,,,26.323934,72.8042313,OpenStreetMap,node,10266912401,2026-11-26T07:29:17.179557+00:00
+Resto,restaurant,Rajasthan,,,,,26.296272,72.6577407,OpenStreetMap,node,10266923334,2026-11-26T07:29:17.179567+00:00
+Restaurants,restaurant,Rajasthan,,,,,26.3205521,72.725891,OpenStreetMap,node,10266923335,2026-11-26T07:29:17.179577+00:00
+Terrazzo,restaurant,Rajasthan,,Jaipur,"Sahkar Marg, 302015",,26.881962,75.7974672,OpenStreetMap,node,10554368725,2026-11-26T07:29:17.179588+00:00
+"Talk Of The Town, Lal Kothi",restaurant,Rajasthan,,Jaipur,302015,,26.8824325,75.797106,OpenStreetMap,node,10554368726,2026-11-26T07:29:17.179599+00:00
+The Khopcha Cafe,cafe,Rajasthan,,Jaipur,"Sahakar Marg, 302015",,26.8819484,75.7975186,OpenStreetMap,node,10554368728,2026-11-26T07:29:17.179610+00:00
+Cafe Maestro,restaurant,Rajasthan,,,,,27.8006627,76.2402067,OpenStreetMap,node,10559234715,2026-11-26T07:29:17.179620+00:00
+Kabul Chicken Sajji,restaurant,Rajasthan,,,Ramganj Bazaar,,26.9221585,75.8300509,OpenStreetMap,node,10561385109,2026-11-26T07:29:17.179631+00:00
+Hotel Highway Taj,restaurant,Rajasthan,,,,,27.6623532,76.1533542,OpenStreetMap,node,10574041158,2026-11-26T07:29:17.179643+00:00
+Hotel Koyal,restaurant,Rajasthan,,,,,27.6625811,76.1535341,OpenStreetMap,node,10574059722,2026-11-26T07:29:17.179653+00:00
+Pink Floyd Cafe,cafe,Rajasthan,,,,,26.4902613,74.5575041,OpenStreetMap,node,10575927441,2026-11-26T07:29:17.179663+00:00
+Shubham restaurant,restaurant,Rajasthan,,,,,26.4873923,74.5589327,OpenStreetMap,node,10575927541,2026-11-26T07:29:17.179674+00:00
+The big tree,restaurant,Rajasthan,,,,,26.9112701,70.9112257,OpenStreetMap,node,10583640208,2026-11-26T07:29:17.179684+00:00
+Pakwan,restaurant,Rajasthan,,,,,26.9105823,70.9111582,OpenStreetMap,node,10583649805,2026-11-26T07:29:17.179693+00:00
+Non-veg zone,restaurant,Rajasthan,,,,,26.3016404,73.031246,OpenStreetMap,node,10609366705,2026-11-26T07:29:17.179703+00:00
+Cafe rooftop,restaurant,Rajasthan,,,,,26.2993479,73.02292,OpenStreetMap,node,10617456105,2026-11-26T07:29:17.179713+00:00
+Qureshi Kabab House,restaurant,Rajasthan,,,Tripolia Market,,26.28934,73.0229708,OpenStreetMap,node,10617456205,2026-11-26T07:29:17.179723+00:00
+Sailani Cafe,restaurant,Rajasthan,,,,,24.5793686,73.6781228,OpenStreetMap,node,10651421005,2026-11-26T07:29:17.179734+00:00
+Domino's,fast_food,Rajasthan,,Jaipur,"Jagatpura Flyover, 302017",,26.8375444,75.8337353,OpenStreetMap,node,10718511277,2026-11-26T07:29:17.179745+00:00
+Cafe Coffee Day,cafe,Rajasthan,,,,,26.9854069,75.8495623,OpenStreetMap,node,10744673403,2026-11-26T07:29:17.179755+00:00
+Mugs 4 Buds,cafe,Rajasthan,,,,,26.9088889,70.9242299,OpenStreetMap,node,10744805765,2026-11-26T07:29:17.179765+00:00
+Rajastani Thali Dal Baati Churma,restaurant,Rajasthan,,,,085295 58481,26.9274262,75.7908643,OpenStreetMap,node,10745129341,2026-11-26T07:29:17.179775+00:00
+Gopal Roof Top Restaurant,restaurant,Rajasthan,,,,,26.2964371,73.022231,OpenStreetMap,node,10751037509,2026-11-26T07:29:17.179785+00:00
+Special Punjabi,restaurant,Rajasthan,,,,,26.9103963,70.9149404,OpenStreetMap,node,10760824992,2026-11-26T07:29:17.179795+00:00
+MAHABIR SWEETS AND RESTRAUNT MSR,restaurant,Rajasthan,,RINGAS SIKAR,"SANTOSH TOWER, RINGAS KHATU ROAD, 332404",+919358019843,27.3752044,75.5598348,OpenStreetMap,node,10880107675,2026-11-26T07:29:17.179806+00:00
+Millets of Mewar,restaurant,Rajasthan,,,,,24.5793215,73.6838279,OpenStreetMap,node,10881009914,2026-11-26T07:29:17.179817+00:00
+Khamma Ghani,restaurant,Rajasthan,,,,,24.5856083,73.6806712,OpenStreetMap,node,10881016628,2026-11-26T07:29:17.179827+00:00
+Brahma Kamal,restaurant,Rajasthan,,,,,24.5887694,73.6825521,OpenStreetMap,node,10881017858,2026-11-26T07:29:17.179838+00:00
+Brown Sugar,cafe,Rajasthan,,,,,26.2710068,73.0202716,OpenStreetMap,node,10885684392,2026-11-26T07:29:17.179848+00:00
+Desi Bhoj,restaurant,Rajasthan,,Jodhpur,Navdurga Colony Jhalamand,,26.2304141,73.0356171,OpenStreetMap,node,10885684502,2026-11-26T07:29:17.179860+00:00
+Rigveda',cafe,Rajasthan,,,,,26.2709842,73.0201858,OpenStreetMap,node,10885688114,2026-11-26T07:29:17.179870+00:00
+Rasraj,cafe,Rajasthan,,,,,26.2717256,73.0225601,OpenStreetMap,node,10885699715,2026-11-26T07:29:17.179880+00:00
+Mandap Garden and Restaurant,restaurant,Rajasthan,,,,,26.2300193,73.035753,OpenStreetMap,node,10886477905,2026-11-26T07:29:17.179890+00:00
+Aulakh Hotel,restaurant,Rajasthan,,,,,26.8146711,75.5020535,OpenStreetMap,node,10892429053,2026-11-26T07:29:17.179900+00:00
+Aulakh Punjabi Hotel,restaurant,Rajasthan,,,,,26.814853,75.5031103,OpenStreetMap,node,10892429054,2026-11-26T07:29:17.179910+00:00
+The Warehouse Cafe,cafe,Rajasthan,,Jaipur,"Gandhi Marg, 302015",,26.8860135,75.8036761,OpenStreetMap,node,10899269954,2026-11-26T07:29:17.179921+00:00
+Desi Dhava,restaurant,Rajasthan,,Ghudachandra ji,"v - machri , p - gudhandra ji , th - Nadoti  rajasthan, on gangapur city road, 322215",,26.7724391,76.6822459,OpenStreetMap,node,10902623526,2026-11-26T07:29:17.179933+00:00
+riya spices,cafe,Rajasthan,,,,,25.7588847,75.3798462,OpenStreetMap,node,10902724651,2026-11-26T07:29:17.179949+00:00
+the doors restaurant,restaurant,Rajasthan,,,"WR86+73P Khandaka Mansion, Mirza Ismail Rd, near Rajmandir Cinema, Panch Batti, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001",,26.91579,75.81012,OpenStreetMap,node,10904661341,2026-11-26T07:29:17.179961+00:00
+matti indian cafe house,cafe,Rajasthan,,,"9th Floor, International Business Centre, Malviya Marg, C Scheme, Jaipur, Rajasthan 302001",,26.9160713,75.8015668,OpenStreetMap,node,10904661667,2026-11-26T07:29:17.179972+00:00
+tea and me cafe,cafe,Rajasthan,,,,,26.888491,74.7734181,OpenStreetMap,node,10904670835,2026-11-26T07:29:17.179984+00:00
+vanshika resturant,restaurant,Rajasthan,,,,,26.8889873,74.77253,OpenStreetMap,node,10904670836,2026-11-26T07:29:17.179993+00:00
+varsha resturant,restaurant,Rajasthan,,,,,26.888201,74.7694667,OpenStreetMap,node,10904670862,2026-11-26T07:29:17.180004+00:00
+Unique Bakers,fast_food,Rajasthan,,,,,26.8232047,75.867953,OpenStreetMap,node,10904677030,2026-11-26T07:29:17.180014+00:00
+Arora Bakers,fast_food,Rajasthan,,,,,26.8226139,75.8647334,OpenStreetMap,node,10904677031,2026-11-26T07:29:17.180023+00:00
+Dream Cafe,fast_food,Rajasthan,,jaipur,Ram Nagariya Road,,26.8277721,75.8477985,OpenStreetMap,node,10904677035,2026-11-26T07:29:17.180034+00:00
+Punjab Rasoi Restaurant,restaurant,Rajasthan,,,,,26.8265338,75.8492276,OpenStreetMap,node,10904677037,2026-11-26T07:29:17.180044+00:00
+Burger King,fast_food,Rajasthan,,,,,26.8372637,75.8339069,OpenStreetMap,node,10904677040,2026-11-26T07:29:17.180054+00:00
+Chai Aashram,cafe,Rajasthan,,,"C-96A, Road No 7, CBI Fatak Road, Chandragupta Nagar, Jagatpura, Jaipur, Rajasthan 302017",,26.8302623,75.8495723,OpenStreetMap,node,10904677048,2026-11-26T07:29:17.180064+00:00
+Let's Brew Coffee,cafe,Rajasthan,,,"Purshat Nagar, Jagatpura Near Tata Motors, Khatu Shyam Ji Mandir, Jaipur, Rajasthan 302017",,26.8282916,75.844543,OpenStreetMap,node,10904687646,2026-11-26T07:29:17.180075+00:00
+Garrison cafe,cafe,Rajasthan,,,"Purshat Nagar, Jagatpura Near Tata Motors, Khatu Shyam Ji Mandir, Jaipur, Rajasthan 302017",,26.8283365,75.8445068,OpenStreetMap,node,10904687647,2026-11-26T07:29:17.180085+00:00
+salon,fast_food,Rajasthan,,,,,26.9113372,75.8118529,OpenStreetMap,node,10904714955,2026-11-26T07:29:17.180095+00:00
+Roseberry,restaurant,Rajasthan,,Jaipur,"Plot No. 1-A, 1st Floor, Jawahar Nagar Colony, Tonk Road, 302018",+91 78921022278,26.8685465,75.7969727,OpenStreetMap,node,10917746182,2026-11-26T07:29:17.180106+00:00
+Goraksha hotel & family restaurant,restaurant,Rajasthan,,,,,27.8734707,75.0853373,OpenStreetMap,node,10957410078,2026-11-26T07:29:17.180117+00:00
+Raj Bus Travels,fast_food,Rajasthan,,,,,27.6155697,75.15173,OpenStreetMap,node,10958285032,2026-11-26T07:29:17.180126+00:00
+Poonam Misthan Bhandaar,restaurant,Rajasthan,,,,,27.613375,75.1313294,OpenStreetMap,node,10958285036,2026-11-26T07:29:17.180136+00:00
+Sonu Kirana Store,cafe,Rajasthan,,,,,27.6083748,75.115907,OpenStreetMap,node,10958285039,2026-11-26T07:29:17.180145+00:00
+LUCKY NON VEG RESTRAUNT,restaurant,Rajasthan,,,,,26.9531851,75.7027962,OpenStreetMap,node,10959797692,2026-11-26T07:29:17.180155+00:00
+Domino's,fast_food,Rajasthan,,,,,26.9476397,75.7241495,OpenStreetMap,node,10959824962,2026-11-26T07:29:17.180165+00:00
+Shreeji Restaurant,restaurant,Rajasthan,,,,,24.6084935,72.7237773,OpenStreetMap,node,10960331792,2026-11-26T07:29:17.180175+00:00
+kgn cafe,cafe,Rajasthan,,,,,26.9726124,75.7675594,OpenStreetMap,node,10960889865,2026-11-26T07:29:17.180185+00:00
+FAST FOOD CORNER,fast_food,Rajasthan,,,,,26.968325,75.7629053,OpenStreetMap,node,10960889891,2026-11-26T07:29:17.180195+00:00
+CHAT KA CHAURAHA,cafe,Rajasthan,,,,,26.9695114,75.7630294,OpenStreetMap,node,10960889892,2026-11-26T07:29:17.180205+00:00
+roof top cafe,cafe,Rajasthan,,,,,26.9704518,75.7606957,OpenStreetMap,node,10960893907,2026-11-26T07:29:17.180215+00:00
+glorious restaurent,restaurant,Rajasthan,,,,,26.9705699,75.7626812,OpenStreetMap,node,10960893909,2026-11-26T07:29:17.180225+00:00
+ASHAPURA RESTAURANT,restaurant,Rajasthan,,,,,24.6094143,72.7248646,OpenStreetMap,node,10961275973,2026-11-26T07:29:17.180234+00:00
+Ashoka restaurant,restaurant,Rajasthan,,,,,24.6093896,72.72484,OpenStreetMap,node,10961342090,2026-11-26T07:29:17.180244+00:00
+marvadi bhojnalaya,restaurant,Rajasthan,,,,,24.5795543,73.6849495,OpenStreetMap,node,10992702591,2026-11-26T07:29:17.180254+00:00
+Modi Sweets,fast_food,Rajasthan,,,,,28.6398725,75.3867587,OpenStreetMap,node,11046728932,2026-11-26T07:29:17.180264+00:00
+Santa Banta Bakery,fast_food,Rajasthan,,,,,28.6412117,75.3871674,OpenStreetMap,node,11046728933,2026-11-26T07:29:17.180274+00:00
+Jaipur Chaupati,restaurant,Rajasthan,,,,,26.8406321,75.7739393,OpenStreetMap,node,11082457256,2026-11-26T07:29:17.180284+00:00
+hotel kanha inn,restaurant,Rajasthan,kota,kota,"bundi road, 324008",,25.2007751,75.8379233,OpenStreetMap,node,11097153933,2026-11-26T07:29:17.180295+00:00
+The Royal Madrasi Restro,restaurant,Rajasthan,Jodhpur,Jodhpur,"Hari Nagar, jhanwar road, 342008",+91-8949-402995,26.2505832,72.9598997,OpenStreetMap,node,11118948415,2026-11-26T07:29:17.180306+00:00
+Tanvi Cafe,restaurant,Rajasthan,,,,097824 10243,28.0093492,73.3000525,OpenStreetMap,node,11121528168,2026-11-26T07:29:17.180338+00:00
+mocha cafe udaipur,restaurant,Rajasthan,udaipur,udaipur,"11, sardarpura, 313001",,24.5959055,73.6940794,OpenStreetMap,node,11134970948,2026-11-26T07:29:17.180355+00:00
+Half Light Coffee Roasters,cafe,Rajasthan,Jaipur,Jaipur,"F-31, Azad Marg, 302001",+919602602849,26.9073957,75.7954528,OpenStreetMap,node,11162418128,2026-11-26T07:29:17.180366+00:00
+Daisy and Jade Jaipur,cafe,Rajasthan,Jaipur,Jaipur,"B 137, Lalarpura Road Maa Hinglaj Nagar, 302021",‎+91 92162 99342,26.9022301,75.7125581,OpenStreetMap,node,11185475306,2026-11-26T07:29:17.180378+00:00
+Ranthambore Restaurant & Café,restaurant,Rajasthan,,sawai madhopur,"Ranthambhore Road, 322021",8058774035,26.0176551,76.3700485,OpenStreetMap,node,11202219120,2026-11-26T07:29:17.180389+00:00
+Bittu Da Dhaba,restaurant,Rajasthan,Udaipur,udaipur,"NH-48, Bittu Da Dhaba, Kanuwara, Rishabhdev, 313802",+91-8005912207,24.050233,73.6656964,OpenStreetMap,node,11279909868,2026-11-26T07:29:17.180401+00:00
+Al Café Coffee D’lite,cafe,Rajasthan,,Pilani,"9H4R+HJH, 333031",,28.3565103,75.5917544,OpenStreetMap,node,11283222990,2026-11-26T07:29:17.180412+00:00
+K2 Family Restaurant,restaurant,Rajasthan,Sirohi,Abu Road,"K2 Family Restaurant, NH27, Wasda, 307026",+918112242265,24.4238336,72.6886324,OpenStreetMap,node,11333073976,2026-11-26T07:29:17.180423+00:00
+"Royal Rasoi, Udaipur",restaurant,Rajasthan,,,,,24.5957472,73.6888511,OpenStreetMap,node,11393510842,2026-11-26T07:29:17.180433+00:00
+BTS Burger To Shakei,cafe,Rajasthan,Jaipur,Jaipur,"Plot No.124/497,, Madhyam Marg, 302020",+91-7880778806,26.8416823,75.770054,OpenStreetMap,node,11425726510,2026-11-26T07:29:17.180443+00:00
+Laxmi Hotel,restaurant,Rajasthan,,,,,28.0145082,73.314035,OpenStreetMap,node,11432008050,2026-11-26T07:29:17.180454+00:00
+Seversl inexpensive Dhabas,restaurant,Rajasthan,,,,,28.0202616,73.3177819,OpenStreetMap,node,11436661023,2026-11-26T07:29:17.180463+00:00
+Blueberrys Cafe at Yogis,cafe,Rajasthan,,,,,26.296596,73.0211055,OpenStreetMap,node,11478839339,2026-11-26T07:29:17.180473+00:00
+The Curry Spoon,restaurant,Rajasthan,,jaipur,"1782, Amer Road, 302002",+91 8094329710,26.9361784,75.8348424,OpenStreetMap,node,11496566023,2026-11-26T07:29:17.180484+00:00
+House of Arches,restaurant,Rajasthan,jodhpur,Jodhpur,"Jodhpur Bypass, 342008",+919414100102,26.2190104,72.9792176,OpenStreetMap,node,11511924289,2026-11-26T07:29:17.180495+00:00
+JK Café & Restaurant,cafe,Rajasthan,Rajastan,Jaisalmer,"on fort, near Top View Restaurant, Khejer Para, Manak Chowk, Amar Sagar Pol, 345001",09625850786,26.9126885,70.9128297,OpenStreetMap,node,11542285879,2026-11-26T07:29:17.180506+00:00
+Кафе,cafe,Rajasthan,,,,,26.9175489,75.8169087,OpenStreetMap,node,11609578469,2026-11-26T07:29:17.180517+00:00
+SHREE KRISHNA SWEET HOME,restaurant,Rajasthan,,,,9602963605,24.9948951,72.2642555,OpenStreetMap,node,11649146324,2026-11-26T07:29:17.180527+00:00
+Hôtel Nirmal,fast_food,Rajasthan,,,,,26.9222096,71.8818083,OpenStreetMap,node,11682180490,2026-11-26T07:29:17.180537+00:00
+Mr. Bean's Pizza,cafe,Rajasthan,,,,,27.8023134,75.0369262,OpenStreetMap,node,11684890549,2026-11-26T07:29:17.180546+00:00
+Red and Blue Cafe,cafe,Rajasthan,,,,,27.8026749,75.0367321,OpenStreetMap,node,11684904563,2026-11-26T07:29:17.180556+00:00
+Ganpati Resto,restaurant,Rajasthan,,,,,27.805551,75.0353111,OpenStreetMap,node,11684922547,2026-11-26T07:29:17.180565+00:00
+Elephanta Treat,restaurant,Rajasthan,,,,,27.8061061,75.0354803,OpenStreetMap,node,11684925109,2026-11-26T07:29:17.180574+00:00
+Dadmaq's Pizza,restaurant,Rajasthan,,,,,27.809495,75.0339693,OpenStreetMap,node,11684947996,2026-11-26T07:29:17.180584+00:00
+Royal King,restaurant,Rajasthan,,,,,27.8021268,75.0369722,OpenStreetMap,node,11687030737,2026-11-26T07:29:17.180594+00:00
+AI Cafe Coffee d'lite,cafe,Rajasthan,,,,,27.8025396,75.0366021,OpenStreetMap,node,11687181457,2026-11-26T07:29:17.180604+00:00
+Wrapstick Foods,restaurant,Rajasthan,,,,,28.1131692,75.3910801,OpenStreetMap,node,11687195352,2026-11-26T07:29:17.180613+00:00
+Khana Khajana Restaurant,restaurant,Rajasthan,,,,,28.1093038,75.3884015,OpenStreetMap,node,11687207330,2026-11-26T07:29:17.180623+00:00
+Krishna Paradise,restaurant,Rajasthan,,,,,26.9587845,75.7041211,OpenStreetMap,node,11690525027,2026-11-26T07:29:17.180633+00:00
+Khana Khazana,restaurant,Rajasthan,Gangapur City,Gangapur city,"Old Anaj Mandi, 322201",,26.4759869,76.7283588,OpenStreetMap,node,11690593620,2026-11-26T07:29:17.180643+00:00
+ONE BITE,cafe,Rajasthan,Pali,Pali,"Over college road, 306401",,25.7727027,73.3367216,OpenStreetMap,node,11690856760,2026-11-26T07:29:17.180654+00:00
+Jodhpur Sweets,restaurant,Rajasthan,,,,,28.1158487,75.3910368,OpenStreetMap,node,11691105162,2026-11-26T07:29:17.180664+00:00
+hotel ganesh rantambhore,restaurant,Rajasthan,,,,,26.0180249,76.3494113,OpenStreetMap,node,11691320417,2026-11-26T07:29:17.180673+00:00
+food for you,restaurant,Rajasthan,,,,,26.015913,76.3499328,OpenStreetMap,node,11691320425,2026-11-26T07:29:17.180683+00:00
+the food court,fast_food,Rajasthan,,,,,26.0144594,76.3577421,OpenStreetMap,node,11691320453,2026-11-26T07:29:17.180693+00:00
+noon to moon,restaurant,Rajasthan,,,,,26.0147029,76.3598872,OpenStreetMap,node,11691320454,2026-11-26T07:29:17.180703+00:00
+UT,cafe,Rajasthan,,,,,26.0155554,76.3596161,OpenStreetMap,node,11691320455,2026-11-26T07:29:17.180867+00:00
+pizza pride,restaurant,Rajasthan,,,,,26.0150029,76.3601979,OpenStreetMap,node,11691320456,2026-11-26T07:29:17.180883+00:00
+hotel ranthabhore vilas,restaurant,Rajasthan,,,,,26.0166782,76.3623826,OpenStreetMap,node,11691320458,2026-11-26T07:29:17.180897+00:00
+pink palace,restaurant,Rajasthan,,,,,26.0167325,76.3508821,OpenStreetMap,node,11691324176,2026-11-26T07:29:17.180909+00:00
+Manvaar Vegeterian,cafe,Rajasthan,,,,,27.6152605,75.1502107,OpenStreetMap,node,11691404249,2026-11-26T07:29:17.180920+00:00
+milan restaurant,cafe,Rajasthan,,,,,27.6178784,75.1510461,OpenStreetMap,node,11691439357,2026-11-26T07:29:17.180931+00:00
+Magic Masala,cafe,Rajasthan,,,,,27.6159627,75.14993,OpenStreetMap,node,11691444014,2026-11-26T07:29:17.180943+00:00
+Foodies Hub,fast_food,Rajasthan,,,,,26.4754192,76.7127065,OpenStreetMap,node,11691444828,2026-11-26T07:29:17.180954+00:00
+Pawan Restaurant,restaurant,Rajasthan,,,,,27.6160277,75.1514111,OpenStreetMap,node,11691558577,2026-11-26T07:29:17.180965+00:00
+Chole bhature shop,restaurant,Rajasthan,,,,,26.4723069,76.7284165,OpenStreetMap,node,11691572046,2026-11-26T07:29:17.180976+00:00
+Waves 2.0,restaurant,Rajasthan,,,,,25.7978247,73.301212,OpenStreetMap,node,11691620980,2026-11-26T07:29:17.180986+00:00
+Mahadev Jodhpur Sweet Home,fast_food,Rajasthan,Sikar,sikar,"piprali road,NEAR PIPRALI CIRCLE, 332001",,27.6280622,75.1788147,OpenStreetMap,node,11691640249,2026-11-26T07:29:17.181000+00:00
+Loca's Pizza Burger,restaurant,Rajasthan,,,,,28.1175204,75.384351,OpenStreetMap,node,11691640253,2026-11-26T07:29:17.181011+00:00
+"Sidhi Fast Food, Mess and Bhojanalaya",fast_food,Rajasthan,Sikar,SIKAR,332001,,27.6256033,75.1753262,OpenStreetMap,node,11691734751,2026-11-26T07:29:17.181023+00:00
+Blackout Cafe,cafe,Rajasthan,Sikar,SIKAR,"piprali road, 332001",,27.6274745,75.1768218,OpenStreetMap,node,11691750109,2026-11-26T07:29:17.181035+00:00
+"US Pizza, Sikar",fast_food,Rajasthan,Sikar,SIKAR,"piprali road, 332001",,27.626239,75.1727597,OpenStreetMap,node,11691768386,2026-11-26T07:29:17.181047+00:00
+Hide Out Cafe Aand Restro,cafe,Rajasthan,Sikar,SIKAR,"piprali road, 332001",,27.6264916,75.1736711,OpenStreetMap,node,11691784299,2026-11-26T07:29:17.181059+00:00
+JEEN BHAWANI KIRANA STORE KHEENWAJ,cafe,Rajasthan,,,,,27.5328726,74.6750687,OpenStreetMap,node,11692003916,2026-11-26T07:29:17.181071+00:00
+Chicken Shawarma King,fast_food,Rajasthan,,,,,27.6082648,75.1441904,OpenStreetMap,node,11692173803,2026-11-26T07:29:17.181082+00:00
+Pizza Hut,fast_food,Rajasthan,,,,,27.6010255,75.1453434,OpenStreetMap,node,11692227497,2026-11-26T07:29:17.181093+00:00
+AFC Chicken Centre,fast_food,Rajasthan,,,,,27.6154379,75.1386563,OpenStreetMap,node,11692230578,2026-11-26T07:29:17.181103+00:00
+om sai mistan,restaurant,Rajasthan,,,,,27.1770203,75.740081,OpenStreetMap,node,11692822263,2026-11-26T07:29:17.181113+00:00
+shri mahadev resturent,restaurant,Rajasthan,,,,,27.1774856,75.7419423,OpenStreetMap,node,11692934661,2026-11-26T07:29:17.181124+00:00
+1.5 Street,fast_food,Rajasthan,,,,,28.1151034,75.3941629,OpenStreetMap,node,11693033341,2026-11-26T07:29:17.181134+00:00
+om sai miston bandar,restaurant,Rajasthan,,,,,27.1772151,75.7402027,OpenStreetMap,node,11693034206,2026-11-26T07:29:17.181144+00:00
+chudhary restarunet,restaurant,Rajasthan,,,,,27.1773936,75.7413949,OpenStreetMap,node,11693037912,2026-11-26T07:29:17.181155+00:00
+new pandit restarunt,restaurant,Rajasthan,,,,,27.1772043,75.7404277,OpenStreetMap,node,11693045076,2026-11-26T07:29:17.181165+00:00
+tattoo cafe,cafe,Rajasthan,,,,,26.922633,75.827839,OpenStreetMap,node,11693090731,2026-11-26T07:29:17.181176+00:00
+vind view cafe,cafe,Rajasthan,,,,,26.92264,75.827818,OpenStreetMap,node,11693091362,2026-11-26T07:29:17.181187+00:00
+Jitters,cafe,Rajasthan,,Alwar,,,27.5708745,76.6168639,OpenStreetMap,node,11694714456,2026-11-26T07:29:17.181198+00:00
+Prem Pavitra Bhojanalya,restaurant,Rajasthan,,,,,27.5643882,76.6025623,OpenStreetMap,node,11696849687,2026-11-26T07:29:17.181208+00:00
+Kanha Restraunt,restaurant,Rajasthan,,,,,26.9527025,75.7000583,OpenStreetMap,node,11697024064,2026-11-26T07:29:17.181219+00:00
+TEA TIME CAFE,cafe,Rajasthan,,,,,26.9561705,75.7090258,OpenStreetMap,node,11697030632,2026-11-26T07:29:17.181229+00:00
+Rajdhani Cafe,cafe,Rajasthan,,,,,26.9549117,75.7031055,OpenStreetMap,node,11697053363,2026-11-26T07:29:17.181239+00:00
+Jodhpor Mishthan Bhandar,fast_food,Rajasthan,Sikar,sikar,"piprali circle, 332001",,27.628005,75.1795249,OpenStreetMap,node,11697093203,2026-11-26T07:29:17.181251+00:00
+Burger Farm,fast_food,Rajasthan,,,,,26.9474638,75.7249773,OpenStreetMap,node,11697104756,2026-11-26T07:29:17.181261+00:00
+Bell Pepper Pizza,fast_food,Rajasthan,,,,,26.9476578,75.7240065,OpenStreetMap,node,11697111040,2026-11-26T07:29:17.181271+00:00
+pandit alpahar,fast_food,Rajasthan,,,,,25.9270742,74.6325068,OpenStreetMap,node,11697234086,2026-11-26T07:29:17.181281+00:00
+SB sweet shop,restaurant,Rajasthan,,,,,27.1654627,75.7231974,OpenStreetMap,node,11697380019,2026-11-26T07:29:17.181291+00:00
+MB hotel,restaurant,Rajasthan,,,,,27.1656587,75.7236825,OpenStreetMap,node,11697417366,2026-11-26T07:29:17.181301+00:00
+Ocean blue,restaurant,Rajasthan,,,,,27.1643983,75.7313975,OpenStreetMap,node,11697420436,2026-11-26T07:29:17.181312+00:00
+Somra juice and icecream corner,fast_food,Rajasthan,,,,,26.952,75.7019616,OpenStreetMap,node,11697474057,2026-11-26T07:29:17.181322+00:00
+delhi biryani cafe,cafe,Rajasthan,,,,,25.1381349,75.8448604,OpenStreetMap,node,11697617183,2026-11-26T07:29:17.181332+00:00
+cafe unplugged,cafe,Rajasthan,,,,,25.1379933,75.8449632,OpenStreetMap,node,11697626354,2026-11-26T07:29:17.181343+00:00
+chai garam cafe mahaveer nagar 2,cafe,Rajasthan,,,,,25.1386654,75.8439357,OpenStreetMap,node,11697661340,2026-11-26T07:29:17.181353+00:00
+the town cafe,cafe,Rajasthan,,,,,25.1383636,75.8445701,OpenStreetMap,node,11697719421,2026-11-26T07:29:17.181363+00:00
+jai dwarkadhish chat center,fast_food,Rajasthan,,,,,25.1383611,75.8447763,OpenStreetMap,node,11697774993,2026-11-26T07:29:17.181374+00:00
+Gazal Restro,restaurant,Rajasthan,,,,,27.5694688,76.6154713,OpenStreetMap,node,11697858361,2026-11-26T07:29:17.181384+00:00
+Headquarter Beer Cafe & Restro,restaurant,Rajasthan,,,,,27.5690713,76.6139542,OpenStreetMap,node,11697899123,2026-11-26T07:29:17.181394+00:00
+Sportz Cafe,cafe,Rajasthan,,,,,27.569311,76.6134972,OpenStreetMap,node,11697910955,2026-11-26T07:29:17.181404+00:00
+Shyam Street Food,fast_food,Rajasthan,,,,,27.5694004,76.6161193,OpenStreetMap,node,11697918850,2026-11-26T07:29:17.181415+00:00
+mumbai chai cafe,cafe,Rajasthan,,,,,25.1395364,75.844085,OpenStreetMap,node,11697918961,2026-11-26T07:29:17.181425+00:00
+Yumino Pizza,fast_food,Rajasthan,,,,,27.5693129,76.6152567,OpenStreetMap,node,11697941941,2026-11-26T07:29:17.181435+00:00
+Saini Restaurant,restaurant,Rajasthan,Sikar,sikar,"KALYAN CIRCLE, 332001",,27.6159438,75.1513548,OpenStreetMap,node,11697974415,2026-11-26T07:29:17.181446+00:00
+Apple Cafe,cafe,Rajasthan,,,,,27.625622,75.1709254,OpenStreetMap,node,11697985804,2026-11-26T07:29:17.181457+00:00
+RED FOX HOTEL,restaurant,Rajasthan,,,,,27.5353697,76.6074292,OpenStreetMap,node,11697995161,2026-11-26T07:29:17.181466+00:00
+Madrasi Masala Dosa,fast_food,Rajasthan,,,,,27.5683903,76.6079868,OpenStreetMap,node,11698003291,2026-11-26T07:29:17.181477+00:00
+Lemon Tree Hotel,restaurant,Rajasthan,,,,,27.5389643,76.6179893,OpenStreetMap,node,11698021577,2026-11-26T07:29:17.181487+00:00
+The L'amour,restaurant,Rajasthan,,,,,27.5684835,76.6092378,OpenStreetMap,node,11698036175,2026-11-26T07:29:17.181497+00:00
+"Pirates Cafe, Sikar",cafe,Rajasthan,,,,,27.6256099,75.1708664,OpenStreetMap,node,11698039320,2026-11-26T07:29:17.181507+00:00
+Cafe Shiva,cafe,Rajasthan,,,,,27.6246664,75.1676837,OpenStreetMap,node,11698063800,2026-11-26T07:29:17.181518+00:00
+Karni Jodhpur Sweet Home,restaurant,Rajasthan,SIKAR,SIKAR,"Nawalgarh Road, 332001",,27.6265776,75.1569344,OpenStreetMap,node,11698080340,2026-11-26T07:29:17.181532+00:00
+Chai Sutta Bar,cafe,Rajasthan,SIKAR,SIKAR,"Nawalgarh Road, 332001",,27.6235984,75.1551512,OpenStreetMap,node,11698385436,2026-11-26T07:29:17.181545+00:00
+Roof Top Cafe,cafe,Rajasthan,SIKAR,SIKAR,"Nawalgarh Road, 332001",,27.6233259,75.1550293,OpenStreetMap,node,11698420784,2026-11-26T07:29:17.181557+00:00
+abhay chinese corner,fast_food,Rajasthan,,,,,26.0892819,76.4715784,OpenStreetMap,node,11698437529,2026-11-26T07:29:17.181568+00:00
+shivani fast food corner,fast_food,Rajasthan,,,,,26.0899833,76.4716159,OpenStreetMap,node,11698437530,2026-11-26T07:29:17.181579+00:00
+saksham restaurant,restaurant,Rajasthan,,,,,26.0907989,76.4718933,OpenStreetMap,node,11698437531,2026-11-26T07:29:17.181589+00:00
+arjun chinese restraurant,restaurant,Rajasthan,,,,,26.0937097,76.4653908,OpenStreetMap,node,11698437532,2026-11-26T07:29:17.181600+00:00
+Parshawanath,restaurant,Rajasthan,,,,,25.778691,73.3304959,OpenStreetMap,node,11698681167,2026-11-26T07:29:17.181611+00:00
+THAR  family restaurant,restaurant,Rajasthan,,,,,26.3113616,73.092209,OpenStreetMap,node,11717207561,2026-11-26T07:29:17.181622+00:00
+VK Fast Food,restaurant,Rajasthan,,,,,27.613462,75.1516314,OpenStreetMap,node,11717319058,2026-11-26T07:29:17.181632+00:00
+Kulfi Ko Khan,restaurant,Rajasthan,,,,,27.6157441,75.1516891,OpenStreetMap,node,11717320348,2026-11-26T07:29:17.181642+00:00
+Desi Rajasthani Khana,restaurant,Rajasthan,,,,,27.6148163,75.1515988,OpenStreetMap,node,11717320353,2026-11-26T07:29:17.181652+00:00
+Pawan Restaurant,restaurant,Rajasthan,,,,,27.6160141,75.1514488,OpenStreetMap,node,11717324894,2026-11-26T07:29:17.181662+00:00
+milan restourant,restaurant,Rajasthan,,,,,27.6178743,75.1510047,OpenStreetMap,node,11717365638,2026-11-26T07:29:17.181673+00:00
+Rasoi,restaurant,Rajasthan,,,,,27.6155877,75.1520554,OpenStreetMap,node,11717407612,2026-11-26T07:29:17.181683+00:00
+Roll Express,restaurant,Rajasthan,,,,,27.6175619,75.1517853,OpenStreetMap,node,11717451354,2026-11-26T07:29:17.181694+00:00
+Sita Ram Puchka Wala,restaurant,Rajasthan,,,,,27.6170071,75.15085,OpenStreetMap,node,11721625631,2026-11-26T07:29:17.181704+00:00
+Restaurant,restaurant,Rajasthan,,,,,27.6136407,75.1512386,OpenStreetMap,node,11721636463,2026-11-26T07:29:17.181714+00:00
+Sikar Junction Restaurant and Cafe,restaurant,Rajasthan,,,,,27.6185143,75.1509874,OpenStreetMap,node,11721636797,2026-11-26T07:29:17.181724+00:00
+Karodiya Kachori Bhandar,fast_food,Rajasthan,,Jaipur,Haldion Ka Rasta,,26.92088,75.8271023,OpenStreetMap,node,11724571841,2026-11-26T07:29:17.181742+00:00
+Aditya Restaurent,restaurant,Rajasthan,,,,,26.4771952,74.6471902,OpenStreetMap,node,11725226378,2026-11-26T07:29:17.181754+00:00
+Roop Basant Pavitra Bhojanalaya,restaurant,Rajasthan,,,,,26.92059,75.7888677,OpenStreetMap,node,11725249803,2026-11-26T07:29:17.181764+00:00
+Khandelwal,restaurant,Rajasthan,,,,,26.9205952,75.7888436,OpenStreetMap,node,11725249804,2026-11-26T07:29:17.181775+00:00
+Bellezza Cafe,cafe,Rajasthan,,,,,26.4790616,74.6466681,OpenStreetMap,node,11725262978,2026-11-26T07:29:17.181785+00:00
+Swastik Bhojanalya,restaurant,Rajasthan,,,,,26.4785111,74.6468784,OpenStreetMap,node,11725262981,2026-11-26T07:29:17.181795+00:00
+MG Fruit Juice Corner,fast_food,Rajasthan,,,,,26.4764146,74.648567,OpenStreetMap,node,11725263002,2026-11-26T07:29:17.181805+00:00
+The Shake Studio,fast_food,Rajasthan,,,,,26.4773358,74.6484428,OpenStreetMap,node,11725263005,2026-11-26T07:29:17.181815+00:00
+Bhola Tea Restaurant,restaurant,Rajasthan,,,,,26.4776199,74.6484661,OpenStreetMap,node,11725263008,2026-11-26T07:29:17.181825+00:00
+Juice centre,fast_food,Rajasthan,,,,,26.4864175,76.7358019,OpenStreetMap,node,11727899718,2026-11-26T07:29:17.181836+00:00
+Parth restaurant,restaurant,Rajasthan,,,,,26.4825475,76.736847,OpenStreetMap,node,11727899725,2026-11-26T07:29:17.181846+00:00
+Red chilii,cafe,Rajasthan,,,,,26.4776865,76.7237532,OpenStreetMap,node,11727919559,2026-11-26T07:29:17.181856+00:00
+ksk,cafe,Rajasthan,,,,,26.4788806,76.724003,OpenStreetMap,node,11727927195,2026-11-26T07:29:17.181867+00:00
+JAO,cafe,Rajasthan,,,,,26.479789,76.7227005,OpenStreetMap,node,11727928401,2026-11-26T07:29:17.181877+00:00
+Maharaja Restaurant,restaurant,Rajasthan,,,Udaipur Road,9982945536,23.9620514,74.0827484,OpenStreetMap,node,11746638420,2026-11-26T07:29:17.181888+00:00
+McDonald's,fast_food,Rajasthan,,,,,26.9034396,75.7929249,OpenStreetMap,node,11747461069,2026-11-26T07:29:17.181899+00:00
+Jain Bojhansala,fast_food,Rajasthan,,,,,26.6974304,76.9097077,OpenStreetMap,node,11749363231,2026-11-26T07:29:17.181910+00:00
+Suruchi Alpahar Ghriha,fast_food,Rajasthan,,,,,26.6954942,76.911159,OpenStreetMap,node,11749391003,2026-11-26T07:29:17.181920+00:00
+Tapri Niwas,cafe,Rajasthan,"Udaipur, Rajasthan",Udaipur,"170-A, New Fatehpura, Near St. Mary's School, 313001",+91-9983344060,24.6024911,73.6899706,OpenStreetMap,node,11753076501,2026-11-26T07:29:17.181932+00:00
+Tapri Satsang,cafe,Rajasthan,"Udaipur, Rajasthan",Udaipur,"Plot-1, Inside Thirdspace, Near Bhuwana Gram Panchayat, Chitrakoot Nagar, 313001",+91-9983355123,24.6199537,73.7205477,OpenStreetMap,node,11753076502,2026-11-26T07:29:17.181944+00:00
+ramdev plaza,restaurant,Rajasthan,,,,,25.7259103,73.6039222,OpenStreetMap,node,11753093437,2026-11-26T07:29:17.181956+00:00
+Laxmi,cafe,Rajasthan,,Jaipur,Ajmer Road,,26.9021987,75.7726597,OpenStreetMap,node,11760727012,2026-11-26T07:29:17.181967+00:00
+NOTHING BEFORE COFFEE,cafe,Rajasthan,,,"125, Tripolia Bazaar",,26.9238475,75.824011,OpenStreetMap,node,11763678169,2026-11-26T07:29:17.181978+00:00
+Annpoornam,restaurant,Rajasthan,,,,,26.9148703,75.8047591,OpenStreetMap,node,11764154269,2026-11-26T07:29:17.181988+00:00
+Tirupati,restaurant,Rajasthan,,,,,25.0760614,75.0546507,OpenStreetMap,node,11886692809,2026-11-26T07:29:17.181998+00:00
+Namaste India,restaurant,Rajasthan,,,,,25.342907,73.1889392,OpenStreetMap,node,11886704223,2026-11-26T07:29:17.182008+00:00
+Skynest Ajmer,restaurant,Rajasthan,Ajmer,Ajmer,"Fifth Floor, Bravia Hotel, near Jhalkari Bai Smarak, above Bravia Hotel, C Block, Panchsheel Nagar,, 305004",9773359205,26.505697,74.6372671,OpenStreetMap,node,11946313097,2026-11-26T07:29:17.182020+00:00
+Wrapstick Kota,fast_food,Rajasthan,Kota,Kota,"Shop No. 7, Shree Radhika Pearl Apartment, Landmark City, Kunhadi, 324008",,25.1986275,75.830611,OpenStreetMap,node,12020326051,2026-11-26T07:29:17.182031+00:00
+Swadisht,restaurant,Rajasthan,,,,,26.7244633,72.9125359,OpenStreetMap,node,12037309255,2026-11-26T07:29:17.182042+00:00
+Café Mehran,cafe,Rajasthan,,,,,26.2988303,73.0195342,OpenStreetMap,node,12059843707,2026-11-26T07:29:17.182053+00:00
+Shree Laxmi Jodhpur Sweets,restaurant,Rajasthan,,Jaipur,302012,,26.95653,75.7412095,OpenStreetMap,node,12117596629,2026-11-26T07:29:17.182064+00:00
+Highway Darbaar Restaurant,restaurant,Rajasthan,,,,,28.0087839,76.4643397,OpenStreetMap,node,12146942773,2026-11-26T07:29:17.182075+00:00
+Ganesh Resturent,restaurant,Rajasthan,,,,+91 9509848714,26.784195,75.8235447,OpenStreetMap,node,12151385705,2026-11-26T07:29:17.182086+00:00
+Gahlot Restaurant,restaurant,Rajasthan,,,,,28.0199296,73.317716,OpenStreetMap,node,12162041882,2026-11-26T07:29:17.182096+00:00
+Jeeman,restaurant,Rajasthan,,,,,28.019238,73.3166767,OpenStreetMap,node,12162075992,2026-11-26T07:29:17.182107+00:00
+Prachina Cafe,cafe,Rajasthan,,,,,28.0228235,73.3182397,OpenStreetMap,node,12162087909,2026-11-26T07:29:17.182117+00:00
+House of Gourmet- HOG,restaurant,Rajasthan,Girwha,udaipur,"15A, Panchwati, 313001",,24.5963893,73.6907433,OpenStreetMap,node,12182034814,2026-11-26T07:29:17.182129+00:00
+The Biq Pot,restaurant,Rajasthan,,,,,24.579139,73.6712807,OpenStreetMap,node,12182162223,2026-11-26T07:29:17.182140+00:00
+Royal Ship Restaurant,restaurant,Rajasthan,,,313011,,24.6282847,73.6383321,OpenStreetMap,node,12289977801,2026-11-26T07:29:17.182151+00:00
+Mile Stone Restaurant,restaurant,Rajasthan,,,313011,,24.627021,73.6419367,OpenStreetMap,node,12289995102,2026-11-26T07:29:17.182162+00:00
+मेवाड़ रेस्टोरेंट,fast_food,Rajasthan,,,313011,,24.6269662,73.6418053,OpenStreetMap,node,12290199001,2026-11-26T07:29:17.182173+00:00
+Country Side Cafe,cafe,Rajasthan,,,313011,,24.6275705,73.6408759,OpenStreetMap,node,12290316201,2026-11-26T07:29:17.182185+00:00
+तथास्तु जैसलमेर - ए सीएएफé की लेक,restaurant,Rajasthan,,,,,26.9093311,70.9217405,OpenStreetMap,node,12307348138,2026-11-26T07:29:17.182196+00:00
+Shree Sanwariya Sarkar,restaurant,Rajasthan,,,,,26.9247973,75.7899824,OpenStreetMap,node,12358211503,2026-11-26T07:29:17.182206+00:00
+Shri Shyam Pavitra Bhojnalaya,restaurant,Rajasthan,,,,,26.924693,75.7906604,OpenStreetMap,node,12358211703,2026-11-26T07:29:17.182216+00:00
+street food,fast_food,Rajasthan,,,,,26.9244746,75.7891214,OpenStreetMap,node,12358211801,2026-11-26T07:29:17.182226+00:00
+Anjani,restaurant,Rajasthan,,,,,26.9244798,75.7905539,OpenStreetMap,node,12358212002,2026-11-26T07:29:17.182237+00:00
+The Mama Bhanja's,fast_food,Rajasthan,,,,,26.9254591,75.7912713,OpenStreetMap,node,12358212201,2026-11-26T07:29:17.182247+00:00
+chai,cafe,Rajasthan,,,,,26.9241837,75.8203002,OpenStreetMap,node,12361795404,2026-11-26T07:29:17.182258+00:00
+Kebabs and Curries Company Family Restaurant,restaurant,Rajasthan,,,,,26.928008,75.8283941,OpenStreetMap,node,12361795407,2026-11-26T07:29:17.182268+00:00
+Samosa,fast_food,Rajasthan,,,,,26.9277497,75.8280203,OpenStreetMap,node,12361795408,2026-11-26T07:29:17.182278+00:00
+Biryani,fast_food,Rajasthan,,,,,26.9197437,75.7897154,OpenStreetMap,node,12361795410,2026-11-26T07:29:17.182289+00:00
+Fresh Bites,restaurant,Rajasthan,,,,,26.9256027,75.7910741,OpenStreetMap,node,12361795417,2026-11-26T07:29:17.182299+00:00
+Crazy mood Coffee,cafe,Rajasthan,,,,,26.9264938,75.827716,OpenStreetMap,node,12361795505,2026-11-26T07:29:17.182309+00:00
+Krishna Bhojnalya,restaurant,Rajasthan,,,,,26.9179347,75.7903436,OpenStreetMap,node,12361795506,2026-11-26T07:29:17.182319+00:00
+street food street,fast_food,Rajasthan,,,,,26.919879,75.7894725,OpenStreetMap,node,12361795803,2026-11-26T07:29:17.182363+00:00
+Atithi,restaurant,Rajasthan,,,,,26.9177934,75.7904291,OpenStreetMap,node,12361796202,2026-11-26T07:29:17.182378+00:00
+Kebabs and Curries Company,restaurant,Rajasthan,,,,,26.9286951,75.7891802,OpenStreetMap,node,12361796306,2026-11-26T07:29:17.182389+00:00
+fried chicken,restaurant,Rajasthan,,,,,26.9332474,75.8045387,OpenStreetMap,node,12365225001,2026-11-26T07:29:17.182399+00:00
+Rajasthan Craft Plaza Family Restaurant,restaurant,Rajasthan,,,,,26.9228362,75.7999201,OpenStreetMap,node,12367921602,2026-11-26T07:29:17.182409+00:00
+Rajwadi Tadka,restaurant,Rajasthan,,,,,26.2724337,73.0334757,OpenStreetMap,node,12368998444,2026-11-26T07:29:17.182420+00:00
+Kanhiaya Fast Food,fast_food,Rajasthan,,,,+91 82093 81656,25.7500292,73.3242506,OpenStreetMap,node,12369492668,2026-11-26T07:29:17.182430+00:00
+J. K,restaurant,Rajasthan,,,,,26.9228991,75.7881135,OpenStreetMap,node,12369816604,2026-11-26T07:29:17.182440+00:00
+Rajasthani Thali,restaurant,Rajasthan,,,,,26.9228662,75.8013105,OpenStreetMap,node,12373714204,2026-11-26T07:29:17.182450+00:00
+Thali House,restaurant,Rajasthan,,,,,26.9225559,75.7991003,OpenStreetMap,node,12373714205,2026-11-26T07:29:17.182460+00:00
+Bikaner Bhojnalaya,restaurant,Rajasthan,,,,,26.9218853,75.7973434,OpenStreetMap,node,12376557505,2026-11-26T07:29:17.182470+00:00
+they offer Thali for 150inr and refill until you are full,restaurant,Rajasthan,,,,,26.9226018,75.7994137,OpenStreetMap,node,12376558601,2026-11-26T07:29:17.182480+00:00
+Shahar,restaurant,Rajasthan,,,,,26.9184451,75.799315,OpenStreetMap,node,12379232203,2026-11-26T07:29:17.182490+00:00
+The Little French Home,cafe,Rajasthan,,,,,26.9156131,75.795923,OpenStreetMap,node,12379294402,2026-11-26T07:29:17.182501+00:00
+rooftop,cafe,Rajasthan,,,,,26.9161718,75.7959976,OpenStreetMap,node,12379294501,2026-11-26T07:29:17.182511+00:00
+rooftop,cafe,Rajasthan,,,,,26.9156803,75.7959173,OpenStreetMap,node,12379294701,2026-11-26T07:29:17.182521+00:00
+Anand,restaurant,Rajasthan,,,,,28.0146679,73.3139022,OpenStreetMap,node,12382618207,2026-11-26T07:29:17.182532+00:00
+Oh Shakes,restaurant,Rajasthan,,,,9929325262,28.0142895,73.3144742,OpenStreetMap,node,12382618209,2026-11-26T07:29:17.182543+00:00
+a lot of streetfood stands along the road,fast_food,Rajasthan,,,,,28.0134382,73.3110435,OpenStreetMap,node,12382618404,2026-11-26T07:29:17.182554+00:00
+Amberwalla,restaurant,Rajasthan,,,,,28.0147289,73.3138395,OpenStreetMap,node,12382618507,2026-11-26T07:29:17.182564+00:00
+Bishnoism,restaurant,Rajasthan,,,,,28.0186511,73.3217678,OpenStreetMap,node,12384665004,2026-11-26T07:29:17.182574+00:00
+Ramji Restaurant,restaurant,Rajasthan,,,,,26.3009487,73.0380374,OpenStreetMap,node,12386446618,2026-11-26T07:29:17.182584+00:00
+Shree Hari,restaurant,Rajasthan,,,,,26.9108606,70.9104925,OpenStreetMap,node,12386731202,2026-11-26T07:29:17.182594+00:00
+bhagwat,restaurant,Rajasthan,,,,,26.9163418,70.9045347,OpenStreetMap,node,12388409106,2026-11-26T07:29:17.182604+00:00
+Neelkanth Bhojnam,restaurant,Rajasthan,,,,,26.9154965,70.9078741,OpenStreetMap,node,12388409111,2026-11-26T07:29:17.182614+00:00
+Thali House,restaurant,Rajasthan,,,,,26.9191609,70.9124089,OpenStreetMap,node,12388412010,2026-11-26T07:29:17.182624+00:00
+Kanishka,restaurant,Rajasthan,,,,,26.9166728,70.9051948,OpenStreetMap,node,12388412111,2026-11-26T07:29:17.182634+00:00
+many fast food stalls,fast_food,Rajasthan,,,,,26.9159326,70.9091829,OpenStreetMap,node,12388412707,2026-11-26T07:29:17.182644+00:00
+Mariyam Chicken Corner,fast_food,Rajasthan,,,,,26.9195721,70.9145022,OpenStreetMap,node,12388412709,2026-11-26T07:29:17.182654+00:00
+fast food stands,fast_food,Rajasthan,,,,,26.9138364,70.9138029,OpenStreetMap,node,12388412721,2026-11-26T07:29:17.182665+00:00
+Pakwan,restaurant,Rajasthan,,,,,26.910432,70.9151582,OpenStreetMap,node,12390265902,2026-11-26T07:29:17.182676+00:00
+Ganga,restaurant,Rajasthan,,,,,26.9109074,70.9119067,OpenStreetMap,node,12390265909,2026-11-26T07:29:17.182686+00:00
+Gujrati,restaurant,Rajasthan,,,,,26.9108714,70.915303,OpenStreetMap,node,12390266002,2026-11-26T07:29:17.182696+00:00
+Friends and Family,restaurant,Rajasthan,,,,,26.9110788,70.9122358,OpenStreetMap,node,12390266102,2026-11-26T07:29:17.182711+00:00
+Desert Bite,restaurant,Rajasthan,,,,,26.9095941,70.9145949,OpenStreetMap,node,12394027604,2026-11-26T07:29:17.182723+00:00
+KCN Chicken Corner - chicken biryani,fast_food,Rajasthan,,,,,26.9157968,70.9094934,OpenStreetMap,node,12394027711,2026-11-26T07:29:17.182733+00:00
+Handy Kabab Corner,restaurant,Rajasthan,,,,,26.9099871,70.9150837,OpenStreetMap,node,12394027902,2026-11-26T07:29:17.182744+00:00
+Thakur Ji,restaurant,Rajasthan,,,,,26.9115194,70.914356,OpenStreetMap,node,12394027903,2026-11-26T07:29:17.182754+00:00
+Manwar,restaurant,Rajasthan,,,,,26.9146107,70.9096689,OpenStreetMap,node,12394027910,2026-11-26T07:29:17.182764+00:00
+TVG AMER RESTAURANT,restaurant,Rajasthan,Rajasthan,Jaipur,"665, Amer Road, 302002",+91 8955559670,26.9415187,75.8386718,OpenStreetMap,node,12395867028,2026-11-26T07:29:17.182776+00:00
+Natraj,restaurant,Rajasthan,,,,,26.9135759,70.9159511,OpenStreetMap,node,12396016204,2026-11-26T07:29:17.182788+00:00
+Kachori,fast_food,Rajasthan,,,,,26.913827,70.9139011,OpenStreetMap,node,12396016205,2026-11-26T07:29:17.182798+00:00
+Shree Ashapurna,restaurant,Rajasthan,,,,,26.9110282,70.9149184,OpenStreetMap,node,12396016801,2026-11-26T07:29:17.182809+00:00
+The Johri,restaurant,Rajasthan,,,,,26.9185848,75.8264162,OpenStreetMap,node,12396071301,2026-11-26T07:29:17.182819+00:00
+New Rajasthani Restaurant,restaurant,Rajasthan,,,,,26.9087584,70.9135624,OpenStreetMap,node,12397933101,2026-11-26T07:29:17.182829+00:00
+The Golden Town,restaurant,Rajasthan,,,,,26.910402,70.9199388,OpenStreetMap,node,12397933102,2026-11-26T07:29:17.182839+00:00
+Mayara,restaurant,Rajasthan,,,,,26.9087736,70.9137769,OpenStreetMap,node,12397933201,2026-11-26T07:29:17.182850+00:00
+La Mafiya,restaurant,Rajasthan,,,,,24.5506834,73.6946945,OpenStreetMap,node,12400538979,2026-11-26T07:29:17.182860+00:00
+Daa,cafe,Rajasthan,,,,,26.9131145,70.9133955,OpenStreetMap,node,12402604502,2026-11-26T07:29:17.182870+00:00
+Rasoi,restaurant,Rajasthan,,,,,24.5531353,73.694665,OpenStreetMap,node,12402760745,2026-11-26T07:29:17.182880+00:00
+Fort Heritage,restaurant,Rajasthan,,,,,26.9129411,70.9148332,OpenStreetMap,node,12404812501,2026-11-26T07:29:17.182891+00:00
+Nashta House,restaurant,Rajasthan,,,,,26.9125311,70.9151766,OpenStreetMap,node,12404872601,2026-11-26T07:29:17.182901+00:00
+The Alfresco,restaurant,Rajasthan,,,,,24.8831438,74.6312173,OpenStreetMap,node,12407251510,2026-11-26T07:29:17.182911+00:00
+Lassi,fast_food,Rajasthan,,,,,24.882179,74.6292385,OpenStreetMap,node,12407690372,2026-11-26T07:29:17.182922+00:00
+Chicago Pizza,restaurant,Rajasthan,,,,,24.882277,74.6351293,OpenStreetMap,node,12407732439,2026-11-26T07:29:17.182932+00:00
+Laxmi,restaurant,Rajasthan,,,,,24.8827174,74.6275131,OpenStreetMap,node,12409419686,2026-11-26T07:29:17.182943+00:00
+Coffee Club Cafe,cafe,Rajasthan,,,,,24.8818597,74.6314479,OpenStreetMap,node,12409630044,2026-11-26T07:29:17.182953+00:00
+Pizza Burst,restaurant,Rajasthan,,,,,24.8817526,74.633464,OpenStreetMap,node,12409630047,2026-11-26T07:29:17.182964+00:00
+Radha Krishna,restaurant,Rajasthan,,,,,24.5794923,73.6839415,OpenStreetMap,node,12409667804,2026-11-26T07:29:17.182974+00:00
+Sindhi Khana Khazana,restaurant,Rajasthan,,,,,24.5822882,73.6794536,OpenStreetMap,node,12409668603,2026-11-26T07:29:17.182986+00:00
+Sun N Moon,restaurant,Rajasthan,,,,,24.5802421,73.683025,OpenStreetMap,node,12409668605,2026-11-26T07:29:17.182996+00:00
+Mavi,cafe,Rajasthan,,,,,24.5807965,73.6822585,OpenStreetMap,node,12409668803,2026-11-26T07:29:17.183007+00:00
+Lake Street,restaurant,Rajasthan,,,,,24.5821232,73.6797871,OpenStreetMap,node,12409668901,2026-11-26T07:29:17.183018+00:00
+Vyom Cafe,restaurant,Rajasthan,,,,,24.580019,73.6833781,OpenStreetMap,node,12409669004,2026-11-26T07:29:17.183029+00:00
+Eat Out,restaurant,Rajasthan,,,,,24.5836523,73.696513,OpenStreetMap,node,12409782501,2026-11-26T07:29:17.183039+00:00
+masala chowk,restaurant,Rajasthan,,,,,24.5741445,73.6878861,OpenStreetMap,node,12412773404,2026-11-26T07:29:17.183049+00:00
+Shree Vinayak,restaurant,Rajasthan,,,,,24.5799759,73.6843221,OpenStreetMap,node,12412773413,2026-11-26T07:29:17.183060+00:00
+Anna,restaurant,Rajasthan,,,,,24.5800218,73.6843349,OpenStreetMap,node,12412773606,2026-11-26T07:29:17.183071+00:00
+Amritsariyat,restaurant,Rajasthan,,,,,24.5737432,73.686865,OpenStreetMap,node,12412773703,2026-11-26T07:29:17.183081+00:00
+Royal Cafe,restaurant,Rajasthan,,,,,24.5778641,73.6851942,OpenStreetMap,node,12412773705,2026-11-26T07:29:17.183092+00:00
+Funky Bunky,restaurant,Rajasthan,,,,,24.5810438,73.679979,OpenStreetMap,node,12415411402,2026-11-26T07:29:17.183102+00:00
+Cafe Helsinki,restaurant,Rajasthan,,,,,24.5809962,73.6802165,OpenStreetMap,node,12415411501,2026-11-26T07:29:17.183112+00:00
+a lot of streetfood stalls here,fast_food,Rajasthan,,,,,24.5970118,73.681481,OpenStreetMap,node,12422136301,2026-11-26T07:29:17.183123+00:00
+Foodiz,cafe,Rajasthan,,,,,24.5791869,73.6798306,OpenStreetMap,node,12422505805,2026-11-26T07:29:17.183134+00:00
+Blue Moon,restaurant,Rajasthan,,,,,24.5791535,73.6802073,OpenStreetMap,node,12422505902,2026-11-26T07:29:17.183144+00:00
+Lago,restaurant,Rajasthan,,,,,24.580724,73.6819153,OpenStreetMap,node,12422996904,2026-11-26T07:29:17.183154+00:00
+Green Grotto,cafe,Rajasthan,,,,,24.5802015,73.6820595,OpenStreetMap,node,12422997004,2026-11-26T07:29:17.183164+00:00
+Corner Cafe,restaurant,Rajasthan,,,,,24.5810743,73.6819402,OpenStreetMap,node,12422997005,2026-11-26T07:29:17.183175+00:00
+Mannat,restaurant,Rajasthan,,,,,24.5827226,73.6812251,OpenStreetMap,node,12422999902,2026-11-26T07:29:17.183185+00:00
+Galaxy,restaurant,Rajasthan,,,,,24.5809764,73.6801398,OpenStreetMap,node,12423064401,2026-11-26T07:29:17.183195+00:00
+Bunty Egg Omelette,fast_food,Rajasthan,,,,,24.5777932,73.6980694,OpenStreetMap,node,12424650212,2026-11-26T07:29:17.183206+00:00
+Natural Lake View,restaurant,Rajasthan,,,,,24.5802454,73.6827981,OpenStreetMap,node,12424650228,2026-11-26T07:29:17.183216+00:00
+Namaste,restaurant,Rajasthan,,,,,24.580443,73.6825863,OpenStreetMap,node,12424650229,2026-11-26T07:29:17.183227+00:00
+The Village,restaurant,Rajasthan,,,,,24.5806219,73.6824533,OpenStreetMap,node,12424650230,2026-11-26T07:29:17.183238+00:00
+Mumal,restaurant,Rajasthan,,,,,24.5754662,73.6916359,OpenStreetMap,node,12424650241,2026-11-26T07:29:17.183248+00:00
+R.K. Chinese,fast_food,Rajasthan,,,,,24.5845425,73.6966867,OpenStreetMap,node,12424701801,2026-11-26T07:29:17.183258+00:00
+Nothing Before Coffee,cafe,Rajasthan,,,,,24.5818756,73.6818015,OpenStreetMap,node,12424701806,2026-11-26T07:29:17.183268+00:00
+Old Legacy,restaurant,Rajasthan,,,,,24.5797982,73.6838397,OpenStreetMap,node,12424701820,2026-11-26T07:29:17.183279+00:00
+Marwadi Bhojnalya,restaurant,Rajasthan,,,,,24.5799099,73.6836393,OpenStreetMap,node,12424701821,2026-11-26T07:29:17.183289+00:00
+Brew Villa,cafe,Rajasthan,,,,,24.5801267,73.682575,OpenStreetMap,node,12424701822,2026-11-26T07:29:17.183299+00:00
+cafe RA,restaurant,Rajasthan,,,,,24.5799088,73.6836798,OpenStreetMap,node,12424703308,2026-11-26T07:29:17.183310+00:00
+Wind View,cafe,Rajasthan,,,,,24.5801133,73.6830523,OpenStreetMap,node,12424703309,2026-11-26T07:29:17.183320+00:00
+Boho,cafe,Rajasthan,,,,,24.5800854,73.6823559,OpenStreetMap,node,12424703311,2026-11-26T07:29:17.183330+00:00
+Spicy Vibes,restaurant,Rajasthan,,,,,24.5754663,73.6918435,OpenStreetMap,node,12424703316,2026-11-26T07:29:17.183340+00:00
+Rose Garden,restaurant,Rajasthan,,,,,24.575582,73.6950681,OpenStreetMap,node,12424704623,2026-11-26T07:29:17.183351+00:00
+Balaji Foods,fast_food,Rajasthan,,,,,24.5737676,73.6877088,OpenStreetMap,node,12430934001,2026-11-26T07:29:17.183360+00:00
+Blue Box Coffee,cafe,Rajasthan,,,,,24.5739611,73.6862322,OpenStreetMap,node,12430934002,2026-11-26T07:29:17.183370+00:00
+omelette,fast_food,Rajasthan,,,,,24.5807664,73.6822644,OpenStreetMap,node,12430934105,2026-11-26T07:29:17.183380+00:00
+Namaste,restaurant,Rajasthan,,,,,24.5805112,73.682531,OpenStreetMap,node,12430934302,2026-11-26T07:29:17.183390+00:00
+Shree Mateshwari,restaurant,Rajasthan,,,,,24.5813686,73.6823758,OpenStreetMap,node,12430934303,2026-11-26T07:29:17.183400+00:00
+Shiv Shakti,restaurant,Rajasthan,,,,,24.5775184,73.6987814,OpenStreetMap,node,12444672801,2026-11-26T07:29:17.183410+00:00
+The Tummy's,restaurant,Rajasthan,,,,,24.5779473,73.6976903,OpenStreetMap,node,12444672901,2026-11-26T07:29:17.183421+00:00
+Shawarma King,restaurant,Rajasthan,,,,,24.5781151,73.6971796,OpenStreetMap,node,12444672902,2026-11-26T07:29:17.183433+00:00
+Meera,restaurant,Rajasthan,,,,,24.5848162,73.6954026,OpenStreetMap,node,12445638904,2026-11-26T07:29:17.183444+00:00
+Daya,restaurant,Rajasthan,,,,,24.5848629,73.6953643,OpenStreetMap,node,12445638905,2026-11-26T07:29:17.183455+00:00
+Bandwal,restaurant,Rajasthan,,,,,24.5843211,73.6958648,OpenStreetMap,node,12445661404,2026-11-26T07:29:17.183467+00:00
+Marwadi Bhojnalaya,restaurant,Rajasthan,,,Gangaur Ghat,+918952970560,24.5798524,73.6837607,OpenStreetMap,node,12508956701,2026-11-26T07:29:17.183478+00:00
+Utopia,restaurant,Rajasthan,,,,,24.5791206,73.6788182,OpenStreetMap,node,12523086901,2026-11-26T07:29:17.183490+00:00
+Tea And Me,cafe,Rajasthan,SIKAR,sikar,"1, Nawalgarh Road, 332001",,27.623411,75.1554175,OpenStreetMap,node,12558214069,2026-11-26T07:29:17.183503+00:00
+The Food Gallery,cafe,Rajasthan,SIKAR,SIKAR,"1, Nawalgarh Road, 332001",,27.6236418,75.1551871,OpenStreetMap,node,12558220255,2026-11-26T07:29:17.183515+00:00
+Hi-Lo Cafe,cafe,Rajasthan,,,,,27.6232396,75.1609905,OpenStreetMap,node,12587768985,2026-11-26T07:29:17.183526+00:00
+Food Island Restaurant,restaurant,Rajasthan,,,,,27.6227762,75.16159,OpenStreetMap,node,12587768988,2026-11-26T07:29:17.183537+00:00
+Sevada Restaurant,restaurant,Rajasthan,,,,,27.6205309,75.1474183,OpenStreetMap,node,12587786806,2026-11-26T07:29:17.183547+00:00
+faujiraj dhaba,restaurant,Rajasthan,Alwar,Alwar,bridge bhoogor,,27.5259514,76.6197838,OpenStreetMap,node,12592682241,2026-11-26T07:29:17.183558+00:00
+MUMBAI MASALA,restaurant,Rajasthan,,,,,28.0061165,73.3440713,OpenStreetMap,node,12593070388,2026-11-26T07:29:17.183569+00:00
+Burger Farm,restaurant,Rajasthan,,,,,28.0115101,73.3475186,OpenStreetMap,node,12593687350,2026-11-26T07:29:17.183580+00:00
+Tik & Talk cafe,cafe,Rajasthan,,,,,28.0121151,73.3476648,OpenStreetMap,node,12593722631,2026-11-26T07:29:17.183590+00:00
+Hungry Point Bikaner,restaurant,Rajasthan,,,,,28.0131248,73.3477682,OpenStreetMap,node,12593738217,2026-11-26T07:29:17.183601+00:00
+Bhookh Lagi Hai?,restaurant,Rajasthan,,,,,28.0135388,73.3478791,OpenStreetMap,node,12593738218,2026-11-26T07:29:17.183612+00:00
+Cafe Buddy’s Espresso,cafe,Rajasthan,,,,,28.0126615,73.3476778,OpenStreetMap,node,12593738391,2026-11-26T07:29:17.183624+00:00
+Goli Vada Pav No. 1,restaurant,Rajasthan,,,,,28.0134518,73.3478626,OpenStreetMap,node,12593762416,2026-11-26T07:29:17.183634+00:00
+Yeh Dil Mange More,cafe,Rajasthan,,,,,28.0117864,73.3475441,OpenStreetMap,node,12593783288,2026-11-26T07:29:17.183644+00:00
+THAR TEA POINT,restaurant,Rajasthan,,,,,28.0116691,73.3472681,OpenStreetMap,node,12593785393,2026-11-26T07:29:17.183654+00:00
+Ten30 Restaurant,restaurant,Rajasthan,,,,,28.0117802,73.3471898,OpenStreetMap,node,12593785681,2026-11-26T07:29:17.183665+00:00
+PAPA'S PLACE CAFE,restaurant,Rajasthan,,,,,28.0115425,73.3471247,OpenStreetMap,node,12593796876,2026-11-26T07:29:17.183675+00:00
+Dosaka,restaurant,Rajasthan,,,,,28.0114195,73.3472496,OpenStreetMap,node,12593820730,2026-11-26T07:29:17.183686+00:00
+Indian restaurant,restaurant,Rajasthan,,,,,26.7143381,77.8877554,OpenStreetMap,node,12595592779,2026-11-26T07:29:17.183696+00:00
+Rajesh diwakar Momos,restaurant,Rajasthan,,,,,26.7148158,77.8882182,OpenStreetMap,node,12595598489,2026-11-26T07:29:17.183706+00:00
+Rajesh baghela fast food,restaurant,Rajasthan,,,,,26.7155704,77.8869107,OpenStreetMap,node,12595608000,2026-11-26T07:29:17.183717+00:00
+Balaji peties,restaurant,Rajasthan,,,,,26.7144063,77.8879824,OpenStreetMap,node,12595610871,2026-11-26T07:29:17.183727+00:00
+Maharo Rj22 Restaurent,restaurant,Rajasthan,,,,,25.7913687,73.3183039,OpenStreetMap,node,12595614654,2026-11-26T07:29:17.183737+00:00
+PAPA BURGER,fast_food,Rajasthan,,,,,26.303598,73.0486567,OpenStreetMap,node,12595627398,2026-11-26T07:29:17.183747+00:00
+The chainsmokers Cage,cafe,Rajasthan,,,,,25.7996077,73.2915013,OpenStreetMap,node,12595631292,2026-11-26T07:29:17.183757+00:00
+KOTHARI,restaurant,Rajasthan,,,,,26.3023786,73.043445,OpenStreetMap,node,12595644864,2026-11-26T07:29:17.183773+00:00
+Hotel keilash,restaurant,Rajasthan,,,,,26.7073738,77.8929712,OpenStreetMap,node,12595649168,2026-11-26T07:29:17.183784+00:00
+Darshan food plaza,restaurant,Rajasthan,,,,,26.7084361,77.8933437,OpenStreetMap,node,12595649245,2026-11-26T07:29:17.183795+00:00
+balaji restaurant,restaurant,Rajasthan,,,,,26.5459573,76.3419951,OpenStreetMap,node,12595652714,2026-11-26T07:29:17.183806+00:00
+SHIVA CAFE,restaurant,Rajasthan,,,,,26.7062944,77.8924404,OpenStreetMap,node,12595662935,2026-11-26T07:29:17.183816+00:00
+BHOLA CHAT BHANDAR,restaurant,Rajasthan,,,,,26.7064742,77.8928746,OpenStreetMap,node,12595668842,2026-11-26T07:29:17.183827+00:00
+shagi cafe,cafe,Rajasthan,,,,,25.7921537,73.3166134,OpenStreetMap,node,12595673298,2026-11-26T07:29:17.183837+00:00
+"daimond dining hall, banswara",restaurant,Rajasthan,,,,,23.5568228,74.4308353,OpenStreetMap,node,12595681646,2026-11-26T07:29:17.183847+00:00
+Shree ji restaurant,restaurant,Rajasthan,,,,,25.7948257,73.3080785,OpenStreetMap,node,12595692928,2026-11-26T07:29:17.183857+00:00
+Chetna garden restaurant,restaurant,Rajasthan,,,,,25.8025183,73.277591,OpenStreetMap,node,12595695879,2026-11-26T07:29:17.183868+00:00
+Kake di hatti restaurant,restaurant,Rajasthan,,,,,25.7947044,73.3086208,OpenStreetMap,node,12595699224,2026-11-26T07:29:17.183879+00:00
+Naya thikana non veg restaurant,restaurant,Rajasthan,,,,,25.7971297,73.3008387,OpenStreetMap,node,12595715067,2026-11-26T07:29:17.183890+00:00
+Wves 2.0 restaurant,restaurant,Rajasthan,,,,,25.7983378,73.2965539,OpenStreetMap,node,12595715546,2026-11-26T07:29:17.183900+00:00
+rajpurohit restaurant,restaurant,Rajasthan,,,,,25.7970587,73.301049,OpenStreetMap,node,12595716079,2026-11-26T07:29:17.183910+00:00
+sigdi restaurant,restaurant,Rajasthan,,,,,25.8033194,73.2761233,OpenStreetMap,node,12595716136,2026-11-26T07:29:17.183920+00:00
+fast food corner,fast_food,Rajasthan,,,,,24.7311751,72.4430323,OpenStreetMap,node,12595719167,2026-11-26T07:29:17.183930+00:00
+FOOD SPOT,restaurant,Rajasthan,,,,,26.3041331,73.03476,OpenStreetMap,node,12595724664,2026-11-26T07:29:17.183940+00:00
+novelty cafe,cafe,Rajasthan,,,,,23.5494072,74.4426929,OpenStreetMap,node,12595745023,2026-11-26T07:29:17.183950+00:00
+Shree Darbar Cafe and  Restaurant,restaurant,Rajasthan,,,,,25.801743,73.2831872,OpenStreetMap,node,12595750413,2026-11-26T07:29:17.183960+00:00
+Dhanraj lodge,restaurant,Rajasthan,,,,,25.7754022,73.3304311,OpenStreetMap,node,12595761359,2026-11-26T07:29:17.183971+00:00
+shivaaya cafe and restaurant,cafe,Rajasthan,,,,,26.550149,76.3395646,OpenStreetMap,node,12595769733,2026-11-26T07:29:17.184020+00:00
+LA PINOZ PIZZA,restaurant,Rajasthan,,,,,26.3028549,73.0384237,OpenStreetMap,node,12595769740,2026-11-26T07:29:17.184032+00:00
+Dhakad restaurant,restaurant,Rajasthan,,,,,25.7732785,73.3295751,OpenStreetMap,node,12595792000,2026-11-26T07:29:17.184043+00:00
+Nakoda food villa,restaurant,Rajasthan,,,,,25.7730008,73.3294368,OpenStreetMap,node,12595795758,2026-11-26T07:29:17.184052+00:00
+BRICKS VRINDAYAN,restaurant,Rajasthan,,,,,26.2999095,73.0387411,OpenStreetMap,node,12595800139,2026-11-26T07:29:17.184062+00:00
+Sonis Cafe,cafe,Rajasthan,,,,,26.941585,75.7874029,OpenStreetMap,node,12595806172,2026-11-26T07:29:17.184073+00:00
+Burger Queen,fast_food,Rajasthan,,,,,26.9421064,75.7885138,OpenStreetMap,node,12595806173,2026-11-26T07:29:17.184083+00:00
+Purohit Dal Bati,restaurant,Rajasthan,,,,,25.7755019,73.3304568,OpenStreetMap,node,12595806442,2026-11-26T07:29:17.184093+00:00
+DOMINOS PIZZA,restaurant,Rajasthan,,,,,26.2997088,73.0391073,OpenStreetMap,node,12595808915,2026-11-26T07:29:17.184103+00:00
+Baskin RObins,fast_food,Rajasthan,,,,,26.9562051,75.7794177,OpenStreetMap,node,12595810336,2026-11-26T07:29:17.184113+00:00
+Kalidoscope,restaurant,Rajasthan,,,,,26.9563366,75.7806167,OpenStreetMap,node,12595819932,2026-11-26T07:29:17.184124+00:00
+Pizza 99,restaurant,Rajasthan,,,,,25.7679218,73.3265039,OpenStreetMap,node,12595820121,2026-11-26T07:29:17.184136+00:00
+Kesar Restaurant,restaurant,Rajasthan,,,,,25.759977,73.3236136,OpenStreetMap,node,12595820124,2026-11-26T07:29:17.184146+00:00
+mahendra food corner,fast_food,Rajasthan,,,,,24.7320854,72.4430625,OpenStreetMap,node,12595838205,2026-11-26T07:29:17.184156+00:00
+dost restaurant,restaurant,Rajasthan,,,,,23.5402893,74.4352093,OpenStreetMap,node,12595903587,2026-11-26T07:29:17.184167+00:00
+krishan cane cafe,fast_food,Rajasthan,,,,,23.5390171,74.4349377,OpenStreetMap,node,12595917886,2026-11-26T07:29:17.184178+00:00
+nehal juice center,fast_food,Rajasthan,,,,,23.5399787,74.4357028,OpenStreetMap,node,12595974328,2026-11-26T07:29:17.184188+00:00
+All Seasons Hotel And Restaurant,restaurant,Rajasthan,,,,,27.6341223,75.1987999,OpenStreetMap,node,12596003885,2026-11-26T07:29:17.184198+00:00
+Bagadi Chai Theka,cafe,Rajasthan,sikar,SIKAR,"1, Nawalgarh Road, 332001",,27.6236672,75.1555834,OpenStreetMap,node,12596015451,2026-11-26T07:29:17.184210+00:00
+Shekhawati Hotel,restaurant,Rajasthan,,,,,27.6337795,75.198602,OpenStreetMap,node,12596021692,2026-11-26T07:29:17.184222+00:00
+Big Bird Cafeteria and Hotel,cafe,Rajasthan,,,,,27.6245454,75.1556833,OpenStreetMap,node,12596027833,2026-11-26T07:29:17.184233+00:00
+Brothers Hukka Mahfil,cafe,Rajasthan,,,,,27.6240007,75.156215,OpenStreetMap,node,12596027893,2026-11-26T07:29:17.184243+00:00
+Navya Juice and Cafe,cafe,Rajasthan,,,,,27.6244423,75.1559677,OpenStreetMap,node,12596027894,2026-11-26T07:29:17.184253+00:00
+Hunger Ride,cafe,Rajasthan,,,,,27.6244582,75.155634,OpenStreetMap,node,12596051404,2026-11-26T07:29:17.184263+00:00
+Pilaniya Ice Cream and Juice,fast_food,Rajasthan,,,,,27.6241659,75.1555036,OpenStreetMap,node,12596056623,2026-11-26T07:29:17.184273+00:00
+Macbucks Coffee,cafe,Rajasthan,,,,,27.62409,75.1559793,OpenStreetMap,node,12596056644,2026-11-26T07:29:17.184284+00:00
+Pandpuri Chai,cafe,Rajasthan,,,,,27.6241006,75.155771,OpenStreetMap,node,12596059265,2026-11-26T07:29:17.184294+00:00
+Bean Town Cafe,cafe,Rajasthan,,,,,27.6245318,75.155619,OpenStreetMap,node,12596059443,2026-11-26T07:29:17.184305+00:00
+Food Challenge Corner,fast_food,Rajasthan,,,,,27.6241142,75.1559793,OpenStreetMap,node,12596087499,2026-11-26T07:29:17.184316+00:00
+Yaaar Da Adda,cafe,Rajasthan,,,,,27.6237496,75.1560322,OpenStreetMap,node,12596090915,2026-11-26T07:29:17.184327+00:00
+Frozen Pleasures,cafe,Rajasthan,,,,,27.625202,75.1561262,OpenStreetMap,node,12596095134,2026-11-26T07:29:17.184338+00:00
+Apoorva Food Corner,fast_food,Rajasthan,,,,,27.6253613,75.1564595,OpenStreetMap,node,12596111273,2026-11-26T07:29:17.184368+00:00
+Health Juice Centre,fast_food,Rajasthan,,,,,27.6257647,75.1566614,OpenStreetMap,node,12596111526,2026-11-26T07:29:17.184382+00:00
+Dinesh Paradise,restaurant,Rajasthan,,,,,27.3714288,75.9585208,OpenStreetMap,node,12596127823,2026-11-26T07:29:17.184392+00:00
+Sharma pavitra bhojnalya,restaurant,Rajasthan,,,,,27.3691896,75.9568749,OpenStreetMap,node,12596127833,2026-11-26T07:29:17.184402+00:00
+Hostel,fast_food,Rajasthan,,,,,27.3688903,75.9560719,OpenStreetMap,node,12596127836,2026-11-26T07:29:17.184412+00:00
+Sharma cafe,cafe,Rajasthan,,,,,27.3696474,75.9571029,OpenStreetMap,node,12596127840,2026-11-26T07:29:17.184422+00:00
+Kings cafe,cafe,Rajasthan,,,,,27.3810706,75.9594872,OpenStreetMap,node,12596127852,2026-11-26T07:29:17.184432+00:00
+Saras Dairy,fast_food,Rajasthan,,,,,27.3804577,75.9595228,OpenStreetMap,node,12596127865,2026-11-26T07:29:17.184442+00:00
+Sayam Food store,fast_food,Rajasthan,,,,,27.3828188,75.9605666,OpenStreetMap,node,12596127867,2026-11-26T07:29:17.184452+00:00
+Shiv Niwas hotel,restaurant,Rajasthan,,,,,27.379625,75.9621153,OpenStreetMap,node,12596127876,2026-11-26T07:29:17.184462+00:00
+The Sarbati palace,restaurant,Rajasthan,,,,,27.3827976,75.9630703,OpenStreetMap,node,12596127889,2026-11-26T07:29:17.184472+00:00
+dream land chinese,restaurant,Rajasthan,,,,,27.3878807,75.9619593,OpenStreetMap,node,12596129816,2026-11-26T07:29:17.184482+00:00
+MM Paradise shahpura,restaurant,Rajasthan,,,,,27.3906119,75.9642255,OpenStreetMap,node,12596129818,2026-11-26T07:29:17.184492+00:00
+Munna Kureshi Dhaba,restaurant,Rajasthan,,,,,27.3933542,75.9687471,OpenStreetMap,node,12596129825,2026-11-26T07:29:17.184503+00:00
+Hotel Jaipur King,restaurant,Rajasthan,,,,,27.3965992,75.9728423,OpenStreetMap,node,12596129831,2026-11-26T07:29:17.184513+00:00
+Kanchi Cafe,cafe,Rajasthan,,,,,27.3775204,75.9563811,OpenStreetMap,node,12596129856,2026-11-26T07:29:17.184523+00:00
+rajan tea stall,cafe,Rajasthan,,,,,27.38361,75.9617858,OpenStreetMap,node,12596129860,2026-11-26T07:29:17.184532+00:00
+king hotel,restaurant,Rajasthan,,,,,27.3825541,75.9628496,OpenStreetMap,node,12596129861,2026-11-26T07:29:17.184543+00:00
+Nukkad Restaurant,restaurant,Rajasthan,,,,,27.6226122,75.1546192,OpenStreetMap,node,12596155149,2026-11-26T07:29:17.184552+00:00
+Gup Shup,restaurant,Rajasthan,,,,,27.6231891,75.1548402,OpenStreetMap,node,12596157641,2026-11-26T07:29:17.184562+00:00
+shree charan kamal bhojnalay,restaurant,Rajasthan,,,,,24.5583481,73.7227918,OpenStreetMap,node,12596158936,2026-11-26T07:29:17.184572+00:00
+Marwadi Chai Adda,cafe,Rajasthan,,,,,27.6232544,75.1548187,OpenStreetMap,node,12596159117,2026-11-26T07:29:17.184583+00:00
+Handi Restaurant,restaurant,Rajasthan,,,,,27.6230073,75.154812,OpenStreetMap,node,12596161175,2026-11-26T07:29:17.184593+00:00
+Hotel Baba Restro,restaurant,Rajasthan,,,,,27.6229401,75.1547493,OpenStreetMap,node,12596162247,2026-11-26T07:29:17.184604+00:00
+Jail Chai Bar,fast_food,Rajasthan,,,,,27.630078,75.1851229,OpenStreetMap,node,12596163665,2026-11-26T07:29:17.184614+00:00
+north indian restaurant,restaurant,Rajasthan,,,,,27.6232901,75.1549837,OpenStreetMap,node,12596164820,2026-11-26T07:29:17.184624+00:00
+We Werec Cafe and Restaurant,cafe,Rajasthan,,,,,27.6230797,75.1548361,OpenStreetMap,node,12596165262,2026-11-26T07:29:17.184634+00:00
+Anand Restaurant,restaurant,Rajasthan,,,,,27.6194825,75.1505242,OpenStreetMap,node,12596172127,2026-11-26T07:29:17.184644+00:00
+Heart of Desert Cafe,cafe,Rajasthan,,,,,27.6228355,75.1546956,OpenStreetMap,node,12596172504,2026-11-26T07:29:17.184654+00:00
+Namaste India Restro,restaurant,Rajasthan,,,,,27.6228973,75.1547157,OpenStreetMap,node,12596176721,2026-11-26T07:29:17.184665+00:00
+i love wow chinese,restaurant,Rajasthan,,,,,24.5592476,73.7218923,OpenStreetMap,node,12596181443,2026-11-26T07:29:17.184676+00:00
+dileep pavitra bhojanalay,restaurant,Rajasthan,karauli,Tursangpura,322218,,26.30948,76.7467134,OpenStreetMap,node,12596200998,2026-11-26T07:29:17.184686+00:00
+Om Shree Shyam Restaurant,restaurant,Rajasthan,,,,,27.6288381,75.1794754,OpenStreetMap,node,12596206451,2026-11-26T07:29:17.184697+00:00
+Roll Express,restaurant,Rajasthan,,,,,27.6184679,75.150909,OpenStreetMap,node,12596207132,2026-11-26T07:29:17.184707+00:00
+Surya Namkeen,fast_food,Rajasthan,Jodhpur,Jodhpur,"Jalori Gate Circle, 342001",,26.2842347,73.0157361,OpenStreetMap,node,12596207144,2026-11-26T07:29:17.184719+00:00
+Domino's,fast_food,Rajasthan,,,,,24.5585277,73.7162739,OpenStreetMap,node,12596207155,2026-11-26T07:29:17.184730+00:00
+Jodhpur Sweet Home,restaurant,Rajasthan,,,,,27.61843,75.1509043,OpenStreetMap,node,12596209829,2026-11-26T07:29:17.184740+00:00
+Hotel Unique And Restaurant,restaurant,Rajasthan,,,,,27.6285247,75.1794862,OpenStreetMap,node,12596209950,2026-11-26T07:29:17.184751+00:00
+Sadda Adda,restaurant,Rajasthan,,,,,27.6284801,75.178726,OpenStreetMap,node,12596245797,2026-11-26T07:29:17.184761+00:00
+Karamveer Amrittulya Chai,cafe,Rajasthan,,,,,27.6280237,75.1786974,OpenStreetMap,node,12596245800,2026-11-26T07:29:17.184771+00:00
+The Burger,restaurant,Rajasthan,,,,,27.6263925,75.1796875,OpenStreetMap,node,12596250801,2026-11-26T07:29:17.184782+00:00
+Balaji Sweets,restaurant,Rajasthan,,,,,27.6307839,75.1982357,OpenStreetMap,node,12596263854,2026-11-26T07:29:17.184792+00:00
+Bhawani Pratap Restaurant & Sweets,restaurant,Rajasthan,,,,,27.6406463,75.2221648,OpenStreetMap,node,12596274183,2026-11-26T07:29:17.184802+00:00
+Annpurna Hotel,restaurant,Rajasthan,,,,,27.6387061,75.2149957,OpenStreetMap,node,12596276512,2026-11-26T07:29:17.184812+00:00
+Vrindavan Hotel & Restaurant,restaurant,Rajasthan,,,,,27.6383829,75.2147462,OpenStreetMap,node,12596283019,2026-11-26T07:29:17.184822+00:00
+Shiv Shakti Hotel And Restaurant,restaurant,Rajasthan,,,,,27.6408167,75.2217926,OpenStreetMap,node,12596287526,2026-11-26T07:29:17.184832+00:00
+Fast Food Cafe,fast_food,Rajasthan,Jodhpur,,342001,,26.2925771,73.0148721,OpenStreetMap,node,12596298784,2026-11-26T07:29:17.184844+00:00
+Hotel Gurukripa Resort And Family Restaurant,restaurant,Rajasthan,,,,,27.6409293,75.2242053,OpenStreetMap,node,12596314032,2026-11-26T07:29:17.184854+00:00
+Yarana Cafe,cafe,Rajasthan,karauli,sapotra,322218,,26.2990742,76.7459716,OpenStreetMap,node,12596390343,2026-11-26T07:29:17.184865+00:00
+Priya Restaurant & Hotel,restaurant,Rajasthan,,,,,27.6488526,75.1728374,OpenStreetMap,node,12596411195,2026-11-26T07:29:17.184875+00:00
+balaji cafe,cafe,Rajasthan,,,,,26.5485335,76.3395619,OpenStreetMap,node,12596430157,2026-11-26T07:29:17.184886+00:00
+MM Food Corner,fast_food,Rajasthan,,,,,27.6376732,75.1636618,OpenStreetMap,node,12596435627,2026-11-26T07:29:17.184896+00:00
+The Tandoori Family Restaurant,restaurant,Rajasthan,,,,,27.6294971,75.1316669,OpenStreetMap,node,12596435666,2026-11-26T07:29:17.184907+00:00
+Arabian Nights,restaurant,Rajasthan,,,,,27.6302374,75.1306518,OpenStreetMap,node,12596435669,2026-11-26T07:29:17.184917+00:00
+Joker's Cafe,cafe,Rajasthan,,,,,27.6316752,75.1295468,OpenStreetMap,node,12596435670,2026-11-26T07:29:17.184927+00:00
+Mohammedi,restaurant,Rajasthan,,,,,27.63493,75.1274061,OpenStreetMap,node,12596435674,2026-11-26T07:29:17.184937+00:00
+saudi royal,restaurant,Rajasthan,,,,,27.6398121,75.1229847,OpenStreetMap,node,12596435677,2026-11-26T07:29:17.184947+00:00
+shri shyam juice centre,fast_food,Rajasthan,,,,,26.5474593,76.3387651,OpenStreetMap,node,12596437601,2026-11-26T07:29:17.184957+00:00
+विधानसभा कैफे एंड रेस्टोरेंट खेजरोली,cafe,Rajasthan,,,,,27.3315189,75.7014598,OpenStreetMap,node,12600634533,2026-11-26T07:29:17.184967+00:00
+jain fast food corner,restaurant,Rajasthan,,,,,25.6166802,74.9209003,OpenStreetMap,node,12600808849,2026-11-26T07:29:17.184977+00:00
+malwa misthan bhandar,fast_food,Rajasthan,,,,,25.621708,74.924323,OpenStreetMap,node,12602385060,2026-11-26T07:29:17.184987+00:00
+jodhpur misthan bhandar,fast_food,Rajasthan,,,,,25.6217333,74.9245173,OpenStreetMap,node,12602399023,2026-11-26T07:29:17.185009+00:00
+sonu pizza,restaurant,Rajasthan,,,,,25.612029,74.9120109,OpenStreetMap,node,12602399032,2026-11-26T07:29:17.185021+00:00
+Indira Rasoi Yojana,restaurant,Rajasthan,,,,,27.3408699,75.6971836,OpenStreetMap,node,12603887337,2026-11-26T07:29:17.185031+00:00
+आई ढाणी होटल एंड रेस्टोरेंट,restaurant,Rajasthan,,,,,27.3261289,75.7059866,OpenStreetMap,node,12603944707,2026-11-26T07:29:17.185041+00:00
+Govind Restro,restaurant,Rajasthan,,,,,27.6276555,75.1581099,OpenStreetMap,node,12615744167,2026-11-26T07:29:17.185051+00:00
+Sambhali Cafe & Boutique,cafe,Rajasthan,,,Holi Chowk,,26.2952069,73.0195262,OpenStreetMap,node,12625084901,2026-11-26T07:29:17.185062+00:00
+Prakriti Cafe by Ecolivinghomes,restaurant,Rajasthan,,,,,26.4841714,74.5616195,OpenStreetMap,node,12635790201,2026-11-26T07:29:17.185072+00:00
+Street food,restaurant,Rajasthan,,,,,24.5853498,73.6862331,OpenStreetMap,node,12643344701,2026-11-26T07:29:17.185083+00:00
+Tharka Restauratnt,restaurant,Rajasthan,,,,,26.9541328,75.7464672,OpenStreetMap,node,12669189229,2026-11-26T07:29:17.185093+00:00
+The Cove,cafe,Rajasthan,Rajasthan,Alwar,"Plot No.5 Chetan Enclave Near Gardenia Nursery, 301001",8239494335,27.5470556,76.593507,OpenStreetMap,node,12688036659,2026-11-26T07:29:17.185104+00:00
+Retreat,restaurant,Rajasthan,,Jaipur,,,26.9154952,75.8064548,OpenStreetMap,node,12734119470,2026-11-26T07:29:17.185115+00:00
+Food Ministry,restaurant,Rajasthan,,,,,28.3647256,75.5881567,OpenStreetMap,node,12805871942,2026-11-26T07:29:17.185126+00:00
+TOTT,cafe,Rajasthan,,,,,28.3612277,75.5854879,OpenStreetMap,node,12900449276,2026-11-26T07:29:17.185136+00:00
+Da Cloud Cafe,fast_food,Rajasthan,,,,,28.3615889,75.585838,OpenStreetMap,node,12900449277,2026-11-26T07:29:17.185147+00:00
+Da Cloud Cafe,fast_food,Rajasthan,,,,,28.36195,75.5888709,OpenStreetMap,node,12900449278,2026-11-26T07:29:17.185158+00:00
+Tree House Cafe & Restro,fast_food,Rajasthan,Pali,Sumerpur,"380 Arya Samaj Circle, Jawai Bandh Road, 306902",,25.1481234,73.0843437,OpenStreetMap,node,12901736052,2026-11-26T07:29:17.185169+00:00
+Mehfil e Chaii,cafe,Rajasthan,Jaipur district,Jaipur,"Shop No. 3, Maharana Pratap Marg, 302034",+91 8905950450,26.9096345,75.7180126,OpenStreetMap,node,12927047438,2026-11-26T07:29:17.185181+00:00
+Tapri,cafe,Rajasthan,,,,,26.4725791,73.1134014,OpenStreetMap,node,12979183124,2026-11-26T07:29:17.185192+00:00
+Shamiyana,fast_food,Rajasthan,,,,,26.4767383,73.1141839,OpenStreetMap,node,12979197535,2026-11-26T07:29:17.185206+00:00
+New Mess,fast_food,Rajasthan,,,,,26.3614089,73.0557844,OpenStreetMap,node,13072371241,2026-11-26T07:29:17.185224+00:00
+Main Cafeteria,cafe,Rajasthan,,,,,27.8011619,75.035188,OpenStreetMap,node,13103586877,2026-11-26T07:29:17.185235+00:00
+thadi,fast_food,Rajasthan,Jaipur,Jaipur,"amma ki thadi mnit jaipur, mnit back gate road, 302017",,26.8588867,75.8154322,OpenStreetMap,node,13120379386,2026-11-26T07:29:17.185248+00:00
+The Bake Affair,cafe,Rajasthan,"Udaipur, Rajasthan",Udaipur,"The Bake Affair Cafe, 101 Akruti Complex, 313001",+91 95097 50055,24.6028258,73.6881112,OpenStreetMap,node,13123587126,2026-11-26T07:29:17.185260+00:00
+Alchemist Coffee Company | Ajmer,cafe,Rajasthan,Ajmer,Ajmer,"Circular Road, Ajmer Bypass Highway, 305001",+91 88268 29280,26.4676672,74.6482419,OpenStreetMap,node,13141516186,2026-11-26T07:29:17.185272+00:00
+Lv coffee & cafe,cafe,Rajasthan,kota,kota,ahinsha circle,,25.1299414,75.8280518,OpenStreetMap,node,13168080938,2026-11-26T07:29:17.185284+00:00
+Garh rooftop cafe and restaurant,restaurant,Rajasthan,,,302028,+91 96808 09922,26.9859918,75.8543102,OpenStreetMap,node,13201142301,2026-11-26T07:29:17.185295+00:00
+Mango Masala Restaurant,restaurant,Rajasthan,,,"Kutchery Road India Motor Circle, 305001",094131 00323,26.4652198,74.6390455,OpenStreetMap,node,13257008409,2026-11-26T07:29:17.185307+00:00
+La Manjaare Café,cafe,Rajasthan,,,"Chir Ghat, 305022",095490 66204,26.4889401,74.5533149,OpenStreetMap,node,13257013001,2026-11-26T07:29:17.185319+00:00
+Pandit Restaurant,restaurant,Rajasthan,,,,,26.4666467,74.6311855,OpenStreetMap,node,13274034419,2026-11-26T07:29:17.185330+00:00
+Spicy King,restaurant,Rajasthan,,,,,26.947482,75.7976766,OpenStreetMap,node,13275317106,2026-11-26T07:29:17.185341+00:00
+Backyard Cafe,cafe,Rajasthan,,,313001,+918003182320,24.5824346,73.6810637,OpenStreetMap,node,13284476001,2026-11-26T07:29:17.185354+00:00
+Tatya Cafe & Restaurant,restaurant,Rajasthan,,,,,24.5803722,73.6799955,OpenStreetMap,node,13287207101,2026-11-26T07:29:17.185365+00:00
+The Coffee Shop,cafe,Rajasthan,,,,,26.2970779,73.0218928,OpenStreetMap,node,13290652601,2026-11-26T07:29:17.185376+00:00
+Kha'Ba bar and kitchen,restaurant,Rajasthan,,,"D 219-A, Bhaskar Marg, 302016",,26.9319385,75.7886818,OpenStreetMap,node,13296710002,2026-11-26T07:29:17.185387+00:00
+Namaste Cafe,restaurant,Rajasthan,,,,,26.2967777,73.0220589,OpenStreetMap,node,13296897601,2026-11-26T07:29:17.185399+00:00
+Bundi Coffee Comfort,cafe,Rajasthan,,,Sadar Bazaar,,25.4454949,75.6377826,OpenStreetMap,node,13305664901,2026-11-26T07:29:17.185410+00:00
+The Akky South Indian,restaurant,Rajasthan,,,,,26.9245268,75.8158137,OpenStreetMap,node,13335517501,2026-11-26T07:29:17.185420+00:00
+Rajmahal Restaurant,restaurant,Rajasthan,,,,,26.9210603,75.7972789,OpenStreetMap,node,13335517601,2026-11-26T07:29:17.185431+00:00
+Kool Korner Kaffe,restaurant,Rajasthan,,,,,24.5810451,73.6802816,OpenStreetMap,node,13353874323,2026-11-26T07:29:17.185443+00:00
+Jain Chai,cafe,Rajasthan,Jodhpur,Jodhpur,"DPS Circle, Pal Bypass road, 342008",,26.2267125,72.9610522,OpenStreetMap,node,13371401576,2026-11-26T07:29:17.185455+00:00
+Banana Leaf,restaurant,Rajasthan,,,,,26.9086334,75.8094777,OpenStreetMap,node,13374238601,2026-11-26T07:29:17.185466+00:00
+Foffee,cafe,Rajasthan,,,,,26.9352447,75.8241841,OpenStreetMap,node,13378344903,2026-11-26T07:29:17.185477+00:00
+Hotel Sukh Sagar Restaurant,restaurant,Rajasthan,,,,+91 95713 39333; +91 96948 80181,26.2723202,73.037164,OpenStreetMap,node,13410192284,2026-11-26T07:29:17.185488+00:00
+Gouri Family Restaurant,restaurant,Rajasthan,,,,+91 93523 48937,26.8665346,72.0527761,OpenStreetMap,node,13412899612,2026-11-26T07:29:17.185499+00:00
+Hotel Prince And Restaurant,restaurant,Rajasthan,,,,+91 94141 49105; +91 99282 73030,26.9165483,70.9084417,OpenStreetMap,node,13415130823,2026-11-26T07:29:17.185510+00:00
+Shri Ramdev Restaurant,restaurant,Rajasthan,,,,+91 99293 74758; +91 96367 77383,26.9470362,71.897869,OpenStreetMap,node,13417596149,2026-11-26T07:29:17.185521+00:00
+Mahadev Khana Khajana,fast_food,Rajasthan,,,,,26.295614,73.0236547,OpenStreetMap,node,13418009697,2026-11-26T07:29:17.185531+00:00
+Shivaay Food Court,fast_food,Rajasthan,,,,966057548,28.0126647,73.3233101,OpenStreetMap,node,13418621532,2026-11-26T07:29:17.185542+00:00
+Noir Cafe,cafe,Rajasthan,,,,,26.9147551,75.8125212,OpenStreetMap,node,13420769375,2026-11-26T07:29:17.185553+00:00
+Curious Life Coffee Roasters: RED,cafe,Rajasthan,,,,+91 141 403 2456,26.9093594,75.8086807,OpenStreetMap,node,13423773617,2026-11-26T07:29:17.185563+00:00
+Blue Bird Café & Restaurant,restaurant,Rajasthan,,,,+916376472824,26.2970769,73.021914,OpenStreetMap,node,13423866653,2026-11-26T07:29:17.185574+00:00
+Jaipur Adda,restaurant,Rajasthan,,,,,26.9211837,75.7948487,OpenStreetMap,node,13423971793,2026-11-26T07:29:17.185584+00:00
+JIET Canteen,fast_food,Rajasthan,,,,,26.1475114,73.047443,OpenStreetMap,node,13483505550,2026-11-26T07:29:17.185595+00:00
+JIET Mess,restaurant,Rajasthan,,,,,26.1482209,73.0462672,OpenStreetMap,node,13483505553,2026-11-26T07:29:17.185606+00:00
+Budh Redi,fast_food,Rajasthan,,,,,28.3611655,75.5858969,OpenStreetMap,node,13505914351,2026-11-26T07:29:17.185616+00:00
+Gandhi Redi by Ratan Ji,fast_food,Rajasthan,,,,,28.3616815,75.5886069,OpenStreetMap,node,13505919544,2026-11-26T07:29:17.185627+00:00
+Pramod's Kitchen,restaurant,Rajasthan,,,"E-4, Ganesh Colony,  Vidya Vihar",09636261721,28.3645611,75.5909528,OpenStreetMap,node,13508061752,2026-11-26T07:29:17.185640+00:00
+Gazab Gulfi,cafe,Rajasthan,,,,9610868900,24.5736166,73.7153783,OpenStreetMap,node,13526200343,2026-11-26T07:29:17.185650+00:00
+Annapurna Restaurant,restaurant,Rajasthan,,,,,28.356037,75.591388,OpenStreetMap,node,13526789012,2026-11-26T07:29:17.185662+00:00
+Vijay Restaurant,restaurant,Rajasthan,,,,,28.3560691,75.591557,OpenStreetMap,node,13526789013,2026-11-26T07:29:17.185672+00:00
+Chaudhary Hotel & Restaurant,restaurant,Rajasthan,,,333307,,27.752456,75.4695913,OpenStreetMap,node,13564638001,2026-11-26T07:29:17.185683+00:00
+Singh Food Plaza,fast_food,Rajasthan,,,,,24.5820472,73.7214609,OpenStreetMap,node,13566189279,2026-11-26T07:29:17.185693+00:00
+Papa Veg Pizza,restaurant,Rajasthan,Nagaur,Nagaur,"Nagaur Railway Station Road, 341001",,27.200933,73.7251452,OpenStreetMap,node,13572568999,2026-11-26T07:29:17.185704+00:00
+RJ 21,restaurant,Rajasthan,Nagaur,Nagaur,"Nakas - Brahmpuri Road, 341001",,27.2001572,73.7308849,OpenStreetMap,node,13580195596,2026-11-26T07:29:17.185715+00:00
+The Momoz Hum,restaurant,Rajasthan,Nagaur,Nagaur,"Nagaur Railway Station - Pitti Hospital Road, 341001",,27.2006777,73.7253806,OpenStreetMap,node,13587194890,2026-11-26T07:29:17.185726+00:00
+Grameen Pizza,restaurant,Rajasthan,Nagaur,Nagaur,"Naya Darwaja-Sugan singh Circle road, 341001",,27.204162,73.7284435,OpenStreetMap,node,13587372459,2026-11-26T07:29:17.185737+00:00
+Mr Macchiato,restaurant,Rajasthan,,,,,26.9334687,75.7939667,OpenStreetMap,node,13602800764,2026-11-26T07:29:17.185748+00:00
+Kokum Bistro,restaurant,Rajasthan,,,,,26.9922926,75.8506609,OpenStreetMap,node,13604724101,2026-11-26T07:29:17.185758+00:00
+Once Upon at Gath,restaurant,Rajasthan,,,,,26.9375434,75.8158196,OpenStreetMap,node,13607613087,2026-11-26T07:29:17.185768+00:00
+Pandit Restaurant,restaurant,Rajasthan,,,,,26.4901701,74.5496543,OpenStreetMap,node,13609743573,2026-11-26T07:29:17.185778+00:00
+Day & Night Rooftop,restaurant,Rajasthan,,,,,26.4885724,74.5524968,OpenStreetMap,node,13612250834,2026-11-26T07:29:17.185788+00:00
+Massala King,restaurant,Rajasthan,,,,,26.489001,74.547347,OpenStreetMap,node,13612250939,2026-11-26T07:29:17.185798+00:00
+New Manta,restaurant,Rajasthan,,,,,26.4888066,74.5465926,OpenStreetMap,node,13612250940,2026-11-26T07:29:17.185808+00:00
+Panghat,restaurant,Rajasthan,,,,,26.4883644,74.5452883,OpenStreetMap,node,13612250941,2026-11-26T07:29:17.185818+00:00
+Mahal Hotel,restaurant,Rajasthan,,,,,26.4877855,74.5436204,OpenStreetMap,node,13614118321,2026-11-26T07:29:17.185829+00:00
+Sand est restaurant,restaurant,Rajasthan,,,,,26.4865399,74.5509236,OpenStreetMap,node,13614118363,2026-11-26T07:29:17.185839+00:00
+Divya Restaurant,restaurant,Rajasthan,,,,,26.4864069,74.5514484,OpenStreetMap,node,13614118364,2026-11-26T07:29:17.185849+00:00
+mamasita Café,restaurant,Rajasthan,,,,,26.4859697,74.5547372,OpenStreetMap,node,13614137119,2026-11-26T07:29:17.185858+00:00
+Sunset Café,restaurant,Rajasthan,,,,,26.4872822,74.5565163,OpenStreetMap,node,13614137132,2026-11-26T07:29:17.185869+00:00
+The Dollars Café rooftop,restaurant,Rajasthan,,,,,26.4898568,74.5557288,OpenStreetMap,node,13614190649,2026-11-26T07:29:17.185879+00:00
+Radhey JI restaurant,restaurant,Rajasthan,,,,,26.4898972,74.5559565,OpenStreetMap,node,13614190661,2026-11-26T07:29:17.185889+00:00
+Sanskar restaurant,restaurant,Rajasthan,,,,,26.4875074,74.5583649,OpenStreetMap,node,13614661725,2026-11-26T07:29:17.185900+00:00
+Chetan Prakash Namekeen Shop,fast_food,Rajasthan,Nagaur,Nagaur,"Sugan Singh Circle - Naya Darwaja Road, 341001",,27.2037241,73.723727,OpenStreetMap,node,13619767819,2026-11-26T07:29:17.185912+00:00
+Alibaba,fast_food,Rajasthan,,,,,26.2956532,73.0236097,OpenStreetMap,node,13622456085,2026-11-26T07:29:17.185923+00:00
+Sunset Café & Restaurant,restaurant,Rajasthan,,,,,26.2950141,73.0147705,OpenStreetMap,node,13630191928,2026-11-26T07:29:17.185933+00:00
+Café Auberge,restaurant,Rajasthan,,,,,26.9114545,75.789028,OpenStreetMap,node,13647677301,2026-11-26T07:29:17.185944+00:00
+R.K Hotel,restaurant,Rajasthan,Jaipur,Jaipur,"Bhatta Basti, 302016",,26.9488328,75.8059295,OpenStreetMap,node,13651411902,2026-11-26T07:29:17.185954+00:00
+Nagar Restaurant,restaurant,Rajasthan,,,,,24.5801835,73.682623,OpenStreetMap,node,13653855601,2026-11-26T07:29:17.185965+00:00
+Chaisa,cafe,Rajasthan,Jaipur,Jaipur,"Pankaj Snghvi Marg, 302015",,26.8915909,75.7993874,OpenStreetMap,node,13660701045,2026-11-26T07:29:17.185977+00:00
+Roofort,restaurant,Rajasthan,,,,,26.9127182,70.9143696,OpenStreetMap,node,13665138445,2026-11-26T07:29:17.185987+00:00
+Amrit's Restaurant,restaurant,Rajasthan,Sri Ganganagar,Sri Ganganagar,"Chak 5-E, Choti Murabba, 3, Hanumangarh Rd, Shankar Colony, 335001",07821062811,29.9008409,73.8901264,OpenStreetMap,node,13672007166,2026-11-26T07:29:17.185998+00:00
+McDonald's,fast_food,Rajasthan,Sri Ganganagar,Sri Ganganagar,"Ridhi Sidhi Enclave Rd, near HDFC Bank, Ridhi Sidhi Enclave, 335001",09560030814,29.8952718,73.8972989,OpenStreetMap,node,13672012814,2026-11-26T07:29:17.186010+00:00
+Elvina's Cuisine Hub,restaurant,Rajasthan,JAIPUR,JAIPUR,"172-A, SHRI BALAJI NAGAR-A, RAMPURA  ROAD, KALYANPURA, SANGANER, 302029",8824896715,26.8246856,75.7573729,OpenStreetMap,node,13672024783,2026-11-26T07:29:17.186022+00:00
+Govind Restaurant,restaurant,Rajasthan,Bikaner,Bikaner,"Karni Industrial Area, 334004",,28.0605184,73.2928814,OpenStreetMap,node,13675117149,2026-11-26T07:29:17.186033+00:00
+Sunder Restaurant & Mess Canteen,restaurant,Rajasthan,,,"ECB Campus Rd, Karni Industrial Area",,28.0575528,73.294183,OpenStreetMap,node,13675117150,2026-11-26T07:29:17.186044+00:00
+Boys hostel Mess,fast_food,Rajasthan,,,,,28.059697,73.2965092,OpenStreetMap,node,13675117154,2026-11-26T07:29:17.186054+00:00
+Town Coffee,restaurant,Rajasthan,,,,,26.8502125,75.8023122,OpenStreetMap,node,13704865113,2026-11-26T07:29:17.186065+00:00
+Anna Café and Restaurant,restaurant,Rajasthan,,,,,26.3017996,73.0229461,OpenStreetMap,node,13720846501,2026-11-26T07:29:17.186077+00:00
+Hotel Highway King - Shahpura,restaurant,Rajasthan,Shahpura,Shahpura,303119,,27.4869989,76.051747,OpenStreetMap,node,13741845522,2026-11-26T07:29:17.186088+00:00
+Baaluji Namkeen shop,fast_food,Rajasthan,Nagaur,Nagaur,"Near Mosque Inside of Nakash Gate, 341001",+917737747754,27.2008341,73.7313606,OpenStreetMap,node,13839116144,2026-11-26T07:29:17.186101+00:00
+Vasudev Chaat Bhandar,restaurant,Rajasthan,Nagaur,Nagaur,"Nagaur Railway Station - Pitti Hospital Flyover Road, 341001",,27.2026802,73.7236589,OpenStreetMap,node,13857770790,2026-11-26T07:29:17.186112+00:00
+Yo Yo City Cafe,restaurant,Rajasthan,Nagaur,Nagaur,"Nakas - Brahmpuri Road, 341001",,27.1971386,73.7342159,OpenStreetMap,node,13860652017,2026-11-26T07:29:17.186124+00:00
+Foodzilla Fast Food,fast_food,Rajasthan,,,,,27.2018387,73.7401831,OpenStreetMap,node,13860663265,2026-11-26T07:29:17.186134+00:00
+Ramawat Juice Center and Cafe,fast_food,Rajasthan,Nagaur,Nagaur,"Rekhawat Regency, Ahimsa Chauraha, 341001",,27.2033118,73.7267738,OpenStreetMap,node,13860682705,2026-11-26T07:29:17.186146+00:00
+Haldiram's,fast_food,Rajasthan,,,,,27.2822852,76.7718887,OpenStreetMap,node,13906067863,2026-11-26T07:29:17.186157+00:00
+KFC,fast_food,Rajasthan,,,,,26.9620664,76.5000475,OpenStreetMap,node,13906098248,2026-11-26T07:29:17.186168+00:00
+Bikanerwala,fast_food,Rajasthan,,,,,26.9622932,76.5004434,OpenStreetMap,node,13906098294,2026-11-26T07:29:17.186179+00:00
+Costa Coffee,cafe,Rajasthan,,,,,26.9619346,76.4998003,OpenStreetMap,node,13906105904,2026-11-26T07:29:17.186189+00:00
+Neem Cafe,cafe,Rajasthan,,,,,26.4660995,73.1119338,OpenStreetMap,node,13906296449,2026-11-26T07:29:17.186200+00:00
+Rolling's Pizza,cafe,Rajasthan,Banswara,Banswara,"Gali no.8, Salumbar-Banswara Road, 327001",,23.5555307,74.4415713,OpenStreetMap,node,13951989413,2026-11-26T07:29:17.186211+00:00
+Mr Jack Food Truck,fast_food,Rajasthan,Nagaur,Nagaur,"FCI Storage Road, 341001",,27.2045381,73.7219714,OpenStreetMap,node,13968236486,2026-11-26T07:29:17.186222+00:00
+DK Mahar,cafe,Rajasthan,,"GORDA,TODABHIM","156, khairhaid, 321611",7877612728,26.8428598,76.7507294,OpenStreetMap,node,14038454611,2026-11-26T07:29:17.186234+00:00
+Deepu Pani Puri,fast_food,Rajasthan,Jodhpur,Jodhpur,"Soorsagar Main Road Near Bhavya juice, 342001",,26.3069208,72.9999023,OpenStreetMap,node,14050514754,2026-11-26T07:29:17.186246+00:00
+Mahakal Tea Shop,cafe,Rajasthan,Chittorgarh,Chittorgarh,"Udaipur Road, 312001",,24.8664847,74.6141661,OpenStreetMap,node,14051021338,2026-11-26T07:29:17.186257+00:00
+Nest,cafe,Rajasthan,,,,,26.938739,75.7838425,OpenStreetMap,node,14055707026,2026-11-26T07:29:17.186268+00:00
+Cafe Coffee Day,cafe,Rajasthan,,,,,26.918498,75.8072435,OpenStreetMap,node,14055707084,2026-11-26T07:29:17.186279+00:00
+Al-Baik,fast_food,Rajasthan,,,,,26.9185204,75.8072441,OpenStreetMap,node,14055707086,2026-11-26T07:29:17.186289+00:00
+Cafe Coffee Day,cafe,Rajasthan,,,,,26.9545707,75.8420329,OpenStreetMap,node,14056287649,2026-11-26T07:29:17.186300+00:00
+KP's Restaurant,restaurant,Rajasthan,,,,,26.2972573,73.0212141,OpenStreetMap,node,14061141033,2026-11-26T07:29:17.186311+00:00
+Palki,cafe,Rajasthan,,,,,26.2994207,73.0189522,OpenStreetMap,node,14061575397,2026-11-26T07:29:17.186321+00:00
+Street Food Café,fast_food,Rajasthan,,,,,26.298193,73.0207603,OpenStreetMap,node,14061749726,2026-11-26T07:29:17.186331+00:00
+Rooftop Restaurant,restaurant,Rajasthan,,,,,26.2968709,73.0229761,OpenStreetMap,node,14062028201,2026-11-26T07:29:17.186342+00:00
+Dagley,restaurant,Rajasthan,,,,,26.2972515,73.0215795,OpenStreetMap,node,14063271450,2026-11-26T07:29:17.186352+00:00
+Blue Stay,restaurant,Rajasthan,,,,,26.2966212,73.0221054,OpenStreetMap,node,14063271451,2026-11-26T07:29:17.186383+00:00
+Fort on Plate,restaurant,Rajasthan,,,,,25.4480628,75.6366184,OpenStreetMap,node,14066542378,2026-11-26T07:29:17.186396+00:00
+Gangour,restaurant,Rajasthan,,,,,24.8864176,74.6421069,OpenStreetMap,node,14068135825,2026-11-26T07:29:17.186408+00:00
+Sanjay Misthan Bhandar,restaurant,Rajasthan,,,333307,09829517237,27.7268259,75.4755361,OpenStreetMap,node,14070422601,2026-11-26T07:29:17.186420+00:00
+Jodhpur Misthan Bhandar,restaurant,Rajasthan,,,333307,08667263897,27.7273442,75.4701189,OpenStreetMap,node,14070425101,2026-11-26T07:29:17.186431+00:00
+Shiv Shakti Misthan Bhandar,restaurant,Rajasthan,,,333307,09929930023,27.7272296,75.4704172,OpenStreetMap,node,14070438801,2026-11-26T07:29:17.186468+00:00
+Shree Radhe Krishna Bhojanalay,restaurant,Rajasthan,,,333307,07424900438,27.7267414,75.4772587,OpenStreetMap,node,14070447002,2026-11-26T07:29:17.186480+00:00
+Fast Food & Cafe,fast_food,Rajasthan,,,,09828127222,27.7293308,75.4703227,OpenStreetMap,node,14070498801,2026-11-26T07:29:17.186491+00:00
+Shree Radhe Radhe Pavitra Bhojnalaya,restaurant,Rajasthan,,,333307,09636285741,27.7262336,75.4807595,OpenStreetMap,node,14072703701,2026-11-26T07:29:17.186503+00:00
+Christ Babu Chai,fast_food,Rajasthan,,,,,25.129051,75.8276121,OpenStreetMap,node,14094439401,2026-11-26T07:29:17.186514+00:00
+Jay Bhawani Namkeen Bhandar,fast_food,Rajasthan,,,302012,09799100466,26.9755036,75.7372481,OpenStreetMap,node,14096196001,2026-11-26T07:29:17.186525+00:00
+SRASH CAFE,cafe,Rajasthan,,,302012,01414599845,26.9824941,75.7395953,OpenStreetMap,node,14096225105,2026-11-26T07:29:17.186537+00:00
+Shri Shyam Sweets,restaurant,Rajasthan,,,302012,09928534373,26.9750245,75.7376813,OpenStreetMap,node,14096255201,2026-11-26T07:29:17.186548+00:00
+Apna Desi Dera,restaurant,Rajasthan,,,332021,,27.5720907,75.1429883,OpenStreetMap,node,14096627603,2026-11-26T07:29:17.186559+00:00
+The Brew Box,cafe,Rajasthan,,,332021,,27.5725443,75.149464,OpenStreetMap,node,14096687901,2026-11-26T07:29:17.186569+00:00
+Milan Restaurant,restaurant,Rajasthan,,,333307,,27.7309435,75.4704399,OpenStreetMap,node,14109011001,2026-11-26T07:29:17.186580+00:00
+Jawahar Ji Pandya Ki Dukan,restaurant,Rajasthan,,,332001,09772058830,27.6122813,75.1456128,OpenStreetMap,node,14114557801,2026-11-26T07:29:17.186591+00:00
+Jawaharji Pandya Piprali Road Branch,restaurant,Rajasthan,,,332001,,27.6222434,75.1598011,OpenStreetMap,node,14114591401,2026-11-26T07:29:17.186602+00:00
+Sanjay Restaurant,restaurant,Rajasthan,,,332001,09414837579,27.6243703,75.1672123,OpenStreetMap,node,14114626201,2026-11-26T07:29:17.186612+00:00
+Barbeque Nation,restaurant,Rajasthan,,,,,25.1619092,75.8639231,OpenStreetMap,node,14134188829,2026-11-26T07:29:17.186623+00:00
+अरावली पिज़्ज़ा कैफे & फैमिली रेस्टोरेंट,restaurant,Rajasthan,,,333307,09602744975,27.7266363,75.4781748,OpenStreetMap,node,14159229701,2026-11-26T07:29:17.186634+00:00
+Sharma Cafe,fast_food,Rajasthan,,,,,26.964051,75.847085,OpenStreetMap,node,14159507912,2026-11-26T07:29:17.186646+00:00
+Dayaram Ji Jagadamba Restaurant,restaurant,Rajasthan,,,,,26.9873107,75.8546162,OpenStreetMap,node,14159517634,2026-11-26T07:29:17.186657+00:00
+Pink City Treat Cafe,cafe,Rajasthan,,,,,26.9192041,75.7958528,OpenStreetMap,node,14166297494,2026-11-26T07:29:17.186668+00:00
+McDonald's,fast_food,Rajasthan,,,,,26.9191598,75.797941,OpenStreetMap,node,14166297495,2026-11-26T07:29:17.186679+00:00
+Aryan Restaurant,restaurant,Rajasthan,,,,,27.3589017,75.589747,OpenStreetMap,node,14166300422,2026-11-26T07:29:17.186690+00:00
+Domino's,fast_food,Rajasthan,,,,,26.9249215,75.7934745,OpenStreetMap,node,14166310702,2026-11-26T07:29:17.186700+00:00
+Dp3 Fast Food And Bhojnalaya,restaurant,Rajasthan,,,302020,09929157001,26.8791531,75.7497164,OpenStreetMap,node,14323426501,2026-11-26T07:29:17.186711+00:00
+Shri Gopi Nath Namkeen Bhandar,fast_food,Rajasthan,,,302019,,26.8825559,75.7520843,OpenStreetMap,node,14323462601,2026-11-26T07:29:17.186722+00:00
+The Recipe,restaurant,Rajasthan,,,"58, Residency Road",+91 291 261 4100;+91 291 261 4101,26.2719964,73.008816,OpenStreetMap,node,14324911012,2026-11-26T07:29:17.186734+00:00
+Rivora Heritage,restaurant,Rajasthan,jodhpur,jodhpur,"near Royal Resort, Jodhpur Bypass, 342001",,26.2285961,72.9540336,OpenStreetMap,node,14405877500,2026-11-26T07:29:17.186747+00:00
+Veevah Marriage Palace,restaurant,Rajasthan,,,,,26.2656351,73.0344834,OpenStreetMap,way,114496031,2026-11-26T07:29:17.186758+00:00
+parking area near bus stand,cafe,Rajasthan,,,,,26.9237098,75.8012964,OpenStreetMap,way,223785883,2026-11-26T07:29:17.186770+00:00
+De-novo Restaurant,restaurant,Rajasthan,,,,,27.0303673,75.8927076,OpenStreetMap,way,237962625,2026-11-26T07:29:17.186780+00:00
+Cafe Coffee Day,cafe,Rajasthan,,jaipur,"amrapali circle, vaishali",,26.9117205,75.7440443,OpenStreetMap,way,278532982,2026-11-26T07:29:17.186792+00:00
+Nice Cafe,cafe,Rajasthan,,,,,26.9342754,75.8253565,OpenStreetMap,way,331543458,2026-11-26T07:29:17.186803+00:00
+Annapurna Canteen,restaurant,Rajasthan,,,,,26.8632407,75.8106274,OpenStreetMap,way,361514403,2026-11-26T07:29:17.186814+00:00
+Girls Canteen,fast_food,Rajasthan,,,,,28.3682261,75.5909684,OpenStreetMap,way,417268391,2026-11-26T07:29:17.186824+00:00
+Boys Canteen,fast_food,Rajasthan,,,,,28.3678315,75.5910128,OpenStreetMap,way,417268428,2026-11-26T07:29:17.186835+00:00
+Mama Restaurant rooftop,restaurant,Rajasthan,,,,,26.489442,74.5552507,OpenStreetMap,way,437300632,2026-11-26T07:29:17.186846+00:00
+सीतू चाय,cafe,Rajasthan,,,,+91 9982981298,26.3571623,76.3063657,OpenStreetMap,way,442144056,2026-11-26T07:29:17.186857+00:00
+Green Leaf Cafe,cafe,Rajasthan,,,,,26.8481857,75.7683043,OpenStreetMap,way,590565341,2026-11-26T07:29:17.186868+00:00
+Shakti Dining,restaurant,Rajasthan,,,,,28.0150337,73.3257417,OpenStreetMap,way,624173653,2026-11-26T07:29:17.186879+00:00
+Girl's Mess Hall & Canteen,restaurant,Rajasthan,,,,,26.4418018,74.6521437,OpenStreetMap,way,742040285,2026-11-26T07:29:17.186890+00:00
+RJ 14,restaurant,Rajasthan,,Jaipur,Ajmer Road,,26.8951713,75.7505953,OpenStreetMap,way,745235616,2026-11-26T07:29:17.186901+00:00
+Hide out cafe,cafe,Rajasthan,,,,,26.8472168,75.8603008,OpenStreetMap,way,758347908,2026-11-26T07:29:17.186913+00:00
+Decked Up By Garden Café,cafe,Rajasthan,,,,,26.9136135,75.7526771,OpenStreetMap,way,759592844,2026-11-26T07:29:17.186924+00:00
+Old Mess/Cant.,restaurant,Rajasthan,,,,,26.4720441,73.1169843,OpenStreetMap,way,765972769,2026-11-26T07:29:17.186935+00:00
+Aahar,restaurant,Rajasthan,,,,,24.6211402,73.8067482,OpenStreetMap,way,771677065,2026-11-26T07:29:17.186947+00:00
+Casa Manolo (Casa en Ranakpur),restaurant,Rajasthan,,Gogunda,"Rajasthan State Highway 32, 313704",,25.0223674,73.4240397,OpenStreetMap,way,777168796,2026-11-26T07:29:17.186959+00:00
+The kingel house,restaurant,Rajasthan,,,,,27.6213718,75.1569127,OpenStreetMap,way,954936216,2026-11-26T07:29:17.186970+00:00
+GUDHA KATLA RSTORENT,restaurant,Rajasthan,,,,,27.0623351,76.4775774,OpenStreetMap,way,959537111,2026-11-26T07:29:17.186981+00:00
+MARKET RESTORENT,restaurant,Rajasthan,,,,,27.0608015,76.4794238,OpenStreetMap,way,959537119,2026-11-26T07:29:17.186992+00:00
+Mangalam Hotel & Restourent,restaurant,Rajasthan,,Gangapur City,322201,,26.4835566,76.7327212,OpenStreetMap,way,961096674,2026-11-26T07:29:17.187003+00:00
+BIKANARI SWITS,restaurant,Rajasthan,,,,,27.0453515,76.5739,OpenStreetMap,way,961212047,2026-11-26T07:29:17.187014+00:00
+JHALANI SWITS,restaurant,Rajasthan,,,,,27.0449063,76.574167,OpenStreetMap,way,961540882,2026-11-26T07:29:17.187032+00:00
+GULaB HALVAYI,restaurant,Rajasthan,,,,,27.0455035,76.5738149,OpenStreetMap,way,961540883,2026-11-26T07:29:17.187044+00:00
+RAJu SWITS,restaurant,Rajasthan,,BANDIKUI,,,27.0468587,76.5723156,OpenStreetMap,way,961540902,2026-11-26T07:29:17.187055+00:00
+SHARMA CAFE,cafe,Rajasthan,,BANDIKUI,,,27.0480911,76.5713959,OpenStreetMap,way,961540904,2026-11-26T07:29:17.187066+00:00
+NEW CAPECHINO,restaurant,Rajasthan,,BANDIKUI,,,27.0478609,76.5708853,OpenStreetMap,way,961540906,2026-11-26T07:29:17.187076+00:00
+mukarapura reastorant,restaurant,Rajasthan,,bandikui,,,27.0686361,76.5470105,OpenStreetMap,way,961871419,2026-11-26T07:29:17.187086+00:00
+new cafe jagatpura,cafe,Rajasthan,,,,,26.8363406,75.8271557,OpenStreetMap,way,961875192,2026-11-26T07:29:17.187096+00:00
+hanuman rastorent,restaurant,Rajasthan,,,,,26.8357356,75.82805,OpenStreetMap,way,961876114,2026-11-26T07:29:17.187106+00:00
+sheter ki thdi,cafe,Rajasthan,,jagatpura,,,26.8396295,75.8248358,OpenStreetMap,way,962291075,2026-11-26T07:29:17.187117+00:00
+INDIRA RASOI,restaurant,Rajasthan,,,,,26.8358664,75.8315161,OpenStreetMap,way,962487873,2026-11-26T07:29:17.187126+00:00
+hari kripa dhaba,restaurant,Rajasthan,,,,,25.0966807,76.5077361,OpenStreetMap,way,963344323,2026-11-26T07:29:17.187138+00:00
+jagdambe hotel,restaurant,Rajasthan,,,,,25.0968736,76.508561,OpenStreetMap,way,964015587,2026-11-26T07:29:17.187149+00:00
+jai ambe,restaurant,Rajasthan,,,,,25.0967583,76.5083672,OpenStreetMap,way,964018549,2026-11-26T07:29:17.187160+00:00
+eat and treat,cafe,Rajasthan,,,,,25.0988511,76.5117995,OpenStreetMap,way,964019152,2026-11-26T07:29:17.187170+00:00
+Mohta Ayurvihar,restaurant,Rajasthan,,,,,28.6321192,75.3939032,OpenStreetMap,way,967033167,2026-11-26T07:29:17.187181+00:00
+JODHPUR NAMKEEN,fast_food,Rajasthan,,KOTA,"SHOP 399, GUMANPURA, 324007",9828403100,25.17549,75.8448605,OpenStreetMap,way,988506036,2026-11-26T07:29:17.187193+00:00
+VYANJAN THE FAMILY CAFE & RESTAURANT,restaurant,Rajasthan,,Sawai Madhopur,322001,,25.9809512,76.3757295,OpenStreetMap,way,1052376069,2026-11-26T07:29:17.187204+00:00
+Hanza Chiken,restaurant,Rajasthan,,,,,26.2918452,73.029198,OpenStreetMap,way,1134594393,2026-11-26T07:29:17.187216+00:00
+Academic Tuck Shop,fast_food,Rajasthan,,,,,26.3639099,73.0571496,OpenStreetMap,way,1135856345,2026-11-26T07:29:17.187227+00:00
+shiv skti restuarent,restaurant,Rajasthan,,,,,26.8729268,76.6685915,OpenStreetMap,way,1180082212,2026-11-26T07:29:17.187238+00:00
+Mini Cafeteria,cafe,Rajasthan,,,,,27.8027796,75.0309401,OpenStreetMap,way,1256882100,2026-11-26T07:29:17.187248+00:00
+Mess,restaurant,Rajasthan,,,,,27.8032028,75.0313171,OpenStreetMap,way,1256885597,2026-11-26T07:29:17.187259+00:00
+venayak hotel,restaurant,Rajasthan,,,,,27.799168,75.0390353,OpenStreetMap,way,1257086810,2026-11-26T07:29:17.187270+00:00
+Cook Restaurant Sikar,restaurant,Rajasthan,Sikar,SIKAR,"piprali road NEAR PIPRALI CIRCLE, 332001",,27.6276792,75.1771303,OpenStreetMap,way,1257453752,2026-11-26T07:29:17.187281+00:00
+Fast Foods,fast_food,Rajasthan,,,,,28.117731,75.3827059,OpenStreetMap,way,1257509369,2026-11-26T07:29:17.187292+00:00
+The Royal Treat Restaurant,restaurant,Rajasthan,Sikar,SIKAR,"piprali road, 332001",,27.6268685,75.1740803,OpenStreetMap,way,1257587059,2026-11-26T07:29:17.187304+00:00
+ankit resaurant,cafe,Rajasthan,,,,,27.1607684,75.728769,OpenStreetMap,way,1258255137,2026-11-26T07:29:17.187315+00:00
+burger farm,cafe,Rajasthan,,,,,27.1798241,75.718128,OpenStreetMap,way,1258334341,2026-11-26T07:29:17.187325+00:00
+ankit restaurant,restaurant,Rajasthan,,,,,27.1709929,75.7262524,OpenStreetMap,way,1258343097,2026-11-26T07:29:17.187335+00:00
+New Mess,restaurant,Rajasthan,,,,,26.4729793,73.1174343,OpenStreetMap,way,1266941057,2026-11-26T07:29:17.187346+00:00
+Churi House,restaurant,Rajasthan,Sri Ganganagar,Ganganagar,"Shop No 12, H Block Digii, Sriganganagar, 335001",9255555843,29.9283708,73.8710066,OpenStreetMap,way,1267932943,2026-11-26T07:29:17.187357+00:00
+Food Baba,restaurant,Rajasthan,Hanumangarh,Hanumangarh,"Opposite SBI Bank, Near Aasish Cinema, 335512",+919252333331,29.6079736,74.2988764,OpenStreetMap,way,1306395451,2026-11-26T07:29:17.187369+00:00
+Cayo's Cafe & Dine,restaurant,Rajasthan,Sri Ganganagar,Ganganagar,"Jawahar Nagar, in front of Maharaja Aggarsain School, 335001",08302913443,29.9159787,73.883281,OpenStreetMap,way,1306400436,2026-11-26T07:29:17.187381+00:00
+Padao Restaurant,restaurant,Rajasthan,,,,,26.9373593,75.812114,OpenStreetMap,way,1347531059,2026-11-26T07:29:17.187392+00:00
+mateshwari 2 restaurant,restaurant,Rajasthan,,,,,24.5628503,73.7294022,OpenStreetMap,way,1360645375,2026-11-26T07:29:17.187404+00:00
+Vaishno Family Dhaba,restaurant,Rajasthan,,,,,28.1428159,76.8179785,OpenStreetMap,way,1369587078,2026-11-26T07:29:17.187415+00:00
+Food Ministry,restaurant,Rajasthan,,,,,28.3647273,75.5881561,OpenStreetMap,way,1383229108,2026-11-26T07:29:17.187426+00:00
+Sky Lab,cafe,Rajasthan,,,,,28.3635819,75.5851543,OpenStreetMap,way,1383438142,2026-11-26T07:29:17.187436+00:00
+Paradise Cafe,cafe,Rajasthan,,,,,28.3654778,75.5870188,OpenStreetMap,way,1384572521,2026-11-26T07:29:17.187447+00:00
+Looters,fast_food,Rajasthan,,Pilani,333031,+91 09309342118,28.3613742,75.5851911,OpenStreetMap,way,1384764584,2026-11-26T07:29:17.187458+00:00
+Baap of Rolls,cafe,Rajasthan,,,,,26.4768947,73.1142605,OpenStreetMap,way,1412504064,2026-11-26T07:29:17.187470+00:00
+Amritsari Kulcha,cafe,Rajasthan,,,,,26.4767864,73.1142018,OpenStreetMap,way,1412504065,2026-11-26T07:29:17.187481+00:00
+Tealogy,cafe,Rajasthan,,,,,26.4766938,73.1141807,OpenStreetMap,way,1412504066,2026-11-26T07:29:17.187491+00:00
+Domino's,cafe,Rajasthan,,,,,26.4769496,73.1141125,OpenStreetMap,way,1412504067,2026-11-26T07:29:17.187501+00:00
+Tapri,cafe,Rajasthan,,,,,26.4725538,73.1134236,OpenStreetMap,way,1412504085,2026-11-26T07:29:17.187512+00:00
+Tapri,cafe,Rajasthan,,,,,26.4803915,73.1170444,OpenStreetMap,way,1417522082,2026-11-26T07:29:17.187522+00:00
+New Tapri,cafe,Rajasthan,,,,,26.4728341,73.1147581,OpenStreetMap,way,1419313453,2026-11-26T07:29:17.187533+00:00
+Mess,fast_food,Rajasthan,,,,,26.3602779,73.0567825,OpenStreetMap,way,1422458859,2026-11-26T07:29:17.187543+00:00
+Tea House,cafe,Rajasthan,,,,,26.8739407,75.7766477,OpenStreetMap,way,1428329277,2026-11-26T07:29:17.187553+00:00
+patashi center,fast_food,Rajasthan,,,,,26.9555421,75.7712703,OpenStreetMap,way,1428331379,2026-11-26T07:29:17.187563+00:00
+IRIS Cafe,cafe,Rajasthan,Jaipur,Jaipur Municipal Corporation,"SC-38, Teh, sangarner, Narayan Vihar, Jaipur, 302020",,26.8580852,75.7257099,OpenStreetMap,way,1428334632,2026-11-26T07:29:17.187576+00:00
+Restaurant RZD,restaurant,Rajasthan,,,,,26.9064629,75.7381764,OpenStreetMap,way,1434523049,2026-11-26T07:29:17.187587+00:00
+Dining Block D3,restaurant,Rajasthan,,,,,26.4739482,73.1175298,OpenStreetMap,way,1521877038,2026-11-26T07:29:17.187597+00:00
+Dining Block D-4,restaurant,Rajasthan,,,,,26.4748794,73.1176358,OpenStreetMap,way,1521877039,2026-11-26T07:29:17.187608+00:00
+Waffcha,cafe,Rajasthan,,,,,26.4766683,73.1142761,OpenStreetMap,way,1524213392,2026-11-26T07:29:17.187618+00:00
+Prasadanam,cafe,Rajasthan,,,,,26.4768737,73.1143293,OpenStreetMap,way,1524213393,2026-11-26T07:29:17.187629+00:00
+Zorko,cafe,Rajasthan,,,,,26.4768034,73.1143129,OpenStreetMap,way,1524213394,2026-11-26T07:29:17.187639+00:00
+Patiala Chicken,cafe,Rajasthan,,,,,26.4767524,73.1142989,OpenStreetMap,way,1524213395,2026-11-26T07:29:17.187649+00:00
+Neem Cafe,cafe,Rajasthan,,,,,26.4660981,73.1119283,OpenStreetMap,way,1524214289,2026-11-26T07:29:17.187660+00:00
+Satvik,restaurant,Rajasthan,,,,,26.4784477,73.111036,OpenStreetMap,way,1525580879,2026-11-26T07:29:17.187670+00:00
+Lakshay Food Corner,restaurant,Rajasthan,Sikar,Maharaja Surajmal Nagar-I,"Indira Gandhi Bhawan Street, 332001",,27.6353872,75.167536,OpenStreetMap,way,1532203810,2026-11-26T07:29:17.187682+00:00

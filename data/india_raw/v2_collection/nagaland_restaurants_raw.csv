@@ -1,0 +1,58 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+Tashi Delek,restaurant,Nagaland,,,,,25.6701443,94.1066348,OpenStreetMap,node,2286316103,2026-11-26T08:48:53.711554+00:00
+El Marcado,cafe,Nagaland,,,"NH61, 798601",,26.3245108,94.5197017,OpenStreetMap,node,2717145892,2026-11-26T08:48:53.711574+00:00
+Yaotzu Veggie Table,restaurant,Nagaland,,,,,25.666482,94.1023167,OpenStreetMap,node,5294974221,2026-11-26T08:48:53.711580+00:00
+Lunch Stop,fast_food,Nagaland,,,,,25.9122383,93.7037563,OpenStreetMap,node,5372687424,2026-11-26T08:48:53.711585+00:00
+potbelly’s?!,fast_food,Nagaland,,,,,25.8259352,93.778769,OpenStreetMap,node,5372689821,2026-11-26T08:48:53.711588+00:00
+KFC,fast_food,Nagaland,,,,,25.6774299,94.1093866,OpenStreetMap,node,6263889940,2026-11-26T08:48:53.711592+00:00
+Dream cafe,restaurant,Nagaland,,,,,25.668023,94.1049301,OpenStreetMap,node,6404003785,2026-11-26T08:48:53.711595+00:00
+Side Wok,restaurant,Nagaland,,,,,25.6741091,94.1081131,OpenStreetMap,node,6441998987,2026-11-26T08:48:53.711598+00:00
+Raj Restaurant,cafe,Nagaland,,,,,25.6690005,94.1060035,OpenStreetMap,node,6585735955,2026-11-26T08:48:53.711601+00:00
+THE FOOD HUB,fast_food,Nagaland,,Kohima,"New Secretariat Road, 797004",,25.7058436,94.1073056,OpenStreetMap,node,6763141486,2026-11-26T08:48:53.711605+00:00
+Été Coffee Roasters,cafe,Nagaland,,,,,25.6878918,94.1108936,OpenStreetMap,node,6857218486,2026-11-26T08:48:53.711608+00:00
+Été Coffee Roasters,cafe,Nagaland,,,,,25.6706387,94.1069795,OpenStreetMap,node,6857247385,2026-11-26T08:48:53.711611+00:00
+Indian puri & biryani,restaurant,Nagaland,,,,,25.6682359,94.1053203,OpenStreetMap,node,6862020185,2026-11-26T08:48:53.711614+00:00
+Night market stalls,restaurant,Nagaland,,,,,25.6693023,94.1059639,OpenStreetMap,node,6862020285,2026-11-26T08:48:53.711617+00:00
+Bachelors Kitchen,restaurant,Nagaland,,,,,25.5799853,94.1254984,OpenStreetMap,node,6862556686,2026-11-26T08:48:53.711620+00:00
+Tase’s Table,restaurant,Nagaland,,,,,25.5812947,94.1264472,OpenStreetMap,node,6862571185,2026-11-26T08:48:53.711623+00:00
+Zhodi rice,restaurant,Nagaland,,,,,25.5806046,94.1263691,OpenStreetMap,node,6862576785,2026-11-26T08:48:53.711626+00:00
+Heaven’s Dew Cafeteria,restaurant,Nagaland,,,,,25.5799894,94.1246725,OpenStreetMap,node,6862593485,2026-11-26T08:48:53.711628+00:00
+Raj Nandini Family Restaurant,restaurant,Nagaland,,,,,25.9074049,93.7305275,OpenStreetMap,node,6875443985,2026-11-26T08:48:53.711631+00:00
+Hotel Sher-e-Punjab,restaurant,Nagaland,,,,,25.9076068,93.7290017,OpenStreetMap,node,6875851187,2026-11-26T08:48:53.711634+00:00
+Sharma restaurant Indian sweets,restaurant,Nagaland,,,,,25.9069648,93.7312414,OpenStreetMap,node,6876572685,2026-11-26T08:48:53.711637+00:00
+Indian puri restaurant,restaurant,Nagaland,,,,,25.9094822,93.7294983,OpenStreetMap,node,6876580085,2026-11-26T08:48:53.711641+00:00
+Nagaland Coffee Shop,cafe,Nagaland,,,,,25.9106535,93.7203074,OpenStreetMap,node,6876699685,2026-11-26T08:48:53.711644+00:00
+Cafe 09,cafe,Nagaland,,,,,25.9075233,93.7277783,OpenStreetMap,node,6876703585,2026-11-26T08:48:53.711646+00:00
+The Garden,cafe,Nagaland,,,,,25.9061852,93.7357819,OpenStreetMap,node,6876707585,2026-11-26T08:48:53.711649+00:00
+Indian puri restaurant,restaurant,Nagaland,,,,,25.9087968,93.7252308,OpenStreetMap,node,6876824185,2026-11-26T08:48:53.711652+00:00
+Indian Railway Food Track,restaurant,Nagaland,,,,,25.9073327,93.728666,OpenStreetMap,node,6876899185,2026-11-26T08:48:53.711655+00:00
+Oppa Gimbap,restaurant,Nagaland,,,,,25.6567041,94.099169,OpenStreetMap,node,7150908485,2026-11-26T08:48:53.711658+00:00
+Mhachaki,restaurant,Nagaland,,,NH 29,+91 9862831386,25.6777921,94.0828824,OpenStreetMap,node,7344991586,2026-11-26T08:48:53.711661+00:00
+Ozone Cafe,cafe,Nagaland,,,,,25.6737759,94.1086778,OpenStreetMap,node,7822122349,2026-11-26T08:48:53.711664+00:00
+Korean Uncle's Cafe,restaurant,Nagaland,,,,,25.8599417,93.7682393,OpenStreetMap,node,8012398278,2026-11-26T08:48:53.711667+00:00
+US Pizza,restaurant,Nagaland,,,,,25.6566344,94.0954487,OpenStreetMap,node,8123636576,2026-11-26T08:48:53.711670+00:00
+Big Bite,restaurant,Nagaland,,,,,25.6567894,94.0958999,OpenStreetMap,node,8133432499,2026-11-26T08:48:53.711673+00:00
+Amaris,restaurant,Nagaland,,,,,25.6570189,94.0961004,OpenStreetMap,node,8460380744,2026-11-26T08:48:53.711676+00:00
+Kinderd,restaurant,Nagaland,,,,,25.6570189,94.0960677,OpenStreetMap,node,8460380745,2026-11-26T08:48:53.711678+00:00
+D Cafe,cafe,Nagaland,,,,,25.6573557,94.0963339,OpenStreetMap,node,8460380746,2026-11-26T08:48:53.711681+00:00
+Symphony cafe,restaurant,Nagaland,,,,,25.6685577,94.1056134,OpenStreetMap,node,8460435808,2026-11-26T08:48:53.711684+00:00
+Opera Cafe,cafe,Nagaland,,,,,25.6715559,94.1071774,OpenStreetMap,node,10248458801,2026-11-26T08:48:53.711686+00:00
+Sharma restaurant,restaurant,Nagaland,,,,,25.9100177,93.7295543,OpenStreetMap,node,10261965431,2026-11-26T08:48:53.711689+00:00
+Glutton,cafe,Nagaland,,,,,25.678041,94.1092986,OpenStreetMap,node,11128996251,2026-11-26T08:48:53.711692+00:00
+Iko Cafe,cafe,Nagaland,,,,,25.6782755,94.1094354,OpenStreetMap,node,11128996252,2026-11-26T08:48:53.711695+00:00
+Aurora Cafe,cafe,Nagaland,,,,,25.6738843,94.1087777,OpenStreetMap,node,11128996797,2026-11-26T08:48:53.711698+00:00
+Kitsa Cafe,cafe,Nagaland,,,,,25.7275171,94.0975593,OpenStreetMap,node,11302142469,2026-11-26T08:48:53.711700+00:00
+Canteen,restaurant,Nagaland,,,,,25.7253765,94.0952978,OpenStreetMap,node,11302549869,2026-11-26T08:48:53.711703+00:00
+Deccani,restaurant,Nagaland,,,,,25.6895936,94.1087165,OpenStreetMap,node,11307447969,2026-11-26T08:48:53.711705+00:00
+The Chimney Hut,restaurant,Nagaland,,,,,25.6936628,94.1035632,OpenStreetMap,node,11314008969,2026-11-26T08:48:53.711708+00:00
+"New Champaran Restaurant, Phirema",restaurant,Nagaland,,,,,25.7788052,93.9253168,OpenStreetMap,node,11832519769,2026-11-26T08:48:53.711711+00:00
+"Maa Kali Restaurant, Pherima",restaurant,Nagaland,,,,,25.7769333,93.9220331,OpenStreetMap,node,11938621769,2026-11-26T08:48:53.711714+00:00
+Demori Cove,restaurant,Nagaland,,,,,25.6050865,94.1142133,OpenStreetMap,node,12291393909,2026-11-26T08:48:53.711716+00:00
+Sidewalk shawarma,fast_food,Nagaland,,,,,25.6673533,94.1042197,OpenStreetMap,node,13140679591,2026-11-26T08:48:53.711719+00:00
+Saha Hotel,restaurant,Nagaland,,,,,25.7726903,93.9049727,OpenStreetMap,node,13290161601,2026-11-26T08:48:53.711722+00:00
+Wonder Hill Inn,restaurant,Nagaland,,,,,25.7285714,94.0275043,OpenStreetMap,node,13299020401,2026-11-26T08:48:53.711725+00:00
+Wonder Hill Inn,restaurant,Nagaland,,,,,25.7285714,94.0275043,OpenStreetMap,node,13299066102,2026-11-26T08:48:53.711728+00:00
+Park Restaurant,restaurant,Nagaland,,,,,25.7980343,93.7999615,OpenStreetMap,node,13523682202,2026-11-26T08:48:53.711731+00:00
+Restaurant,restaurant,Nagaland,,,,,26.6353435,94.6447255,OpenStreetMap,node,13816789591,2026-11-26T08:48:53.711734+00:00
+Resta,restaurant,Nagaland,,,,,25.6695597,94.1064672,OpenStreetMap,way,945739561,2026-11-26T08:48:53.711739+00:00
+The Naga touch,restaurant,Nagaland,,,,,25.6164571,94.1131127,OpenStreetMap,way,1429488966,2026-11-26T08:48:53.711742+00:00

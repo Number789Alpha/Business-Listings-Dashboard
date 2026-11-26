@@ -1,0 +1,139 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+Bamboo Hut Restaurant,restaurant,Meghalaya,,,,,25.5725814,91.8845874,OpenStreetMap,node,2826257073,2026-11-26T07:24:31.965571+00:00
+Woodlands Dhaba,restaurant,Meghalaya,,,,,25.8972566,91.882077,OpenStreetMap,node,3178189545,2026-11-26T07:24:31.965609+00:00
+Gemi’s Indian Cuisine,restaurant,Meghalaya,,,,,25.2703418,91.7317356,OpenStreetMap,node,3701005278,2026-11-26T07:24:31.965625+00:00
+Traveller's Nest Lodge and Campsite,restaurant,Meghalaya,,Mawlongbna,,,25.2290278,91.557135,OpenStreetMap,node,4823403169,2026-11-26T07:24:31.965638+00:00
+JIVA Veg restaurant,restaurant,Meghalaya,,,,,25.9232401,91.8761088,OpenStreetMap,node,4871901162,2026-11-26T07:24:31.965651+00:00
+Rikhasi Dhabha,restaurant,Meghalaya,,,,,25.2719271,91.6902865,OpenStreetMap,node,4905465859,2026-11-26T07:24:31.965663+00:00
+Bansiewar Dhabha,restaurant,Meghalaya,,,,,25.2718785,91.6902289,OpenStreetMap,node,4905465860,2026-11-26T07:24:31.965674+00:00
+Best Teashop in Meghalaya,cafe,Meghalaya,,,,,25.282585,91.5734804,OpenStreetMap,node,5056336809,2026-11-26T07:24:31.965686+00:00
+Dylan’s Cafe,cafe,Meghalaya,,,,,25.5661662,91.894522,OpenStreetMap,node,5508980278,2026-11-26T07:24:31.965697+00:00
+Jadoh,restaurant,Meghalaya,,,,,25.5700007,91.8937153,OpenStreetMap,node,5509059327,2026-11-26T07:24:31.965708+00:00
+Victual Restaurant,restaurant,Meghalaya,,,,,25.2440952,91.7240799,OpenStreetMap,node,5525834221,2026-11-26T07:24:31.965719+00:00
+Wahlang Tea Stall,cafe,Meghalaya,,,,08575344925,25.2508309,91.6735845,OpenStreetMap,node,5525834321,2026-11-26T07:24:31.965731+00:00
+5 Brothers & 1 Sister Restaurant,restaurant,Meghalaya,,,,,25.2081342,92.0073622,OpenStreetMap,node,5540450723,2026-11-26T07:24:31.965742+00:00
+Yalam's shop,restaurant,Meghalaya,,,,,25.20747,92.007585,OpenStreetMap,node,5540465621,2026-11-26T07:24:31.965752+00:00
+Qzine Restaurant,restaurant,Meghalaya,,,,,25.5765852,91.8816794,OpenStreetMap,node,5547526721,2026-11-26T07:24:31.965762+00:00
+Hong Kong Restaurant,restaurant,Meghalaya,,,,,25.575627,91.881844,OpenStreetMap,node,5547526821,2026-11-26T07:24:31.965772+00:00
+Dhaba,restaurant,Meghalaya,,,,,25.285114,91.721521,OpenStreetMap,node,5549380230,2026-11-26T07:24:31.965782+00:00
+Hungry Care Restaurant,restaurant,Meghalaya,,,,,25.285022,91.721451,OpenStreetMap,node,5549380361,2026-11-26T07:24:31.965793+00:00
+Dukan Thoh Tim,fast_food,Meghalaya,,,,,25.5822504,91.8690067,OpenStreetMap,node,5864925491,2026-11-26T07:24:31.965803+00:00
+PFC,fast_food,Meghalaya,,,,,25.5835598,91.8693191,OpenStreetMap,node,5864950885,2026-11-26T07:24:31.965813+00:00
+Dejavu,restaurant,Meghalaya,,,,,25.5715414,91.8971889,OpenStreetMap,node,6076278885,2026-11-26T07:24:31.965824+00:00
+The City Wok,restaurant,Meghalaya,,,"Lummawrie, National Highway 44, Nongrimbah, Shillong, Meghalaya 793014",098630 63610,25.5648376,91.9009504,OpenStreetMap,node,6076278886,2026-11-26T07:24:31.965838+00:00
+Open Up Cafe,cafe,Meghalaya,,Shillong,"Dong Kseh, Marwroh, 793008",0364 254 8944,25.5949153,91.8947144,OpenStreetMap,node,6101018680,2026-11-26T07:24:31.965851+00:00
+Trattoria,restaurant,Meghalaya,,,,,25.5763805,91.8820471,OpenStreetMap,node,6204111801,2026-11-26T07:24:31.965863+00:00
+Bread Cafe,cafe,Meghalaya,,,,+918974066849,25.5757298,91.8810851,OpenStreetMap,node,6375489585,2026-11-26T07:24:31.965874+00:00
+Pratima,restaurant,Meghalaya,,,,,25.5695941,91.8975027,OpenStreetMap,node,6463741886,2026-11-26T07:24:31.965884+00:00
+Lyne's Food Corner,restaurant,Meghalaya,,,,,25.5687696,91.899252,OpenStreetMap,node,6463776185,2026-11-26T07:24:31.965894+00:00
+Wallphiri fast food,restaurant,Meghalaya,,,,,25.2746167,91.7318638,OpenStreetMap,node,6467699387,2026-11-26T07:24:31.965905+00:00
+Leenie's Place Teastall,cafe,Meghalaya,,,,8794250402,25.2506588,91.6722286,OpenStreetMap,node,6501815886,2026-11-26T07:24:31.965915+00:00
+Evahun Restaurant,restaurant,Meghalaya,,,,,25.3621387,91.8780172,OpenStreetMap,node,6760320885,2026-11-26T07:24:31.965925+00:00
+Avron Restaurant,restaurant,Meghalaya,,,,98560428-33,25.2698691,91.7323425,OpenStreetMap,node,6782820085,2026-11-26T07:24:31.965936+00:00
+famous meatball,restaurant,Meghalaya,,,,,25.4988116,91.818364,OpenStreetMap,node,6863151785,2026-11-26T07:24:31.965946+00:00
+Munchies,restaurant,Meghalaya,,,,,25.5701437,91.8943201,OpenStreetMap,node,6871101186,2026-11-26T07:24:31.965955+00:00
+Green Door,restaurant,Meghalaya,,,"Nowella Dhanketi, 793001",7005180631,25.5657239,91.8901788,OpenStreetMap,node,6905138085,2026-11-26T07:24:31.965968+00:00
+New Hope Restaurant,restaurant,Meghalaya,,,,,25.5679284,91.8837339,OpenStreetMap,node,6907972185,2026-11-26T07:24:31.965978+00:00
+Halari Restaurant,restaurant,Meghalaya,,,"Mawpun, 793108",,25.2701404,91.7324286,OpenStreetMap,node,6917957085,2026-11-26T07:24:31.965991+00:00
+Meaty Delights,restaurant,Meghalaya,,Shillong,"Mawroh, 793008",,25.595413,91.89568,OpenStreetMap,node,6959375314,2026-11-26T07:24:31.966003+00:00
+Cafe Sola,cafe,Meghalaya,,Shillong,793001,,25.5922321,91.9046421,OpenStreetMap,node,6959463413,2026-11-26T07:24:31.966014+00:00
+Merin's Restaurant,restaurant,Meghalaya,,Shillong,"St Peter & Paul Road, 793001",,25.5829094,91.889945,OpenStreetMap,node,6959481322,2026-11-26T07:24:31.966026+00:00
+City Hut Family Dhaba,restaurant,Meghalaya,,,,,25.577626,91.8849831,OpenStreetMap,node,6959952545,2026-11-26T07:24:31.966036+00:00
+KFC,fast_food,Meghalaya,,,,,25.5765205,91.8824055,OpenStreetMap,node,6959952552,2026-11-26T07:24:31.966047+00:00
+Subway,fast_food,Meghalaya,,,,,25.5763689,91.8823577,OpenStreetMap,node,6959952553,2026-11-26T07:24:31.966057+00:00
+Cafe Coffee Day,cafe,Meghalaya,,,,,25.5761956,91.8838789,OpenStreetMap,node,6959952558,2026-11-26T07:24:31.966067+00:00
+Regal Restaurant,restaurant,Meghalaya,,,,,25.5777494,91.8806947,OpenStreetMap,node,6959992044,2026-11-26T07:24:31.966077+00:00
+Open Up Cafe,cafe,Meghalaya,,,,,25.5865797,91.8772683,OpenStreetMap,node,6959992076,2026-11-26T07:24:31.966089+00:00
+Tid Bitz,restaurant,Meghalaya,,,,,25.5748622,91.8852102,OpenStreetMap,node,6975703066,2026-11-26T07:24:31.966100+00:00
+Southern Taste,restaurant,Meghalaya,,,,,25.5649157,91.9008283,OpenStreetMap,node,6975814693,2026-11-26T07:24:31.966110+00:00
+Slice of Shillong,restaurant,Meghalaya,,,,,25.5611669,91.9069616,OpenStreetMap,node,6975841821,2026-11-26T07:24:31.966121+00:00
+Neef Bistro,cafe,Meghalaya,,,,,25.560481,91.9054445,OpenStreetMap,node,6975896983,2026-11-26T07:24:31.966131+00:00
+Lighthouse Cafe,cafe,Meghalaya,,,,,25.5671026,91.9027861,OpenStreetMap,node,6975904528,2026-11-26T07:24:31.966141+00:00
+By The Way,restaurant,Meghalaya,,,,,25.5520186,91.9064459,OpenStreetMap,node,6975942521,2026-11-26T07:24:31.966151+00:00
+Gazebo restaurant & cafe,cafe,Meghalaya,,,,,25.5713101,91.8964032,OpenStreetMap,node,6991835987,2026-11-26T07:24:31.966161+00:00
+Chill Out Cafe,cafe,Meghalaya,,,,,25.609442,91.9021034,OpenStreetMap,node,6991914485,2026-11-26T07:24:31.966171+00:00
+You & I Arts Cafe,cafe,Meghalaya,,,,,25.5961224,91.89895,OpenStreetMap,node,6992007186,2026-11-26T07:24:31.966182+00:00
+Living Roof,cafe,Meghalaya,,,,,25.5723977,91.893008,OpenStreetMap,node,6992020485,2026-11-26T07:24:31.966192+00:00
+The Cottage Cafe,cafe,Meghalaya,,,,,25.5617965,91.9084678,OpenStreetMap,node,6992020486,2026-11-26T07:24:31.966202+00:00
+Swish Cafe,cafe,Meghalaya,,,,,25.5690282,91.8985935,OpenStreetMap,node,6992022285,2026-11-26T07:24:31.966212+00:00
+Bread Cafe,cafe,Meghalaya,,,,,25.5710741,91.8960707,OpenStreetMap,node,6992022287,2026-11-26T07:24:31.966222+00:00
+Kreva Burgers,restaurant,Meghalaya,,,,,25.5600568,91.9054465,OpenStreetMap,node,6992029986,2026-11-26T07:24:31.966233+00:00
+Smoky Falls Coffee,cafe,Meghalaya,,,,,25.5582184,91.903751,OpenStreetMap,node,6992032285,2026-11-26T07:24:31.966244+00:00
+ML 05 Cafe,cafe,Meghalaya,,,,,25.5458599,91.8390205,OpenStreetMap,node,6992054885,2026-11-26T07:24:31.966254+00:00
+Cafe Shillong,cafe,Meghalaya,,,,,25.5703152,91.8946515,OpenStreetMap,node,6992055585,2026-11-26T07:24:31.966264+00:00
+Mellow Mood Cafe,cafe,Meghalaya,,,,,25.5707706,91.8943481,OpenStreetMap,node,6992057285,2026-11-26T07:24:31.966275+00:00
+Smoky Falls Tribe Coffee,cafe,Meghalaya,,,,,25.5765529,91.8828399,OpenStreetMap,node,6992065785,2026-11-26T07:24:31.966285+00:00
+Tiewlily Bengali restaurant,restaurant,Meghalaya,,,,,25.1853472,92.0201391,OpenStreetMap,node,6994710100,2026-11-26T07:24:31.966295+00:00
+DAS Hotel restaurant,restaurant,Meghalaya,,,,,25.1850657,92.0200133,OpenStreetMap,node,6994713804,2026-11-26T07:24:31.966306+00:00
+LT Hotel Bengali Dish,restaurant,Meghalaya,,,,,25.1852169,92.0199103,OpenStreetMap,node,6994716187,2026-11-26T07:24:31.966317+00:00
+Baiana Hotel restaurant,restaurant,Meghalaya,,,,,25.1856099,92.0196514,OpenStreetMap,node,6994915285,2026-11-26T07:24:31.966327+00:00
+Chyn’s multicuisine,restaurant,Meghalaya,,,,,25.1852587,92.0206003,OpenStreetMap,node,6996296585,2026-11-26T07:24:31.966336+00:00
+Hadassa’s,restaurant,Meghalaya,,,,,25.2080873,92.0076533,OpenStreetMap,node,6996318985,2026-11-26T07:24:31.966347+00:00
+Local bamboo hut restaurant,restaurant,Meghalaya,,,,,25.2332375,92.0301616,OpenStreetMap,node,7003803328,2026-11-26T07:24:31.966357+00:00
+Milk tea stall,cafe,Meghalaya,,,,,25.2016231,91.9155596,OpenStreetMap,node,7007551094,2026-11-26T07:24:31.966367+00:00
+Local restaurant,restaurant,Meghalaya,,,,,25.201359,91.9158704,OpenStreetMap,node,7007617788,2026-11-26T07:24:31.966377+00:00
+Dapbiang restaurant,restaurant,Meghalaya,,,,,25.201629,91.9158885,OpenStreetMap,node,7007621985,2026-11-26T07:24:31.966386+00:00
+Local restaurant veg thali,restaurant,Meghalaya,,,,,25.2013831,91.915756,OpenStreetMap,node,7007621986,2026-11-26T07:24:31.966396+00:00
+Kiew Shaphrang,restaurant,Meghalaya,,,,,25.201544,91.9153807,OpenStreetMap,node,7007677485,2026-11-26T07:24:31.966406+00:00
+Hala Rympei,restaurant,Meghalaya,,,,,25.2024091,91.9149499,OpenStreetMap,node,7007680185,2026-11-26T07:24:31.966420+00:00
+Lamee Restaurant,restaurant,Meghalaya,,,,,25.5755535,91.8811898,OpenStreetMap,node,7008128385,2026-11-26T07:24:31.966433+00:00
+Vibggyor,restaurant,Meghalaya,,,,,25.2702609,91.7319735,OpenStreetMap,node,7010864185,2026-11-26T07:24:31.966443+00:00
+Halari,restaurant,Meghalaya,,,,,25.2701424,91.7325173,OpenStreetMap,node,7010864186,2026-11-26T07:24:31.966453+00:00
+Sohra House Cafe,cafe,Meghalaya,,,,,25.234207,91.7344786,OpenStreetMap,node,7013049985,2026-11-26T07:24:31.966463+00:00
+Nalgre restaurant,restaurant,Meghalaya,,,,,25.2859124,91.7205201,OpenStreetMap,node,7013420485,2026-11-26T07:24:31.966473+00:00
+Golden Spoon Dhaba Sohra,restaurant,Meghalaya,,,,,25.2855607,91.7208408,OpenStreetMap,node,7013420486,2026-11-26T07:24:31.966482+00:00
+Synrem Bhojanalaya,restaurant,Meghalaya,,,,,25.285752,91.7210432,OpenStreetMap,node,7013420487,2026-11-26T07:24:31.966492+00:00
+Rose Mary restaurant,restaurant,Meghalaya,,,,,25.2399233,91.6812911,OpenStreetMap,node,7016214985,2026-11-26T07:24:31.966502+00:00
+Local restaurant,restaurant,Meghalaya,,,,,25.2399797,91.6810491,OpenStreetMap,node,7016215085,2026-11-26T07:24:31.966511+00:00
+Arnes Wooden Hut,cafe,Meghalaya,,,,,25.2508108,91.6725693,OpenStreetMap,node,7016225985,2026-11-26T07:24:31.966521+00:00
+3 sister’s tea stall,cafe,Meghalaya,,,,,25.2507487,91.6717258,OpenStreetMap,node,7016273298,2026-11-26T07:24:31.966531+00:00
+Soul Cafe,cafe,Meghalaya,,,,,25.5711694,91.8898243,OpenStreetMap,node,7025530785,2026-11-26T07:24:31.966541+00:00
+The Grub,cafe,Meghalaya,,,,,25.5693194,91.898119,OpenStreetMap,node,7025782486,2026-11-26T07:24:31.966551+00:00
+Halari Restaurant,restaurant,Meghalaya,,,793108,,25.270113,91.7326955,OpenStreetMap,node,7221682485,2026-11-26T07:24:31.966562+00:00
+Hôtel rajasthan,restaurant,Meghalaya,,,,,25.4690343,92.278797,OpenStreetMap,node,7242741385,2026-11-26T07:24:31.966573+00:00
+From the Pot,cafe,Meghalaya,,,,,25.5953604,91.898887,OpenStreetMap,node,8917621806,2026-11-26T07:24:31.966583+00:00
+Food Centre,restaurant,Meghalaya,,,,,25.2989551,91.581417,OpenStreetMap,node,10296466449,2026-11-26T07:24:31.966594+00:00
+Small Eatery,restaurant,Meghalaya,,,,,25.4140035,91.9467434,OpenStreetMap,node,10570251659,2026-11-26T07:24:31.966604+00:00
+KFC,fast_food,Meghalaya,,,,,25.5868548,91.9126578,OpenStreetMap,node,11041871506,2026-11-26T07:24:31.966614+00:00
+Real China,restaurant,Meghalaya,,,,,25.5735654,91.8832285,OpenStreetMap,node,11253135499,2026-11-26T07:24:31.966625+00:00
+Bade Miya,restaurant,Meghalaya,,,,,25.5736341,91.8832214,OpenStreetMap,node,11253194648,2026-11-26T07:24:31.966634+00:00
+ML 05 Cafe,cafe,Meghalaya,,,,,25.5447582,91.8380087,OpenStreetMap,node,11350433814,2026-11-26T07:24:31.966644+00:00
+Sunset Cafe,cafe,Meghalaya,,,,,25.5661972,91.8550411,OpenStreetMap,node,11350478725,2026-11-26T07:24:31.966654+00:00
+Kibo,restaurant,Meghalaya,West Jaintia Hills,Shillong,Amlarem,,25.2858685,92.1058875,OpenStreetMap,node,11357592237,2026-11-26T07:24:31.966665+00:00
+Ahnam Chinese Restaurant,restaurant,Meghalaya,West Jaintia Hills,Shillong,Amlarem,,25.2846706,92.1057601,OpenStreetMap,node,11357592238,2026-11-26T07:24:31.966677+00:00
+Eunheilo Restaurant,restaurant,Meghalaya,West Jaintia Hills,Shillong,Amlarem,,25.2855342,92.1049508,OpenStreetMap,node,11357592239,2026-11-26T07:24:31.966687+00:00
+Dhaba,restaurant,Meghalaya,West Jaintia Hills,Shillong,Amalrem,,25.2850545,92.1040992,OpenStreetMap,node,11357592241,2026-11-26T07:24:31.966698+00:00
+Food Planet,restaurant,Meghalaya,West Jaintia Hills,Shillong,Amlarem,,25.2845302,92.1056552,OpenStreetMap,node,11357592244,2026-11-26T07:24:31.966708+00:00
+Food Park Restaurent,restaurant,Meghalaya,,,,,25.5149555,90.215179,OpenStreetMap,node,11357651006,2026-11-26T07:24:31.966718+00:00
+Darjeeling Vibes,fast_food,Meghalaya,,,,,25.5142686,90.2130565,OpenStreetMap,node,11357651007,2026-11-26T07:24:31.966728+00:00
+Biryani and Rolls,restaurant,Meghalaya,,,,,25.5144709,90.2124741,OpenStreetMap,node,11357651009,2026-11-26T07:24:31.966738+00:00
+Zest Fast Food,fast_food,Meghalaya,West Jaintia Hills,Shillong,Amlarem,,25.2871669,92.1075747,OpenStreetMap,node,11359888779,2026-11-26T07:24:31.966749+00:00
+Zafferano restro lounge,cafe,Meghalaya,,,NEIGRIHMS campus,,25.5917237,91.9377846,OpenStreetMap,node,11645442169,2026-11-26T07:24:31.966761+00:00
+Dopwai,restaurant,Meghalaya,,,,,25.5715491,91.8966965,OpenStreetMap,node,11747479125,2026-11-26T07:24:31.966772+00:00
+JK food corner,restaurant,Meghalaya,,,,,25.5925946,91.8829126,OpenStreetMap,node,11747505809,2026-11-26T07:24:31.966782+00:00
+Niba & Riba,restaurant,Meghalaya,,,,,25.4178739,91.7858201,OpenStreetMap,node,11752784072,2026-11-26T07:24:31.966792+00:00
+Biryani Fiesta,restaurant,Meghalaya,,,,,25.2861563,91.7191012,OpenStreetMap,node,11752784986,2026-11-26T07:24:31.966801+00:00
+Bri War,restaurant,Meghalaya,,,,,25.2624727,91.9489707,OpenStreetMap,node,11758216803,2026-11-26T07:24:31.966811+00:00
+The Hills,restaurant,Meghalaya,,,,,25.6469175,91.892619,OpenStreetMap,node,11758223779,2026-11-26T07:24:31.966821+00:00
+Four plus two,restaurant,Meghalaya,,,,,25.3890609,91.870843,OpenStreetMap,node,11758299446,2026-11-26T07:24:31.966831+00:00
+Pari's & Papaya,restaurant,Meghalaya,,,,,25.2529454,91.9491068,OpenStreetMap,node,11758299447,2026-11-26T07:24:31.966840+00:00
+APR,restaurant,Meghalaya,,,,,25.2619387,91.9495056,OpenStreetMap,node,11758299448,2026-11-26T07:24:31.966850+00:00
+M. L. Restaurant,restaurant,Meghalaya,,,,,25.5163113,90.2199712,OpenStreetMap,node,11804475498,2026-11-26T07:24:31.966859+00:00
+Attampang Fast Food,fast_food,Meghalaya,,,,,25.5162991,90.2199321,OpenStreetMap,node,11934315133,2026-11-26T07:24:31.966869+00:00
+Endor Bakery and Cafe,cafe,Meghalaya,,,,,25.3872172,91.5824257,OpenStreetMap,node,12450442918,2026-11-26T07:24:31.966879+00:00
+Peit Them,restaurant,Meghalaya,,,,,25.2515615,91.9557641,OpenStreetMap,node,12461978700,2026-11-26T07:24:31.966889+00:00
+Iew Sohra,restaurant,Meghalaya,,,,,25.2849481,91.7215797,OpenStreetMap,node,12462536482,2026-11-26T07:24:31.966899+00:00
+Aicylian Tariang Raindrop Restaurant,restaurant,Meghalaya,,,,,25.2849621,91.7215688,OpenStreetMap,node,12462561139,2026-11-26T07:24:31.966908+00:00
+Baking Leaven,cafe,Meghalaya,,,,,25.5704786,91.8944137,OpenStreetMap,node,12465338153,2026-11-26T07:24:31.966918+00:00
+Olivia's Kitchen,cafe,Meghalaya,East Khasi Hills,Shillong,"Nongkynrih, Laitumkhrah, 793003",,25.5694431,91.8980529,OpenStreetMap,node,12992955615,2026-11-26T07:24:31.966929+00:00
+Volga's Kitchen,restaurant,Meghalaya,EAST KHASI HILLS,SHILLONG,"Rynjah Main Rd., Rynjah, 793006",08837452577,25.5706435,91.9120638,OpenStreetMap,node,14050910538,2026-11-26T07:24:31.966941+00:00
+Kim Pou Restaurant,restaurant,Meghalaya,,,,,25.5758525,91.8814653,OpenStreetMap,node,14261942635,2026-11-26T07:24:31.966951+00:00
+Appa's Thali & Natz,restaurant,Meghalaya,,,,,25.5711492,91.8974635,OpenStreetMap,way,275869242,2026-11-26T07:24:31.966964+00:00
+Sweet Day,restaurant,Meghalaya,,Shillong,"Saiden, NH40, 793102",,25.8824678,91.8828106,OpenStreetMap,way,492500069,2026-11-26T07:24:31.966977+00:00
+Cafe Lakeside,restaurant,Meghalaya,,,,,25.5747253,91.8867256,OpenStreetMap,way,683716439,2026-11-26T07:24:31.966988+00:00
+Rit Mawksir,restaurant,Meghalaya,,,,,25.2855336,91.5750946,OpenStreetMap,way,949677655,2026-11-26T07:24:31.966998+00:00
+Sincera Restaurant,restaurant,Meghalaya,,Mawsynram,793113,,25.3042836,91.5851897,OpenStreetMap,way,949702845,2026-11-26T07:24:31.967009+00:00
+The Wok,restaurant,Meghalaya,,,,,25.5669275,91.9000318,OpenStreetMap,way,1172691219,2026-11-26T07:24:31.967020+00:00
+swish cafe,cafe,Meghalaya,,,,,25.569065,91.8985929,OpenStreetMap,way,1334978775,2026-11-26T07:24:31.967030+00:00
+Dejavu,restaurant,Meghalaya,,,,,25.5715321,91.8971667,OpenStreetMap,way,1334978793,2026-11-26T07:24:31.967040+00:00
+Bread cafe,cafe,Meghalaya,,,,,25.5710995,91.8961494,OpenStreetMap,way,1334978794,2026-11-26T07:24:31.967050+00:00

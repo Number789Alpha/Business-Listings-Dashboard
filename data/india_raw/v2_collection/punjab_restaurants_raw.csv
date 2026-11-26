@@ -1,0 +1,556 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+Ansal Plaza;Basant,restaurant,Punjab,,,,,30.8974153,75.820184,OpenStreetMap,node,171313618,2026-11-26T07:27:17.548433+00:00
+Day Scholar Canteen,cafe,Punjab,,,,,30.8610966,75.86271,OpenStreetMap,node,182006924,2026-11-26T07:27:17.548470+00:00
+Malout,restaurant,Punjab,,malout,"134, sky mall, 152107",+91 78440 81081,30.1902559,74.5001207,OpenStreetMap,node,245769586,2026-11-26T07:27:17.548488+00:00
+Bikaner Misthan Bhandhar,cafe,Punjab,,,,,30.8606322,75.8592181,OpenStreetMap,node,248517712,2026-11-26T07:27:17.548501+00:00
+Verka Milk Bar,fast_food,Punjab,,,,,30.2898333,75.8337204,OpenStreetMap,node,307442482,2026-11-26T07:27:17.548513+00:00
+Sodi Non-veg Dhaba,restaurant,Punjab,,,,,30.6998409,75.8477565,OpenStreetMap,node,307442907,2026-11-26T07:27:17.548524+00:00
+Holiday Home,restaurant,Punjab,,,,,30.2128179,74.9403567,OpenStreetMap,node,401438493,2026-11-26T07:27:17.548536+00:00
+McDonald's,fast_food,Punjab,,,,,30.550006,76.4868812,OpenStreetMap,node,406319776,2026-11-26T07:27:17.548548+00:00
+Bhatia Sweet Shop & Fast Food,fast_food,Punjab,,,,,30.7693916,76.7922462,OpenStreetMap,node,441044143,2026-11-26T07:27:17.548559+00:00
+Floating Restaurant,restaurant,Punjab,,,,,30.6380234,76.3347909,OpenStreetMap,node,444523288,2026-11-26T07:27:17.548571+00:00
+Haveli,restaurant,Punjab,,,,,31.2779076,75.6765536,OpenStreetMap,node,477141659,2026-11-26T07:27:17.548582+00:00
+Singla Resort,restaurant,Punjab,,,,,31.1686677,75.7734306,OpenStreetMap,node,477141681,2026-11-26T07:27:17.548593+00:00
+Guru Nanak Dhaba,restaurant,Punjab,,,,,31.0507882,75.7820595,OpenStreetMap,node,477141689,2026-11-26T07:27:17.548603+00:00
+Baba Chiken,fast_food,Punjab,,,,,30.8897197,75.8306755,OpenStreetMap,node,477193669,2026-11-26T07:27:17.548613+00:00
+Mehfil,restaurant,Punjab,,,,,30.8960338,75.8374541,OpenStreetMap,node,477193670,2026-11-26T07:27:17.548623+00:00
+Sanjhi Hawali,restaurant,Punjab,,,,,30.6019023,74.2254591,OpenStreetMap,node,787709214,2026-11-26T07:27:17.548633+00:00
+Goyal Bakery,fast_food,Punjab,,,,,30.3783124,75.5478687,OpenStreetMap,node,802007036,2026-11-26T07:27:17.548642+00:00
+Hot Spicy Dhaba,fast_food,Punjab,,,,,30.875037,75.8792076,OpenStreetMap,node,919393110,2026-11-26T07:27:17.548653+00:00
+Heaven Resorts,restaurant,Punjab,,,,,30.8746677,75.8699301,OpenStreetMap,node,919438492,2026-11-26T07:27:17.548663+00:00
+Mehfil Restaurant,restaurant,Punjab,,,,,30.3749836,75.537699,OpenStreetMap,node,919729540,2026-11-26T07:27:17.548673+00:00
+Singla Marriage Palace,restaurant,Punjab,,,,,30.3745073,75.5252474,OpenStreetMap,node,919729565,2026-11-26T07:27:17.548683+00:00
+Singla Sweets,fast_food,Punjab,,,,,30.3717311,75.5498612,OpenStreetMap,node,924180607,2026-11-26T07:27:17.548694+00:00
+Singh Fast Food & Confectionary,fast_food,Punjab,,,,,30.8719009,75.8798637,OpenStreetMap,node,932056247,2026-11-26T07:27:17.548704+00:00
+Khalsa Sweet Shop,fast_food,Punjab,,,,,30.8656649,75.8673719,OpenStreetMap,node,947964492,2026-11-26T07:27:17.548714+00:00
+Dhingra Sweet Shop,fast_food,Punjab,,,,,30.8750825,75.844883,OpenStreetMap,node,949915254,2026-11-26T07:27:17.548725+00:00
+Basant Restaurant,restaurant,Punjab,,,,,30.8738668,75.8425627,OpenStreetMap,node,949920176,2026-11-26T07:27:17.548735+00:00
+Domino's Pizza Hut,fast_food,Punjab,,,,,30.8739405,75.8424259,OpenStreetMap,node,949920179,2026-11-26T07:27:17.548746+00:00
+McDonald's,fast_food,Punjab,,,,,31.8329667,75.656091,OpenStreetMap,node,971638843,2026-11-26T07:27:17.548756+00:00
+Pakora Junction,cafe,Punjab,,,,,30.7775118,75.854766,OpenStreetMap,node,1127323043,2026-11-26T07:27:17.548768+00:00
+Midway,cafe,Punjab,,,,,31.3679632,75.4114094,OpenStreetMap,node,1160833253,2026-11-26T07:27:17.548778+00:00
+Taj,restaurant,Punjab,,,,,31.3849282,75.3818398,OpenStreetMap,node,1160843947,2026-11-26T07:27:17.548788+00:00
+Hot Mix Plant,cafe,Punjab,,,,,30.7989853,75.934227,OpenStreetMap,node,1185353023,2026-11-26T07:27:17.548798+00:00
+Shawa Shawa Dhaba,restaurant,Punjab,,,,,31.6167324,74.690317,OpenStreetMap,node,1236657821,2026-11-26T07:27:17.548809+00:00
+Khana Khzana,restaurant,Punjab,,,,,30.4037498,74.0218014,OpenStreetMap,node,1246745877,2026-11-26T07:27:17.548819+00:00
+Kale Da Dhaba,fast_food,Punjab,,,,,30.4225139,74.0449851,OpenStreetMap,node,1248181605,2026-11-26T07:27:17.548830+00:00
+Des Samosa,fast_food,Punjab,,,,,30.4031794,74.0252306,OpenStreetMap,node,1248397637,2026-11-26T07:27:17.548839+00:00
+Badri Gol Gape,fast_food,Punjab,,,,,30.4022666,74.0276859,OpenStreetMap,node,1248397638,2026-11-26T07:27:17.548849+00:00
+Bansi Pakora,fast_food,Punjab,,,,,30.4051821,74.0251378,OpenStreetMap,node,1248397640,2026-11-26T07:27:17.548858+00:00
+PakPatnia Di Hatti,fast_food,Punjab,,,,,30.4057597,74.0259117,OpenStreetMap,node,1248397641,2026-11-26T07:27:17.548868+00:00
+Haveli,restaurant,Punjab,,,,,30.8556263,75.7001341,OpenStreetMap,node,1323317769,2026-11-26T07:27:17.548878+00:00
+Chawla's Chicken Treat,restaurant,Punjab,,,,,30.3386465,76.3815716,OpenStreetMap,node,1330738634,2026-11-26T07:27:17.548889+00:00
+Jay Bee Resorts(J.B.Resorts),restaurant,Punjab,,,,,30.9260933,74.6131518,OpenStreetMap,node,1335880717,2026-11-26T07:27:17.548900+00:00
+Shere Punjab Dhaba,restaurant,Punjab,,,,,30.9260954,74.6137551,OpenStreetMap,node,1335886707,2026-11-26T07:27:17.548909+00:00
+Lotan Fish Corner,fast_food,Punjab,,,,,30.9250121,74.6151245,OpenStreetMap,node,1335911492,2026-11-26T07:27:17.548919+00:00
+Sharma Juice Corner,cafe,Punjab,,,,,30.9259619,74.6151151,OpenStreetMap,node,1335911503,2026-11-26T07:27:17.548929+00:00
+Harish Vegetarian,restaurant,Punjab,,,,,30.9519298,74.6129793,OpenStreetMap,node,1335996472,2026-11-26T07:27:17.548940+00:00
+Harish Dhaba,restaurant,Punjab,,,,,30.9406857,74.6168276,OpenStreetMap,node,1336036528,2026-11-26T07:27:17.548950+00:00
+Aman Dosa(Adda Lal kurti),fast_food,Punjab,,,,,30.9220804,74.6178716,OpenStreetMap,node,1344408207,2026-11-26T07:27:17.548960+00:00
+Kamal cafe,cafe,Punjab,,,,,30.9233245,74.6185451,OpenStreetMap,node,1344682750,2026-11-26T07:27:17.548970+00:00
+Rawalpindi Vaishno Dhaba,restaurant,Punjab,,,,,30.9292303,74.6212807,OpenStreetMap,node,1344723458,2026-11-26T07:27:17.548980+00:00
+Madaan Sweets,fast_food,Punjab,,,,,30.9295521,74.6217454,OpenStreetMap,node,1344993180,2026-11-26T07:27:17.548990+00:00
+Kumar Vaishno Dhaba,restaurant,Punjab,,,,,30.9292718,74.6228837,OpenStreetMap,node,1344993190,2026-11-26T07:27:17.549000+00:00
+Dhaba BTW,restaurant,Punjab,,,,,30.9394474,74.6235474,OpenStreetMap,node,1346035313,2026-11-26T07:27:17.549010+00:00
+Raamu Halwayi,fast_food,Punjab,,,,,30.9269573,74.6210723,OpenStreetMap,node,1346120865,2026-11-26T07:27:17.549020+00:00
+Mehmaan Restaurant,restaurant,Punjab,,,,,30.9274958,74.6192016,OpenStreetMap,node,1349582391,2026-11-26T07:27:17.549030+00:00
+Paachoo Golgappe wala,fast_food,Punjab,,,,,30.9270807,74.6212736,OpenStreetMap,node,1350036531,2026-11-26T07:27:17.549040+00:00
+Sharma Restaurant,restaurant,Punjab,,,,,30.9282818,74.6221186,OpenStreetMap,node,1350084431,2026-11-26T07:27:17.549050+00:00
+Sharma Sweets,fast_food,Punjab,,,,,31.3770966,75.8225587,OpenStreetMap,node,1369640245,2026-11-26T07:27:17.549060+00:00
+Nandini,restaurant,Punjab,,,,,31.28291,75.6684226,OpenStreetMap,node,1406003049,2026-11-26T07:27:17.549071+00:00
+Cabana,restaurant,Punjab,,,,,31.2502953,75.7292451,OpenStreetMap,node,1406003095,2026-11-26T07:27:17.549082+00:00
+Royal King,restaurant,Punjab,,,,,31.2731394,75.6836085,OpenStreetMap,node,1406003100,2026-11-26T07:27:17.549091+00:00
+KFC,fast_food,Punjab,,,,,31.2876892,75.6618608,OpenStreetMap,node,1406003112,2026-11-26T07:27:17.549102+00:00
+Majestic,restaurant,Punjab,,,,,31.2899253,75.6586314,OpenStreetMap,node,1406003117,2026-11-26T07:27:17.549112+00:00
+Multani Dhaba,restaurant,Punjab,,,,,30.566162,76.4581174,OpenStreetMap,node,1447314268,2026-11-26T07:27:17.549122+00:00
+Satr,restaurant,Punjab,,,,,30.4256536,76.69949,OpenStreetMap,node,1447314290,2026-11-26T07:27:17.549131+00:00
+Maan Vaishno Dhaba,restaurant,Punjab,,,,,30.5711397,76.4489723,OpenStreetMap,node,1447314307,2026-11-26T07:27:17.549143+00:00
+Kanchar,restaurant,Punjab,,,,,30.433252,76.6865168,OpenStreetMap,node,1447314336,2026-11-26T07:27:17.549153+00:00
+Gill Tourist Dhaba,restaurant,Punjab,,,,,30.5435513,76.4968859,OpenStreetMap,node,1447314341,2026-11-26T07:27:17.549163+00:00
+Fauji Dhaba,restaurant,Punjab,,,,,30.5212416,76.5347452,OpenStreetMap,node,1447314385,2026-11-26T07:27:17.549172+00:00
+Oberoi,restaurant,Punjab,,,,,30.4202798,76.7073574,OpenStreetMap,node,1447314421,2026-11-26T07:27:17.549182+00:00
+Kanwal Palce,restaurant,Punjab,,,,,30.4794629,76.6060147,OpenStreetMap,node,1447314493,2026-11-26T07:27:17.549191+00:00
+Haveli,restaurant,Punjab,,,,,30.5493415,76.4874553,OpenStreetMap,node,1447314507,2026-11-26T07:27:17.549201+00:00
+Kaka Dhaba,restaurant,Punjab,,,,,30.4935266,76.5898519,OpenStreetMap,node,1447314566,2026-11-26T07:27:17.549210+00:00
+Simran Dhaba,restaurant,Punjab,,,,,30.4935547,76.5892903,OpenStreetMap,node,1447314573,2026-11-26T07:27:17.549220+00:00
+My Village Dhaba,restaurant,Punjab,,,,,30.4730539,76.6177907,OpenStreetMap,node,1447314601,2026-11-26T07:27:17.549230+00:00
+Midway Dhaba,restaurant,Punjab,,,,,30.4774004,76.6084903,OpenStreetMap,node,1447314646,2026-11-26T07:27:17.549240+00:00
+Dhabha,restaurant,Punjab,,,,,30.2315259,75.9789338,OpenStreetMap,node,1463179401,2026-11-26T07:27:17.549250+00:00
+HYGIENIC DHABA,restaurant,Punjab,,,,,30.8938819,75.8580835,OpenStreetMap,node,1478888560,2026-11-26T07:27:17.549263+00:00
+Dhabha,fast_food,Punjab,,,,,30.1613065,75.8909042,OpenStreetMap,node,1481165384,2026-11-26T07:27:17.549274+00:00
+Dhabha,restaurant,Punjab,,,,,30.1773954,75.8819797,OpenStreetMap,node,1481166639,2026-11-26T07:27:17.549284+00:00
+Vikram Restaurant,restaurant,Punjab,,,,,30.1332647,75.8069284,OpenStreetMap,node,1490166723,2026-11-26T07:27:17.549293+00:00
+Gopal Sweets,restaurant,Punjab,,,,,30.3307848,76.3896039,OpenStreetMap,node,1491440012,2026-11-26T07:27:17.549302+00:00
+ESS PEE Confectionery,fast_food,Punjab,,,,,30.1295882,75.8015966,OpenStreetMap,node,1492164770,2026-11-26T07:27:17.549313+00:00
+Chawlas,restaurant,Punjab,,,,,30.6076238,76.392879,OpenStreetMap,node,1503951215,2026-11-26T07:27:17.549322+00:00
+Food Plaza,restaurant,Punjab,,,,,30.6426573,76.4068369,OpenStreetMap,node,1503951320,2026-11-26T07:27:17.549331+00:00
+Gopi Haveli,restaurant,Punjab,,,,,30.6435865,76.3969763,OpenStreetMap,node,1503951430,2026-11-26T07:27:17.549341+00:00
+Gyani dhaba,restaurant,Punjab,,,,,30.6047804,76.3926194,OpenStreetMap,node,1503951512,2026-11-26T07:27:17.549350+00:00
+Samosa junction,restaurant,Punjab,,,,,30.648189,76.3933847,OpenStreetMap,node,1503951781,2026-11-26T07:27:17.549361+00:00
+Sekhon Sweets and Fast Food,restaurant,Punjab,,,,,30.647755,76.3934689,OpenStreetMap,node,1503951808,2026-11-26T07:27:17.549371+00:00
+Shiv Shakti,restaurant,Punjab,,,,,30.6275248,76.3873809,OpenStreetMap,node,1503951852,2026-11-26T07:27:17.549380+00:00
+Swagat Resturant,restaurant,Punjab,,,,,30.6409861,76.3949909,OpenStreetMap,node,1503951905,2026-11-26T07:27:17.549390+00:00
+Royal Castle,restaurant,Punjab,,,,,30.297233,76.2875343,OpenStreetMap,node,1512541998,2026-11-26T07:27:17.549400+00:00
+Gopal Sweets,restaurant,Punjab,,,,,30.3355518,76.3849177,OpenStreetMap,node,1512552168,2026-11-26T07:27:17.549410+00:00
+Cafe Coffee Day,cafe,Punjab,,,,,30.3458786,76.3771499,OpenStreetMap,node,1512568472,2026-11-26T07:27:17.549421+00:00
+Corner Hotel & Restaurant,restaurant,Punjab,,,,,30.3411347,76.4009599,OpenStreetMap,node,1513999587,2026-11-26T07:27:17.549431+00:00
+Mohan Continental Hotel,restaurant,Punjab,,,,,30.3344886,76.3868783,OpenStreetMap,node,1514006571,2026-11-26T07:27:17.549441+00:00
+Hotel Jiwan Plaza,restaurant,Punjab,,,,,30.3446879,76.3784884,OpenStreetMap,node,1514012385,2026-11-26T07:27:17.549451+00:00
+Dhaba,fast_food,Punjab,,,,,30.3342379,75.5098135,OpenStreetMap,node,1536269229,2026-11-26T07:27:17.549461+00:00
+Garg Sweets,restaurant,Punjab,,,,,30.1295912,75.8070175,OpenStreetMap,node,1603491587,2026-11-26T07:27:17.549470+00:00
+Garg Confectionary,fast_food,Punjab,,,,,30.1296561,75.8066232,OpenStreetMap,node,1603492425,2026-11-26T07:27:17.549480+00:00
+Kalicharan Di Hatti,fast_food,Punjab,,,,,30.885302,75.869614,OpenStreetMap,node,1756304345,2026-11-26T07:27:17.549490+00:00
+Shukla Sweets,fast_food,Punjab,,,,,30.8867541,75.8690638,OpenStreetMap,node,1791828792,2026-11-26T07:27:17.549499+00:00
+Sharma Sweets,fast_food,Punjab,,,,,30.8865193,75.8680661,OpenStreetMap,node,1791829077,2026-11-26T07:27:17.549509+00:00
+Tea Stall,cafe,Punjab,,,,,30.8368783,76.190721,OpenStreetMap,node,1950657386,2026-11-26T07:27:17.549519+00:00
+Grewal Sweets,fast_food,Punjab,,,,,30.8381242,76.1812448,OpenStreetMap,node,1950718420,2026-11-26T07:27:17.549528+00:00
+Subway,fast_food,Punjab,,,"Civil Lines, 151001",,30.2047997,74.9499552,OpenStreetMap,node,1964571133,2026-11-26T07:27:17.549541+00:00
+B7,restaurant,Punjab,,,,,30.8709476,75.8129168,OpenStreetMap,node,1985888920,2026-11-26T07:27:17.549552+00:00
+The BrewMaster,restaurant,Punjab,,,,,30.8859418,75.7880187,OpenStreetMap,node,1985888923,2026-11-26T07:27:17.549563+00:00
+bikaner,fast_food,Punjab,,,,,30.8983953,75.8877348,OpenStreetMap,node,1987425576,2026-11-26T07:27:17.549574+00:00
+Sethi sweet shop,restaurant,Punjab,,,,,30.8983469,75.8860877,OpenStreetMap,node,1987431020,2026-11-26T07:27:17.549586+00:00
+Handi Restaurant,restaurant,Punjab,,,"Goniana Road, 151101",,30.2455634,74.9340471,OpenStreetMap,node,2018158521,2026-11-26T07:27:17.549598+00:00
+Lick n Chicken,fast_food,Punjab,,,"Goniana Road, 151101",,30.2280539,74.9369171,OpenStreetMap,node,2018170917,2026-11-26T07:27:17.549610+00:00
+Baskin Robbins,fast_food,Punjab,,,"18, 151101",,30.2303969,74.9357959,OpenStreetMap,node,2018177511,2026-11-26T07:27:17.549623+00:00
+Domino's,fast_food,Punjab,,,151101,,30.2303088,74.9354231,OpenStreetMap,node,2018180200,2026-11-26T07:27:17.549634+00:00
+Cafe Coffee Day,cafe,Punjab,,,NH64,,30.2238821,75.0637139,OpenStreetMap,node,2049676899,2026-11-26T07:27:17.549647+00:00
+KFC,fast_food,Punjab,,,NH64,,30.2228284,75.062786,OpenStreetMap,node,2049682572,2026-11-26T07:27:17.549659+00:00
+Baret,cafe,Punjab,,,"79, railway wali gali",,29.8617704,75.6916382,OpenStreetMap,node,2055747754,2026-11-26T07:27:17.549671+00:00
+McDonald's,fast_food,Punjab,,,NH64,,30.2228371,75.06323,OpenStreetMap,node,2127211252,2026-11-26T07:27:17.549704+00:00
+McDonald's,fast_food,Punjab,,,,,30.8607251,76.0289847,OpenStreetMap,node,2157858582,2026-11-26T07:27:17.549719+00:00
+Girdhari Vaishno Dhaba,restaurant,Punjab,,,,,31.1241539,76.1185864,OpenStreetMap,node,2187989160,2026-11-26T07:27:17.549730+00:00
+CCD,cafe,Punjab,,,,,31.1325799,76.1144322,OpenStreetMap,node,2187989537,2026-11-26T07:27:17.549740+00:00
+Apni Rasoi,restaurant,Punjab,,,,,30.8842026,75.8478768,OpenStreetMap,node,2196004329,2026-11-26T07:27:17.549750+00:00
+Manglam Dhaba,restaurant,Punjab,,,,,30.4610424,76.6364436,OpenStreetMap,node,2310504966,2026-11-26T07:27:17.549760+00:00
+Subway,restaurant,Punjab,,,,,30.5244252,76.6671613,OpenStreetMap,node,2310504968,2026-11-26T07:27:17.549770+00:00
+Bistro 226,restaurant,Punjab,,Ludhiana,"226, Civil Street, Ghumar mandi",,30.9054407,75.832856,OpenStreetMap,node,2328181468,2026-11-26T07:27:17.549782+00:00
+Neelam's,restaurant,Punjab,,,,,31.6214506,74.8791946,OpenStreetMap,node,2416151582,2026-11-26T07:27:17.549793+00:00
+Kool inn,restaurant,Punjab,,,,,30.7003939,76.22688,OpenStreetMap,node,2445370844,2026-11-26T07:27:17.549803+00:00
+Laziz ,restaurant,Punjab,,,"01882220085, 243485",,31.533878,75.912911,OpenStreetMap,node,2517482967,2026-11-26T07:27:17.549815+00:00
+Maharaja Palace,restaurant,Punjab,,,,,30.4244353,75.2279676,OpenStreetMap,node,2523446640,2026-11-26T07:27:17.549826+00:00
+JD Restaurant,restaurant,Punjab,,,144201,,31.5483137,75.6399642,OpenStreetMap,node,2531866716,2026-11-26T07:27:17.549839+00:00
+Haveli,restaurant,Punjab,,,,,31.2776621,75.6770295,OpenStreetMap,node,2536387224,2026-11-26T07:27:17.549850+00:00
+Bharawan Da Dhaba,restaurant,Punjab,,,,,31.6259603,74.8777736,OpenStreetMap,node,2592595795,2026-11-26T07:27:17.549860+00:00
+Bade Bhai Ka Brothers' Dhaba,restaurant,Punjab,,,,,31.6258351,74.8776194,OpenStreetMap,node,2592595796,2026-11-26T07:27:17.549871+00:00
+Café Kebab,restaurant,Punjab,,,,,31.644322,74.8766634,OpenStreetMap,node,2592595798,2026-11-26T07:27:17.549881+00:00
+Makhan Fish Corner,restaurant,Punjab,,Amritsar,"21A, Near Madaan Hospital, Majitha Road, 143001",+91-183-5170240;+91-183-5170241;+91-8151-93241;+91-98157-12741;+91-98091-23451,31.6434031,74.8843982,OpenStreetMap,node,2592595801,2026-11-26T07:27:17.549893+00:00
+McDonald's,fast_food,Punjab,,,,,31.6392098,74.8905341,OpenStreetMap,node,2592595802,2026-11-26T07:27:17.549904+00:00
+Orange,restaurant,Punjab,,Raikot,"Barnala Road, 141109",,30.6540225,75.5891465,OpenStreetMap,node,2597973168,2026-11-26T07:27:17.549915+00:00
+Billu Vaishu Dhaba,restaurant,Punjab,,Raikot,"Barnala Road, 141109",,30.6567621,75.5941593,OpenStreetMap,node,2598038913,2026-11-26T07:27:17.549926+00:00
+Harry Foods,restaurant,Punjab,,Raikot,"Barnala Road, 141109",,30.656442,75.5945715,OpenStreetMap,node,2598040430,2026-11-26T07:27:17.549937+00:00
+Balvir Dhaba,restaurant,Punjab,,Raikot,"Ludhiana Road, 141109",,30.6570605,75.5986693,OpenStreetMap,node,2598046152,2026-11-26T07:27:17.549948+00:00
+Ambala Chat,restaurant,Punjab,,,,,31.5367786,75.9189972,OpenStreetMap,node,2609406249,2026-11-26T07:27:17.549959+00:00
+Canteen,cafe,Punjab,,,,,30.8299168,75.084449,OpenStreetMap,node,2671511464,2026-11-26T07:27:17.549969+00:00
+Vancouver Pizza,restaurant,Punjab,,Raikot,"Bypass Road, 141109",+911624266638,30.6527991,75.5890696,OpenStreetMap,node,2696127263,2026-11-26T07:27:17.549980+00:00
+Sardar Dhaba,restaurant,Punjab,,,,,30.860347,75.859222,OpenStreetMap,node,2708894352,2026-11-26T07:27:17.549990+00:00
+Shiv Shankar marriage palace,restaurant,Punjab,,Hoshiarpur,Hoshiarpur - Jallandhar Road; old NH70,,31.51251,75.873395,OpenStreetMap,node,2850163801,2026-11-26T07:27:17.550002+00:00
+Arora Juice Bar,fast_food,Punjab,,Raikot,"Ludhiana Road, 141109",,30.6494919,75.5998182,OpenStreetMap,node,2925751225,2026-11-26T07:27:17.550013+00:00
+McDonald's,fast_food,Punjab,,,,,31.3177504,75.5853798,OpenStreetMap,node,2966381254,2026-11-26T07:27:17.550024+00:00
+pal delux fast food,fast_food,Punjab,,,,,30.5806458,76.8422708,OpenStreetMap,node,2972388950,2026-11-26T07:27:17.550035+00:00
+Green Star Dhaba,restaurant,Punjab,,,,,30.5924673,74.8570352,OpenStreetMap,node,3329639378,2026-11-26T07:27:17.550045+00:00
+Casba Resort,restaurant,Punjab,,,,,30.3821552,76.4877669,OpenStreetMap,node,3431049786,2026-11-26T07:27:17.550057+00:00
+Shahi Rasoi,restaurant,Punjab,,,,,31.624174,74.8796216,OpenStreetMap,node,3507924204,2026-11-26T07:27:17.550067+00:00
+Kesar Da Dhaba,restaurant,Punjab,,,,,31.624196,74.8728244,OpenStreetMap,node,3507924494,2026-11-26T07:27:17.550077+00:00
+Ambala chat ,restaurant,Punjab,,Hoshiarpur,Mall Road,,31.536519,75.919225,OpenStreetMap,node,3523546594,2026-11-26T07:27:17.550087+00:00
+CCD,cafe,Punjab,,,,,31.6498655,75.6391189,OpenStreetMap,node,3531019944,2026-11-26T07:27:17.550097+00:00
+McDonald's,fast_food,Punjab,,,,,31.5348566,75.9035162,OpenStreetMap,node,3641262331,2026-11-26T07:27:17.550107+00:00
+Hotel Mark Inn,restaurant,Punjab,,,,,30.8347875,75.9768692,OpenStreetMap,node,3723305716,2026-11-26T07:27:17.550117+00:00
+NEW CHANDIGARH HOLIDAY HOME,restaurant,Punjab,,NAYAGAON,"173, BLOCK P, 160012",,30.7775464,76.8037052,OpenStreetMap,node,3743968716,2026-11-26T07:27:17.550129+00:00
+Skiino,restaurant,Punjab,,,,,30.8777714,75.8586101,OpenStreetMap,node,3751295517,2026-11-26T07:27:17.550139+00:00
+Mehak restaurant,restaurant,Punjab,,Jalandhar,"Jamsher Khas, 144020",,31.2503445,75.614561,OpenStreetMap,node,3783128405,2026-11-26T07:27:17.550150+00:00
+Babloo Ke Parathe,fast_food,Punjab,,,,,30.357713,76.3644932,OpenStreetMap,node,3833310181,2026-11-26T07:27:17.550160+00:00
+Bda Bite Restaurent,restaurant,Punjab,,Abohar,"Street No. 1 Choti Pouri, 152116",,30.1370857,74.1918749,OpenStreetMap,node,3856104526,2026-11-26T07:27:17.550171+00:00
+Blue Berry,fast_food,Punjab,,Ludhiana,141006,,30.8600668,75.8613411,OpenStreetMap,node,3862953543,2026-11-26T07:27:17.550181+00:00
+Lipton,cafe,Punjab,,Ludhiana,141006,,30.8600559,75.861217,OpenStreetMap,node,3862973458,2026-11-26T07:27:17.550192+00:00
+Wrapchik,restaurant,Punjab,,Patiala,,,30.3543873,76.3620755,OpenStreetMap,node,3979965261,2026-11-26T07:27:17.550202+00:00
+Dhaba Restaurant,restaurant,Punjab,,,,,30.3809931,74.5219195,OpenStreetMap,node,4006886873,2026-11-26T07:27:17.550212+00:00
+GuruKirpa,restaurant,Punjab,,Ludhiana,,,30.8606833,75.8585372,OpenStreetMap,node,4067988215,2026-11-26T07:27:17.550222+00:00
+Red Mango,restaurant,Punjab,,,,,30.8211454,75.9954291,OpenStreetMap,node,4156707022,2026-11-26T07:27:17.550232+00:00
+Hotel Solitaire,restaurant,Punjab,,,,,31.3997128,76.3459349,OpenStreetMap,node,4294890211,2026-11-26T07:27:17.550243+00:00
+SubWay,fast_food,Punjab,,,,,30.8609432,76.029779,OpenStreetMap,node,4308759272,2026-11-26T07:27:17.550253+00:00
+Eagle Dhaba,restaurant,Punjab,,,,,30.8093394,76.35762,OpenStreetMap,node,4308868286,2026-11-26T07:27:17.550262+00:00
+Kay Bee Resorts,restaurant,Punjab,,,,,30.8623162,76.02671,OpenStreetMap,node,4308886165,2026-11-26T07:27:17.550272+00:00
+Saini Tourist Dhaba,restaurant,Punjab,,,,,31.0108242,76.5782878,OpenStreetMap,node,4333623942,2026-11-26T07:27:17.550282+00:00
+Raja Dhaba,restaurant,Punjab,,,,,30.7875875,76.4171932,OpenStreetMap,node,4335029199,2026-11-26T07:27:17.550292+00:00
+Zimidara da Dhaba,restaurant,Punjab,,,,,30.7885698,76.4112545,OpenStreetMap,node,4335029200,2026-11-26T07:27:17.550304+00:00
+Malwa sweets fast-food and dhaba,fast_food,Punjab,,,,,30.8371831,76.1874597,OpenStreetMap,node,4335029202,2026-11-26T07:27:17.550314+00:00
+Saini vegetarian food,fast_food,Punjab,,,,,30.8675851,76.005039,OpenStreetMap,node,4335029207,2026-11-26T07:27:17.550323+00:00
+Gagan dhaba,restaurant,Punjab,,,,,30.8413078,76.1652678,OpenStreetMap,node,4335029308,2026-11-26T07:27:17.550333+00:00
+Mother dhaba,restaurant,Punjab,,,,,30.8485842,76.1257378,OpenStreetMap,node,4335029309,2026-11-26T07:27:17.550344+00:00
+New Punjabi Vaishno Dhaba,restaurant,Punjab,,,,,30.8229948,76.2770956,OpenStreetMap,node,4335029495,2026-11-26T07:27:17.550353+00:00
+Kadar dhaba,restaurant,Punjab,,,,,30.8670819,76.0075786,OpenStreetMap,node,4335029498,2026-11-26T07:27:17.550362+00:00
+Bishnu dhaba,restaurant,Punjab,,,,,30.8714774,75.9697657,OpenStreetMap,node,4335030601,2026-11-26T07:27:17.550372+00:00
+Janta dhaba,restaurant,Punjab,,,,,30.8812526,75.951863,OpenStreetMap,node,4335030602,2026-11-26T07:27:17.550382+00:00
+master cheema,fast_food,Punjab,,,,,30.8512097,76.0828413,OpenStreetMap,node,4335030794,2026-11-26T07:27:17.550391+00:00
+Mittran Da Dhaba,restaurant,Punjab,,,,,30.8781225,75.9577316,OpenStreetMap,node,4335054493,2026-11-26T07:27:17.550401+00:00
+Chole bhatoore and fast food,fast_food,Punjab,,,,,30.8857206,75.8482924,OpenStreetMap,node,4335054495,2026-11-26T07:27:17.550411+00:00
+Boparai Dhaba,restaurant,Punjab,,,,,30.8100886,76.3562692,OpenStreetMap,node,4335054591,2026-11-26T07:27:17.550420+00:00
+Sip-n-bite,restaurant,Punjab,,,,,30.6857,76.6642728,OpenStreetMap,node,4338063047,2026-11-26T07:27:17.550429+00:00
+CDX,cafe,Punjab,,,,,30.686198,76.6652685,OpenStreetMap,node,4339568625,2026-11-26T07:27:17.550439+00:00
+Master Dhaba,restaurant,Punjab,,,,,30.8656691,76.0140089,OpenStreetMap,node,4340592990,2026-11-26T07:27:17.550448+00:00
+Sidhu's Highway kitchen,fast_food,Punjab,,,,,30.873016,75.9672029,OpenStreetMap,node,4340600689,2026-11-26T07:27:17.550457+00:00
+Shera Dhaba,restaurant,Punjab,,,,,30.8673798,75.9852564,OpenStreetMap,node,4340600789,2026-11-26T07:27:17.550467+00:00
+Sonu Dhaba,restaurant,Punjab,,,,,30.8590233,76.0372093,OpenStreetMap,node,4340600989,2026-11-26T07:27:17.550476+00:00
+Moti Mahal,restaurant,Punjab,,,,,30.9058019,75.8932283,OpenStreetMap,node,4342690989,2026-11-26T07:27:17.550486+00:00
+Hum Tum,fast_food,Punjab,,,,,30.8648095,75.8594886,OpenStreetMap,node,4342692589,2026-11-26T07:27:17.550495+00:00
+Royal Family dhaba,restaurant,Punjab,,,,,30.8288578,76.2302531,OpenStreetMap,node,4355004190,2026-11-26T07:27:17.550506+00:00
+Sardaaran da Dhaba,restaurant,Punjab,,,,,30.7886311,76.4103101,OpenStreetMap,node,4355013989,2026-11-26T07:27:17.550516+00:00
+Jattan da dhaba,restaurant,Punjab,,,,,30.8199859,76.3036802,OpenStreetMap,node,4355014489,2026-11-26T07:27:17.550526+00:00
+KFC,fast_food,Punjab,,,,,30.740453,76.6756545,OpenStreetMap,node,4368239994,2026-11-26T07:27:17.550536+00:00
+Subway,fast_food,Punjab,,,,,30.7405186,76.6754716,OpenStreetMap,node,4368248994,2026-11-26T07:27:17.550546+00:00
+NESCAFE,cafe,Punjab,,,,,30.8592639,75.8611781,OpenStreetMap,node,4375394238,2026-11-26T07:27:17.550556+00:00
+BAKE FRESH,cafe,Punjab,,,,,30.8592524,75.8612613,OpenStreetMap,node,4375394239,2026-11-26T07:27:17.550567+00:00
+Coca Cola,cafe,Punjab,,,,,30.8611694,75.8612153,OpenStreetMap,node,4376804625,2026-11-26T07:27:17.550578+00:00
+Lords Food Court,restaurant,Punjab,,,,,30.7671449,76.5760967,OpenStreetMap,node,4393952892,2026-11-26T07:27:17.550588+00:00
+Subway,fast_food,Punjab,,,,,30.7674353,76.576086,OpenStreetMap,node,4393952893,2026-11-26T07:27:17.550598+00:00
+Food Island,cafe,Punjab,Gurdaspur,Gurdaspur,"shop no 1, near sukhjindra college, 143521",+918264318575,32.0445991,75.3474553,OpenStreetMap,node,4530156317,2026-11-26T07:27:17.550609+00:00
+Haveli,restaurant,Punjab,,,Jalandhar Amritsar Highway,,31.5714873,75.0191445,OpenStreetMap,node,4599752121,2026-11-26T07:27:17.550621+00:00
+janjua,restaurant,Punjab,,,,,31.2298064,75.7617286,OpenStreetMap,node,4742751860,2026-11-26T07:27:17.550631+00:00
+Crispy fast food,fast_food,Punjab,,ludhiana,"2nd street, Haibowal Main Road, 141001",,30.9207142,75.8161168,OpenStreetMap,node,4925990212,2026-11-26T07:27:17.550642+00:00
+TQ,cafe,Punjab,,,,,30.5147739,76.660105,OpenStreetMap,node,4975631002,2026-11-26T07:27:17.550652+00:00
+"Cafeteria, IIT Ropar",cafe,Punjab,,,,,30.9759503,76.5384786,OpenStreetMap,node,4999829688,2026-11-26T07:27:17.550663+00:00
+Balle Balle Dhaba,restaurant,Punjab,,,,,31.61673,74.6901765,OpenStreetMap,node,5160193421,2026-11-26T07:27:17.550672+00:00
+D Star Tourist Dhaba,restaurant,Punjab,,,,,30.9882719,76.5415583,OpenStreetMap,node,5189729621,2026-11-26T07:27:17.550682+00:00
+Thind Sweets,restaurant,Punjab,Kapurthala,Sultanpur Lodhi,"Main Bazaar Road, 144626",+91 9815867027,31.2143063,75.1977891,OpenStreetMap,node,5281071305,2026-11-26T07:27:17.550694+00:00
+sagar ratna,restaurant,Punjab,,,,+91 161 276 1763,30.9139141,75.84962,OpenStreetMap,node,5302949926,2026-11-26T07:27:17.550706+00:00
+Gurpreet Vaishno Dhaba,restaurant,Punjab,,Patiala,"Sirhind Road, 147001",,30.4430452,76.4066336,OpenStreetMap,node,5336262087,2026-11-26T07:27:17.550717+00:00
+Maharaja Fast Food,fast_food,Punjab,,,,,30.8997512,75.9407817,OpenStreetMap,node,5365417399,2026-11-26T07:27:17.550727+00:00
+Gupta Sweets,restaurant,Punjab,,,,,30.9027776,75.9410808,OpenStreetMap,node,5365444447,2026-11-26T07:27:17.550737+00:00
+Hotel Lee Food Plaza,fast_food,Punjab,,,,,30.844856,76.5652646,OpenStreetMap,node,5761967095,2026-11-26T07:27:17.550747+00:00
+Subway,fast_food,Punjab,,,,,30.8820115,76.552823,OpenStreetMap,node,5761967097,2026-11-26T07:27:17.550756+00:00
+Cafe Coffee Day,cafe,Punjab,,,,,30.8820798,76.5528352,OpenStreetMap,node,5761967539,2026-11-26T07:27:17.550767+00:00
+Haveli,restaurant,Punjab,,,,,31.0775381,76.5999049,OpenStreetMap,node,5761967544,2026-11-26T07:27:17.550777+00:00
+Subway,fast_food,Punjab,,,,,32.275096,75.6878937,OpenStreetMap,node,5773135582,2026-11-26T07:27:17.550787+00:00
+Punjabi Dhaba,restaurant,Punjab,,,,01835005556,31.6217294,74.8799726,OpenStreetMap,node,6052053985,2026-11-26T07:27:17.550798+00:00
+Subway,fast_food,Punjab,,,,,31.622111,74.8777529,OpenStreetMap,node,6094909117,2026-11-26T07:27:17.550808+00:00
+Indian Resturant,restaurant,Punjab,,,,,31.6265111,74.8599909,OpenStreetMap,node,6172754057,2026-11-26T07:27:17.550818+00:00
+Bikanervala,restaurant,Punjab,,,,,30.63993,76.823279,OpenStreetMap,node,6614973204,2026-11-26T07:27:17.550829+00:00
+Gopal's Sweets,restaurant,Punjab,,,,,30.6407538,76.8223031,OpenStreetMap,node,6614973210,2026-11-26T07:27:17.550839+00:00
+Subway,fast_food,Punjab,,,,,30.6397683,76.822319,OpenStreetMap,node,6614973214,2026-11-26T07:27:17.550849+00:00
+Brother’s Amritsari Dhaba,restaurant,Punjab,,,,,31.6224683,74.8795697,OpenStreetMap,node,6620376106,2026-11-26T07:27:17.550859+00:00
+Raj Punjabi Dhaba,restaurant,Punjab,,,,,31.6266175,74.8782182,OpenStreetMap,node,6623605845,2026-11-26T07:27:17.550869+00:00
+Birjwasi Chat,restaurant,Punjab,,,Copper Road,,31.6349929,74.8757926,OpenStreetMap,node,6654636679,2026-11-26T07:27:17.550880+00:00
+Domino's,restaurant,Punjab,,,,,31.6225952,74.8796221,OpenStreetMap,node,6655576985,2026-11-26T07:27:17.550890+00:00
+Tasty Bite,restaurant,Punjab,,,,,31.6206823,74.8792143,OpenStreetMap,node,6658125586,2026-11-26T07:27:17.550899+00:00
+The Brooks Central,cafe,Punjab,,Patiala,"108-109, 2nd Floor, Randhawa Arcade, YPS Market, 147001",,30.3208329,76.3846395,OpenStreetMap,node,6766478660,2026-11-26T07:27:17.550913+00:00
+Arts Cafe,restaurant,Punjab,,,,,31.6369177,74.8270245,OpenStreetMap,node,6836749952,2026-11-26T07:27:17.550923+00:00
+Fun Bytes,fast_food,Punjab,,,,,31.6360576,74.8257915,OpenStreetMap,node,6836794224,2026-11-26T07:27:17.550933+00:00
+Canteen,restaurant,Punjab,,,,,31.6352878,74.8236226,OpenStreetMap,node,6839428514,2026-11-26T07:27:17.550943+00:00
+BUVIT,restaurant,Punjab,,Ludhiana,"27-28F Second Floor, Satpal Mittal Road,, 141001",,30.8952371,75.8222424,OpenStreetMap,node,6975077035,2026-11-26T07:27:17.550954+00:00
+Sangam,fast_food,Punjab,,,,,30.3610663,76.4195915,OpenStreetMap,node,6977706223,2026-11-26T07:27:17.550964+00:00
+Subway,fast_food,Punjab,,"Sahibzada Ajit Singh Nagar, Mohali",Sector 70,,30.6983521,76.7224635,OpenStreetMap,node,7095441180,2026-11-26T07:27:17.550975+00:00
+Subway,fast_food,Punjab,,Mohali,Phase 3B-2 Sector 60,,30.7164193,76.7153335,OpenStreetMap,node,7095461732,2026-11-26T07:27:17.550986+00:00
+KFC,fast_food,Punjab,,Mohali,Phase 3B2 Sector 60,,30.7152372,76.7130714,OpenStreetMap,node,7095471814,2026-11-26T07:27:17.550997+00:00
+Subway,fast_food,Punjab,,"Sahibzada Ajit Singh Nagar, Mohali",Sector 68,,30.6857296,76.721328,OpenStreetMap,node,7095473464,2026-11-26T07:27:17.551007+00:00
+Subway,fast_food,Punjab,,"Sahibzada Ajit Singh, Mohali",Sector 68,,30.6873698,76.738366,OpenStreetMap,node,7095493563,2026-11-26T07:27:17.551018+00:00
+Dollar café,cafe,Punjab,,Bathinda,"near St No. 14, Ajit Road, 151001",,30.2113806,74.9515338,OpenStreetMap,node,7104122331,2026-11-26T07:27:17.551029+00:00
+The Tiffin,restaurant,Punjab,,Jalandhar,"Opp. P&T Colony, Near Ram Sharnam Ashram, Shastri Market Road, 144001",+917330044400,31.3231232,75.5836041,OpenStreetMap,node,7116161330,2026-11-26T07:27:17.551041+00:00
+Cafe Coffee Day,cafe,Punjab,,,,,30.658343,76.7368144,OpenStreetMap,node,7130950454,2026-11-26T07:27:17.551052+00:00
+N.K Tourist Dhaba,cafe,Punjab,,,,,31.2118632,76.6372803,OpenStreetMap,node,7130950567,2026-11-26T07:27:17.551062+00:00
+Haveli,restaurant,Punjab,,,,,30.8986896,76.549446,OpenStreetMap,node,7130950570,2026-11-26T07:27:17.551072+00:00
+Mohali,restaurant,Punjab,S.A.S. Nagar (Mohali),mohali,"117, airport road, 140301",01722914900,30.7348827,76.7137956,OpenStreetMap,node,7165805052,2026-11-26T07:27:17.551083+00:00
+Rotiwala Restaurant,restaurant,Punjab,,,,,30.2301978,74.9362674,OpenStreetMap,node,7194772160,2026-11-26T07:27:17.551094+00:00
+Burger Boyz,fast_food,Punjab,,Jalandhar,"Urban Estate phase II, Cool Road, 144022",,31.2989497,75.5890269,OpenStreetMap,node,7247326820,2026-11-26T07:27:17.551105+00:00
+Cafe Green,cafe,Punjab,,,,,31.6242399,74.8786538,OpenStreetMap,node,7276713111,2026-11-26T07:27:17.551115+00:00
+The Amritsar Haveli,restaurant,Punjab,,,,,31.6242013,74.8787162,OpenStreetMap,node,7276770606,2026-11-26T07:27:17.551124+00:00
+A.C. Chicken,restaurant,Punjab,,,,,31.6276867,74.8827576,OpenStreetMap,node,7279389404,2026-11-26T07:27:17.551133+00:00
+Sham Dhaba,restaurant,Punjab,,,,,30.2287275,74.9365043,OpenStreetMap,node,7279440830,2026-11-26T07:27:17.551143+00:00
+Mandala,restaurant,Punjab,,,,,30.6462774,76.8012308,OpenStreetMap,node,7429284848,2026-11-26T07:27:17.551153+00:00
+Pizza Nation,restaurant,Punjab,,,,,30.3541779,76.3622927,OpenStreetMap,node,7429306564,2026-11-26T07:27:17.551162+00:00
+Jaggi Restaurant,restaurant,Punjab,,,,,30.3436359,76.3785014,OpenStreetMap,node,7429317578,2026-11-26T07:27:17.551172+00:00
+The Bite Saga,restaurant,Punjab,,Ludhiana,"Shop No.25, Pocket2,, Jail Road, 141008",+91 98785 80091,30.9075059,75.8593327,OpenStreetMap,node,7966831151,2026-11-26T07:27:17.551182+00:00
+The Bite Saga,restaurant,Punjab,,Ludhiana,"Shop-3, SCO-25, Ferozepur Road, 141001",+91 82840 04700,30.9010921,75.8326562,OpenStreetMap,node,7978765839,2026-11-26T07:27:17.551193+00:00
+COOL N FIRE,restaurant,Punjab,,PATIALA,"SCO 110-111, NEW LEELA BHAWAN, 147001",9781603536,30.3348931,76.3835331,OpenStreetMap,node,8003760347,2026-11-26T07:27:17.551205+00:00
+Jagat Punjabi Rasoi,restaurant,Punjab,,,,,30.6522224,76.6802434,OpenStreetMap,node,8044181058,2026-11-26T07:27:17.551215+00:00
+Pardhan Vaishno Dhaba,restaurant,Punjab,,,,,30.6676348,76.6732665,OpenStreetMap,node,8044181061,2026-11-26T07:27:17.551225+00:00
+Eatery,restaurant,Punjab,,,,,30.6639449,76.725639,OpenStreetMap,node,8459915343,2026-11-26T07:27:17.551235+00:00
+Aatambir's Restaurant,restaurant,Punjab,,,,,30.6636932,76.7252824,OpenStreetMap,node,8459915346,2026-11-26T07:27:17.551245+00:00
+LHC Eatery,restaurant,Punjab,,,,,30.66433,76.7294137,OpenStreetMap,node,8459915347,2026-11-26T07:27:17.551254+00:00
+Burger Bar,fast_food,Punjab,,sultanpurlodhi,144626,,31.2195248,75.1958922,OpenStreetMap,node,8480043310,2026-11-26T07:27:17.551264+00:00
+Hot Drive A Kitchen Car,restaurant,Punjab,,"Jalandhar, India","Rainbow Road Market, Near Sanjay Karate School, Model Town, 144003",086997 79933,31.305915,75.5748551,OpenStreetMap,node,8510925362,2026-11-26T07:27:17.551276+00:00
+Kapania Bakers and Restaurant,restaurant,Punjab,,"Nakodar, India","Shankar - Tahli Road Ambedkar Chowk Nakodar, Punjab 144040, 144040",099141 22111,31.1276301,75.4798082,OpenStreetMap,node,8510988357,2026-11-26T07:27:17.551288+00:00
+Luxmi Bikaner Mishthan Bhandar,restaurant,Punjab,,,"Railway Road, NH 20, 145001",+91 82848 26282,32.2732823,75.6496602,OpenStreetMap,node,8544306894,2026-11-26T07:27:17.551300+00:00
+The Hawkers®,restaurant,Punjab,,Ferozpur Cantt,"firozpur Cantt, 152001",,30.930272,74.6204029,OpenStreetMap,node,8602282958,2026-11-26T07:27:17.551310+00:00
+The Hawkers®-Moga,restaurant,Punjab,,Moga,"Partap Road, 142001",9988308284,30.8151178,75.1641051,OpenStreetMap,node,8602285327,2026-11-26T07:27:17.551321+00:00
+The Hawkers® Ferozepur City,restaurant,Punjab,,,,9041608284,30.9556504,74.6128529,OpenStreetMap,node,8602572483,2026-11-26T07:27:17.551331+00:00
+The Hawkers®-Zira,restaurant,Punjab,,Zira,142047,7527908284,30.9695631,74.9840964,OpenStreetMap,node,8602619785,2026-11-26T07:27:17.551341+00:00
+Bikaner Mishtan Bhandar Dhilwan,restaurant,Punjab,,dhilwan,"Dhillwan Tapa Road, 148108",,30.3382219,75.3880336,OpenStreetMap,node,8813716726,2026-11-26T07:27:17.551352+00:00
+TAJ food worls,fast_food,Punjab,,jalandha,"120 Feet Road, , Phase 2, Urban Estate",+917947427327,31.2885178,75.5893763,OpenStreetMap,node,8853896796,2026-11-26T07:27:17.551364+00:00
+Grill Masters,cafe,Punjab,,Malout,"Old Court Road, 152107",8802902020,30.1900353,74.5007707,OpenStreetMap,node,9004704557,2026-11-26T07:27:17.551375+00:00
+Giani Toder mal ji,restaurant,Punjab,,Giani Toder mal ji,"1, Delhi-Amritsar-Katra Expressway, 143516",+91 82880 11915,31.8404001,75.4275707,OpenStreetMap,node,9102509807,2026-11-26T07:27:17.551386+00:00
+The Social Tandoor,restaurant,Punjab,,ludhiana,"sahnewal road , kohara",+917888622287,30.8659401,76.0053444,OpenStreetMap,node,9164404458,2026-11-26T07:27:17.551397+00:00
+The Dessert Club,restaurant,Punjab,,PATIALA,"SC0-127, Leela Bhawan, 147001",+919988250218,30.3357004,76.3829249,OpenStreetMap,node,9246656968,2026-11-26T07:27:17.551408+00:00
+Boston Bites,cafe,Punjab,,Ludhiana,"Sco123, Platinum Sqaure, 141013",8054553933,30.9034816,75.7762777,OpenStreetMap,node,9318751594,2026-11-26T07:27:17.551421+00:00
+Golden Taste Restaurant,restaurant,Punjab,,,,,30.7801542,74.8850169,OpenStreetMap,node,9345710597,2026-11-26T07:27:17.551432+00:00
+Barista Gharuan,cafe,Punjab,,Gharuan,"Ludhiana- Chandigarh Highway, 140413",+91 87280 00054,30.7789663,76.5510262,OpenStreetMap,node,9415272450,2026-11-26T07:27:17.551444+00:00
+CAFE NEW YORK,cafe,Punjab,,LUDHIANA,"38-A, Krishna Mandir Road, 141002",9988666035,30.8856288,75.8290051,OpenStreetMap,node,9529269867,2026-11-26T07:27:17.551455+00:00
+Healthy Treat,restaurant,Punjab,,Jalandhar,"Mann Nagar Market, 144003",,31.2944311,75.5597304,OpenStreetMap,node,9533995068,2026-11-26T07:27:17.551466+00:00
+THE YELLOW STONE,restaurant,Punjab,,PATIALA,147001,+91 99149 30004,30.3772765,76.3524339,OpenStreetMap,node,9579899046,2026-11-26T07:27:17.551477+00:00
+Hunger's Hub,fast_food,Punjab,,malerkotla,"guru teg bahadur colony, 148023",+917696748695,30.5170555,75.8885989,OpenStreetMap,node,9587198561,2026-11-26T07:27:17.551488+00:00
+Chai Sutta Bar Bathinda,cafe,Punjab,,bathinda,"100 ft road, 100 Feet Road, 151001",+91 96581 01313,30.215545,74.9532382,OpenStreetMap,node,9625859028,2026-11-26T07:27:17.551499+00:00
+Hotel Narain Continental,restaurant,Punjab,,,,,30.3316443,76.3929687,OpenStreetMap,node,9706450354,2026-11-26T07:27:17.551510+00:00
+chai sutta bar ferozepur,cafe,Punjab,,ferozpur,"shop 10C, 152002",+91 8437200068,30.9572516,74.6111564,OpenStreetMap,node,10001149773,2026-11-26T07:27:17.551520+00:00
+RAHI JUICE CORNER AND FRUIT SHOP,restaurant,Punjab,,Malerkotla,"Nabha Road Purana Qila, 148023",+919779272148,30.5191645,75.8969361,OpenStreetMap,node,10007930184,2026-11-26T07:27:17.551531+00:00
+Boston & co,restaurant,Punjab,,SAS Nagar,"1018, TDI Connaught Plaza, 140307",+919463649731,30.7234634,76.6824031,OpenStreetMap,node,10048130579,2026-11-26T07:27:17.551542+00:00
+Domino's,fast_food,Punjab,,,,,30.6200541,76.8230248,OpenStreetMap,node,10083022336,2026-11-26T07:27:17.551552+00:00
+Bikaneravala,restaurant,Punjab,,,,,30.6198956,76.8228107,OpenStreetMap,node,10083022337,2026-11-26T07:27:17.551562+00:00
+Sagar Ratna,restaurant,Punjab,,,,,30.6201438,76.8237097,OpenStreetMap,node,10083030562,2026-11-26T07:27:17.551572+00:00
+Barbeque Nation,restaurant,Punjab,,,,,30.6201281,76.8236557,OpenStreetMap,node,10083030563,2026-11-26T07:27:17.551583+00:00
+ChaiObite,cafe,Punjab,,Jalandhar,"38, SCO, Crystal Plaza, Chotti Baradari Part 1, Garha Road, 144001",+919056266167,31.3026552,75.5965462,OpenStreetMap,node,10252945678,2026-11-26T07:27:17.551595+00:00
+Bittu Di Chaa,cafe,Punjab,,Jalandhar,"29, Crystal Plaza Market, 144022",7888873220,31.3038321,75.5958453,OpenStreetMap,node,10297367045,2026-11-26T07:27:17.551606+00:00
+Kalu Tikki Kulche,fast_food,Punjab,,,,+919521905080,30.3737975,75.5487166,OpenStreetMap,node,10605555719,2026-11-26T07:27:17.551617+00:00
+Aqaab,restaurant,Punjab,,tarn taran,"patti, 143416",+919877720007,31.1839534,74.8515619,OpenStreetMap,node,10617441750,2026-11-26T07:27:17.551628+00:00
+Mr. Sanders Island,fast_food,Punjab,,sunam,"near punjab sound, first floor, Cinema Road, 148028",+91 96398 56000,30.128571,75.8015436,OpenStreetMap,node,10669522595,2026-11-26T07:27:17.551639+00:00
+Calvin Pizza,restaurant,Punjab,,Ludhiana,"Opposite Arora Palace Chowk,New Janta Nagar, Gill Road, 141003",+919855939632,30.8749258,75.8590641,OpenStreetMap,node,10672884501,2026-11-26T07:27:17.551650+00:00
+Chai Sutta Bar,restaurant,Punjab,,kotkapura,"Opp. Giani Zail Singh Market, 151204",,30.5838746,74.8254707,OpenStreetMap,node,10687449078,2026-11-26T07:27:17.551661+00:00
+Mr. sanders island,restaurant,Punjab,,bhawanigarh,"opposite truck union, elegant square, 148026",9592650050,30.2644936,76.0403618,OpenStreetMap,node,10734501342,2026-11-26T07:27:17.551672+00:00
+V7 Food Court Moonak,restaurant,Punjab,,Moonak,"RVGX+W6F, State Highway 10, 148033",+917496002971,29.8270207,75.8978124,OpenStreetMap,node,10795264296,2026-11-26T07:27:17.551683+00:00
+Novelty Restaurant,restaurant,Punjab,,,,,31.6416008,74.8752483,OpenStreetMap,node,10821053189,2026-11-26T07:27:17.551714+00:00
+Subway,fast_food,Punjab,,,,,31.6225311,74.7472808,OpenStreetMap,node,10821103598,2026-11-26T07:27:17.551727+00:00
+Haweli Restaurant,restaurant,Punjab,,,,,31.6225843,74.7476008,OpenStreetMap,node,10821103599,2026-11-26T07:27:17.551737+00:00
+Subway,fast_food,Punjab,,,,,31.3538879,75.5900766,OpenStreetMap,node,10823265861,2026-11-26T07:27:17.551750+00:00
+Burger King,fast_food,Punjab,,,,,31.3534341,75.5903377,OpenStreetMap,node,10823265862,2026-11-26T07:27:17.551760+00:00
+Pizza Hut,restaurant,Punjab,,,,,31.318018,75.5846455,OpenStreetMap,node,10823268222,2026-11-26T07:27:17.551770+00:00
+Subway,fast_food,Punjab,,,,,31.3179156,75.5848829,OpenStreetMap,node,10823268223,2026-11-26T07:27:17.551780+00:00
+Barista,cafe,Punjab,,,,,31.3178849,75.5849352,OpenStreetMap,node,10823268224,2026-11-26T07:27:17.551790+00:00
+McDonald's,fast_food,Punjab,,,,,31.4995401,75.3247035,OpenStreetMap,node,10823269606,2026-11-26T07:27:17.551800+00:00
+Zoca Cafe,cafe,Punjab,,Jalandhar,"Shop No. 1, New Isharpuri Colony, Adjacent to Taj Food World, 144022",+91 8360009099,31.2885922,75.5893307,OpenStreetMap,node,10837189788,2026-11-26T07:27:17.551811+00:00
+Club Waigel &P.O.G Bar,restaurant,Punjab,,makhu,"Railway road MAKHU, 142044",9779039359,31.1048696,74.9818329,OpenStreetMap,node,10887410880,2026-11-26T07:27:17.551821+00:00
+Apron on,restaurant,Punjab,,samrala,"145, Khanna-Samrala Road",+9194172-70673,30.8357743,76.1897693,OpenStreetMap,node,10940301303,2026-11-26T07:27:17.551832+00:00
+vansh villa,restaurant,Punjab,,Faridkot,"1, talwandi road",8054198622,30.6896103,74.7893218,OpenStreetMap,node,10949209830,2026-11-26T07:27:17.551844+00:00
+Katani Heritage Kitchen,restaurant,Punjab,,,,,30.7023994,76.6683152,OpenStreetMap,node,10957055789,2026-11-26T07:27:17.551854+00:00
+oyo hotel fridays,restaurant,Punjab,,,,,30.2221483,74.9384342,OpenStreetMap,node,10960868031,2026-11-26T07:27:17.551864+00:00
+sardar ji amritsari kulcha,restaurant,Punjab,,,,,30.2218613,74.936378,OpenStreetMap,node,10960868036,2026-11-26T07:27:17.551873+00:00
+bhatura junction,restaurant,Punjab,,,,,30.2222962,74.926194,OpenStreetMap,node,10960868038,2026-11-26T07:27:17.551883+00:00
+food factory,restaurant,Punjab,,,,,30.2188959,74.9441662,OpenStreetMap,node,10960868040,2026-11-26T07:27:17.551893+00:00
+stella,restaurant,Punjab,,,,,30.224437,74.9443492,OpenStreetMap,node,10960868042,2026-11-26T07:27:17.551902+00:00
+hotel sapphire,restaurant,Punjab,,,,,30.2236265,74.946374,OpenStreetMap,node,10960868043,2026-11-26T07:27:17.551913+00:00
+BONFIRE N GRILLS,restaurant,Punjab,Fazilka,ABOHAR,"Z1 0002, HANUMANGARH ROAD FLYOVER, 152116",+919216504300,30.1404142,74.2060437,OpenStreetMap,node,10968615061,2026-11-26T07:27:17.551924+00:00
+EC•CO Cafe & Alehouse,restaurant,Punjab,,patiala,"SCO 9-10, Bhagat Singh Marg, Punjabi Bagh, 147001",+919876958699,30.3454151,76.3801213,OpenStreetMap,node,10973218016,2026-11-26T07:27:17.551936+00:00
+Apron On,restaurant,Punjab,,Samrala,"Khanna-Samrala Road, 141114",9417270673,30.8357155,76.189732,OpenStreetMap,node,11001031552,2026-11-26T07:27:17.551947+00:00
+APNA CHAIWALA,cafe,Punjab,Kapurthala,Phagwara,"Hargobind Nagar, 144401",+919876538955,31.214412,75.776322,OpenStreetMap,node,11053359937,2026-11-26T07:27:17.551958+00:00
+Nescafé,cafe,Punjab,,,,,31.6191042,74.8784745,OpenStreetMap,node,11083687970,2026-11-26T07:27:17.551968+00:00
+Free chai,cafe,Punjab,,,,,31.6194593,74.8776983,OpenStreetMap,node,11097254240,2026-11-26T07:27:17.551978+00:00
+flevaro_cafe,cafe,Punjab,Patiala,patiala,"professor colony,, karheri, urban estate, 147002",6378309881,30.3562796,76.4549424,OpenStreetMap,node,11097319677,2026-11-26T07:27:17.551988+00:00
+mr sanders island,fast_food,Punjab,Mansa,bareta,"13, bhaderpur road, 151501",9493156000,29.8659734,75.6944191,OpenStreetMap,node,11098964165,2026-11-26T07:27:17.552000+00:00
+NINETEEN23,cafe,Punjab,JALANDHAR,Jalandhar,"SCO 69, URBAN ESTATE PHASE-2, 144022",00919779806677,31.2981687,75.5879099,OpenStreetMap,node,11134261699,2026-11-26T07:27:17.552010+00:00
+Punjabi Chulla 68 Mohali,restaurant,Punjab,160062,Mohali,"DSS 25, District One Market, Sector 68",+919780420201,30.6810634,76.7236736,OpenStreetMap,node,11173878171,2026-11-26T07:27:17.552021+00:00
+Basant Food Faridkot,restaurant,Punjab,,Faridkot,151203,,30.7036441,74.81345,OpenStreetMap,node,11225085449,2026-11-26T07:27:17.552032+00:00
+brown country pizza,restaurant,Punjab,,,,,32.1349633,75.4943179,OpenStreetMap,node,11253109190,2026-11-26T07:27:17.552042+00:00
+Apna Chai Wala,restaurant,Punjab,Kapurthala,Phagwara,"Ppr market Chandigarh Phagwara bypass, 144401",+919294100003,31.2483118,75.7659049,OpenStreetMap,node,11255206799,2026-11-26T07:27:17.552053+00:00
+The Gold Night Bar & Resturant,restaurant,Punjab,Ludhiana,Samrala,"Chandigarh Rd, 141114",,30.8324504,76.2040479,OpenStreetMap,node,11356081785,2026-11-26T07:27:17.552063+00:00
+Manjeet's,restaurant,Punjab,,,,,31.018306,76.5902909,OpenStreetMap,node,11363681124,2026-11-26T07:27:17.552074+00:00
+Chai sutta bar,cafe,Punjab,fazilka,Jalalabad,"Lawrence Road, 152024",+91 9781152870,30.6080553,74.2567955,OpenStreetMap,node,11368217990,2026-11-26T07:27:17.552084+00:00
+Unique Kulcha Land,restaurant,Punjab,,,,,31.6224635,74.8781732,OpenStreetMap,node,11425025050,2026-11-26T07:27:17.552095+00:00
+Sartaj Haveli,restaurant,Punjab,,,,,31.1244368,74.953372,OpenStreetMap,node,11429324904,2026-11-26T07:27:17.552106+00:00
+Zayka Restaurant Khamano,restaurant,Punjab,Fatehgarh Sahib,Khamanon,"Ludhiana-Chandigarh Highway, 141801",+91 96973 00049,30.813088,76.3478016,OpenStreetMap,node,11539115482,2026-11-26T07:27:17.552116+00:00
+Chai Sutta Bar,cafe,Punjab,Mansa,,"Main Road, Bathinda Road, 151504",+91981487510,30.0651468,75.5325478,OpenStreetMap,node,11539786336,2026-11-26T07:27:17.552127+00:00
+Cafe Coffee Day,cafe,Punjab,,,,,30.9541433,74.6124193,OpenStreetMap,node,11691617196,2026-11-26T07:27:17.552138+00:00
+Dominoes' Pizza,cafe,Punjab,,,,,30.955259,74.6117197,OpenStreetMap,node,11691617198,2026-11-26T07:27:17.552148+00:00
+Stoffers' cafe,cafe,Punjab,,,,,30.958488,74.6120103,OpenStreetMap,node,11691617199,2026-11-26T07:27:17.552158+00:00
+City biryani,cafe,Punjab,,,,,30.9586299,74.6113315,OpenStreetMap,node,11691617201,2026-11-26T07:27:17.552167+00:00
+Saroj Vaishno Dhaba,restaurant,Punjab,,,,,31.6430282,74.896105,OpenStreetMap,node,11692943664,2026-11-26T07:27:17.552177+00:00
+Bhim Burger,fast_food,Punjab,,,,+916239158036,31.6442719,74.8952777,OpenStreetMap,node,11693092832,2026-11-26T07:27:17.552188+00:00
+Asian Chicken Corner,fast_food,Punjab,,,,,31.6434627,74.8943333,OpenStreetMap,node,11693110733,2026-11-26T07:27:17.552198+00:00
+Pizza KIng,fast_food,Punjab,,,,,31.6432098,74.8941867,OpenStreetMap,node,11693130356,2026-11-26T07:27:17.552209+00:00
+The Pisa Pizza,restaurant,Punjab,,,,,31.6456665,74.8919178,OpenStreetMap,node,11693151758,2026-11-26T07:27:17.552220+00:00
+Tea Steam Cafe,cafe,Punjab,Jalandhar,Jalandhar,"122, upper Ground Floor ppr Market, 144001",9988100711,31.2977906,75.5807554,OpenStreetMap,node,11760035602,2026-11-26T07:27:17.552231+00:00
+IRCTC Food Plaza,restaurant,Punjab,,,,,31.633461,74.8680892,OpenStreetMap,node,11806338861,2026-11-26T07:27:17.552241+00:00
+Babbi Vishno Kulcha Bhandaar,fast_food,Punjab,,,,,31.6255325,74.8771042,OpenStreetMap,node,11806492014,2026-11-26T07:27:17.552252+00:00
+GM Sweets,fast_food,Punjab,,,,,31.6126249,74.8791084,OpenStreetMap,node,11806665505,2026-11-26T07:27:17.552262+00:00
+Khalsa Kulchya Wale,restaurant,Punjab,,,,+91 98881 28004,31.6125198,74.8795115,OpenStreetMap,node,11806665506,2026-11-26T07:27:17.552272+00:00
+Aadhar Restaurant,restaurant,Punjab,,,,,31.6303574,74.8730872,OpenStreetMap,node,11809604384,2026-11-26T07:27:17.552282+00:00
+Subhash Juice Bar,fast_food,Punjab,,,,,31.6303174,74.8731217,OpenStreetMap,node,11809604385,2026-11-26T07:27:17.552293+00:00
+Giani Punjabi Lassi,fast_food,Punjab,,,,,31.6293743,74.8738272,OpenStreetMap,node,11810040085,2026-11-26T07:27:17.552302+00:00
+Gian Di Lassi,fast_food,Punjab,,,,,31.6294113,74.8738022,OpenStreetMap,node,11810040086,2026-11-26T07:27:17.552313+00:00
+McDonald's,fast_food,Punjab,,,,,31.6220508,74.879762,OpenStreetMap,node,11810048678,2026-11-26T07:27:17.552322+00:00
+Pehelwan Kulcha Shop,restaurant,Punjab,,,,,31.6144143,74.8761102,OpenStreetMap,node,11811018581,2026-11-26T07:27:17.552332+00:00
+Chai sutta bar,cafe,Punjab,moga,baghapurana,"122, Kotkapura - Moga Road, opposite Petrol pump, Bagha Purana,, 142038",+91 9112400010,30.6831599,75.0901536,OpenStreetMap,node,11868209604,2026-11-26T07:27:17.552343+00:00
+The crispy hawkers,restaurant,Punjab,Ludhiana,Samrala,"122, Ludhiana-Chandigarh Highway, 141114",+9190417-66019,30.8352113,76.1923793,OpenStreetMap,node,11876910335,2026-11-26T07:27:17.552354+00:00
+The Crispy Hawkers,restaurant,Punjab,Ludhiana,Doraha,"122, Railway Road, 141421",+917307357057,30.7993765,76.0333048,OpenStreetMap,node,11876916244,2026-11-26T07:27:17.552365+00:00
+chai churi,restaurant,Punjab,Kapurthala,phagwara,"122, guru hargobind nagar, 144401",+9190568-22566,31.2140505,75.77365,OpenStreetMap,node,11889153843,2026-11-26T07:27:17.552376+00:00
+Cuddles wid food,fast_food,Punjab,Ludhiana,Samrala,"122, Near Durlabh nagar,Khanna-Samrala Road, 141114",+919855166854,30.834096,76.1918672,OpenStreetMap,node,11903306580,2026-11-26T07:27:17.552387+00:00
+URBAN FOOD VILLA (VALTOHA),cafe,Punjab,Tarn Taran,Valtoha,"122, Major District Road 62, 143416",+916239-424247,31.2021735,74.6402569,OpenStreetMap,node,11908783995,2026-11-26T07:27:17.552397+00:00
+crafty bean(Amritsar),restaurant,Punjab,Punjab,Amritsar,"122, Airport Road, 143001",+917347648448,31.6572897,74.8552441,OpenStreetMap,node,11955672030,2026-11-26T07:27:17.552409+00:00
+Baked Incarnation,cafe,Punjab,,,"53-b, Guru Amardas Avenue, 143001",8146027535,31.6626896,74.8426559,OpenStreetMap,node,11963438614,2026-11-26T07:27:17.552420+00:00
+ਨਵਾਂ ਬਲਬੀਰ ਢਾਬਾ,restaurant,Punjab,,,"Malerkotla Road, 141118",,30.7469309,75.8498755,OpenStreetMap,node,11974764269,2026-11-26T07:27:17.552432+00:00
+Sunvik Cafe,cafe,Punjab,,,"B12-03845, Gate no 2, Gali no 19, Vikas nagar nayagaon",,30.7776235,76.7833595,OpenStreetMap,node,11991438689,2026-11-26T07:27:17.552443+00:00
+GCF The Chaap Hub,restaurant,Punjab,,,"Banga Road, Near Old Sabji Mandi",,31.2196114,75.7773223,OpenStreetMap,node,11993385301,2026-11-26T07:27:17.552454+00:00
+Oven Express,restaurant,Punjab,,,,,31.2518723,75.6979603,OpenStreetMap,node,12048123536,2026-11-26T07:27:17.552464+00:00
+Crystal Restaurant,restaurant,Punjab,,,,,31.6354389,74.8758265,OpenStreetMap,node,12066246661,2026-11-26T07:27:17.552473+00:00
+La Kitchen Ette,restaurant,Punjab,,,,,31.2520778,75.697735,OpenStreetMap,node,12067651796,2026-11-26T07:27:17.552483+00:00
+Dakshinam Cafe,restaurant,Punjab,,,,,31.252189,75.6977147,OpenStreetMap,node,12067651797,2026-11-26T07:27:17.552492+00:00
+Amit Food,restaurant,Punjab,,,,,31.2545278,75.6990707,OpenStreetMap,node,12067711970,2026-11-26T07:27:17.552502+00:00
+Friend's Cafe,restaurant,Punjab,,,,,31.2542408,75.6989414,OpenStreetMap,node,12067711973,2026-11-26T07:27:17.552513+00:00
+House Of Shakes,restaurant,Punjab,,,,,31.2540352,75.6992875,OpenStreetMap,node,12067711979,2026-11-26T07:27:17.552523+00:00
+Apna Chai Wala,restaurant,Punjab,,,,,31.2542528,75.6948555,OpenStreetMap,node,12067741295,2026-11-26T07:27:17.552533+00:00
+Chutney House,restaurant,Punjab,,,,,30.6501551,76.8221592,OpenStreetMap,node,12082178392,2026-11-26T07:27:17.552543+00:00
+Beera Chicken House,restaurant,Punjab,,Amritsar,"100, Majitha Road, 143001","+91-98151-22204, +91-85669-14747",31.6421862,74.8840358,OpenStreetMap,node,12090911369,2026-11-26T07:27:17.552554+00:00
+Ahaar,restaurant,Punjab,,,,,30.3530144,76.3721792,OpenStreetMap,node,12201826938,2026-11-26T07:27:17.552563+00:00
+Waterbody Cafe,fast_food,Punjab,,,,,30.355074,76.3699354,OpenStreetMap,node,12201826982,2026-11-26T07:27:17.552573+00:00
+Bombay Munchery,cafe,Punjab,,,,,30.3544996,76.3620072,OpenStreetMap,node,12201826987,2026-11-26T07:27:17.552583+00:00
+TSLAS Canteen,fast_food,Punjab,,,,,30.3568364,76.3716037,OpenStreetMap,node,12201827004,2026-11-26T07:27:17.552593+00:00
+Chai Nagri,cafe,Punjab,,,,,30.3541368,76.3623394,OpenStreetMap,node,12201827009,2026-11-26T07:27:17.552602+00:00
+Sips and Bites,restaurant,Punjab,,,,,30.3542207,76.362246,OpenStreetMap,node,12201827010,2026-11-26T07:27:17.552612+00:00
+Iqbal Juice Corner,fast_food,Punjab,,,,,30.354298,76.3621545,OpenStreetMap,node,12201827012,2026-11-26T07:27:17.552622+00:00
+Honey,cafe,Punjab,,,,,30.3543464,76.3621078,OpenStreetMap,node,12201827013,2026-11-26T07:27:17.552631+00:00
+Zyka,restaurant,Punjab,,,,,31.6216361,74.8792663,OpenStreetMap,node,12306665302,2026-11-26T07:27:17.552641+00:00
+Heera Paneer,fast_food,Punjab,,,,,31.6416666,74.8760082,OpenStreetMap,node,12310439201,2026-11-26T07:27:17.552650+00:00
+food court with a number of stalls,fast_food,Punjab,,,,,31.6363795,74.8754516,OpenStreetMap,node,12310439303,2026-11-26T07:27:17.552660+00:00
+road with food stalls for the working class,fast_food,Punjab,,,,,31.6337669,74.8784666,OpenStreetMap,node,12310439304,2026-11-26T07:27:17.552669+00:00
+Starbucks,cafe,Punjab,,,,,31.6252903,74.8786563,OpenStreetMap,node,12310439309,2026-11-26T07:27:17.552678+00:00
+South Indian Madrasi Dosa Wali,restaurant,Punjab,,,,,31.6382334,74.8754492,OpenStreetMap,node,12310440001,2026-11-26T07:27:17.552688+00:00
+Special South Indian Dosa Pav Bhaji,fast_food,Punjab,,,,,31.637873,74.8754391,OpenStreetMap,node,12310440002,2026-11-26T07:27:17.552701+00:00
+Burger King,fast_food,Punjab,,,,,31.6359961,74.8772301,OpenStreetMap,node,12310440003,2026-11-26T07:27:17.552710+00:00
+Domino's Pizza,fast_food,Punjab,,,,,31.6254757,74.8786101,OpenStreetMap,node,12310440301,2026-11-26T07:27:17.552720+00:00
+Saabi Bhathura Shop,fast_food,Punjab,,,,,31.6355664,74.8745872,OpenStreetMap,node,12311911902,2026-11-26T07:27:17.552729+00:00
+BAGICHI KITCHEN,restaurant,Punjab,FARIDKOT,PAKKA,"NH54, OPPOSITR PELICAN PLAZA, 151203",+919119161861,30.6995382,74.8100591,OpenStreetMap,node,12373039461,2026-11-26T07:27:17.552739+00:00
+The Club House,restaurant,Punjab,kapurthala,phagwara,"Phagwara Hoshiarpur Road, 144401",99883-11114 |,31.2465582,75.7748184,OpenStreetMap,node,12433610910,2026-11-26T07:27:17.552750+00:00
+Laavista Cafe & Restaurant,restaurant,Punjab,Amritsar,Amritsar,"backside state bank of india, opp dhingra petrol pump, Majitha Road, 143001",9888147781,31.6677577,74.8927519,OpenStreetMap,node,12492460326,2026-11-26T07:27:17.552762+00:00
+Chick Fi,restaurant,Punjab,,,,9914080000,30.8943356,75.9058374,OpenStreetMap,node,12502842088,2026-11-26T07:27:17.552773+00:00
+8 Hut,restaurant,Punjab,shahkot,Shahkot,"122, public school road, 144702",00917005400024,31.0908751,75.3389297,OpenStreetMap,node,12535661353,2026-11-26T07:27:17.552784+00:00
+Bakers Oven,cafe,Punjab,,,,,30.6396647,76.823111,OpenStreetMap,node,12593678796,2026-11-26T07:27:17.552793+00:00
+Avin Karthik,restaurant,Punjab,,,,,30.6388455,76.8171083,OpenStreetMap,node,12593726993,2026-11-26T07:27:17.552803+00:00
+The Barbeque Restaurant,restaurant,Punjab,,,,,30.6368708,76.8234085,OpenStreetMap,node,12596131843,2026-11-26T07:27:17.552813+00:00
+Chinese Wok,fast_food,Punjab,,,,,30.6359975,76.8234536,OpenStreetMap,node,12596151843,2026-11-26T07:27:17.552822+00:00
+Subway,fast_food,Punjab,,,,,30.6377127,76.8236075,OpenStreetMap,node,12596157866,2026-11-26T07:27:17.552832+00:00
+Bam Bam Foodz,fast_food,Punjab,,,,,30.6373195,76.8233,OpenStreetMap,node,12596162133,2026-11-26T07:27:17.552842+00:00
+Pal Dhaba,restaurant,Punjab,,,,,30.6372881,76.8233709,OpenStreetMap,node,12596167871,2026-11-26T07:27:17.552851+00:00
+Domino's,fast_food,Punjab,,,,,30.6359578,76.8234577,OpenStreetMap,node,12596170971,2026-11-26T07:27:17.552860+00:00
+Zafrani Restaurant,restaurant,Punjab,,,,,30.6382071,76.8249982,OpenStreetMap,node,12596191580,2026-11-26T07:27:17.552870+00:00
+Biryani Art,restaurant,Punjab,,,,,30.6370271,76.8238362,OpenStreetMap,node,12596198912,2026-11-26T07:27:17.552880+00:00
+Bombay Local,restaurant,Punjab,,,,,30.6382246,76.8248397,OpenStreetMap,node,12596218215,2026-11-26T07:27:17.552889+00:00
+SHANGZ,fast_food,Punjab,,,,,30.638642,76.823883,OpenStreetMap,node,12596219921,2026-11-26T07:27:17.552899+00:00
+Jashan Family Restaurant,restaurant,Punjab,,,,,30.6358561,76.8234598,OpenStreetMap,node,12596222375,2026-11-26T07:27:17.552908+00:00
+Nukkar Dhaba,restaurant,Punjab,,,,,30.6410251,76.8229761,OpenStreetMap,node,12596235123,2026-11-26T07:27:17.552918+00:00
+Urban Grilz,restaurant,Punjab,,,,,30.6403475,76.8298235,OpenStreetMap,node,12596264714,2026-11-26T07:27:17.552927+00:00
+La Pizzeria Restaurant Bakery Banquet,restaurant,Punjab,kpurthala,Begowal,"Nadala Rd, near Entrance Gate, Begowal, 144621",093534 00010,31.6090133,75.5138889,OpenStreetMap,node,12609293518,2026-11-26T07:27:17.552938+00:00
+Roasted bite,restaurant,Punjab,Kapurthala,phagwara,"122, hargobind nagar, 144401",00918752862001,31.2147699,75.7724578,OpenStreetMap,node,12650473645,2026-11-26T07:27:17.552949+00:00
+Brgr Shurger Nurmahal,restaurant,Punjab,Jalandhar,nurmahal,"new aujla market, 144039",+91 8360502067,31.0905388,75.5944349,OpenStreetMap,node,12666466454,2026-11-26T07:27:17.552960+00:00
+jatt in hut,cafe,Punjab,fatehgarh sahib,Fatehgarh Sahib,"140406, Shri jyoti saroop sahib",+919779367067,30.6429687,76.4003684,OpenStreetMap,node,12750214285,2026-11-26T07:27:17.552970+00:00
+Barista,cafe,Punjab,,Dasuya,,+91 6284 651 113,31.8337893,75.6554251,OpenStreetMap,node,12870881945,2026-11-26T07:27:17.552981+00:00
+Chai Churi,cafe,Punjab,Hoshiarpur,Garhshankar,"Anandpur Sahib Chownk, 144527",,31.2142008,76.1470461,OpenStreetMap,node,12947279943,2026-11-26T07:27:17.552991+00:00
+Sagar Ratna,restaurant,Punjab,Ludhiana,Ludhiana,"SCO 40 - 45, Sector 38, Chandigarh Road, 141010",,30.9017364,75.9038358,OpenStreetMap,node,13022580970,2026-11-26T07:27:17.553003+00:00
+Pinda Aale Restaurant in Mohali,restaurant,Punjab,Sahibzada Ajit Singh Nagar,Mohali,"Booth No 191, Mohali Bypass, Phase 10, Sector 64,, 160062",09817800082,30.6847834,76.7403955,OpenStreetMap,node,13086857789,2026-11-26T07:27:17.553016+00:00
+The Coffee house,cafe,Punjab,Hoshiarpur,Garhdiwala,"The Coffee House, Amar Complex, Near Bus Stand, 144207",+917626953679,31.7419393,75.7563815,OpenStreetMap,node,13123012822,2026-11-26T07:27:17.553026+00:00
+HR CAFE,cafe,Punjab,Sahibzada Ajit Singh Nagar,Gharuan,"D2 Chandigarh University, Ludhiana - Chandigarh Highway, 140413",,30.7712358,76.5702397,OpenStreetMap,node,13167501118,2026-11-26T07:27:17.553037+00:00
+FiQasi,cafe,Punjab,Nawanshahr,Nawanshahr,"1st Floor, Fateh Comples, 144514",,31.1224794,76.1289152,OpenStreetMap,node,13198253820,2026-11-26T07:27:17.553048+00:00
+Magic Mocks,cafe,Punjab,malerkotla,malerkotla,"college road, 148023",+918699379719,30.5211554,75.8868217,OpenStreetMap,node,13202686373,2026-11-26T07:27:17.553060+00:00
+Gully Cafe,cafe,Punjab,,,,,31.6225996,74.8803061,OpenStreetMap,node,13240575101,2026-11-26T07:27:17.553071+00:00
+Rajasthani Chat Bhandar,cafe,Punjab,,,,,31.6223614,74.8780313,OpenStreetMap,node,13240580402,2026-11-26T07:27:17.553080+00:00
+The Signet Royale,restaurant,Punjab,,,,,30.2265439,74.9471303,OpenStreetMap,node,13279460949,2026-11-26T07:27:17.553090+00:00
+"The Aroma Espresso Bar, Moonak",restaurant,Punjab,Sangrur,Moonak,"Jakhal Patran Road, Near Stadium, 148033",7347519755,29.8245152,75.8921889,OpenStreetMap,node,13283453905,2026-11-26T07:27:17.553100+00:00
+New Kundan Dhaba,restaurant,Punjab,,,,,31.6351079,74.8651144,OpenStreetMap,node,13289259978,2026-11-26T07:27:17.553110+00:00
+Jeetu Juice Stand,fast_food,Punjab,,,,,30.2081628,74.9538548,OpenStreetMap,node,13315717104,2026-11-26T07:27:17.553120+00:00
+Pizzano,restaurant,Punjab,,,,,30.2128064,74.940473,OpenStreetMap,node,13321578739,2026-11-26T07:27:17.553129+00:00
+Coffee Brew,cafe,Punjab,,,,,30.3554836,76.4550152,OpenStreetMap,node,13390333990,2026-11-26T07:27:17.553139+00:00
+Sri Ganga Nagar Dhaba,restaurant,Punjab,,,,,30.545411,76.7045666,OpenStreetMap,node,13392292807,2026-11-26T07:27:17.553149+00:00
+SAC,fast_food,Punjab,,,,,30.2165664,75.7000082,OpenStreetMap,node,13415956763,2026-11-26T07:27:17.553158+00:00
+KFC,restaurant,Punjab,,,,,30.2177883,75.6984527,OpenStreetMap,node,13415956793,2026-11-26T07:27:17.553168+00:00
+Boys Complex,restaurant,Punjab,,,,,30.2156481,75.6933134,OpenStreetMap,node,13415956805,2026-11-26T07:27:17.553178+00:00
+Amritsari Kulcha,restaurant,Punjab,,,,,30.2123615,74.9442245,OpenStreetMap,node,13437092751,2026-11-26T07:27:17.553187+00:00
+Daawat,restaurant,Punjab,,,,,31.6079819,74.8808531,OpenStreetMap,node,13595673493,2026-11-26T07:27:17.553196+00:00
+Roll Express,fast_food,Punjab,,,,,31.6307468,74.8276646,OpenStreetMap,node,13597505801,2026-11-26T07:27:17.553206+00:00
+Mohan Lal Kulcha Point,fast_food,Punjab,,,,9855844256,31.6167429,74.8755216,OpenStreetMap,node,13602072001,2026-11-26T07:27:17.553216+00:00
+Barista,cafe,Punjab,,,Jalandhar - Dalhousie Bypass,,32.2561685,75.6399603,OpenStreetMap,node,13705286501,2026-11-26T07:27:17.553227+00:00
+Barista,cafe,Punjab,,,,,32.301295,75.6018489,OpenStreetMap,node,13708146801,2026-11-26T07:27:17.553237+00:00
+Chicago Pizza,fast_food,Punjab,,,,,32.3012565,75.6018424,OpenStreetMap,node,13708147401,2026-11-26T07:27:17.553248+00:00
+Amma,restaurant,Punjab,,,,,30.6218372,76.8250144,OpenStreetMap,node,13754187501,2026-11-26T07:27:17.553258+00:00
+Momcha Pathankot,restaurant,Punjab,Pathankot,mamoon,"C/O Darshan Singh, house no 1284, Mamoon Defence Road, 145001",+917087072669,32.2836393,75.7016574,OpenStreetMap,node,13764621299,2026-11-26T07:27:17.553272+00:00
+Ramesh Sharma Sweet Shop,restaurant,Punjab,Amritsar,Amritsar,"Nayi Sadak, Lawrence Road, 143001",,31.6451632,74.8788802,OpenStreetMap,node,13827851392,2026-11-26T07:27:17.553283+00:00
+Hello Food,fast_food,Punjab,,,,+91 7718971313,31.8634037,74.9565384,OpenStreetMap,node,13904340087,2026-11-26T07:27:17.553295+00:00
+Hungry point,fast_food,Punjab,,,,+91 8146665807,31.6185523,74.7954506,OpenStreetMap,node,13909074900,2026-11-26T07:27:17.553306+00:00
+McDonald's,fast_food,Punjab,,,,,30.6796531,76.7218654,OpenStreetMap,node,13922255911,2026-11-26T07:27:17.553315+00:00
+Rana Vaishnavo Dhaba,restaurant,Punjab,,,,,31.2059146,76.6293993,OpenStreetMap,node,13938612675,2026-11-26T07:27:17.553325+00:00
+Simran Vaishno Dhaba,restaurant,Punjab,,,,,30.501009,76.7251811,OpenStreetMap,node,13943653332,2026-11-26T07:27:17.553335+00:00
+McDonald's,fast_food,Punjab,Ludhiana,Mullanpur Dakha,,,30.8505617,75.6897378,OpenStreetMap,node,13971549745,2026-11-26T07:27:17.553344+00:00
+Barista Coffee - Hotel Apricia,cafe,Punjab,,,"Glada Complex Road, 141010",078149 00893,30.8977858,75.9049482,OpenStreetMap,node,14050206901,2026-11-26T07:27:17.553356+00:00
+Baba Tea Stall,cafe,Punjab,,,,,30.9089103,75.7514823,OpenStreetMap,node,14051628433,2026-11-26T07:27:17.553365+00:00
+Cake N Snacks,restaurant,Punjab,Mohali,Zirakpur,"105 room no., Main Road Highway, 140603",,30.6295173,76.7949518,OpenStreetMap,node,14054542445,2026-11-26T07:27:17.553376+00:00
+Xero Courtyard,restaurant,Punjab,,,"South City Road, 141001",90563 93709,30.9065831,75.7716048,OpenStreetMap,node,14166961401,2026-11-26T07:27:17.553388+00:00
+Pirates of Grill,restaurant,Punjab,,,Ferozpur Road,7341125595,30.8985148,75.8226009,OpenStreetMap,node,14174696573,2026-11-26T07:27:17.553399+00:00
+heybee coffee cafe,cafe,Punjab,,,,,30.880738,75.7800408,OpenStreetMap,node,14183467382,2026-11-26T07:27:17.553409+00:00
+Kulcha Land,restaurant,Punjab,,,,,31.6202703,74.886051,OpenStreetMap,node,14200984634,2026-11-26T07:27:17.553418+00:00
+Modern Musèe,restaurant,Punjab,,,187-A,,30.8793058,75.7860073,OpenStreetMap,node,14206314454,2026-11-26T07:27:17.553430+00:00
+Shri Kumaran Dosa,restaurant,Punjab,,,193-A,,30.8789595,75.786735,OpenStreetMap,node,14206316362,2026-11-26T07:27:17.553441+00:00
+Shri Umesh Son’s Malai Chaap,restaurant,Punjab,Ludhiana,Ludhiana,"Shop 29, HIG Market, Metro Road, 141010",9781198811,30.8967808,75.9067298,OpenStreetMap,node,14211491995,2026-11-26T07:27:17.553452+00:00
+Maharaja Pizza,restaurant,Punjab,Ludhiana,Ludhiana,"HIG Market, Metro Road, 141010",08360199737,30.8968149,75.9067526,OpenStreetMap,node,14211491996,2026-11-26T07:27:17.553464+00:00
+The Taste Masters,restaurant,Punjab,,,,9056215009,30.9034785,75.7765047,OpenStreetMap,node,14242221842,2026-11-26T07:27:17.553474+00:00
+Salsa Spice ‘N’ Grill,restaurant,Punjab,,,,,30.88953,75.7974657,OpenStreetMap,node,14315771546,2026-11-26T07:27:17.553484+00:00
+Baba Hoshiarpuri Chat Bhandhar,restaurant,Punjab,,,"433/2, College Road",+919988641608,30.9108259,75.8334791,OpenStreetMap,node,14338247306,2026-11-26T07:27:17.553495+00:00
+Nayyar Caterers,cafe,Punjab,,,,,30.9074296,75.825173,OpenStreetMap,node,14338437672,2026-11-26T07:27:17.553505+00:00
+Hydration & Refreshment Point,cafe,Punjab,,,,,30.9073096,75.8418903,OpenStreetMap,node,14362164875,2026-11-26T07:27:17.553514+00:00
+Fresh Juice,fast_food,Punjab,,,,,30.9072171,75.8420616,OpenStreetMap,node,14362168613,2026-11-26T07:27:17.553524+00:00
+Khalsa Wonderful Pizza,restaurant,Punjab,,,"Nakodar-Jalandhar Road, 144026",,31.2500498,75.5282511,OpenStreetMap,node,14391871301,2026-11-26T07:27:17.553534+00:00
+K Kitchen,restaurant,Punjab,Gurdaspur,Dinanagar,"gt road, Dinanagar, Haripur, 143531",7717667272,32.1155918,75.4638296,OpenStreetMap,node,14394852596,2026-11-26T07:27:17.553546+00:00
+Domino's,fast_food,Punjab,,,,,31.2939745,75.5570932,OpenStreetMap,node,14414916700,2026-11-26T07:27:17.553556+00:00
+GS Estate Marriage Palace,restaurant,Punjab,,,,,30.9579288,76.5138544,OpenStreetMap,way,54030466,2026-11-26T07:27:17.553567+00:00
+Malhotra Marriage Palace,restaurant,Punjab,,,,,30.9558846,75.8207354,OpenStreetMap,way,54729430,2026-11-26T07:27:17.553577+00:00
+Paras Haveli,restaurant,Punjab,,,,,30.3838663,75.5392002,OpenStreetMap,way,78343664,2026-11-26T07:27:17.553587+00:00
+Langar Ghar Free Community Kitchen,restaurant,Punjab,,,,,31.6195207,74.8778821,OpenStreetMap,way,102957922,2026-11-26T07:27:17.553597+00:00
+Jagga Dhaba,restaurant,Punjab,,,,,30.2941583,74.0999231,OpenStreetMap,way,108926702,2026-11-26T07:27:17.553607+00:00
+Grewal Dhaba,restaurant,Punjab,,,,,30.7211971,76.2493324,OpenStreetMap,way,231592045,2026-11-26T07:27:17.553617+00:00
+Daawat,restaurant,Punjab,,,,,30.7075466,76.2144167,OpenStreetMap,way,236513259,2026-11-26T07:27:17.553628+00:00
+Mucchad,restaurant,Punjab,,,,,30.7036704,76.221058,OpenStreetMap,way,236514216,2026-11-26T07:27:17.553638+00:00
+Canteen,cafe,Punjab,,Khanna,,,30.7009285,76.2431365,OpenStreetMap,way,243551417,2026-11-26T07:27:17.553649+00:00
+Hotel Paradiso,restaurant,Punjab,,Fazilka,"Freedom Fighter Road, 152123",01638-262007,30.4103718,74.0344837,OpenStreetMap,way,254653994,2026-11-26T07:27:17.553662+00:00
+Mountview Garden,restaurant,Punjab,,Ajitwal,,,30.8124568,75.3482601,OpenStreetMap,way,262065662,2026-11-26T07:27:17.553673+00:00
+ONN,restaurant,Punjab,,,,,30.9009112,75.8217442,OpenStreetMap,way,318730472,2026-11-26T07:27:17.553684+00:00
+Chaupati,fast_food,Punjab,,,,,30.8924284,75.8448147,OpenStreetMap,way,355921421,2026-11-26T07:27:17.553694+00:00
+Canteen,cafe,Punjab,,,,,30.6464658,76.40001,OpenStreetMap,way,365998235,2026-11-26T07:27:17.553724+00:00
+Mittran Da Ddaba,restaurant,Punjab,,,,,30.7874651,76.4090185,OpenStreetMap,way,366676808,2026-11-26T07:27:17.553736+00:00
+Weather Spice,restaurant,Punjab,,,,,30.8750866,75.8400047,OpenStreetMap,way,384485189,2026-11-26T07:27:17.553746+00:00
+Canteen,restaurant,Punjab,,,State Highway 10,,29.933619,75.5680117,OpenStreetMap,way,437106992,2026-11-26T07:27:17.553757+00:00
+Square One,restaurant,Punjab,,,,,30.5150174,76.6598234,OpenStreetMap,way,508227181,2026-11-26T07:27:17.553768+00:00
+Thind Sweets,restaurant,Punjab,,,,,31.2142988,75.1977916,OpenStreetMap,way,547698241,2026-11-26T07:27:17.553778+00:00
+Arora Restaurant,restaurant,Punjab,,,,,31.7001276,74.821815,OpenStreetMap,way,607986832,2026-11-26T07:27:17.553788+00:00
+Shahi Qila,restaurant,Punjab,,,,,31.6057316,74.5768656,OpenStreetMap,way,619027164,2026-11-26T07:27:17.553798+00:00
+Zimidara Haveli,restaurant,Punjab,,,,,31.0823732,76.6015268,OpenStreetMap,way,857752200,2026-11-26T07:27:17.553809+00:00
+Highway Punjabi Dhaba,restaurant,Punjab,,,,,31.0817234,76.6013044,OpenStreetMap,way,857752202,2026-11-26T07:27:17.553818+00:00
+Alpine Dhaba,restaurant,Punjab,,,,,31.0823381,76.6030224,OpenStreetMap,way,857752203,2026-11-26T07:27:17.553829+00:00
+The Green Emerald - Forest Hill & Country Club,restaurant,Punjab,,,,,30.7853032,76.8139447,OpenStreetMap,way,863305796,2026-11-26T07:27:17.553842+00:00
+ONE BITE MALOUT,restaurant,Punjab,,malout,"134, sky mall, 152107",+91 7844081081,30.2057399,74.5006881,OpenStreetMap,way,923434712,2026-11-26T07:27:17.553854+00:00
+Patiala House,restaurant,Punjab,,,,,30.3260868,76.3914183,OpenStreetMap,way,934565091,2026-11-26T07:27:17.553864+00:00
+Club -16,restaurant,Punjab,,,,,30.3234273,76.3892689,OpenStreetMap,way,934565096,2026-11-26T07:27:17.553876+00:00
+Langar Ghar Free Community Kitchen,restaurant,Punjab,,,,,30.3372191,75.3883926,OpenStreetMap,way,953225415,2026-11-26T07:27:17.553887+00:00
+V Max Resorts,restaurant,Punjab,,Pohir,"Jagera Road, Near Ludhiana malerkotla road, 141204",+919781899271,30.687571,75.8509588,OpenStreetMap,way,965127820,2026-11-26T07:27:17.553898+00:00
+Healthy Treat,restaurant,Punjab,,Jalandhar,"Mann Nagar Market, 144003",+917009652700,31.2944677,75.5596794,OpenStreetMap,way,1034990877,2026-11-26T07:27:17.553910+00:00
+The Eternity,restaurant,Punjab,,Amritsar,"SCF -15, C Block market, Ranjit Avenue, 143001",+91 70000 76684,31.6567737,74.8669136,OpenStreetMap,way,1037290455,2026-11-26T07:27:17.553922+00:00
+Starbucks,cafe,Punjab,,,,,30.6197603,76.824177,OpenStreetMap,way,1101860122,2026-11-26T07:27:17.553932+00:00
+McDonald's,fast_food,Punjab,,,,,30.6202309,76.823974,OpenStreetMap,way,1101860124,2026-11-26T07:27:17.553942+00:00
+Burger King,fast_food,Punjab,,,,,30.6208803,76.82395,OpenStreetMap,way,1101860125,2026-11-26T07:27:17.553953+00:00
+ਲੰਗਰ ਘਰ,restaurant,Punjab,,,,,30.3136631,75.477327,OpenStreetMap,way,1103185793,2026-11-26T07:27:17.553964+00:00
+Green View,restaurant,Punjab,,Zirakpur,Aerocity Road,,30.6198663,76.8131507,OpenStreetMap,way,1135594801,2026-11-26T07:27:17.553978+00:00
+Churi House,cafe,Punjab,Amritsar,Amritsar,"Opposite GNDU, Amritsar, 143005",9728687542,31.6306046,74.8267654,OpenStreetMap,way,1261395998,2026-11-26T07:27:17.553989+00:00
+Nature Hut,restaurant,Punjab,,Shahkot,"Near Pro Fitness Gym, 144702",,31.0899371,75.3389026,OpenStreetMap,way,1262977629,2026-11-26T07:27:17.554001+00:00
+Churi House,restaurant,Punjab,Patiala,PATIALA,"Shop No 104, New Leela Bhawan, Patiala, 147001",8813015153,30.3350326,76.3831143,OpenStreetMap,way,1267935898,2026-11-26T07:27:17.554012+00:00
+ALDOZ | EASTWOOD VILLAGE,restaurant,Punjab,kapurthala,phagwara,"Eastwood village Phagwara- Jalandhar highway, 144411",+91,31.2748789,75.6846978,OpenStreetMap,way,1284471657,2026-11-26T07:27:17.554024+00:00
+desi & delicious,restaurant,Punjab,kapurthala,Phagwara,"near golden gym , law gate rd, 144411",,31.2548274,75.6985538,OpenStreetMap,way,1299813019,2026-11-26T07:27:17.554035+00:00
+dogra dhaba,restaurant,Punjab,,,,,31.2541001,75.6997391,OpenStreetMap,way,1300687926,2026-11-26T07:27:17.554046+00:00
+Kulhad Masti,cafe,Punjab,,,,,31.2542847,75.6995371,OpenStreetMap,way,1300700302,2026-11-26T07:27:17.554056+00:00
+Ghost Shooter,restaurant,Punjab,,,,,31.2543985,75.699414,OpenStreetMap,way,1300700303,2026-11-26T07:27:17.554066+00:00
+Majlis Restaurant,restaurant,Punjab,,,,,31.2546108,75.698987,OpenStreetMap,way,1300700306,2026-11-26T07:27:17.554076+00:00
+govinda kitchen,restaurant,Punjab,,,,,31.2545689,75.6974154,OpenStreetMap,way,1300759654,2026-11-26T07:27:17.554086+00:00
+the fat chef,restaurant,Punjab,,,,,31.2546257,75.6974091,OpenStreetMap,way,1300759655,2026-11-26T07:27:17.554096+00:00
+McDonald's,fast_food,Punjab,,,,,30.222849,75.0632285,OpenStreetMap,way,1303897049,2026-11-26T07:27:17.554106+00:00
+KFC,fast_food,Punjab,,,,,30.2228268,75.0627873,OpenStreetMap,way,1303897052,2026-11-26T07:27:17.554117+00:00
+Kravings,restaurant,Punjab,,,,,30.3536078,76.3669371,OpenStreetMap,way,1318424159,2026-11-26T07:27:17.554128+00:00
+Canteen(G Block),restaurant,Punjab,,,,,30.3528143,76.3689603,OpenStreetMap,way,1318424161,2026-11-26T07:27:17.554138+00:00
+LAAVISTA CAFE & RESTAURANT,cafe,Punjab,Amritsar,Amritsar,"Backside State bank of india, Green Field, Majitha Road, 143001",+916280109717,31.6677504,74.8927499,OpenStreetMap,way,1345968712,2026-11-26T07:27:17.554150+00:00
+Retro Mocha,cafe,Punjab,Sahibzada Ajit Singh Nagar,"Sahibzada Ajit Singh Nagar, Mohali","Sco 15, Sector 68, Sector 68, SAS Nagar, 160062",8708508035,30.6846572,76.7223668,OpenStreetMap,way,1347254046,2026-11-26T07:27:17.554162+00:00
+Guest house,restaurant,Punjab,,,,,30.9712629,76.4770482,OpenStreetMap,way,1349753249,2026-11-26T07:27:17.554173+00:00
+Chayakkada - Kerala Restaurant,restaurant,Punjab,,,,,31.254716,75.6975796,OpenStreetMap,way,1366769744,2026-11-26T07:27:17.554183+00:00
+Indian Spicy Restaurant,restaurant,Punjab,,Machhiwara,"Near old post office, 141115",8196852253,30.9148105,76.1979626,OpenStreetMap,way,1380759758,2026-11-26T07:27:17.554194+00:00
+Jack's Pizza Cafe,cafe,Punjab,Barnala,mehal kalan,"Raikot Road, 148104",6284794700,30.5237811,75.5689393,OpenStreetMap,way,1381363724,2026-11-26T07:27:17.554205+00:00
+Chai Churi,cafe,Punjab,Shahid Bhagat Singh Nagar,Balachaur,"Chandigarh Ropar Road, 144521",,31.0609105,76.2995219,OpenStreetMap,way,1384020480,2026-11-26T07:27:17.554216+00:00
+Annapoorna University Mess,fast_food,Punjab,,,,,30.1399144,74.7938013,OpenStreetMap,way,1387615075,2026-11-26T07:27:17.554228+00:00
+Baithak Café,cafe,Punjab,Patiala,Patiala,"Lower Mall to Karah wala Chowk Rd., 147001",,30.3154724,76.3975066,OpenStreetMap,way,1427965357,2026-11-26T07:27:17.554239+00:00
+Bansal Bakers,restaurant,Punjab,Amritsar,Amritsar,"Shop no. 107-109,, Ground Floor, Nehru Shopping Complex, 143001",,31.6414661,74.8760833,OpenStreetMap,way,1428213667,2026-11-26T07:27:17.554251+00:00
+Sharma Fast Food,fast_food,Punjab,,,,,31.9732812,75.2764812,OpenStreetMap,way,1517350923,2026-11-26T07:27:17.554264+00:00
+Farmer's Cafe,cafe,Punjab,,,,+91 8699891531,31.6364113,74.8567449,OpenStreetMap,way,1526022666,2026-11-26T07:27:17.554275+00:00
+Maggi Point,cafe,Punjab,,,,,30.9679251,76.4692685,OpenStreetMap,way,1550634810,2026-11-26T07:27:17.554285+00:00
+Burger House,cafe,Punjab,,,,,30.9677688,76.4692728,OpenStreetMap,way,1550634811,2026-11-26T07:27:17.554297+00:00
+Jal Mahal,restaurant,Punjab,,,,,32.3672894,75.5981139,OpenStreetMap,way,1562545441,2026-11-26T07:27:17.554312+00:00
+Verka Milk Booth,cafe,Punjab,,,,,30.9056174,75.8241891,OpenStreetMap,way,1574194098,2026-11-26T07:27:17.554390+00:00
+Cafeteria,cafe,Punjab,,,,,30.9106274,75.8425872,OpenStreetMap,way,1577087800,2026-11-26T07:27:17.554411+00:00
+CAFE RAZZMATAZ,cafe,Punjab,,,,,31.2929603,75.5462858,OpenStreetMap,way,1584331485,2026-11-26T07:27:17.554427+00:00

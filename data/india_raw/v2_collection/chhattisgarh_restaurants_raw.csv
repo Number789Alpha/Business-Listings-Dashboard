@@ -1,0 +1,186 @@
+business_name,category,state,district,city,address,phone,latitude,longitude,source,osm_type,osm_id,collection_time_utc
+Hotel Dream Point,restaurant,Chhattisgarh,,,,,22.0155434,82.596818,OpenStreetMap,node,2432184523,2026-11-26T07:41:54.041980+00:00
+Grand Dhillon,restaurant,Chhattisgarh,,,,,21.2007865,81.323755,OpenStreetMap,node,2921571190,2026-11-26T07:41:54.041994+00:00
+Pankh Restaurant,restaurant,Chhattisgarh,,,,,21.100211,81.0367413,OpenStreetMap,node,4211122773,2026-11-26T07:41:54.041998+00:00
+DADA BIRYANI,restaurant,Chhattisgarh,,,,,22.0573285,82.1705626,OpenStreetMap,node,4426088132,2026-11-26T07:41:54.042001+00:00
+COMESUM,fast_food,Chhattisgarh,,,,,22.0564365,82.1715105,OpenStreetMap,node,4426088140,2026-11-26T07:41:54.042004+00:00
+Flora the resturant,restaurant,Chhattisgarh,,raipur,"Kutchery chowk Busstand road Pandri, 492004",+91 9826862950,21.2473842,81.6434345,OpenStreetMap,node,4443594090,2026-11-26T07:41:54.042009+00:00
+Café Junoon,restaurant,Chhattisgarh,,raipur,"Civil lines,raipur, 492001",+91 9981935395,21.2341834,81.6516974,OpenStreetMap,node,4443595537,2026-11-26T07:41:54.042013+00:00
+Mario's,restaurant,Chhattisgarh,,raipur,"Shop No4 multi function complex, platform no1, near reservation office, station road, 492001",+91 09200192003,21.2558241,81.6296152,OpenStreetMap,node,4443622757,2026-11-26T07:41:54.042017+00:00
+Indian chilly,restaurant,Chhattisgarh,,raipur,"main road,ocm chouk,near kali mandir,, 492001",+91 7714266616,21.2382441,81.6440812,OpenStreetMap,node,4443637241,2026-11-26T07:41:54.042020+00:00
+Good Food restaurant,restaurant,Chhattisgarh,,raipur,"Tamboli bhawan,tatyapara chowk,GE RD,tatyapara, 492001",+91 964423234,21.2405404,81.6306648,OpenStreetMap,node,4443656446,2026-11-26T07:41:54.042023+00:00
+CCD chotpara,cafe,Chhattisgarh,,Raipur,"inside DMZ plaza near subhash stadium,stadium road, 492001",+91 9329341014,21.2383648,81.6403175,OpenStreetMap,node,4443777053,2026-11-26T07:41:54.042026+00:00
+CCD -GE road,restaurant,Chhattisgarh,,Raipur,"SLT water front,mouli para,telebandha, 492006",+91 9229738005,21.241115,81.6609995,OpenStreetMap,node,4443803003,2026-11-26T07:41:54.042029+00:00
+Pizza Hut,restaurant,Chhattisgarh,,Raipur,"Shop No 1&2, Raheja Towers,Fafadi Chowk, Jail Road, 492001",+91 7713988398,21.2558937,81.6376719,OpenStreetMap,node,4444193150,2026-11-26T07:41:54.042033+00:00
+Nukkad the teafe,restaurant,Chhattisgarh,,raipur,"Shop no GB8,In Front of Bnak Of Baroda,Samta Colony Main Road, Moti Nagar, 492001",,21.2465046,81.6232362,OpenStreetMap,node,4444319913,2026-11-26T07:41:54.042036+00:00
+Bambooza good food hut,restaurant,Chhattisgarh,,raipur,"shop no. 3 nalghar chowk,near kali mandir chowk,akashwvani,civil lanes,raipur, 492001",+917714069991,21.2382105,81.6438036,OpenStreetMap,node,4444997723,2026-11-26T07:41:54.042039+00:00
+Dominos Tihmapara,restaurant,Chhattisgarh,,Raipur,"grnd floor,kh no 464/83/p, Mousa,Tihmapara,ward no. 51,Rabindranath Tagore ward raipur, 492001",+9177166601111,21.2169012,81.6547432,OpenStreetMap,node,4445046480,2026-11-26T07:41:54.042042+00:00
+Chugfah Chinees Resturant,restaurant,Chhattisgarh,,raipur,"Shankar Nagar Road,New Shanthi Nagar,Near Jeevan Memorial Hosphital, 492006",9827375043,21.2495549,81.6573025,OpenStreetMap,node,4445094257,2026-11-26T07:41:54.042045+00:00
+Madrasi Grill,restaurant,Chhattisgarh,,Raipur,"Bhawani Patna-Raipur High Way,TeliBaldha, 492001",+919399021002,21.2412648,81.6602206,OpenStreetMap,node,4445101578,2026-11-26T07:41:54.042048+00:00
+Nest Bar&Resturant,restaurant,Chhattisgarh,,raipur,"Above Pachpedi naka Petrol Pump,Pachpedi naka road, 492001",932952030,21.2206038,81.6501992,OpenStreetMap,node,4445111916,2026-11-26T07:41:54.042052+00:00
+Tantra,restaurant,Chhattisgarh,,raipur,"city mall 36, 4th floor, 492001",+91 9981622555,21.2362619,81.6855161,OpenStreetMap,node,4445176612,2026-11-26T07:41:54.042054+00:00
+Cafe Coffee Day,cafe,Chhattisgarh,,Raipur,"36, 492001",+91 7716460104,21.2362854,81.6854937,OpenStreetMap,node,4445194077,2026-11-26T07:41:54.042058+00:00
+Rush & roll,fast_food,Chhattisgarh,,raipur,"City Mall 36, 4th Floor, 492001",,21.2363988,81.6860192,OpenStreetMap,node,4445200061,2026-11-26T07:41:54.042062+00:00
+chaat express,fast_food,Chhattisgarh,,raipur,"shno-4,4th floor city mall36, 492001",,21.236359,81.6860171,OpenStreetMap,node,4445252841,2026-11-26T07:41:54.042065+00:00
+Silk route,restaurant,Chhattisgarh,,,city mall 4th floor,,21.2363363,81.6860192,OpenStreetMap,node,4445256075,2026-11-26T07:41:54.042068+00:00
+Angle dragon,restaurant,Chhattisgarh,,,"4th floor, citymall36",+91 9301840240,21.2363135,81.6860192,OpenStreetMap,node,4445259350,2026-11-26T07:41:54.042072+00:00
+Dosa Plaza,restaurant,Chhattisgarh,,raipur,"4th floor, city mall 36, 492001",,21.2362849,81.6860212,OpenStreetMap,node,4445263851,2026-11-26T07:41:54.042075+00:00
+bytes,restaurant,Chhattisgarh,,raipur,"4th floor, city mall 36, shop no-7, 492001",,21.2362661,81.6860183,OpenStreetMap,node,4445269699,2026-11-26T07:41:54.042078+00:00
+muglai n indiana,restaurant,Chhattisgarh,,raipur,"4th floor, city mall 36, 492001",,21.2362415,81.6860183,OpenStreetMap,node,4445276493,2026-11-26T07:41:54.042082+00:00
+Raju dhaba,restaurant,Chhattisgarh,,raipur,"NH-6, Near Jindal Steel & Power Limited, VIP Colony, Raipur, Chhattisgarh, 492007",7712471203,21.2610729,81.6766873,OpenStreetMap,node,4445287930,2026-11-26T07:41:54.042084+00:00
+hangout the food court,fast_food,Chhattisgarh,,Raipur,"vidhan sadha road,mowa, 492007",,21.2758612,81.6874678,OpenStreetMap,node,4446069899,2026-11-26T07:41:54.042088+00:00
+cool delights,restaurant,Chhattisgarh,,Raipur,"vidhan sabha road,mowa, 492007",+91 7716002042,21.2749709,81.6880715,OpenStreetMap,node,4446084083,2026-11-26T07:41:54.042091+00:00
+only noodles,restaurant,Chhattisgarh,,Raipur,"vidhan sabha road,mowa, 492007",+91 9926713338,21.2758162,81.6875564,OpenStreetMap,node,4446090269,2026-11-26T07:41:54.042094+00:00
+Kathi Junction,restaurant,Chhattisgarh,,Raipur,"vidhan sadha road,mowa,, 492007",+91 7714092022,21.2745596,81.6877778,OpenStreetMap,node,4446138885,2026-11-26T07:41:54.042097+00:00
+yo china,restaurant,Chhattisgarh,,raipur,"m8 G.E road highway ,Telibanda, 406909",,21.2382141,81.6736877,OpenStreetMap,node,4446205556,2026-11-26T07:41:54.042100+00:00
+veggies,fast_food,Chhattisgarh,,raipur,"shastri chauk citi road, 492007",+91 77140 35101,21.2456999,81.6416804,OpenStreetMap,node,4446223623,2026-11-26T07:41:54.042103+00:00
+Girnar Restaurant,restaurant,Chhattisgarh,,raipur,"Jaistambh Ge road, 492001",+91 7714035776,21.2436938,81.6351022,OpenStreetMap,node,4446237272,2026-11-26T07:41:54.042106+00:00
+Mocha Express,restaurant,Chhattisgarh,,raipur,"Near IDBI Bank, Katara Talab,, 492001",+91 77147 00000,21.2376896,81.6464063,OpenStreetMap,node,4446308008,2026-11-26T07:41:54.042109+00:00
+café coffee day,cafe,Chhattisgarh,,Raipur,"vidhan sabha roaD, 492007",,21.2745982,81.6880273,OpenStreetMap,node,4446321899,2026-11-26T07:41:54.042112+00:00
+Cafe Coffee Day,cafe,Chhattisgarh,,raipur,"amazing hotel,multi function complex,rail way station, 492001",,21.2559191,81.6296579,OpenStreetMap,node,4446339888,2026-11-26T07:41:54.042115+00:00
+Domino's,restaurant,Chhattisgarh,,Raipur,"DevendarNagar City Central Mall, 492001",+9177166 17777,21.2551038,81.6464992,OpenStreetMap,node,4446889580,2026-11-26T07:41:54.042118+00:00
+Cream center,restaurant,Chhattisgarh,,,"Shop 218 ambuja city center mail,vidhan sabha road",+917714069991,21.2757963,81.6879073,OpenStreetMap,node,4446893377,2026-11-26T07:41:54.042121+00:00
+KFC,fast_food,Chhattisgarh,,"Raipur,","G34 Ground Floor, Magneto The Mall, NH6, Labhandi,, 492001",+9177130 09368,21.2395721,81.684248,OpenStreetMap,node,4446915584,2026-11-26T07:41:54.042124+00:00
+open China,restaurant,Chhattisgarh,,raipur,"S20, Magneto The Mall, National Highway 6, Jivan Vihar, 492001",,21.2393887,81.68423,OpenStreetMap,node,4446985259,2026-11-26T07:41:54.042128+00:00
+Suruchi,restaurant,Chhattisgarh,,Raipur,"NH43 PachpediNaka,bajaj colony,gurumukh singh nagar, 492001",+91 7714000041,21.2170938,81.6563906,OpenStreetMap,node,4447022321,2026-11-26T07:41:54.042130+00:00
+Sankalp,restaurant,Chhattisgarh,,Raipur,"NH43 PachpediNaka,bajaj colony,gurumukh singh nagar, 492001",,21.2174235,81.6566793,OpenStreetMap,node,4447047793,2026-11-26T07:41:54.042133+00:00
+Sam's pizza,fast_food,Chhattisgarh,,Raipur,"NH43 PachpediNaka,bajaj colony,gurumukh singh nagar, 492001",,21.2170607,81.6565223,OpenStreetMap,node,4447048034,2026-11-26T07:41:54.042136+00:00
+Saffron,restaurant,Chhattisgarh,,Raipur,"NH43 PachpediNaka,bajaj colony,gurumukh singh nagar, 492001",+91 7714000052,21.2173618,81.6567748,OpenStreetMap,node,4447055042,2026-11-26T07:41:54.042139+00:00
+Juice Lounge,restaurant,Chhattisgarh,,Raipur,"NH43 PachpediNaka,bajaj colony,gurumukh singh nagar, 492001",+91 7714056950,21.2171636,81.6566634,OpenStreetMap,node,4447060170,2026-11-26T07:41:54.042142+00:00
+Livia The Banquet,restaurant,Chhattisgarh,,Raipur,"NH43 PachpediNaka,bajaj colony,gurumukh singh nagar, 492001",,21.2173217,81.6565752,OpenStreetMap,node,4447073025,2026-11-26T07:41:54.042145+00:00
+Cafe Coffee Day,cafe,Chhattisgarh,,raipur,"inside airport, mana, 492015",,21.1859425,81.7401511,OpenStreetMap,node,4447089934,2026-11-26T07:41:54.042148+00:00
+GOLI Vada Pav No. 1,fast_food,Chhattisgarh,,raipur,"Ramsagar Para Main Rd, 492001",+91 76920 20002,21.2435959,81.6344033,OpenStreetMap,node,4451888576,2026-11-26T07:41:54.042151+00:00
+shimla fast food,fast_food,Chhattisgarh,,,,,21.2536414,81.6617362,OpenStreetMap,node,4712995662,2026-11-26T07:41:54.042154+00:00
+Little HUT,fast_food,Chhattisgarh,,,,,21.243981,81.6104305,OpenStreetMap,node,4713523806,2026-11-26T07:41:54.042157+00:00
+Cafe Confusion,cafe,Chhattisgarh,,,,,21.2271376,81.650141,OpenStreetMap,node,4714397009,2026-11-26T07:41:54.042160+00:00
+H3 cafe,cafe,Chhattisgarh,,,,,21.22391,81.650734,OpenStreetMap,node,4714401957,2026-11-26T07:41:54.042162+00:00
+shamrock,restaurant,Chhattisgarh,,,,,21.2521319,81.6495489,OpenStreetMap,node,4714646587,2026-11-26T07:41:54.042165+00:00
+Mamamia,fast_food,Chhattisgarh,,,,,21.2237324,81.6515993,OpenStreetMap,node,4715640603,2026-11-26T07:41:54.042168+00:00
+prem kirana,fast_food,Chhattisgarh,,,Killapara road,9424240007,21.4118595,80.9873789,OpenStreetMap,node,4979972926,2026-11-26T07:41:54.042171+00:00
+sindhi hotal,restaurant,Chhattisgarh,,,,,21.3942251,81.9719798,OpenStreetMap,node,5321194053,2026-11-26T07:41:54.042175+00:00
+Jagdish Hotel,restaurant,Chhattisgarh,,,,,21.247689,81.6600675,OpenStreetMap,node,5332387472,2026-11-26T07:41:54.042177+00:00
+Dabbawala,restaurant,Chhattisgarh,,,,,21.2524829,81.6638758,OpenStreetMap,node,5377856035,2026-11-26T07:41:54.042180+00:00
+Indian Music Restaurant Dhamtari,restaurant,Chhattisgarh,,Dhamtari,,,20.7093983,81.5489566,OpenStreetMap,node,5549631236,2026-11-26T07:41:54.042184+00:00
+Bunk class,fast_food,Chhattisgarh,,raipur,"Amanaka, GE Road",,21.2517898,81.5985313,OpenStreetMap,node,6008131995,2026-11-26T07:41:54.042188+00:00
+charlii,restaurant,Chhattisgarh,,Bhatpara,"493118, city center moll",,21.7354398,81.9441066,OpenStreetMap,node,6011718147,2026-11-26T07:41:54.042192+00:00
+Science college Canteen,restaurant,Chhattisgarh,,raipur,GE Road,,21.247075,81.6019559,OpenStreetMap,node,6027775780,2026-11-26T07:41:54.042196+00:00
+Mayuri Restaurant,restaurant,Chhattisgarh,,,,,19.0878435,82.0139121,OpenStreetMap,node,6106676437,2026-11-26T07:41:54.042200+00:00
+Streetfood Market,fast_food,Chhattisgarh,,,,,19.0835687,82.029267,OpenStreetMap,node,6110306687,2026-11-26T07:41:54.042203+00:00
+New Kerala Restaurant,restaurant,Chhattisgarh,,,,,19.086329,82.0249208,OpenStreetMap,node,6110306699,2026-11-26T07:41:54.042206+00:00
+Panchratna,restaurant,Chhattisgarh,,,,,19.0853087,82.0245522,OpenStreetMap,node,6110306703,2026-11-26T07:41:54.042209+00:00
+Vaishnavi,restaurant,Chhattisgarh,,,,,19.0843213,82.0243442,OpenStreetMap,node,6110306705,2026-11-26T07:41:54.042212+00:00
+Makri Hotel,restaurant,Chhattisgarh,,,,,20.3148842,81.4635918,OpenStreetMap,node,6121241447,2026-11-26T07:41:54.042215+00:00
+Famous Fast food center,fast_food,Chhattisgarh,,,,,21.1130219,82.0947206,OpenStreetMap,node,6138476285,2026-11-26T07:41:54.042218+00:00
+PATEL HOTEL,fast_food,Chhattisgarh,,TUMGAON,"PIRDA, 493445",,21.2106686,82.1530774,OpenStreetMap,node,6279136873,2026-11-26T07:41:54.042221+00:00
+Momos Adda,cafe,Chhattisgarh,,raipur,"shyam nagar road, Katora talab, 492001",,21.234348,81.6541646,OpenStreetMap,node,6280302769,2026-11-26T07:41:54.042224+00:00
+Punjabi Dhaba,restaurant,Chhattisgarh,,raipur,GE Road,,21.2526873,81.5984613,OpenStreetMap,node,6280344015,2026-11-26T07:41:54.042227+00:00
+Noorjahan,restaurant,Chhattisgarh,,raipur,"Amanaka, GE Road",,21.2520432,81.5980279,OpenStreetMap,node,6285432524,2026-11-26T07:41:54.042230+00:00
+Bajrang Hotel,restaurant,Chhattisgarh,,,,,21.2549576,81.5940851,OpenStreetMap,node,6285432526,2026-11-26T07:41:54.042233+00:00
+Dewangan Poultry Farm,fast_food,Chhattisgarh,,sakti,495689,,22.0233075,82.9624393,OpenStreetMap,node,6721020816,2026-11-26T07:41:54.042237+00:00
+Gopal Pan Center,fast_food,Chhattisgarh,,sakti,495689,,22.0237076,82.9609672,OpenStreetMap,node,6723143744,2026-11-26T07:41:54.042240+00:00
+Hindustan Proteins,fast_food,Chhattisgarh,,Sakti,495689,,22.0248152,82.9612835,OpenStreetMap,node,6734599707,2026-11-26T07:41:54.042243+00:00
+Natraj Hotel,restaurant,Chhattisgarh,,sakti,495689,,22.0260308,82.9591917,OpenStreetMap,node,6734939911,2026-11-26T07:41:54.042246+00:00
+Dewangan Jal Paan Grih,restaurant,Chhattisgarh,,,,,22.0268472,82.958985,OpenStreetMap,node,6735088228,2026-11-26T07:41:54.042249+00:00
+Mohan Bhog Rrestaurant,restaurant,Chhattisgarh,,Sakti,495689,,22.0230079,82.9572827,OpenStreetMap,node,6743670892,2026-11-26T07:41:54.042252+00:00
+Cheddi Hotel,restaurant,Chhattisgarh,,Sakti,495689,,22.0295615,82.9582788,OpenStreetMap,node,6749355743,2026-11-26T07:41:54.042254+00:00
+Chattu Hotel,restaurant,Chhattisgarh,,,,,22.0302722,82.9639832,OpenStreetMap,node,6749411097,2026-11-26T07:41:54.042378+00:00
+Singh Dhaba,restaurant,Chhattisgarh,,Sakti,495689,,22.0225138,82.9547587,OpenStreetMap,node,6752570316,2026-11-26T07:41:54.042381+00:00
+Abhilasha Restaurant,restaurant,Chhattisgarh,,,,,22.0227826,82.9538916,OpenStreetMap,node,6752570321,2026-11-26T07:41:54.042384+00:00
+Marwadi Restaurant,restaurant,Chhattisgarh,,Sakti,495689,,22.0220613,82.9465329,OpenStreetMap,node,6752635404,2026-11-26T07:41:54.042388+00:00
+Papa Dhaba,restaurant,Chhattisgarh,,Sakti,"Harethi, 495689",,22.0226679,82.9403579,OpenStreetMap,node,6752658104,2026-11-26T07:41:54.042391+00:00
+Gopi Hotel,restaurant,Chhattisgarh,,Sakti,495689,,22.0192336,82.959755,OpenStreetMap,node,6760286633,2026-11-26T07:41:54.042394+00:00
+Om Daily Needs,fast_food,Chhattisgarh,,Sakti,495689,,22.0197398,82.9594662,OpenStreetMap,node,6764887505,2026-11-26T07:41:54.042397+00:00
+Shahnaj Poultry Farm,fast_food,Chhattisgarh,,Sakti,495689,,22.0128765,82.9595757,OpenStreetMap,node,6774275860,2026-11-26T07:41:54.042400+00:00
+Himalaya Hotel,restaurant,Chhattisgarh,,Sakti,495689,,22.0126264,82.9556392,OpenStreetMap,node,6776486510,2026-11-26T07:41:54.042402+00:00
+Domino's,fast_food,Chhattisgarh,,,,,21.2560173,81.6296823,OpenStreetMap,node,6837205825,2026-11-26T07:41:54.042406+00:00
+Madrasi Bites,restaurant,Chhattisgarh,,,,+919399021003,21.2516496,81.6475348,OpenStreetMap,node,7510456522,2026-11-26T07:41:54.042410+00:00
+Madrasi Food Park,restaurant,Chhattisgarh,,,,+919399021008,21.2462936,81.6059652,OpenStreetMap,node,7510539810,2026-11-26T07:41:54.042412+00:00
+Madrasi Highway,restaurant,Chhattisgarh,,,,+919399021004,21.2170848,81.6237222,OpenStreetMap,node,7510550991,2026-11-26T07:41:54.042415+00:00
+Hemant Hotel,restaurant,Chhattisgarh,,,,,19.8657824,81.635344,OpenStreetMap,node,8118973792,2026-11-26T07:41:54.042418+00:00
+Sagar Restaurant,restaurant,Chhattisgarh,,Pharasgaon,,,19.8621455,81.6353907,OpenStreetMap,node,8119977148,2026-11-26T07:41:54.042421+00:00
+Cafe Coffee Day,cafe,Chhattisgarh,,jaipur,"123, jumair road, 497778",+91 9827463529,23.7653603,81.6942712,OpenStreetMap,node,8813521621,2026-11-26T07:41:54.042425+00:00
+Yadav Dhaba 2,restaurant,Chhattisgarh,,,,,19.201,81.71072,OpenStreetMap,node,9216388333,2026-11-26T07:41:54.042428+00:00
+Chacha Dhaba,restaurant,Chhattisgarh,,,,,19.0180008,81.9165179,OpenStreetMap,node,9217876715,2026-11-26T07:41:54.042431+00:00
+Urban Bistro,cafe,Chhattisgarh,,Bilaspur,"Beside shri ji plaza, near shiv talkies chowk, Bilaspur, Chhattisgarh, tikrapara, 495001",8827566790,22.0721701,82.1618509,OpenStreetMap,node,9399480957,2026-11-26T07:41:54.042435+00:00
+Dashmesh Dhaba,restaurant,Chhattisgarh,,,,,21.2431619,81.4993291,OpenStreetMap,node,9794274112,2026-11-26T07:41:54.042438+00:00
+McDonald's,fast_food,Chhattisgarh,,Bilaspur,Shrikant Verna Marg,,22.0717577,82.1498148,OpenStreetMap,node,10038007332,2026-11-26T07:41:54.042441+00:00
+Domino's,fast_food,Chhattisgarh,,Bilaspur,Shrikant Verma Marg,,22.0717282,82.1496841,OpenStreetMap,node,10038008064,2026-11-26T07:41:54.042444+00:00
+Domino's,fast_food,Chhattisgarh,,Bilaspur,mangla road,,22.0938944,82.1253003,OpenStreetMap,node,10038035914,2026-11-26T07:41:54.042447+00:00
+KFC,fast_food,Chhattisgarh,,Bilaspur,Shrikant Verma Marg,,22.0718248,82.1494248,OpenStreetMap,node,10038059509,2026-11-26T07:41:54.042450+00:00
+Domino's,fast_food,Chhattisgarh,,Bilaspur,SIPAT ROAD,,22.0982484,82.1556587,OpenStreetMap,node,10038316300,2026-11-26T07:41:54.042453+00:00
+giani's,cafe,Chhattisgarh,,,,,21.2180283,81.3322482,OpenStreetMap,node,10180452635,2026-11-26T07:41:54.042456+00:00
+Chawpati,restaurant,Chhattisgarh,,,497001,,23.1305586,83.1884319,OpenStreetMap,node,10712601526,2026-11-26T07:41:54.042460+00:00
+Bhadohi Chat Corner,restaurant,Chhattisgarh,,Bhilai,"000, Vaishali Nagar Kalibadi near Electricity Office, 490023",+918103730530,21.2196344,81.3529651,OpenStreetMap,node,10826379639,2026-11-26T07:41:54.042463+00:00
+Om Ganga Bhelpuri,fast_food,Chhattisgarh,,RAIPUR,"DDU NAGAR, 492010",,21.2372988,81.5969802,OpenStreetMap,node,10939743594,2026-11-26T07:41:54.042466+00:00
+Highway Dhaba,restaurant,Chhattisgarh,,Raipur,"Ring Road No. 1, 492010",,21.2348483,81.5926767,OpenStreetMap,node,10939770185,2026-11-26T07:41:54.042469+00:00
+ROY DHABA,restaurant,Chhattisgarh,,Raipur,"Ring Road No. 1, 492010",,21.234677,81.5932129,OpenStreetMap,node,10939793886,2026-11-26T07:41:54.042472+00:00
+Jain Chat and Gupchup Centre,fast_food,Chhattisgarh,,RAIPUR,"DDu Nagar Sector 1, 492010",,21.2368282,81.5960693,OpenStreetMap,node,10939793938,2026-11-26T07:41:54.042475+00:00
+BIRYANI Cafe Coffe Restaurant,fast_food,Chhattisgarh,,Raipur,"Mahadev ghat Road, 492010",,21.2338922,81.5953294,OpenStreetMap,node,10939820305,2026-11-26T07:41:54.042478+00:00
+Juice factory,restaurant,Chhattisgarh,,,,,21.1874052,81.3441108,OpenStreetMap,node,11097000121,2026-11-26T07:41:54.042481+00:00
+Nanhe coffee,cafe,Chhattisgarh,,,,,21.1872011,81.3444606,OpenStreetMap,node,11097000122,2026-11-26T07:41:54.042484+00:00
+Manju Mamta,restaurant,Chhattisgarh,,,,+91 77140 04888,21.244113,81.6338054,OpenStreetMap,node,11132012190,2026-11-26T07:41:54.042487+00:00
+Banerjee Cabin,cafe,Chhattisgarh,Kanker,Kapsi,"SH25, 494771",,20.0900089,80.6759159,OpenStreetMap,node,11518742056,2026-11-26T07:41:54.042490+00:00
+harayana sspecial galebi,restaurant,Chhattisgarh,,,,,22.980442,83.0462124,OpenStreetMap,node,11692229493,2026-11-26T07:41:54.042494+00:00
+rajwade hotej,restaurant,Chhattisgarh,,,,,22.980296,83.0461989,OpenStreetMap,node,11692279377,2026-11-26T07:41:54.042497+00:00
+new nanhe cafe,restaurant,Chhattisgarh,,,,,21.1876983,81.3444751,OpenStreetMap,node,11805016788,2026-11-26T07:41:54.042500+00:00
+chaika adda,restaurant,Chhattisgarh,,,,,21.1874662,81.3444922,OpenStreetMap,node,11805043131,2026-11-26T07:41:54.042503+00:00
+Adarsh Fast Food Stall,fast_food,Chhattisgarh,,,,,19.0788251,82.0014674,OpenStreetMap,node,12011911281,2026-11-26T07:41:54.042506+00:00
+Real Momos,restaurant,Chhattisgarh,,,"1, Smriti Nagar Road",,21.2134002,81.3174221,OpenStreetMap,node,12014332470,2026-11-26T07:41:54.042510+00:00
+Panjabi Bhojnalaya,restaurant,Chhattisgarh,,,,+91 7723077443,21.2201228,81.6485934,OpenStreetMap,node,12328798301,2026-11-26T07:41:54.042513+00:00
+ABIS Greens (Fine dine & Banquet),restaurant,Chhattisgarh,Rajnandgaon,Rajnandgaon,491441,,21.1000671,81.0557924,OpenStreetMap,node,12593519495,2026-11-26T07:41:54.042516+00:00
+Anise Pure Veg Restaurant,restaurant,Chhattisgarh,,,,,21.2618957,81.6373807,OpenStreetMap,node,12595747849,2026-11-26T07:41:54.042520+00:00
+Gadh Kalewa,restaurant,Chhattisgarh,,,,,21.2443808,81.6449277,OpenStreetMap,node,12595842033,2026-11-26T07:41:54.042523+00:00
+Dinshaws,fast_food,Chhattisgarh,,,,,21.9275565,83.357047,OpenStreetMap,node,12596086395,2026-11-26T07:41:54.042526+00:00
+A Square restaurant,restaurant,Chhattisgarh,,,,,22.3519861,82.5510196,OpenStreetMap,node,12596248510,2026-11-26T07:41:54.042528+00:00
+piaz restaurent,restaurant,Chhattisgarh,,,,,20.8101687,82.2090071,OpenStreetMap,node,12596341271,2026-11-26T07:41:54.042531+00:00
+poha point,restaurant,Chhattisgarh,,,,,20.8075253,82.2081113,OpenStreetMap,node,12596420267,2026-11-26T07:41:54.042534+00:00
+sahu chat bhandar,fast_food,Chhattisgarh,,,,,20.809605,82.2074409,OpenStreetMap,node,12596420287,2026-11-26T07:41:54.042537+00:00
+Sonu restaurant,restaurant,Chhattisgarh,,,,,22.3523024,82.5455501,OpenStreetMap,node,12596626757,2026-11-26T07:41:54.042540+00:00
+Madhuban Sweets,restaurant,Chhattisgarh,,,,,22.3526274,82.5446468,OpenStreetMap,node,12596645238,2026-11-26T07:41:54.042542+00:00
+sault pan resturant,restaurant,Chhattisgarh,,,,,21.8783361,82.7590339,OpenStreetMap,node,13513671809,2026-11-26T07:41:54.042545+00:00
+sault pan,restaurant,Chhattisgarh,,,,,21.8264839,82.784185,OpenStreetMap,node,13513714982,2026-11-26T07:41:54.042548+00:00
+frissky,cafe,Chhattisgarh,,,,,21.8155477,82.7861805,OpenStreetMap,node,13513714983,2026-11-26T07:41:54.042551+00:00
+frissky,cafe,Chhattisgarh,,,,,21.8313367,82.7882016,OpenStreetMap,node,13513726064,2026-11-26T07:41:54.042554+00:00
+sault pam,restaurant,Chhattisgarh,,,,,21.8314699,82.7898538,OpenStreetMap,node,13513726065,2026-11-26T07:41:54.042557+00:00
+RK Pizza,fast_food,Chhattisgarh,,,,,21.2614027,81.619283,OpenStreetMap,node,13672024439,2026-11-26T07:41:54.042560+00:00
+Samishu - Night Cafe,cafe,Chhattisgarh,,,,,21.2354775,81.6346965,OpenStreetMap,node,13858706602,2026-11-26T07:41:54.042562+00:00
+Chai Tapri,fast_food,Chhattisgarh,bilaspur,bilaspur,"old bus stand, WAY TO OLD BUS STAND, 495001",456789,22.0762047,82.1585753,OpenStreetMap,node,14051719463,2026-11-26T07:41:54.042566+00:00
+Corn Bite Family Restro And Cafe,restaurant,Chhattisgarh,Balod,Dallirajhra,"Ward Number 26, Railway colony, 491228",06262229090,20.5827264,81.0732622,OpenStreetMap,node,14051722059,2026-11-26T07:41:54.042569+00:00
+Bihari Samosa Stall,fast_food,Chhattisgarh,janjgir-champa,Naila Janjgir,"Infront of Railway Station, Beside Rajaram Paan Thela, 495668",,22.0223619,82.5653658,OpenStreetMap,node,14165124791,2026-11-26T07:41:54.042572+00:00
+Domino's,fast_food,Chhattisgarh,Raipur,Raipur,"Telibandha Make in India Chowk, 492001",,21.2381266,81.672331,OpenStreetMap,node,14318645128,2026-11-26T07:41:54.042576+00:00
+Cafe Bengaluru,restaurant,Chhattisgarh,Raipur,Raipur,"Mahaveer nagar road, 492001",,21.2316827,81.6636671,OpenStreetMap,node,14318645131,2026-11-26T07:41:54.042579+00:00
+Manav Mandir,restaurant,Chhattisgarh,,Rajnandgaon,"Manav Mandir Chowk, 491441",,21.0945895,81.0336238,OpenStreetMap,way,266905103,2026-11-26T07:41:54.042583+00:00
+Domino's,restaurant,Chhattisgarh,,,,,21.0950638,81.011761,OpenStreetMap,way,463937810,2026-11-26T07:41:54.042587+00:00
+Ashoka biryani,restaurant,Chhattisgarh,,,GE Road,,21.2562838,81.5916386,OpenStreetMap,way,639115211,2026-11-26T07:41:54.042590+00:00
+Janta Hotel,restaurant,Chhattisgarh,,,,,21.2289321,81.6638174,OpenStreetMap,way,639632138,2026-11-26T07:41:54.042594+00:00
+Dewangan Poultry Farm,fast_food,Chhattisgarh,,sakti,495689,,22.0232889,82.9624373,OpenStreetMap,way,715077998,2026-11-26T07:41:54.042597+00:00
+Singh Dhaba,restaurant,Chhattisgarh,,Sakti,495689,,22.0225038,82.9547534,OpenStreetMap,way,719251149,2026-11-26T07:41:54.042600+00:00
+Abhilasha Restaurant,restaurant,Chhattisgarh,,Sakti,495689,,22.0228585,82.9538943,OpenStreetMap,way,719251150,2026-11-26T07:41:54.042603+00:00
+Marwadi Restaurant,restaurant,Chhattisgarh,,Sakti,495689,,22.0221459,82.9465517,OpenStreetMap,way,719260155,2026-11-26T07:41:54.042606+00:00
+Papa Dhaba,restaurant,Chhattisgarh,,Sakti,"Harethi, 495689",,22.0225628,82.9402738,OpenStreetMap,way,719262854,2026-11-26T07:41:54.042609+00:00
+Gopi Hotel,restaurant,Chhattisgarh,,Sakti,495689,,22.0192211,82.959787,OpenStreetMap,way,720318848,2026-11-26T07:41:54.042613+00:00
+Om Daily Needs,fast_food,Chhattisgarh,,Sakti,495689,,22.0197556,82.9593838,OpenStreetMap,way,721878297,2026-11-26T07:41:54.042616+00:00
+Shahnaj Poultry Form,fast_food,Chhattisgarh,,Sakti,495689,,22.0128628,82.959608,OpenStreetMap,way,722185659,2026-11-26T07:41:54.042619+00:00
+Himalaya Hotel,restaurant,Chhattisgarh,,Sakti,495689,,22.0125828,82.9557189,OpenStreetMap,way,722188853,2026-11-26T07:41:54.042622+00:00
+Madrasi Restaurant,restaurant,Chhattisgarh,,raipur,"Malviya Main Road, 492001",+919399021001,21.2416471,81.6359393,OpenStreetMap,way,767483579,2026-11-26T07:41:54.042626+00:00
+Shri Sai Cafeteria,fast_food,Chhattisgarh,,,,,21.216673,81.3066618,OpenStreetMap,way,1112668284,2026-11-26T07:41:54.042629+00:00
+Saheb Restaurent,restaurant,Chhattisgarh,,Dhamtari,"Housing Board Colony, 493773",+91 7389430894,20.7151657,81.5363394,OpenStreetMap,way,1136468254,2026-11-26T07:41:54.042632+00:00
+The Belgian Waffle Co.,restaurant,Chhattisgarh,,,,,21.2470223,81.6604228,OpenStreetMap,way,1138191443,2026-11-26T07:41:54.042635+00:00
+The Deeprupa Restaurant,restaurant,Chhattisgarh,,,,,21.2469671,81.6605217,OpenStreetMap,way,1138191444,2026-11-26T07:41:54.042638+00:00
+Apicure Restaurant,restaurant,Chhattisgarh,,,,,21.2198397,81.3051394,OpenStreetMap,way,1138331403,2026-11-26T07:41:54.042642+00:00
+Madhavpriya Restaurant,restaurant,Chhattisgarh,,kharsia,496661,,21.9891591,83.1046805,OpenStreetMap,way,1170459249,2026-11-26T07:41:54.042644+00:00
+Vrindavan,restaurant,Chhattisgarh,,,,,21.1643177,81.2483826,OpenStreetMap,way,1195603893,2026-11-26T07:41:54.042648+00:00
+Ashoka Biryani Family Restaurant,restaurant,Chhattisgarh,,,,07712990388,21.2330986,81.5952392,OpenStreetMap,way,1243157741,2026-11-26T07:41:54.042651+00:00
+Desi Tadka Restaurant,restaurant,Chhattisgarh,,Raipur,Mahadev Ghat Main Road,,21.2324712,81.5994602,OpenStreetMap,way,1250877719,2026-11-26T07:41:54.042654+00:00
+Mogli Burger,fast_food,Chhattisgarh,,RAIPUR,"DDU Nagar, 492010",,21.2376075,81.5969271,OpenStreetMap,way,1251059255,2026-11-26T07:41:54.042658+00:00
+Axis Juice,fast_food,Chhattisgarh,,,,07714908140,21.2587792,81.6453011,OpenStreetMap,way,1254283763,2026-11-26T07:41:54.042661+00:00
+Mewad Juice Center,fast_food,Chhattisgarh,,,,,21.2366998,81.6004291,OpenStreetMap,way,1262226210,2026-11-26T07:41:54.042664+00:00
+Sharma Bhojanalay,restaurant,Chhattisgarh,,,,,21.2366313,81.6004329,OpenStreetMap,way,1262226211,2026-11-26T07:41:54.042667+00:00
+The Marks,restaurant,Chhattisgarh,,,,,21.1463273,81.3356614,OpenStreetMap,way,1271188532,2026-11-26T07:41:54.042670+00:00
+Spicey restraunt and cafe,restaurant,Chhattisgarh,,,,,22.3609324,82.5512779,OpenStreetMap,way,1360698040,2026-11-26T07:41:54.042673+00:00
+New Madhuban restaurant,restaurant,Chhattisgarh,,,,,22.3511835,82.5423951,OpenStreetMap,way,1360727184,2026-11-26T07:41:54.042676+00:00
+Canteen GEC Bilaspur,restaurant,Chhattisgarh,,,,,22.1358896,82.1306221,OpenStreetMap,way,1467764562,2026-11-26T07:41:54.042679+00:00
+Circuit House of PWD,cafe,Chhattisgarh,CHHATTISGARH,Raipur,"Civil Lines, 492001",,21.2397617,81.6494385,OpenStreetMap,way,1494252499,2026-11-26T07:41:54.042682+00:00
+Tea Shop,cafe,Chhattisgarh,Korba,Katghora,"Near CHC Hospital, Bilaspur Ambikapur Highway, 495445",,22.5085094,82.5514522,OpenStreetMap,way,1544859073,2026-11-26T07:41:54.042685+00:00
+Divine cafe and restaurant,restaurant,Chhattisgarh,,Bilaspur,495001,9907672901,22.0977411,82.1572787,OpenStreetMap,way,1567250979,2026-11-26T07:41:54.042688+00:00
+KFC,fast_food,Chhattisgarh,Raipur,Raipur,"Dhamtari Abhanpur Road, 492001",07942727333,21.2203405,81.64997,OpenStreetMap,way,1571640327,2026-11-26T07:41:54.042692+00:00
