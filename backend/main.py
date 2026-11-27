@@ -44,7 +44,14 @@ app.add_middleware(
 @app.get("/")
 def home():
     return {
-        "message": "Business Listings Dashboard API is running!"
+        "message": "Business Listings Dashboard API is running!",
+        "registered_routes": [
+            {
+                "path": route.path,
+                "methods": list(route.methods or [])
+            }
+            for route in app.routes
+        ]
     }
 
 
