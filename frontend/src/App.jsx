@@ -31,7 +31,7 @@ import {
 
 import "./App.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://business-listings-dashboard-53i6.onrender.com";
 
 const COLORS = [
   "#6366f1",
