@@ -1,232 +1,306 @@
-# Business Listings Analytics Dashboard
+# 🇮🇳 Business Listings Dashboard – India-Wide Analytics
 
-A full-stack, India-wide Business Listings Analytics Dashboard built using React.js, FastAPI, Python, and MySQL-compatible databases. The application collects, processes, stores, and analyzes business listings from OpenStreetMap and presents interactive visualizations across Indian states, districts, cities, and business categories.
+An interactive business intelligence dashboard designed to explore, analyze, and visualize business listings across India. The platform provides insights into business distribution, categories, locations, and data sources through interactive charts, filters, and analytics.
 
-**GitHub Repository:** https://github.com/Number789Alpha/Business-Listings-Dashboard
+## 🌐 Live Demo
 
-## 1. Project Overview
+**[🚀 View Live Dashboard](https://business-listings-dashboard-frontend.onrender.com/)**
 
-The objective of this project is to build a centralized platform for analyzing business listings across India.
+**Backend API:** https://business-listings-dashboard-53i6.onrender.com
 
-The dashboard provides:
+**API Documentation:** https://business-listings-dashboard-53i6.onrender.com/docs
 
-- India-wide business listing statistics
-- State-wise and district-wise business distribution
-- City-wise business analysis
-- Business category distribution
-- Data source analysis
-- Interactive filtering and searchable business listings
+---
 
-## 2. Technology Stack
+## 📌 Project Overview
 
-| Component | Technologies |
-|---|---|
-| Frontend | React.js, Vite |
-| Backend | Python, FastAPI |
-| Database | MySQL / TiDB |
-| Data Processing | Python, Pandas |
-| Data Collection | OpenStreetMap |
-| Data Visualization | Recharts |
-| API Communication | Axios |
-| Icons | Lucide React |
-| Version Control | Git, GitHub |
+The Business Listings Dashboard is a full-stack data analytics application that helps users explore business listing data through an interactive interface.
 
-## 3. Dataset Overview
+The project includes a dashboard for monitoring business metrics and an India-wide analytics module for exploring business listings across different states and districts.
 
-The project contains **45,661 OpenStreetMap business listings collected across 28 Indian states**.
+It connects a React frontend with a FastAPI backend and a cloud-hosted MySQL-compatible database.
+
+## ✨ Key Features
+
+### 1. Business Dashboard
+- Overview of total businesses, cities, categories, and data sources.
+- Interactive dashboard with visual summaries.
+- Live data retrieval from the backend.
+- Refresh Data functionality.
+
+### 2. India-Wide Business Analytics
+- Explore business listings across 28 Indian states.
+- State-wise and district-wise business analysis.
+- Interactive state and district filters.
+- Category-wise and source-wise analysis.
+- Dynamic charts and visualizations.
+
+### 3. Interactive Data Exploration
+- Filter business records using available geographic and business attributes.
+- Analyze business distribution.
+- View summarized business statistics.
+- Explore location-based business data.
+
+### 4. Cloud Deployment
+- Frontend deployed on Render.
+- Backend deployed on Render.
+- Database hosted on TiDB Cloud.
+- Frontend and backend communicate through REST APIs.
+
+## 📊 Dataset Overview
+
+The India-wide dataset contains:
 
 | Metric | Value |
 |---|---:|
 | Total Business Listings | 45,661 |
 | States Covered | 28 |
+| Cities Covered | 1,593 |
+| Districts Covered | 737 |
 | Business Categories | 3 |
 | Data Sources | 1 |
 
-**Business categories:**
-- Restaurant
-- Cafe
-- Fast Food
+*These figures reflect the current production database and may change as the dataset is updated.*
 
-**Data source:** OpenStreetMap
+## 🛠️ Technology Stack
 
-The dataset includes business names, categories, state, district, city, address, phone number, and geographical information where available.
+| Category | Technologies |
+|---|---|
+| Frontend | React.js, JavaScript, HTML, CSS |
+| Build Tool | Vite |
+| Backend | Python, FastAPI |
+| API Communication | REST API |
+| Database | MySQL-compatible TiDB Cloud |
+| Data Processing | Python |
+| Data Visualization | Interactive charts |
+| Deployment | Render |
+| Version Control | Git, GitHub |
 
-Missing information is retained as unavailable rather than replaced with fabricated values.
-
-## 4. Dashboard Features
-
-- KPI cards displaying business statistics
-- India-wide business listing overview
-- State-wise business comparison
-- District-wise business distribution
-- City-wise business analysis
-- Category distribution and breakdown
-- Data source analysis
-- State and district filters
-- Searchable business listings
-- Category filtering and sorting
-- Pagination for business records
-- CSV export functionality
-- Dashboard refresh functionality
-
-## 5. Backend API Endpoints
-
-The FastAPI backend provides endpoints for database connectivity, analytics, filtering, and business listing retrieval.
-
-| Method | Endpoint | Description |
-|---|---|---|
-| GET | `/` | API welcome message |
-| GET | `/api/health` | Database connection status |
-| GET | `/api/summary` | Legacy dashboard statistics |
-| GET | `/api/cities` | City-wise statistics |
-| GET | `/api/categories` | Category-wise statistics |
-| GET | `/api/sources` | Data source statistics |
-| GET | `/api/states` | Available states |
-| GET | `/api/districts?state=` | Districts for a selected state |
-| GET | `/api/state-summary` | State-wise listing statistics |
-| GET | `/api/india/summary` | India-wide dashboard statistics |
-| GET | `/api/india/cities` | Filtered city statistics |
-| GET | `/api/india/categories` | Filtered category statistics |
-| GET | `/api/india/sources` | Filtered data source statistics |
-| GET | `/api/india/listings` | Searchable and paginated business listings |
-
-**Interactive API documentation:**
-
-http://127.0.0.1:8000/docs
-
-## 6. Project Structure
+## 🏗️ Project Architecture
 
 ```text
-Business-Listings-Dashboards/
-│
-├── backend/
-│   ├── database.py
-│   ├── main.py
-│   └── requirements.txt
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   └── vite.config.js
-│
-├── database/
-│   └── business_dashboard_final_utf8.sql
-│
-├── data/
-│   ├── india_raw/
-│   └── india_processed/
-│
-├── scraper/
-│
-├── README.md
-└── .gitignore
+                 USER
+                   |
+                   v
+          React.js Frontend
+             (Render)
+                   |
+                   | REST API Requests
+                   v
+           FastAPI Backend
+              (Render)
+                   |
+                   | Database Queries
+                   v
+            TiDB Cloud
+          (MySQL Compatible)
+                   |
+                   v
+             Business Data
 ```
 
-*Note: Update this structure to match the exact files and folders present in your repository.*
+## 📂 Project Structure
 
-## 7. Installation and Setup
+```text
+Business-Listings-Dashboard/
+│
+├── backend/
+│   ├── main.py
+│   ├── database.py
+│   ├── import_data.py
+│   └── requirements.txt
+│
+├── database/
+│   └── Database configuration and resources
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── App.jsx
+│   │   ├── App.css
+│   │   ├── main.jsx
+│   │   └── index.css
+│   │
+│   ├── package.json
+│   ├── package-lock.json
+│   └── vite.config.js
+│
+├── data/
+├── data_backup/
+├── docs/
+└── README.md
+```
+
+## 🔌 Backend API Endpoints
+
+The FastAPI backend provides endpoints for retrieving business and India-wide analytics data.
+
+| Endpoint | Description |
+|---|---|
+| `GET /` | API status and registered routes |
+| `GET /api/health` | Database connectivity and health |
+| `GET /api/summary` | General dashboard summary |
+| `GET /api/cities` | City information |
+| `GET /api/categories` | Business categories |
+| `GET /api/sources` | Data sources |
+| `GET /api/states` | State information |
+| `GET /api/districts` | District information |
+| `GET /api/state-summary` | State-level summary |
+| `GET /api/india/summary` | India-wide summary |
+| `GET /api/india/cities` | India-wide city information |
+| `GET /api/india/categories` | India-wide category information |
+| `GET /api/india/sources` | India-wide source information |
+| `GET /api/india/listings` | India-wide business listings |
+
+**Explore the API:** [FastAPI Swagger Documentation](https://business-listings-dashboard-53i6.onrender.com/docs)
+
+## ⚙️ Installation and Setup
+
+Follow these steps to run the project locally.
 
 ### Prerequisites
 
-- Python
+- Python 3.10 or later
 - Node.js and npm
-- MySQL or TiDB database
 - Git
+- A MySQL-compatible database
 
-### Step 1: Clone the repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Number789Alpha/Business-Listings-Dashboard.git
-cd Business-Listings-Dashboards
+
+cd Business-Listings-Dashboard
 ```
 
-### Step 2: Configure the database
-
-1. Create a database named `business_dashboard`.
-2. Import the supplied SQL database dump.
-3. Verify that the `listing_master_v2` table contains the India-wide business records.
-
-### Step 3: Configure the backend
-
-Create a `.env` file in the project root with your database connection details.
-
-Use the variable names expected by `backend/database.py`. Never commit real credentials to GitHub.
+### 2. Backend Setup
 
 Create and activate a virtual environment:
 
 ```bash
 python -m venv venv
-.\venv\Scripts\Activate.ps1
 ```
 
-Install dependencies:
+For Windows PowerShell:
+
+```powershell
+.\venv\Scripts\Activate
+```
+
+Install backend dependencies:
 
 ```bash
 pip install -r backend/requirements.txt
 ```
 
-Start the FastAPI server:
+Configure the required database environment variables:
+
+```text
+DB_USER=your_database_username
+DB_PASSWORD=your_database_password
+DB_HOST=your_database_host
+DB_PORT=4000
+DB_NAME=business_dashboard
+```
+
+Use your own database credentials. Never commit passwords or other secrets to GitHub.
+
+Start the backend:
 
 ```bash
 python -m uvicorn backend.main:app --reload
 ```
 
-**Backend URL:**
+Backend URL:
 
+```text
 http://127.0.0.1:8000
+```
 
-### Step 4: Set up the frontend
+API documentation:
+
+```text
+http://127.0.0.1:8000/docs
+```
+
+### 3. Frontend Setup
 
 Open another terminal:
 
 ```bash
 cd frontend
+```
+
+Install dependencies:
+
+```bash
 npm install
+```
+
+Configure the frontend API URL according to the environment configuration used in the project.
+
+For local development, the backend URL is:
+
+```text
+http://127.0.0.1:8000
+```
+
+Start the frontend:
+
+```bash
 npm run dev
 ```
 
-Open the local URL displayed by Vite.
+The Vite development server will display the local frontend URL in the terminal.
 
-## 8. Database Overview
+### 4. Production Deployment
 
-- **Database:** `business_dashboard`
-- **Main India-wide table:** `listing_master_v2`
+The application is deployed using Render.
 
-The application uses the India-wide table for state, district, category, and business listing analytics.
-
-The original `listing_master` table is retained for the legacy dashboard endpoints.
-
-## 9. Data Quality and Limitations
-
-- Business listings are sourced from OpenStreetMap.
-- Some records have missing city, address, or phone information.
-- District assignment depends on the available geographical boundary data.
-- Duplicate and invalid geographical records are checked during data processing.
-- The dataset represents collected OpenStreetMap listings, not an exhaustive list of every business operating in India.
-
-## 10. Future Improvements
-
-- Integrate additional business listing data sources.
-- Improve geographical data coverage and district matching.
-- Add historical data tracking.
-- Introduce more advanced analytical reports.
-- Improve dashboard performance for larger datasets.
-
-## 11. Conclusion
-
-The Business Listings Analytics Dashboard provides an interactive platform for exploring business listings across 28 Indian states. By integrating Python-based data processing, FastAPI, React.js, and MySQL-compatible database technology, the project delivers geographical analysis, category insights, and searchable business records through a centralized dashboard.
-
-### Project Information
-
-| Detail | Value |
+| Component | Deployment |
 |---|---|
-| Project | Business Listings Analytics Dashboard |
-| Dataset | OpenStreetMap |
-| Records | 45,661 |
-| States | 28 |
-| Backend | FastAPI |
-| Frontend | React.js |
-| Database | MySQL / TiDB |
+| Frontend | Render Static Site |
+| Backend | Render Web Service |
+| Database | TiDB Cloud |
 
-**GitHub:** https://github.com/Number789Alpha/Business-Listings-Dashboard
+The frontend communicates with the deployed backend through its production API URL. Backend CORS settings allow requests from the deployed frontend origin.
+
+## 🔒 Security
+
+- Database credentials are configured using environment variables.
+- Sensitive credentials should not be committed to the repository.
+- Backend CORS settings control permitted frontend origins.
+- Production database access is managed through cloud configuration.
+
+## 🎯 Project Objectives
+
+- Develop an interactive business intelligence dashboard.
+- Analyze business listings across Indian states and districts.
+- Integrate a frontend application with backend REST APIs.
+- Connect and query a cloud-hosted relational database.
+- Present business data through meaningful visualizations.
+- Deploy a full-stack analytics application to the cloud.
+
+## 🚀 Future Enhancements
+
+- Advanced business performance analytics.
+- Additional geographic and category-level insights.
+- Export filtered business listings to CSV or Excel.
+- More interactive visualizations.
+- Automated data refresh and scheduled data updates.
+- Advanced search and filtering capabilities.
+
+## 👨‍💻 Author
+
+**Priyank Mishra**
+
+B.Tech – Data Science
+
+GitHub: [@Number789Alpha](https://github.com/Number789Alpha)
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star!
+
+**Live Project:** [Business Listings Dashboard](https://business-listings-dashboard-frontend.onrender.com/)
